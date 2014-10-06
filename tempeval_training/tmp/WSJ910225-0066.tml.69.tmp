@@ -1,0 +1,11 @@
+(ROOT
+  (S (`` ``)
+    (ADVP (RB Now))
+    (NP (PRP we))
+    (VP (VBP see)
+      (SBAR (IN that)
+        (S
+          (NP (NN edge))
+          (VP (VBD eroded)))))
+    (. .)))
+

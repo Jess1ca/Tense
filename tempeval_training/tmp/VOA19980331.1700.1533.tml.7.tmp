@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (DT The) (NN sickest) (NNS patients))
+    (VP (VBP are)
+      (ADVP (RB already))
+      (VP (VBN treated)
+        (ADVP (RB first))))
+    (. .)))
+

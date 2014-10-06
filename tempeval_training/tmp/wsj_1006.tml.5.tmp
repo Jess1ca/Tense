@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Bertin) (NNP Nadeau))
+      (, ,)
+      (NP
+        (NP
+          (ADJP (RB newly) (JJ appointed))
+          (NX
+            (NX (NN chairman))
+            (CC and)
+            (NX (VBN interim) (JJ chief) (NN executive))))
+        (PP (IN of)
+          (NP (NNP Provigo))))
+      (, ,))
+    (VP (MD would) (RB n't)
+      (VP (VB say)
+        (SBAR (IN if)
+          (S
+            (NP (NNP Mr.) (NNP Lortie))
+            (VP (VBD was)
+              (VP (VBN asked)
+                (S
+                  (VP (TO to)
+                    (VP (VB leave))))))))))
+    (. .)))
+

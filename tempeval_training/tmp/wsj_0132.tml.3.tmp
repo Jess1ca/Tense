@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS charges))
+    (VP (VBD were)
+      (VP (VBN offset)
+        (PP (IN in)
+          (NP (NN part)))
+        (PP (IN by)
+          (NP (DT a) (NN gain)))
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NN sale))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN company) (POS 's))
+                (NN construction) (NN division)))))))
+    (. .)))
+

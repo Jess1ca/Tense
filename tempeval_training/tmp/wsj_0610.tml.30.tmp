@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ new) (NN facility))
+    (VP (VBD was)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (VP (VBN been)
+              (NP
+                (NP
+                  (NP (DT the) (NN world) (POS 's))
+                  (JJS most) (JJ advanced) (NN cereal) (VBG manufacturing) (NN plant))
+                (, ,)
+                (CC and)
+                (NP
+                  (NP (NNP Kellogg) (POS 's))
+                  (JJS largest) (NN construction) (NN project))))))))
+    (. .)))
+

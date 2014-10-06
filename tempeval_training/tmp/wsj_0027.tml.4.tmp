@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBZ has)
+      (VP (VBN reported)
+        (NP
+          (NP (NNS declines))
+          (PP (IN in)
+            (NP (NN operating) (NN profit))))
+        (PP (IN in)
+          (NP
+            (NP (DT each))
+            (PP (IN of)
+              (NP (DT the) (JJ past) (CD three) (NNS years)))))
+        (, ,)
+        (PP (IN despite)
+          (NP (JJ steady) (NNS sales) (NN growth)))))
+    (. .)))
+

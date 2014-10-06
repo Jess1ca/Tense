@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ year-ago) (NNS results))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN restated)
+          (S
+            (VP (TO to)
+              (VP (VB comply)
+                (PP (IN with)
+                  (NP (NN government) (NNS regulations)))))))))
+    (. .)))
+

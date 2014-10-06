@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD 'll)
+      (VP (VB come)
+        (PRT (RP back))
+        (PP (TO to)
+          (NP (NNP Havana)))
+        (ADVP (RB later)
+          (PP (IN in)
+            (NP (DT the) (NN broadcast))))))
+    (. .)))
+

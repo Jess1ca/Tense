@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (PRP he))
+        (VP (VBD called)
+          (S
+            (NP (JJ current) (NN market) (NNS conditions))
+            (`` ``)
+            (ADJP (RB highly) (JJ competitive))))))
+    (, ,) ('' '')
+    (NP
+      (NP (NNP Mr.) (NNP LaMothe))
+      (, ,)
+      (NP
+        (NP (NNP Kellogg) (POS 's))
+        (NX
+          (NX (NN chairman))
+          (CC and)
+          (NX (JJ chief) (JJ executive) (NN officer))))
+      (, ,))
+    (VP (VBD forecast)
+      (NP (DT an) (NNS earnings) (NN increase))
+      (PP (IN for)
+        (NP (DT the) (JJ full) (NN year))))
+    (. .)))
+

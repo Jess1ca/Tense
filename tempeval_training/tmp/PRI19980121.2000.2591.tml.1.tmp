@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP 're)
+      (PRT (RP off))
+      (PP (IN in)
+        (NP
+          (NP (NN search))
+          (PP (IN of)
+            (NP (DT an) (JJ ancient)
+              (CC and)
+              (JJ exotic) (NN city))))))
+    (. .)))
+

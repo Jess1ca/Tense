@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP expect)
+      (S
+        (NP (PRP him))
+        (VP (TO to)
+          (VP (VB cut)
+            (NP (NNS costs))
+            (PP (IN throughout)
+              (NP (DT the) (NN organization)))))))
+    (. .)))
+

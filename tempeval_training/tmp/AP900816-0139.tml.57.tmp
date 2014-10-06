@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (NP (NNP Thursday))
+    (, ,)
+    (NP (NNP Saudi) (NNP Arabia))
+    (VP (VBD called)
+      (PP (IN for)
+        (NP
+          (NP (DT an) (NN emergency) (NN conference))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NNP Organization))
+              (PP (IN of)
+                (NP (NNP Petroleum) (NNP Exporting) (NNPS Countries)))))))
+      (S
+        (VP (TO to)
+          (VP (VB discuss)
+            (SBAR
+              (WHNP
+                (WHADJP (WRB how) (JJ much))
+                (NN oil))
+              (S
+                (VP (TO to)
+                  (VP (VB pump)))))))))
+    (. .)))
+

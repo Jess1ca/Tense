@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (VBN bolstered) (JJ cellular) (NN agreement))
+      (PP (IN between)
+        (NP
+          (NP (NNP BellSouth) (NNP Corp.))
+          (CC and)
+          (NP (NNP LIN) (NNP Broadcasting) (NNP Corp.)))))
+    (VP
+      (VP (VBZ carries)
+        (NP (VBN heightened) (NNS risks)))
+      (CC and)
+      (VP (MD could)
+        (VP (VB fail)
+          (S
+            (VP (TO to)
+              (VP (VB fend)
+                (PRT (RP off))
+                (NP
+                  (NP (NNP McCaw) (NNP Cellular) (NNPS Communications) (NNP Inc.))
+                  (, ,)
+                  (NP
+                    (NP (DT the) (JJ rival) (NN suitor))
+                    (PP (IN for)
+                      (NP (NNP LIN)))))))))))
+    (. .)))
+

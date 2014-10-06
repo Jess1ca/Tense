@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Kellogg) (POS 's))
+      (JJ current) (NN share))
+    (VP (VBZ is)
+      (VP (VBN believed)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADVP (RB slightly))
+              (PP (IN under)
+                (NP (CD 40) (NN %)))
+              (SBAR (IN while)
+                (S
+                  (NP
+                    (NP (NNP General) (NNP Mills) (POS '))
+                    (NN share))
+                  (VP (VBZ is)
+                    (NP
+                      (QP (RB about) (CD 27))
+                      (NN %))))))))))
+    (. .)))
+

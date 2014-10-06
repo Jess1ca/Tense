@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP Iraq))
+    (VP (VBZ has)
+      (VP (VBN agreed)
+        (S
+          (VP (TO to)
+            (VP (VB allow)
+              (NP
+                (NP (DT all) (CD 880) (NNS Soviets))
+                (PP (IN in)
+                  (NP (NNP Kuwait))))
+              (PP
+                (PP (TO to)
+                  (NP (NN leave)))
+                (, ,)
+                (CONJP (CC but)
+                  (RB only))
+                (PP (IN by)
+                  (NP
+                    (NP (DT a) (JJ 1,200-mile) (NN road) (NN route))
+                    (PP (IN through)
+                      (NP (NNP Iraq)))))
+                (CC and)
+                (PP (TO to)
+                  (NP (DT the) (JJ Iraq-Jordan) (NN border)))))))))
+    (. .)))
+

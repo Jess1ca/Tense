@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (S
+      (VP (TO To)
+        (VP (DT either)
+          (VP (VB hold)
+            (PP (IN on)
+              (ADJP (JJ tight))))
+          (CC or)
+          (VP (VB get)
+            (PRT (RP out))))))
+    (, ,)
+    (NP
+      (NP
+        (QP (RB as) (JJ much)))
+      (PP (IN of)
+        (NP (NNP Asia))))
+    (VP (VBZ goes)
+      (PP (IN into)
+        (NP (NN recession))))
+    (. .)))
+

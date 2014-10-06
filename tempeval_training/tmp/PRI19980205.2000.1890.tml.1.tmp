@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP World) (POS 's))
+      (NNP Nancy) (NNP Marshall))
+    (VP (VBZ reports)
+      (PP (IN on)
+        (NP
+          (NP
+            (NP
+              (NP (NNP Mr.) (NNP Blair) (POS 's))
+              (JJ current) (NN visit))
+            (PP (TO to)
+              (NP (NNP Washington))))
+          (CC and)
+          (NP
+            (NP (DT the) (JJ special) (NN relationship))
+            (PP (IN between)
+              (NP (DT the) (CD two) (NNS leaders)))))))
+    (. .)))
+

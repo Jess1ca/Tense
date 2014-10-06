@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Fournier))
+    (ADVP (RB also))
+    (VP
+      (VP (VBD noted)
+        (SBAR (IN that)
+          (S
+            (NP (NNP Navigation) (NNP Mixte))
+            (VP (VBD joined)
+              (NP
+                (NP
+                  (NP (NNP Paribas) (POS 's))
+                  (NN core))
+                (PP (IN of)
+                  (NP (NNS shareholders))))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (NNP Paribas))
+                  (VP (VBD was)
+                    (VP (VBN denationalized)
+                      (PP (IN in)
+                        (NP (CD 1987)))))))))))
+      (, ,)
+      (CC and)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (ADVP (RB now))
+            (VP (VBZ holds)
+              (ADVP (RB just))
+              (PP (IN under)
+                (NP
+                  (NP (CD 5) (NN %))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNP Paribas) (POS 's))
+                      (NNS shares))))))))))
+    (. .)))
+

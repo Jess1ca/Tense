@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (S
+      (NP (DT A) (JJ major) (NN project))
+      (VP (VBZ is)
+        (NP
+          (NP (JJ joint) (NN manufacturing))
+          (PP (IN of)
+            (NP (NN An-70) (NN cargo) (NNS planes))))))
+    (, ,)
+    (NP (DT the) (NNP Kremlin) (NN statement))
+    (VP (VBD said))
+    (. .)))
+

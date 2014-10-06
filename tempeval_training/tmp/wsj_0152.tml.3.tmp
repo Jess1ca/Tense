@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Telerate) (POS 's))
+      (CD two) (JJ independent) (NNS directors))
+    (VP (VBP have)
+      (VP (VBN rejected)
+        (S
+          (NP (DT the) (NN offer))
+          (ADJP (RB as) (JJ inadequate)))))
+    (. .)))
+

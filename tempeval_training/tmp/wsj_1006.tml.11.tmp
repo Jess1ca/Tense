@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (NNS Investors)
+      (CC and)
+      (NNS analysts))
+    (VP (VBD applauded)
+      (NP (DT the) (NN news)))
+    (. .)))
+

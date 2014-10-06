@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN portion))
+      (PP (IN of)
+        (NP
+          (NP (NNP OTC) (NN volume))
+          (ADJP (JJ attributable)
+            (PP (TO to)
+              (NP (NN program) (NN trading)))))))
+    (VP (VBZ is) (RB n't)
+      (ADJP (VBN known))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (PP (IN on)
+              (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))
+            (, ,)
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (PRP it))
+                (VP (VBD amounted)
+                  (PP (TO to)
+                    (NP
+                      (QP (JJR more) (IN than) (CD 13))
+                      (NN %)))
+                  (PP (IN in)
+                    (NP (NNP September))))))))))
+    (. .)))
+

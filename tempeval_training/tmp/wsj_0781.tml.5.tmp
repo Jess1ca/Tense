@@ -1,0 +1,26 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP
+        (NP (NNS Bugs))
+        (PP (IN like)
+          (NP (DT this))))
+      (VP (VBP are)
+        (ADVP (RB just))
+        (NP
+          (NP (DT a) (JJ normal) (NN part))
+          (PP (IN of)
+            (NP (NN product) (NN development))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Richard) (NNP Archuleta))
+      (, ,)
+      (NP
+        (NP (NN director))
+        (PP (IN of)
+          (NP
+            (NP (NNP Hewlett-Packard) (NNP Co.) (POS 's))
+            (JJ advanced) (NNS systems) (NN development)))))
+    (. .)))
+

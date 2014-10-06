@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP White) (NNP House))
+      (PP (IN on)
+        (NP
+          (NP (NNP Thursday))
+          (`` ``)
+          (NX
+            (S
+              (PP (IN For)
+                (NP (DT the) (JJ past) (JJ few) (NNS weeks)))
+              (NP (PRP we))
+              (VP (VBP 've)
+                (VP (VBN been)
+                  (VP (VBN subjected)
+                    (PP (TO to)
+                      (NP (JJ false) (NNS leaks)))))))))))
+    (VP (VBD designed)
+      (S
+        (VP (TO to)
+          (VP (VB mislead)
+            (NP
+              (NP (DT both) (NNS reporters))
+              (CC and)
+              (NP (DT the) (JJ American) (NN public)))))))
+    (. .)))
+

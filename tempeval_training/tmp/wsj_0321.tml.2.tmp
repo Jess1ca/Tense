@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP StatesWest))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ has)
+            (NP
+              (NP (DT a)
+                (ADJP (CD 7.25) (NN %))
+                (NN stake))
+              (PP (IN in)
+                (NP (NNP Mesa)))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD may)
+            (VP
+              (VP (VB purchase)
+                (NP (JJR more) (NNP Mesa) (NN stock)))
+              (CC or)
+              (VP (VB make)
+                (NP (DT a) (NN tender) (NN offer))
+                (ADVP (RB directly))
+                (PP (TO to)
+                  (NP (NNP Mesa) (NNS shareholders)))))))))
+    (. .)))
+

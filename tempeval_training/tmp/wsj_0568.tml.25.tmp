@@ -1,0 +1,31 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (VBP 've)
+        (VP (VBN approached)
+          (NP (DT this))
+          (PP (RB not)
+            (PP (IN as)
+              (NP
+                (NP (DT a) (NN response))
+                (PP (TO to)
+                  (NP
+                    (NP (DT a) (JJ temporary) (NN condition))
+                    (PP (IN in)
+                      (NP (DT the) (NN industry)))))))
+            (CC but)
+            (PP (IN as)
+              (NP
+                (NP (DT a) (JJ fundamental) (NN change))
+                (SBAR
+                  (S
+                    (NP (DT the) (NN industry))
+                    (VP (VBZ is)
+                      (VP (VBG going)
+                        (PRT (RP through))))))))))))
+    (, ,) ('' '')
+    (NP (NNP Mr.) (NNP Unruh))
+    (VP (VBD said))
+    (. .)))
+

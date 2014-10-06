@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBZ has)
+      (NP
+        (NP (CD five) (JJ other) (NNP U.S.) (NNS plants))
+        (, ,)
+        (PP (VBG including)
+          (NP
+            (NP (DT a) (JJ modern) (NN facility))
+            (PP (IN at)
+              (NP
+                (NP (PRP$ its) (NNP Battle) (NNP Creek) (NN headquarters))
+                (VP (VBN known)
+                  (PP (IN as)
+                    (NP (NNP Building) (CD 100))))))))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (S
+                (VP (TO to)
+                  (VP (VB add)
+                    (NP (JJ bran-processing)
+                      (CC and)
+                      (JJ rice-processing) (NN capacity))
+                    (NP (JJ next) (NN year))))))))))
+    (. .)))
+

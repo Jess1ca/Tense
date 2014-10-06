@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP Heritage))
+    (VP (VBZ owns)
+      (CC and)
+      (VBZ operates)
+      (NP
+        (NP (NN television)
+          (CC and)
+          (NN radio) (NNS stations))
+        (CC and)
+        (NP (JJ in-store) (NN advertising)
+          (CC and)
+          (NN promotion) (NNS programs))))
+    (. .)))
+

@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (DT The) (NN issue))
+    (VP (VBZ has)
+      (VP (VBN come)
+        (PP (TO to)
+          (NP
+            (NP (DT a) (NN boil))
+            (PP (IN in)
+              (NP (NNP Newark) (, ,) (NNP N.J.) (, ,)))))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (JJ federal) (NNS prosecutors))
+            (VP (VBP have)
+              (VP (VBN warned)
+                (NP
+                  (NP (NNS lawyers))
+                  (PP (IN for)
+                    (NP (NNP Eddie) (NNP Antar))))
+                (SBAR (IN that)
+                  (S
+                    (SBAR (IN if)
+                      (S
+                        (NP
+                          (NP (DT the)
+                            (NX
+                              (NX (NN founder))
+                              (CC and)
+                              (NX (JJ former) (NN chairman))))
+                          (PP (IN of)
+                            (NP (NNP Crazy) (NNP Eddie) (NNP Inc.))))
+                        (VP (VBZ is)
+                          (VP (VBN indicted)))))
+                    (, ,)
+                    (NP (DT the) (NN government))
+                    (VP (MD may)
+                      (VP (VB move)
+                        (S
+                          (VP (TO to)
+                            (VP (VB seize)
+                              (NP (DT the) (NN money))
+                              (SBAR (IN that)
+                                (S
+                                  (NP (NNP Mr.) (NNP Antar))
+                                  (VP (VBZ is)
+                                    (VP (VBG using)
+                                      (S
+                                        (VP (TO to)
+                                          (VP (VB pay)
+                                            (NP (JJ legal) (NNS fees))))))))))))))))))))))
+    (. .)))
+

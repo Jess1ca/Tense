@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (SBAR (IN Once)
+      (S
+        (NP (PRP$ its) (NN ownership))
+        (VP (VBZ is)
+          (VP (VBN finalized)))))
+    (, ,)
+    (NP (DT the) (JJ new) (NN company))
+    (VP (MD will)
+      (VP (VB open)
+        (NP
+          (NP (NNS talks))
+          (PP (IN with)
+            (NP (JJ state-appointed) (NNS receivers))))
+        (S
+          (VP (TO to)
+            (VP (VB buy)
+              (CC or)
+              (VB lease)
+              (NP
+                (NP (NNP Waertsilae) (NNP Marine) (POS 's))
+                (NN shipyard) (NNS facilities)))))))
+    (. .)))
+

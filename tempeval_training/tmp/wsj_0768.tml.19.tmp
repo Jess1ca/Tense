@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (QP (RB About) ($ $) (CD 60) (CD million)))
+    (VP (VBD streamed)
+      (PRT (RP out))
+      (NP (JJ last) (NN week) (RB alone))
+      (, ,)
+      (S
+        (VP (VB double)
+          (NP
+            (NP (DT the) (NN level))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN week))
+                (PP (VBG following)
+                  (NP
+                    (NP (JJ last) (NN month) (POS 's))
+                    (NNP Campeau) (NNP Corp.) (NN credit) (NN squeeze)))))))))
+    (. .)))
+

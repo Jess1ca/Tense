@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Kellogg))
+      (VP (VBZ is)
+        (ADJP (RB so) (JJ anxious))
+        (S
+          (VP (TO to)
+            (VP (VB turn)
+              (PRT (RP around))
+              (NP (NNP Corn) (NNPS Flakes) (NNS sales)))))
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (ADVP (RB soon))
+            (VP (MD will)
+              (VP (VB begin)
+                (NP (NN selling) (NNS boxes))
+                (PP (IN for)
+                  (NP
+                    (QP (RB as) (JJ little) (IN as) (CD 99) (NNS cents))))))))))
+    (, ,)
+    (NP (NN trade) (NNS sources))
+    (VP (VBP say))
+    (. .)))
+

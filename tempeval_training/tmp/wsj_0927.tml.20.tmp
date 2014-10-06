@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Mr.) (NNP Schwarz) (POS 's))
+      (NN father))
+    (VP (VBD was)
+      (NP (DT a) (NNP U.S.) (NNP Trust) (NN trustee))
+      (PP (IN until)
+        (NP (CD 1974))))
+    (. .)))
+

@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (NP
+      (NP (DT the) (JJ ninth) (NNP US) (NN circuit) (NN court))
+      (PP (IN of)
+        (NP (NNS appeals))))
+    (VP (VBZ has)
+      (VP (VBN ruled)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (JJ original) (NN appeal))
+            (VP (VBD was)
+              (VP (VBN flawed)
+                (SBAR (IN since)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBD brought)
+                      (PRT (RP up))
+                      (NP
+                        (NP (NNS issues))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (VBD had) (RB not)
+                              (VP (VBN been)
+                                (VP (VBN raised)
+                                  (ADVP (RB before)))))))))))))))))
+    (. .)))
+

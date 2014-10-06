@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (NNP President) (NNP Clinton))
+    (, ,)
+    (ADVP (RB meantime))
+    (, ,)
+    (VP (VBD glossed)
+      (PRT (RP over))
+      (NP (JJ stern) (NNS warnings))
+      (PP (IN from)
+        (NP (NNP Moscow)))
+      (PP (IN on)
+        (NP (NNP Thursday)))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNP US) (NN air) (NNS strikes))
+            (PP (IN against)
+              (NP (NNP Iraq))))
+          (VP (MD could)
+            (VP (VB do)
+              (NP (JJ serious) (NN harm))
+              (PP (TO to)
+                (NP
+                  (NP (NNS relations))
+                  (PP (IN with)
+                    (NP (DT the) (NNP Kremlin))))))))))
+    (. .)))
+

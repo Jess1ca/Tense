@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP Ford))
+    (VP (MD might)
+      (VP (VB succeed)
+        (SBAR (IN because)
+          (S
+            (NP (JJ many) (NNS shareholders))
+            (VP (VBP are)
+              (ADJP
+                (NP
+                  (NP (NNS speculators))
+                  (ADJP (JJ keen)
+                    (PP (IN for)
+                      (NP
+                        (NP (DT a) (JJ full) (NN bid))
+                        (CC or)
+                        (NP (JJ institutional) (NNS investors))))))
+                (JJ unhappy))
+              (PP (IN over)
+                (NP
+                  (NP
+                    (NP (NNP Jaguar) (NN management) (POS 's))
+                    (NN handling))
+                  (PP (IN of)
+                    (NP (PRP$ its) (JJ current) (JJ financial) (NNS difficulties))))))))))
+    (. .)))
+

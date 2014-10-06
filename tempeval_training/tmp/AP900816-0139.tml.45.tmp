@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP Aqaba))
+    (VP (VBZ is)
+      (NP
+        (NP (NNP Iraq) (POS 's))
+        (JJ only) (NN outlet))
+      (SBAR
+        (ADVP (RB now))
+        (IN that)
+        (S
+          (NP (DT an) (JJ international) (NN noose))
+          (VP (VBZ has)
+            (VP (VBD tightened))))))
+    (. .)))
+

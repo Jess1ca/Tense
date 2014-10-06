@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP DPC) (NNP Acquisition))
+    (VP (VBD added)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP
+            (VP (VBZ has) (RB not)
+              (VP (VBN begun)
+                (NP (NNS discussions))
+                (PP (IN with)
+                  (NP (NN financing) (NNS sources)))))
+            (, ,)
+            (CC and)
+            (VP (VBD said)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBD expected)
+                    (S
+                      (VP (TO to)
+                        (VP (VB repay)
+                          (NP
+                            (NP (DT the) (NNS amounts))
+                            (VP (VBN borrowed)
+                              (PP (IN through)
+                                (NP
+                                  (NP (NNS proceeds))
+                                  (PP (IN of)
+                                    (NP (DT the) (NN liquidation))))))))))))))))))
+    (. .)))
+

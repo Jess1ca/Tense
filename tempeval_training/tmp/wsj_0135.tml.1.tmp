@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The)
+        (NAC (NNP Rockford) (, ,) (NNP Ill.) (, ,))
+        (NN maker))
+      (PP (IN of)
+        (NP (NNS fasteners))))
+    (ADVP (RB also))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ expects)
+            (S
+              (VP (TO to)
+                (VP (VB post)
+                  (NP
+                    (NP (NNS sales))
+                    (PP (IN in)
+                      (NP (DT the) (JJ current) (JJ fiscal) (NN year)))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBP are)))))
+                  ('' '')
+                  (ADVP (RB slightly) (JJ above))
+                  ('' '')
+                  (NP
+                    (NP (JJ fiscal) (CD 1989) (NNS sales))
+                    (PP (IN of)
+                      (NP
+                        (QP ($ $) (CD 155) (CD million))))))))))))
+    (. .)))
+

@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN stock) (POS 's))
+      (NN decline))
+    (VP (VBD accelerated)
+      (PP (IN in)
+        (NP (DT the) (JJ past) (CD two) (NNS weeks)))
+      (, ,)
+      (PP (IN from)
+        (NP
+          (NP (DT a) (NN price))
+          (PP (IN of)
+            (NP
+              (NP ($ $) (CD 8))
+              (NP (DT a) (NN share))))))
+      (PP (IN on)
+        (NP (NNP Oct.) (CD 9))))
+    (. .)))
+

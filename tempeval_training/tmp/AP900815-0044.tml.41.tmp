@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Crown) (NNP Prince) (NNP Hassan))
+      (, ,)
+      (NP
+        (NP (NNP King) (NNP Hussein) (POS 's))
+        (NN brother)
+        (CC and)
+        (JJ political) (NN adviser))
+      (, ,))
+    (VP (VBD was)
+      (VP (VBN asked)
+        (NP (NN today))
+        (PP (IN about)
+          (NP
+            (NP (DT the) (NN message))
+            (SBAR
+              (S
+                (NP (DT the) (NN king))
+                (VP (VBD was)
+                  (VP (VBN said)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (VP (VBG carrying)))))))))))))
+    (. .)))
+

@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNP Control) (NNP Data))
+    (ADVP (RB recently))
+    (VP (VBD announced)
+      (NP (DT an) (NN agreement))
+      (PP (IN with)
+        (NP (NNP MIPS) (NNP Computer) (NNPS Systems) (NNP Inc.)))
+      (S
+        (VP (TO to)
+          (VP
+            (ADVP (RB jointly))
+            (VB develop)
+            (NP
+              (NP (NNS machines))
+              (PP (IN with)
+                (NP (VBN simplified) (NN operating) (NN software))))))))
+    (. .)))
+

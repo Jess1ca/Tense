@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (ADVP (RB currently))
+          (VP (VBZ holds)
+            (NP
+              (NP
+                (QP (RB about) (CD 4.2) (CD million)))
+              (PP (IN of)
+                (NP
+                  (NP (NNP Innopac) (POS 's))
+                  (QP (CD 13.8) (CD million))
+                  (JJ common) (NNS shares)))
+              (ADJP (JJ outstanding))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBP have)
+                    (NP
+                      (NP (DT an) (JJ aggregate) (NN market) (NN value))
+                      (PP (IN of)
+                        (NP
+                          (NP
+                            (QP (RB about) (CD 137.8) (CD million))
+                            (JJ Canadian) (NNS dollars))
+                          (PRN (-LRB- -LRB-)
+                            (NP
+                              (QP ($ US$) (CD 117.3) (CD million)))
+                            (-RRB- -RRB-)))))))))))))
+    (. .)))
+

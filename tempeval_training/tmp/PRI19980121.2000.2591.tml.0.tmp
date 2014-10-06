@@ -1,0 +1,9 @@
+(ROOT
+  (NP
+    (NP (RB Now))
+    (PP (IN for)
+      (NP
+        (NP (NN today) (POS 's))
+        (NN geography) (NN quiz)))
+    (. .)))
+

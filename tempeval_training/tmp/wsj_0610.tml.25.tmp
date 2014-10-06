@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ large) (NN plant))
+      (PP (IN in)
+        (NP (NNP Covington) (, ,) (NNP Ga.) (, ,))))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB come)
+            (PP (IN on)
+              (NP (NN line)))
+            (NP (JJ next) (NN year))))))
+    (. .)))
+

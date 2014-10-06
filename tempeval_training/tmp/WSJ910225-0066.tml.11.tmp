@@ -1,0 +1,20 @@
+(ROOT
+  (S (CC But)
+    (PRN (, ,)
+      (S
+        (NP (PRP he))
+        (VP (VBZ notes)))
+      (, ,))
+    (`` ``)
+    (SBAR (IN If)
+      (S
+        (NP (NN everything))
+        (VP (VBZ crumbles)
+          (ADVP (RB totally)))))
+    (, ,)
+    (NP (DT that))
+    (VP (MD wo) (RB n't)
+      (VP (VB be)
+        (NP (PDT such) (DT a) (NN problem))))
+    (. .) ('' '')))
+

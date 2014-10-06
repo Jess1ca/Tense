@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ Its) (NNS subsidiaries) (POS '))
+      (NNS services))
+    (VP (VBP are)
+      (VP (VBN marketed)
+        (PP (IN by)
+          (NP
+            (ADJP (RB closely) (VBN held))
+            (NNP A.L.) (NNP Williams) (NNP amp) (NNP Associates)))))
+    (. .)))
+

@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN effect)))
+    (, ,)
+    (NP (NNP McCaw))
+    (VP (VBZ has)
+      (VP (VBN forced)
+        (NP
+          (NP (NNP LIN) (POS 's))
+          (NN hand))
+        (PP (IN by)
+          (S
+            (VP (VBG bidding)
+              (NP
+                (NP
+                  (QP ($ $) (CD 1.9) (CD billion)))
+                (PP (IN for)
+                  (NP (DT the) (NN stake))))
+              (NP (RBR earlier) (DT this) (NN month)))))))
+    (. .)))
+

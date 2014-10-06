@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNS Monarchists))
+    (VP (VBP hope)
+      (S
+        (VP (TO to)
+          (VP (VB defeat)
+            (NP (DT the) (NN republic))
+            (PP (IN at)
+              (NP (DT the) (NN referendum)))))))
+    (. .)))
+

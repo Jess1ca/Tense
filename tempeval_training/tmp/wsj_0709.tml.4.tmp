@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Results))
+      (PP (IN for)
+        (NP (DT that) (NN quarter))))
+    (VP (VBD included)
+      (NP
+        (NP (DT a)
+          (NP
+            (NP
+              (QP ($ $) (CD 30) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 40) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,))
+          (NN write-down))
+        (VP (VBN associated)
+          (PP (IN with)
+            (NP
+              (NP (DT the) (NN consolidation))
+              (PP (IN of)
+                (NP (DT a) (NN facility))))))))
+    (. .)))
+

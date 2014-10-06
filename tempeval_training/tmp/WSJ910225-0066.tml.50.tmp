@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT The) (NN attack))
+    (VP (VBD was)
+      (ADJP (RB lightning) (JJ quick))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (NP (JJ allied) (NNS forces))
+          (VP
+            (VP (VBD punched)
+              (PP (IN through)
+                (NP (JJ tall) (NN sand) (NNS berms)))
+              (PP (IN on)
+                (NP (DT the) (NN border))))
+            (CC and)
+            (VP (VBD pushed)
+              (PRT (RP forward))
+              (PP (IN into)
+                (NP (NNP Iraq)
+                  (CC and)
+                  (NNP Kuwait))))))))
+    (. .)))
+

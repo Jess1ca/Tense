@@ -1,0 +1,11 @@
+1	And	_	CC	CC	_	5	cc	_	_
+2	Wong	_	NNP	NNP	_	3	nn	_	_
+3	Kwan	_	NNP	NNP	_	5	nsubj	_	_
+4	will	_	MD	MD	_	5	aux	_	_
+5	be	_	VB	VB	_	0	root	_	_
+6	lucky	_	JJ	JJ	_	5	acomp	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	break	_	VB	VB	_	6	xcomp	_	_
+9	even	_	RB	RB	_	8	advmod	_	_
+10	.	_	.	.	_	5	punct	_	_
+

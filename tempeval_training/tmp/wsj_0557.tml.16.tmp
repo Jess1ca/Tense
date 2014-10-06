@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP 've)
+      (VP (VBN been)
+        (VP (VBN given)
+          (NP
+            (NP (DT a) (NN mandate))
+            (PP (IN from)
+              (NP (NNP Switzerland))))
+          ('' '')
+          (S
+            (VP (TO to)
+              (VP (VB expand)
+                (NP (PRP$ their) (NNP U.S.) (NN chocolate) (NNS operations))))))))
+    (. .)))
+

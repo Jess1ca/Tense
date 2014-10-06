@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP CANBERRA) (, ,) (NNP Australia) (-LRB- -LRB-) (NNP AP) (-RRB- -RRB-))
+      (VP (VBZ _)
+        (S
+          (VP (VBG Turning)
+            (NP (PRP$ its) (NN back))
+            (PP (IN on)
+              (NP
+                (NP (CD 210) (NNS years))
+                (PP (IN of)
+                  (NP (NN loyalty)))))
+            (PP (TO to)
+              (NP (DT the) (JJ British) (NN royal) (NN family)))))))
+    (, ,)
+    (NP (DT a) (JJ constitutional) (NN convention))
+    (VP (VBD voted)
+      (ADVP (RB overwhelmingly))
+      (NP (NNP Friday))
+      (S
+        (VP (TO to)
+          (VP (VB make)
+            (NP (NNP Australia) (DT a) (NN republic))
+            (PP (IN under)
+              (NP (PRP$ its) (JJ own) (NN president)))))))
+    (. .)))
+

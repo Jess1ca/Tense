@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (DT that))
+        (VP (VBZ 's)
+          (ADJP (JJ true)))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN narrowing))
+      (PP (IN of)
+        (NP (PRP$ his) (NN support))))
+    (VP (MD would)
+      (VP (VB make)
+        (S
+          (NP (PRP it))
+          (ADJP (JJR easier)
+            (PP (IN for)
+              (NP (NN someone)
+                (S
+                  (VP (TO to)
+                    (VP (VB push)
+                      (NP (PRP him))
+                      (ADVP (RB aside))
+                      (PP (IN from)
+                        (NP (IN within))))))))))))
+    (. .)))
+

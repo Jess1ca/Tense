@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ year-earlier) (JJ third) (NN quarter)))
+    (, ,)
+    (NP (NNP Poughkeepsie) (NNP Savings))
+    (VP (VBD had)
+      (NP
+        (NP (JJ net) (NN income))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 2.8) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 77) (NNS cents))
+              (NP (DT a) (NN share)))))))
+    (. .)))
+

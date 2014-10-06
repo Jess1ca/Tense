@@ -1,0 +1,24 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP It))
+      (VP (VBZ does) (RB n't)
+        (VP (VB bode)
+          (ADVP (RB well))
+          (PP (IN for)
+            (NP (VBG coming) (NNS quarters))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP John) (NNP Jacobson))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ follows)
+            (NP
+              (NP (DT the) (NN steel) (NN industry))
+              (PP (IN for)
+                (NP (NNP AUS) (NNPS Consultants))))))))
+    (. .)))
+

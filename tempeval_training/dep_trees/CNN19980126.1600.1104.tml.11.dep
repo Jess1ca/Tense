@@ -1,0 +1,23 @@
+1	But	_	CC	CC	_	4	cc	_	_
+2	investors	_	NNS	NNS	_	4	nsubj	_	_
+3	are	_	VBP	VBP	_	4	aux	_	_
+4	approaching	_	VBG	VBG	_	0	root	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	changes	_	NNS	NNS	_	4	dobj	_	_
+7	with	_	IN	IN	_	4	prep	_	_
+8	caution	_	NN	NN	_	9	nn	_	_
+9	shares	_	NNS	NNS	_	7	pobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	AT	_	NNP	NNP	_	10	pobj	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	T	_	NNP	NNP	_	11	conj	_	_
+14	down	_	RB	RB	_	9	advmod	_	_
+15	nearly	_	RB	RB	_	16	quantmod	_	_
+16	four	_	CD	CD	_	14	pobj	_	_
+17	at	_	IN	IN	_	14	prep	_	_
+18	sixty-one	_	NN	NN	_	17	pobj	_	_
+19	and	_	CC	CC	_	18	cc	_	_
+20	a	_	DT	DT	_	21	det	_	_
+21	half	_	NN	NN	_	18	conj	_	_
+22	.	_	.	.	_	4	punct	_	_
+

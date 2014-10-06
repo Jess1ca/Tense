@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The)
+        (NAC (NNP Fairfield) (, ,) (NNP N.J.) (, ,))
+        (NN company))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (NP (CD 92) (NN %))
+            (: -)
+            (FRAG
+              (VP (VBN owned)
+                (PP (IN by)
+                  (NP
+                    (NP (NNP Ogden) (NNP Corp.))
+                    (, ,)
+                    (NP (NNP New) (NNP York)))))))))
+      (, ,))
+    (VP (VBD had)
+      (NP
+        (NP (NN net))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 1.1) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD four) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,)
+            (ADVP
+              (NP (DT a) (NN year))
+              (RB ago))))))
+    (. .)))
+

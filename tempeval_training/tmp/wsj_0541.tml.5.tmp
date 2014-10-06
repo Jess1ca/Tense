@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Automatic) (NNP Data))
+      (VP (VBZ is)
+        (VP (JJ redeeming)
+          (NP (DT the) (NNS bonds))
+          (SBAR (IN because)
+            (S
+              (NP
+                (NP (DT the) (JJ after-tax) (NN cost))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN interest))
+                    (PP (IN on)
+                      (NP (DT the) (NNS bonds))))))
+              (VP (VBZ is)
+                (ADJP
+                  (ADJP (JJR higher))
+                  (PP (IN than)
+                    (NP
+                      (NP (DT the) (NN dividend) (NN yield))
+                      (PP (IN on)
+                        (NP (DT the) (JJ common))))))))))))
+    (, ,)
+    (NP (DT a) (NN spokesman))
+    (VP (VBD said))
+    (. .)))
+

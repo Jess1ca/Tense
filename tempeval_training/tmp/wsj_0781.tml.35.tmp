@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (S
+      (VP (VBN Unveiled)
+        (NP (JJ last) (NNP April))))
+    (, ,)
+    (NP (DT the) (NN chip))
+    (VP (VBZ crams)
+      (NP
+        (QP (CD 1.2) (CD million))
+        (NNS transistors))
+      (PP (IN on)
+        (NP
+          (NP (DT a) (NN sliver))
+          (PP (IN of)
+            (NP (NN silicon)))))
+      (, ,)
+      (NP
+        (NP
+          (QP (JJR more) (IN than) (CD four) (NNS times) (IN as) (JJ many)))
+        (PP (RB as) (IN on)
+          (NP
+            (NP
+              (NP (NNP Intel) (POS 's))
+              (JJR earlier) (NN model))
+            (, ,)
+            (NP (CD 80386))))))
+    (. .)))
+

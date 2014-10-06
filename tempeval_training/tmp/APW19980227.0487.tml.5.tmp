@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (NNP Har-Shefi))
+    (VP (VBD acknowledged)
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP (VBD told)
+            (NP (NN police) (NNS interrogators))
+            (SBAR
+              (SBAR (IN that)
+                (S
+                  (NP (NNP Rabin))
+                  (VP (VBD was)
+                    (NP (DT a) (NN traitor)))))
+              (CC and)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP she))
+                  (VP (VBD prayed)
+                    (SBAR (IN for)
+                      (S
+                        (NP (PRP him))
+                        (VP (TO to)
+                          (VP
+                            (VP (VB have)
+                              (NP (DT a) (NN heart) (NN attack)))
+                            (CC and)
+                            (VP (VB die))))))))))))))
+    (. .)))
+

@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (NNP Egyptian)
+      (CC and)
+      (NNP Moroccan) (NNS troops))
+    (VP (VBP are)
+      (ADVP (RB already))
+      (ADVP (RB there)))
+    (. .)))
+

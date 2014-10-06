@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNS Details))
+        (PP (IN of)
+          (NP (DT the) (NN restructuring))))
+      (VP (MD wo) (RB n't)
+        (VP (VB be)
+          (VP (VBN made)
+            (ADJP (JJ final))
+            (SBAR (IN until)
+              (S
+                (NP (NNS regulators))
+                (VP (VBP approve)
+                  (S
+                    (NP (DT the) (NNS regulations))
+                    (ADJP (VBN mandated)
+                      (PP (IN by)
+                        (NP (DT the) (JJ new) (JJ federal) (NN act))))))))))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said))
+    (. .)))
+

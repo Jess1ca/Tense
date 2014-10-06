@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP AEP) (NNPS INDUSTRIES) (NNP Inc.) (NNS directors))
+    (VP (VBD authorized)
+      (NP
+        (NP (DT a) (JJ 3-for-2) (NN split))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ common) (, ,)
+              (ADJP (JJ payable)
+                (NP (NNP Dec.) (CD 7))
+                (PP (TO to)))
+              (NN stock))
+            (PP (IN of)
+              (NP (NN record))))))
+      (NP (NNP Nov.) (CD 22)))
+    (. .)))
+

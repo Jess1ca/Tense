@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NN construction))
+          (VP (MD would) (RB n't)
+            (VP (VB resume)
+              (SBAR (IN until)
+                (S
+                  (NP (NN market) (NNS conditions))
+                  (VP (VBP warrant)
+                    (NP (PRP it))))))))))
+    (. .)))
+

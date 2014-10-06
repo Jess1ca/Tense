@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Sony) (NNP Columbia) (NNP Acquisition) (NNP Corp.))
+        (, ,)
+        (VP (VBN formed)
+          (PP (IN for)
+            (NP (DT the) (NNP Columbia) (NN deal))))
+        (, ,))
+      (VP (MD will)
+        (ADVP (RB formally))
+        (VP (VB take)
+          (NP
+            (NP (NN ownership))
+            (PP (IN of)
+              (NP (DT the) (NN movie) (NN studio))))
+          (NP (RBR later) (DT this) (NN month)))))
+    (, ,)
+    (NP (DT a) (NN spokesman))
+    (VP (VBD said))
+    (. .)))
+

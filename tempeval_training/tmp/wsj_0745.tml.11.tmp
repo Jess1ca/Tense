@@ -1,0 +1,47 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP I))
+      (ADVP (RB really))
+      (VP (VBP do) (RB n't)
+        (VP (VB see)
+          (NP
+            (NP (DT the) (NN government))
+            (VP (VBG doing)
+              (NP (NN something))
+              (SBAR (IN that)
+                (S
+                  (NP (NNP Jaguar))
+                  (VP (VBZ does) (RB n't)
+                    (VP (VB want)
+                      (PP (IN over)
+                        (NP (DT the) (JJ next) (CD 14) (NNS months))))))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Kenneth) (NNP Warren))
+      (, ,)
+      (NP
+        (NP
+          (NP (DT a) (JJ Conservative) (NN member))
+          (PP (IN of)
+            (NP (NNP Parliament))))
+        (CC and)
+        (NP
+          (NP (NN chairman))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NNP Select) (NNP Committee))
+              (PP (IN on)
+                (NP (NNP Trade)
+                  (CC and)
+                  (NNP Industry)))))
+          (PP (IN in)
+            (NP
+              (NP
+                (NP (NNP Britain) (POS 's))
+                (NNP House))
+              (PP (IN of)
+                (NP (NNPS Commons))))))))
+    (. .)))
+

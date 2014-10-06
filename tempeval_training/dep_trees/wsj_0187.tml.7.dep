@@ -1,0 +1,27 @@
+1	Oy	_	NNP	NNP	_	2	nn	_	_
+2	Waertsilae	_	NNP	NNP	_	3	nsubj	_	_
+3	is	_	VBZ	VBZ	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	contribute	_	VB	VB	_	3	xcomp	_	_
+6	200	_	CD	CD	_	7	number	_	_
+7	million	_	CD	CD	_	8	num	_	_
+8	markkaa	_	NN	NN	_	5	dobj	_	_
+9	,	_	,	,	_	8	punct	_	_
+10	most	_	JJS	JJS	_	8	appos	_	_
+11	of	_	IN	IN	_	10	prep	_	_
+12	it	_	PRP	PRP	_	11	pobj	_	_
+13	as	_	IN	IN	_	5	prep	_	_
+14	subordinated	_	VBN	VBN	_	15	amod	_	_
+15	debt	_	NN	NN	_	13	pobj	_	_
+16	,	_	,	,	_	5	punct	_	_
+17	and	_	CC	CC	_	5	cc	_	_
+18	take	_	VB	VB	_	5	conj	_	_
+19	a	_	DT	DT	_	21	det	_	_
+20	minority	_	NN	NN	_	21	nn	_	_
+21	stake	_	NN	NN	_	18	dobj	_	_
+22	in	_	IN	IN	_	18	prep	_	_
+23	the	_	DT	DT	_	25	det	_	_
+24	new	_	JJ	JJ	_	25	amod	_	_
+25	company	_	NN	NN	_	22	pobj	_	_
+26	.	_	.	.	_	3	punct	_	_
+

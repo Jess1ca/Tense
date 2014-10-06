@@ -1,0 +1,21 @@
+1	By	_	IN	IN	_	8	prep	_	_
+2	acquiring	_	VBG	VBG	_	1	pcomp	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	shares	_	NNS	NNS	_	2	dobj	_	_
+5	,	_	,	,	_	8	punct	_	_
+6	Lawrence	_	NNP	NNP	_	7	nn	_	_
+7	Group	_	NNP	NNP	_	8	nsubj	_	_
+8	increased	_	VBD	VBD	_	0	root	_	_
+9	its	_	PRP$	PRP$	_	10	poss	_	_
+10	stake	_	NN	NN	_	8	dobj	_	_
+11	in	_	IN	IN	_	8	prep	_	_
+12	Lawrence	_	NNP	NNP	_	13	nn	_	_
+13	Insurance	_	NNP	NNP	_	11	pobj	_	_
+14	to	_	TO	TO	_	8	prep	_	_
+15	93.2	_	CD	CD	_	16	num	_	_
+16	%	_	NN	NN	_	14	pobj	_	_
+17	from	_	IN	IN	_	16	prep	_	_
+18	91.2	_	CD	CD	_	19	num	_	_
+19	%	_	NN	NN	_	17	pobj	_	_
+20	.	_	.	.	_	8	punct	_	_
+

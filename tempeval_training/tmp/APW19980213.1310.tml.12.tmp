@@ -1,0 +1,21 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (S
+        (NP (DT The) (JJ phony) (NN war))
+        (VP (VBZ has)
+          (VP (VBN finished))))
+      (CC and)
+      (S
+        (NP (DT the) (JJ real) (NN referendum) (NN campaign))
+        (VP (VBZ has)
+          (ADVP (RB clearly))
+          (VP (VBN begun)))))
+    (, ,) ('' '')
+    (NP
+      (NP (NNPS Australians))
+      (PP (IN for)
+        (NP (DT a) (NNP Constitutional) (NNP Monarchy) (NN executive) (NN director) (NNP Kerry) (NNP Jones))))
+    (VP (VBD said))
+    (. .)))
+

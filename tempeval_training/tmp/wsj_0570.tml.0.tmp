@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP Crane) (NNP Co.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP
+            (VP (VBZ holds)
+              (NP
+                (NP (DT an)
+                  (ADJP (CD 8.9) (NN %))
+                  (NN stake))
+                (PP (IN in)
+                  (NP
+                    (NP (NNP Milton) (NNP Roy) (NNP Corp.))
+                    (, ,)
+                    (NP (DT an) (JJ analytical-instruments) (NN maker))
+                    (, ,)))))
+            (CC and)
+            (VP (MD may)
+              (VP (VB seek)
+                (NP
+                  (NP (NN control))
+                  (PP (IN of)
+                    (NP (DT the) (NN company))))))))))
+    (. .)))
+

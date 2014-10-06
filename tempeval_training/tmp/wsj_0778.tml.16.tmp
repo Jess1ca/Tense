@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Alito))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP$ his) (NN office))
+          (`` ``)
+          (ADVP (RB just))
+          (VP (VBD responded)
+            (PP (TO to)
+              (NP
+                (NP (DT an) (NN attorney) (POS 's))
+                (NN question)))
+            (PP (IN about)
+              (SBAR
+                (SBAR (IN whether)
+                  (S
+                    (NP (PRP we))
+                    (VP (MD would)
+                      (VP (VB go)
+                        (PP (IN after)
+                          (NP
+                            (NP (NN attorney) (POS 's))
+                            (NNS fees)))))))
+                (, ,)
+                (CC and)
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ is)
+                      (ADJP (JJ different)
+                        (PP (IN from)
+                          (S
+                            (ADVP (RB actually))
+                            (VP (VBG doing)
+                              (NP (PRP it))))))
+                      (, ,)
+                      (SBAR (IN although)
+                        (S
+                          (NP (PRP we))
+                          (VP (VBP reserve)
+                            (NP (DT that) (NN right))))))))))))))
+    (. .) ('' '')))
+

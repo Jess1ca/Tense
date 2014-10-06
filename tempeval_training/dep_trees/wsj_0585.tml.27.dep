@@ -1,0 +1,16 @@
+1	No	_	DT	DT	_	2	det	_	_
+2	one	_	NN	NN	_	3	nsubj	_	_
+3	has	_	VBZ	VBZ	_	0	root	_	_
+4	big	_	JJ	JJ	_	5	amod	_	_
+5	positions	_	NNS	NNS	_	3	dobj	_	_
+6	and	_	CC	CC	_	3	cc	_	_
+7	no	_	DT	DT	_	8	det	_	_
+8	one	_	NN	NN	_	9	nsubj	_	_
+9	wants	_	VBZ	VBZ	_	3	conj	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	take	_	VB	VB	_	9	xcomp	_	_
+12	big	_	JJ	JJ	_	13	amod	_	_
+13	risks	_	NNS	NNS	_	11	dobj	_	_
+14	.	_	.	.	_	3	punct	_	_
+15	''	_	''	''	_	3	punct	_	_
+

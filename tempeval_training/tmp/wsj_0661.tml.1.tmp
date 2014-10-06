@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP DPC) (NNP Acquisition))
+    (VP (VBZ is)
+      (VP (VBN controlled)
+        (PP (IN by)
+          (NP
+            (NP (NNP Crescott) (NNP Investment) (NNPS Associates))
+            (, ,)
+            (NP (NNP Wilson) (NNP Investment) (NNP Group))
+            (, ,)
+            (NP (NNP Kernel) (NNP Corp.))
+            (CC and)
+            (NP (NNP Catalyst) (NNPS Partners))))))
+    (. .)))
+

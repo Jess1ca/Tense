@@ -1,0 +1,27 @@
+1	``	_	``	``	_	7	punct	_	_
+2	The	_	DT	DT	_	4	det	_	_
+3	information-systems	_	NNS	NNS	_	4	nn	_	_
+4	industry	_	NN	NN	_	7	nsubj	_	_
+5	is	_	VBZ	VBZ	_	7	aux	_	_
+6	still	_	RB	RB	_	7	advmod	_	_
+7	going	_	VBG	VBG	_	0	root	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	be	_	VB	VB	_	7	xcomp	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	high-growth	_	NN	NN	_	12	nn	_	_
+12	business	_	NN	NN	_	9	xcomp	_	_
+13	,	_	,	,	_	7	punct	_	_
+14	and	_	CC	CC	_	7	cc	_	_
+15	we	_	PRP	PRP	_	16	nsubj	_	_
+16	're	_	VBP	VBP	_	7	conj	_	_
+17	confident	_	JJ	JJ	_	16	acomp	_	_
+18	that	_	IN	IN	_	20	mark	_	_
+19	we	_	PRP	PRP	_	20	nsubj	_	_
+20	have	_	VBP	VBP	_	17	ccomp	_	_
+21	tremendous	_	JJ	JJ	_	22	amod	_	_
+22	assets	_	NNS	NNS	_	20	dobj	_	_
+23	as	_	IN	IN	_	20	prep	_	_
+24	a	_	DT	DT	_	25	det	_	_
+25	company	_	NN	NN	_	23	pobj	_	_
+26	.	_	.	.	_	7	punct	_	_
+

@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNS Joblessness))
+    (VP (VBZ is)
+      (ADVP (RB now))
+      (PP (IN at)
+        (NP
+          (NP (PRP$ its) (JJS highest) (NN level))
+          (PP (IN in)
+            (NP
+              (NP (NNP Germany))
+              (PP (IN since)
+                (NP (DT the) (JJ second) (NN world) (NN war))))))))
+    (. .)))
+

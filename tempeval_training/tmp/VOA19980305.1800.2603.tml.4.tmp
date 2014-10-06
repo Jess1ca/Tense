@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (NNP Afghanistan))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (PP (IN at)
+          (NP (NN war)))
+        (PP
+          (PP (IN for)
+            (NP
+              (NP (CD twenty) (NNS years))
+              (, ,)
+              (VP (VBG leaving)
+                (NP
+                  (NP (DT a) (JJ large) (NN part))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN country) (POS 's))
+                      (JJ male) (NN population) (NN dead)))))))
+          (CC or)
+          (PP (IN in)
+            (NP (NN exile))))))
+    (. .)))
+

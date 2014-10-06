@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Jim) (NNP Unruh))
+      (, ,)
+      (NP
+        (NP (NNP Unisys) (POS 's))
+        (NN president))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ is)
+            (VP (VBG approaching)
+              (NP (JJ next) (NN year))
+              (PP (IN with)
+                (NP (NN caution))))))))
+    (. .)))
+

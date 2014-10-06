@@ -1,0 +1,11 @@
+1	Both	_	DT	DT	_	2	det	_	_
+2	sides	_	NNS	NNS	_	3	nsubj	_	_
+3	are	_	VBP	VBP	_	0	root	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	talks	_	NNS	NNS	_	4	pobj	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	settle	_	VB	VB	_	3	xcomp	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	dispute	_	NN	NN	_	7	dobj	_	_
+10	.	_	.	.	_	3	punct	_	_
+

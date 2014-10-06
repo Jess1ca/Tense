@@ -1,0 +1,29 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (MD can) (RB not)
+        (VP (VB permit)
+          (NP (DT a) (JJ further) (NN slowing))
+          (PP (IN in)
+            (NP (PRP$ our) (NN volume) (NN trend))))))
+    (, ,) ('' '')
+    (NP (NNP Anheuser))
+    (VP (VBD said) (, ,)
+      (S
+        (VP (VBG adding)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (MD will)
+                (VP (VB take)
+                  (NP (`` ``) (JJ appropriate) (JJ competitive) (NN pricing) (NNS actions))
+                  (S
+                    (VP (TO to)
+                      (VP (VB support)
+                        (NP (PRP$ our) (JJ long-term) (NN market) (NN share) (NN growth) (NN strategy))
+                        ('' '')
+                        (PP (IN for)
+                          (NP (DT the) (NN premium) (NNS brands)))))))))))))
+    (. .)))
+

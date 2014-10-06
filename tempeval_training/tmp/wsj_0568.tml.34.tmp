@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Mr.) (NNP Weil))
+      (PP (IN of)
+        (NP (NNP Weil) (NNP amp) (NNPS Associates))))
+    (VP
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (MD will)
+              (VP (VB remain)
+                (PP (IN at)
+                  (NP
+                    (NP ($ $) (CD 1))
+                    (NP (DT a) (NN share))))
+                (PP (IN for)
+                  (NP (JJ next) (NN year))))))))
+      (CC but)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBZ wonders)
+              (SBAR (IN whether)
+                (S
+                  (NP (RB even) (DT that) (JJ low) (NN target))
+                  (VP (VBZ is)
+                    (PP (IN at)
+                      (NP (NN risk)))))))))))
+    (. .)))
+

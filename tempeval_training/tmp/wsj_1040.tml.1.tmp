@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The)
+        (NAC (NNP Oneida) (, ,) (NNP N.Y.) (, ,))
+        (NN maker))
+      (PP (IN of)
+        (NP
+          (UCP (NN consumer) (, ,) (NN food-service)
+            (CC and)
+            (JJ industrial))
+          (NNS products))))
+    (ADVP (RB also))
+    (VP (VBD declared)
+      (NP
+        (NP (DT a) (JJ quarterly) (NN cash) (NN dividend))
+        (PP (IN of)
+          (NP
+            (NP (CD 12) (NNS cents))
+            (NP (DT a) (NN share)))))
+      (, ,)
+      (PP (IN with)
+        (NP (DT the) (JJ same)
+          (UCP (JJ payable)
+            (CC and)
+            (NN record))
+          (NNS dates))))
+    (. .)))
+

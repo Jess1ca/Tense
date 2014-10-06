@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (ADVP (RB Still))
+    (, ,)
+    (NP (EX there))
+    (VP (VBP are)
+      (NP (JJ few) (NNS buyers)))
+    (. .)))
+

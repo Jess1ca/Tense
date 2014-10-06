@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (NNP Midwest) (NNP Financial))
+    (VP (VBZ has)
+      (NP
+        (NP
+          (QP ($ $) (CD 2.3) (CD billion)))
+        (PP (IN in)
+          (NP
+            (NP (NNS assets))
+            (CC and)
+            (NP (CD eight) (NNS banks))))))
+    (. .)))
+

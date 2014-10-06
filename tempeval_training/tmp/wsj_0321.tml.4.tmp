@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (ADVP (RB Earlier))
+    (, ,)
+    (NP (NNP Mesa))
+    (VP (VBD had)
+      (VP (VBN rejected)
+        (NP (DT a) (JJ general) (NN proposal))
+        (PP (IN from)
+          (NP (NNP StatesWest)))
+        (S
+          (VP (TO to)
+            (VP (VB combine)
+              (NP
+                (NP (DT the) (CD two) (NNS carriers))
+                (PP (IN in)
+                  (NP (DT some) (NN way)))))))))
+    (. .)))
+

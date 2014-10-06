@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (ADJP (JJ pleased)
+        (S
+          (VP (TO to)
+            (VP (VB note)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP$ your) (NNP Oct.) (CD 23) (NNP Centennial) (NNP Journal) (NN item))
+                  (VP (VBD recognized)
+                    (NP (DT the) (NN money-fund) (NN concept))
+                    (PP (IN as)
+                      (NP
+                        (NP (CD one))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT the) (JJ significant) (NNS events))
+                            (PP (IN of)
+                              (NP (DT the) (JJ past) (NN century)))))))))))))))
+    (. .)))
+

@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNS Stocks))
+    (VP (VBD rose) (, ,)
+      (S
+        (VP
+          (VP (VBG pushing)
+            (NP (DT the) (NNP Dow) (NNP Jones) (JJ industrial) (NN average))
+            (ADVP (RB up)
+              (NP (CD 72.24) (NNS points)))
+            (, ,)
+            (PP (TO to)
+              (NP (CD 8,189.49))))
+          (, ,)
+          (VP (VBG leaving)
+            (NP (DT the) (NN index))
+            (PP (IN within)
+              (NP
+                (NP (CD 70) (NNS points))
+                (PP (IN of)
+                  (NP
+                    (NP (PRP$ its) (JJ record) (JJ high) (NN set))
+                    (PP (IN on)
+                      (NP (NNP Aug.) (CD 6)))))))))))
+    (. .)))
+

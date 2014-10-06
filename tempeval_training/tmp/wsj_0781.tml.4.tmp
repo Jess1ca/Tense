@@ -1,0 +1,26 @@
+(ROOT
+  (S (CC But)
+    (SBAR (IN while)
+      (S
+        (NP
+          (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.))
+          (CC and)
+          (NP (NNP Compaq) (NNP Computer) (NNP Corp.)))
+        (VP (VBP say)
+          (SBAR
+            (S
+              (NP (DT the) (NNS bugs))
+              (VP (MD will)
+                (VP (VB delay)
+                  (NP (NNS products)))))))))
+    (, ,)
+    (NP (RBS most) (JJ big) (NN computer) (NNS makers))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNS flaws))
+          (VP (VBP do) (RB n't)
+            (VP (VB affect)
+              (NP (PRP them)))))))
+    (. .)))
+

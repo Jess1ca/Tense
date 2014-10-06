@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (IN On)
+      (NP
+        (NP (NN top))
+        (PP (IN of)
+          (NP (DT that)))))
+    (, ,)
+    (NP (DT the)
+      (NAC (NNP Blue) (NNP Bell) (, ,) (NNP Pa.) (, ,))
+      (NN concern))
+    (VP (VBD took)
+      (NP
+        (NP (DT a)
+          (ADJP
+            (QP ($ $) (CD 230) (CD million)))
+          (NN charge))
+        (VP (VBN related)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NNS layoffs))
+              (PP (IN of)
+                (NP (CD 8,000) (NNS employees))))))))
+    (. .)))
+

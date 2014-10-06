@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT The) (NN police))
+    (VP
+      (VP (VBD barred)
+        (NP (DT the) (NN crowd))
+        (PP (IN from)
+          (S
+            (VP (VBG reaching)
+              (NP (DT the) (NNP Yugoslavian) (NN consulate))
+              (PP (IN in)
+                (NP (JJ downtown) (NNP Istanbul)))))))
+      (, ,)
+      (CC but)
+      (VP (VBD allowed)
+        (S
+          (NP (PRP them))
+          (VP (TO to)
+            (VP (VB demonstrate)
+              (PP (IN on)
+                (NP (JJ nearby) (NNS streets))))))))
+    (. .)))
+

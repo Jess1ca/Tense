@@ -1,0 +1,17 @@
+1	``	_	``	``	_	7	punct	_	_
+2	Once	_	RB	RB	_	3	advmod	_	_
+3	again	_	RB	RB	_	7	advmod	_	_
+4	,	_	,	,	_	7	punct	_	_
+5	I	_	PRP	PRP	_	7	nsubj	_	_
+6	never	_	RB	RB	_	7	neg	_	_
+7	asked	_	VBD	VBD	_	0	root	_	_
+8	anybody	_	NN	NN	_	7	dobj	_	_
+9	to	_	TO	TO	_	10	aux	_	_
+10	do	_	VB	VB	_	7	xcomp	_	_
+11	anything	_	NN	NN	_	10	dobj	_	_
+12	but	_	CC	CC	_	7	cc	_	_
+13	tell	_	VBP	VBP	_	7	conj	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	truth	_	NN	NN	_	13	dobj	_	_
+16	.	_	.	.	_	7	punct	_	_
+

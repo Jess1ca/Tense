@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (NNP General) (NNP Abacha))
+        (VP (VBD had) (RB not)
+          (ADVP (RB publicly))
+          (VP (VBN announced)
+            (NP (PRP$ his) (NN candidacy))))))
+    (, ,)
+    (NP (JJ many) (NNS people))
+    (VP (VBP believe)
+      (SBAR
+        (S
+          (NP (DT an) (NNP Abacha) (NN presidency))
+          (VP (VBZ is)
+            (NP (DT a) (JJ foregone) (NN conclusion))))))
+    (. .)))
+

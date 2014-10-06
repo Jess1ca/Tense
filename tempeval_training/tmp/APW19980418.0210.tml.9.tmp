@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (S
+      (VP (VBN cited)
+        (PP (IN by)
+          (NP
+            (NP (NNP District))
+            (PP (IN of)
+              (NP
+                (NP (NNP Columbia) (NN traffic) (NNS police))
+                (PP (IN in)
+                  (NP (NNP December)))))))
+        (PP (IN for)
+          (S
+            (VP (VBG driving)
+              (PP (IN under)
+                (NP
+                  (NP (DT the) (NN influence))
+                  (PP (IN of)
+                    (NP (NN alcohol))))))))))
+    (, ,)
+    (NP (NNP Farkas))
+    (VP
+      (VP (VBD was)
+        (VP (VBN ordered)
+          (ADVP (RB home))))
+      (CC and)
+      (VP (VBD retired)))
+    (. .)))
+

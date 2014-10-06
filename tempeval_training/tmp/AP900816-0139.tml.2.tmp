@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (DT a) (JJ two-hour) (NN meeting))
+        (PP (IN at)
+          (NP
+            (NP (PRP$ his) (JJ Kennebunkport) (NN home))
+            (PP (IN with)
+              (NP
+                (NP (NNP King) (NNP Hussein))
+                (PP (IN of)
+                  (NP (NNP Jordan)))))))))
+    (, ,)
+    (NP (NNP Bush))
+    (VP (VBD said) (, ,) (`` ``)
+      (S
+        (NP (PRP I))
+        (VP (VBD did) (RB not)
+          (VP (VB come)
+            (ADVP (RB away)
+              (PP (IN with)
+                (NP
+                  (NP (DT any) (NN feeling))
+                  (PP (IN of)
+                    (NP (NN hope))))))
+            ('' '')
+            (SBAR (IN that)
+              (S
+                (NP (NNP Iraq))
+                (VP (MD would)
+                  (VP (VB withdraw)
+                    (NP (PRP$ its) (NN army))
+                    (PP (IN from)
+                      (NP (NNP Kuwait)))))))))))
+    (. .)))
+

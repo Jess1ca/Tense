@@ -1,0 +1,20 @@
+1	_	_	RB	RB	_	6	advmod	_	_
+2	The	_	DT	DT	_	5	det	_	_
+3	Soviet	_	NNP	NNP	_	5	nn	_	_
+4	Foreign	_	NNP	NNP	_	5	nn	_	_
+5	Ministry	_	NNP	NNP	_	6	nsubj	_	_
+6	said	_	VBD	VBD	_	0	root	_	_
+7	Soviet	_	JJ	JJ	_	8	amod	_	_
+8	women	_	NNS	NNS	_	15	nsubjpass	_	_
+9	,	_	,	,	_	8	punct	_	_
+10	children	_	NNS	NNS	_	8	conj	_	_
+11	and	_	CC	CC	_	8	cc	_	_
+12	invalids	_	NNS	NNS	_	8	conj	_	_
+13	would	_	MD	MD	_	15	aux	_	_
+14	be	_	VB	VB	_	15	auxpass	_	_
+15	permitted	_	VBN	VBN	_	6	ccomp	_	_
+16	to	_	TO	TO	_	17	aux	_	_
+17	leave	_	VB	VB	_	15	xcomp	_	_
+18	Iraq	_	NNP	NNP	_	17	dobj	_	_
+19	.	_	.	.	_	6	punct	_	_
+

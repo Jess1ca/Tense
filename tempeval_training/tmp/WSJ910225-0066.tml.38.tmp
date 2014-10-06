@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP (DT The) (NN decision))
+        (VP (VBD was)
+          (VP (VBN made)
+            (PP (IN after)
+              (NP (NNP Defense) (NNP Secretary) (NNP Dick) (NNP Cheney))))))
+      (CC and)
+      (S
+        (NP
+          (NP (NNP Gen.) (NNP Colin) (NNP Powell))
+          (, ,)
+          (NP
+            (NP (NN chairman))
+            (PP (IN of)
+              (NP (DT the) (NNP Joint) (NNPS Chiefs)))
+            (PP (IN of)
+              (NP (NNP Staff))))
+          (, ,))
+        (VP (VBD returned)
+          (PP (IN from)
+            (NP
+              (NP (DT a) (NN visit))
+              (PP (IN with)
+                (NP (JJ military) (NNS commanders)))))
+          (PP (IN in)
+            (NP (NNP Saudi) (NNP Arabia))))))
+    (, ,)
+    (NP (NN administration) (NNS officials))
+    (VP (VBP say))
+    (. .)))
+

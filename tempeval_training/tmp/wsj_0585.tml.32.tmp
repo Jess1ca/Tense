@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (DT These) (JJ big) (NNS stocks))
+    (ADVP (RB greatly))
+    (VP (VBP influence)
+      (NP (DT the) (NNP Nasdaq) (NNP Composite) (NNP Index)))
+    (. .)))
+

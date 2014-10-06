@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP
+          (NP (NNP Ticketron) (POS 's))
+          (JJ automated) (NN wagering) (NN business))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ operates)
+              (NP
+                (NP (NNS lotteries))
+                (PP (IN in)
+                  (NP
+                    (QP (DT a) (DT half) (NN dozen))
+                    (NNS states)))))))
+        (, ,))
+      (VP (VBZ is) (RB not)
+        (PP (IN for)
+          (NP (NN sale)))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said))
+    (. .)))
+

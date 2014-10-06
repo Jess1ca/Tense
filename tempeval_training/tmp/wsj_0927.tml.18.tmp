@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Schwarz))
+    (ADVP (RB also))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NNS costs))
+            (VP (VBN associated)
+              (PP (IN with)
+                (NP
+                  (NP (NNP U.S.) (NNP Trust) (POS 's))
+                  (JJ planned) (NN move)))
+              (PP (TO to)
+                (NP (JJ midtown) (NNP Manhattan)))
+              (PP (IN from)
+                (NP (NNP Wall) (NNP Street)))))
+          (VP (MD will)
+            (VP (VB continue)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (NP
+                      (NP (DT a) (NN drag))
+                      (PP (IN on)
+                        (NP (NNS earnings))))
+                    (PP (IN through)
+                      (NP (CD 1990)))))))))))
+    (. .)))
+

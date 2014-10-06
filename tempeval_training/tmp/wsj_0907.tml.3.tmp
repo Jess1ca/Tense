@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ earnings-per-share) (NNS figures))
+    (VP (VBP reflect)
+      (NP
+        (NP (DT a)
+          (ADJP (CD 25) (NN %))
+          (NN stock) (NN dividend))
+        (PP (IN in)
+          (NP (NNP June) (CD 1989)))))
+    (. .)))
+

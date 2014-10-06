@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (DT A) (NN closing) (NN date))
+    (VP (VBZ has) (RB n't)
+      (VP (VBN been)
+        (VP (VBN set))))
+    (. .)))
+

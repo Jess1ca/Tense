@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNP Hewlett))
+    (VP (VBD announced)
+      (NP (JJ last) (NN week))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBD planned)
+            (S
+              (VP (TO to)
+                (VP (VB ship)
+                  (NP (DT a) (NN computer))
+                  (PP (VBN based)
+                    (PP (IN on)
+                      (NP (DT the) (CD 486) (NN chip)))))))
+            (NP (RB early) (JJ next) (NN year))))))
+    (. .)))
+

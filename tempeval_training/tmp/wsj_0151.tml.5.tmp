@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Edelman))
+    (VP (VBD declined)
+      (S
+        (VP (TO to)
+          (VP (VB specify)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (VP (VBD prompted)
+                  (NP (DT the) (JJ recent) (NNS moves))
+                  (, ,)
+                  (S
+                    (VP (VBG saying)
+                      (SBAR
+                        (S
+                          (NP (PRP they))
+                          (VP (VBP are)
+                            (VP (VBN meant)
+                              (ADVP (RB only))
+                              (S
+                                (VP (TO to)
+                                  (VP (VB benefit)
+                                    (NP (NNS shareholders))
+                                    (SBAR
+                                      (WHADVP (WRB when))
+                                      (`` ``)
+                                      (S
+                                        (NP (DT the) (NN company))
+                                        (VP (VBZ is)
+                                          (PP (IN on)
+                                            (NP (DT a) (NN roll))))))))))))))))))))))
+    (. .) ('' '')))
+

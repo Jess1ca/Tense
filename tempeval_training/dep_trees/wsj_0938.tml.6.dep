@@ -1,0 +1,11 @@
+1	Ms.	_	NNP	NNP	_	2	nn	_	_
+2	Kolber	_	NNP	NNP	_	3	nsubj	_	_
+3	said	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	committee	_	NN	NN	_	7	nsubj	_	_
+6	had	_	VBD	VBD	_	7	aux	_	_
+7	received	_	VBN	VBN	_	3	ccomp	_	_
+8	other	_	JJ	JJ	_	9	amod	_	_
+9	bids	_	NNS	NNS	_	7	dobj	_	_
+10	.	_	.	.	_	3	punct	_	_
+

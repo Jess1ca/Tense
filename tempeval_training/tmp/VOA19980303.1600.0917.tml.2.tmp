@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP Nigeria) (NN state) (NN radio))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP
+            (NP (NNS thousands))
+            (PP (IN of)
+              (NP (NNS people))))
+          (VP (VBD began)
+            (S
+              (VP (VBG gathering)
+                (PP (IN in)
+                  (NP (DT the) (NN capital) (NN Abuja)))))
+            (NP (JJ early) (NNP Tuesday))
+            (PP (IN for)
+              (NP
+                (NP (DT the) (CD two) (NN day) (NN rally))
+                (VP (VBG supporting)
+                  (NP
+                    (NP (NNP General) (NNP Sani) (NNP Abacha) (POS 's))
+                    (NN candidacy)))))))))
+    (. .)))
+

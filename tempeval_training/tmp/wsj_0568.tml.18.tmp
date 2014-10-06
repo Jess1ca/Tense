@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNP Debt))
+    (VP (VBZ has)
+      (VP (VBN risen)
+        (PP (TO to)
+          (NP
+            (NP
+              (QP (RB around) ($ $) (CD 4) (CD billion)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP
+                (QP (RB about) (CD 50))
+                (NN %))
+              (PP (IN of)
+                (NP (JJ total) (NN capitalization))))))))
+    (. .)))
+

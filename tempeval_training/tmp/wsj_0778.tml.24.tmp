@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (ADVP (RB Still))
+    (, ,)
+    (NP (JJ criminal) (NN defense) (NNS lawyers))
+    (VP (VBP worry)
+      (SBAR (IN that)
+        (S
+          (NP (NNS defendants))
+          (VP (VBP are)
+            (VP (VBG being)
+              (VP (VBN deprived)
+                (PP (IN of)
+                  (NP (PRP$ their) (NNP Sixth) (NNP Amendment) (NN right)))
+                (PP (TO to)
+                  (NP
+                    (NP (NN counsel))
+                    (CC and)
+                    (NP (DT a) (JJ fair) (NN trial))))
+                (SBAR (IN if)
+                  (S
+                    (NP (DT the) (NN government))
+                    (VP (MD can)
+                      (VP (VB seize)
+                        (NP
+                          (NP (NNS lawyers) (POS '))
+                          (NNS fees))))))))))))
+    (. .)))
+

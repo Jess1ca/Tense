@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Thai) (JJ military) (NNS officials))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBP monitor)
+            (SBAR
+              (S
+                (NP (JJ Cambodian) (NNS affairs))
+                (VP (VBD said)
+                  (ADVP (RB privately))
+                  (NP (NNP Thursday))
+                  (SBAR (IN that)
+                    (S
+                      (NP (NNP Britain))
+                      (, ,)
+                      (PP (IN through)
+                        (NP
+                          (NP (PRP$ its) (NNS embassies))
+                          (PP (IN in)
+                            (NP (NNP Thailand)
+                              (CC and)
+                              (NNP Cambodia)))))
+                      (, ,)
+                      (VP (VBZ has)
+                        (VP (VBN been)
+                          (VP (VBG pushing)
+                            (ADVP (RB hard))
+                            (S
+                              (VP (TO to)
+                                (VP (VB resolve)
+                                  (NP (DT the) (NNP Howes) (NN case))
+                                  (PP (IN as)
+                                    (NP
+                                      (NP (DT the) (JJ second) (NN anniversary))
+                                      (PP (IN of)
+                                        (NP (PRP$ his) (NN abduction))))))))))))))))))))
+    (VP (VBZ nears))
+    (. .)))
+

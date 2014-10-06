@@ -1,0 +1,23 @@
+1	She	_	PRP	PRP	_	2	nsubj	_	_
+2	said	_	VBD	VBD	_	21	ccomp	_	_
+3	Rabin	_	NNP	NNP	_	5	poss	_	_
+4	's	_	POS	POS	_	3	possessive	_	_
+5	murder	_	NN	NN	_	6	nsubj	_	_
+6	was	_	VBD	VBD	_	2	ccomp	_	_
+7	``	_	``	``	_	6	punct	_	_
+8	a	_	DT	DT	_	10	det	_	_
+9	black	_	JJ	JJ	_	10	amod	_	_
+10	stain	_	NN	NN	_	6	xcomp	_	_
+11	on	_	IN	IN	_	6	prep	_	_
+12	Israel	_	NNP	NNP	_	11	pobj	_	_
+13	,	_	,	,	_	21	punct	_	_
+14	''	_	''	''	_	21	punct	_	_
+15	Israel	_	NNP	NNP	_	16	nn	_	_
+16	radio	_	NN	NN	_	21	nsubj	_	_
+17	and	_	CC	CC	_	16	cc	_	_
+18	Israel	_	NNP	NNP	_	20	nn	_	_
+19	army	_	NN	NN	_	20	nn	_	_
+20	radio	_	NN	NN	_	16	conj	_	_
+21	reported	_	VBD	VBD	_	0	root	_	_
+22	.	_	.	.	_	21	punct	_	_
+

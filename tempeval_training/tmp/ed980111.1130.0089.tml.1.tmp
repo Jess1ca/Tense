@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ powerful) (NN ice) (NN storm))
+    (VP (VBZ continues)
+      (S
+        (VP (TO to)
+          (VP (VB maintain)
+            (NP (PRP$ its) (NN grip))))))
+    (. .)))
+

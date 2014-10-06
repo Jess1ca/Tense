@@ -1,0 +1,20 @@
+(ROOT
+  (SINV
+    (S
+      (NP (DT The) (NNS men))
+      (VP (VBD took)
+        (NP (DT no) (NN money))
+        (PP
+          (PP (IN from)
+            (NP (PRP$ their) (NN victim)))
+          (CC or)
+          (PP (IN from)
+            (NP (DT the) (NN establishment))))))
+    (, ,)
+    (VP (VBD said))
+    (NP
+      (NP (NNP Detective) (NNP Joseph) (NNP Pentangelo))
+      (, ,)
+      (NP (DT a) (NNP Police) (NNP Department) (NN spokesman)))
+    (. .)))
+

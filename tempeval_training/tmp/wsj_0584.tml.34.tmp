@@ -1,0 +1,19 @@
+(ROOT
+  (SBARQ (`` ``)
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NNS shares))
+    (SQ
+      (VP (MD will)
+        (VP (VB be)
+          (ADVP (RB around))
+          (PP (IN in)
+            (NP (CD 1995))))))
+    (. ?) ('' '')))
+
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBD asked))
+    (. .)))
+

@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP GM))
+    (VP (VBZ is)
+      (ADJP (JJ close)
+        (PP (TO to)
+          (S
+            (VP (VBG completing)
+              (NP
+                (NP (DT a) (JJ friendly) (NN deal))
+                (PP (IN with)
+                  (NP (NNP Jaguar)))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ is)
+                      (ADJP (JJ likely)
+                        (S
+                          (VP (TO to)
+                            (VP (VB involve)
+                              (NP
+                                (NP (DT an) (JJ eventual)
+                                  (ADJP (CD 30) (NN %))
+                                  (NN stake))
+                                (CC and)
+                                (NP (JJ joint) (NN manufacturing) (NNS ventures))))))))))))))))
+    (. .)))
+

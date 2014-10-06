@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS CAGUAS))
+      (, ,)
+      (NP
+        (NP (NNP Puerto) (NNP Rico))
+        (PRN (-LRB- -LRB-)
+          (NP (NNP AP))
+          (-RRB- -RRB-))
+        (SBAR
+          (S
+            (NP (NNP _) (NNP Kidnappers))
+            (VP (VBD kept)
+              (NP (PRP$ their) (NN promise)
+                (S
+                  (VP (TO to)
+                    (VP (VB kill)
+                      (NP
+                        (NP (DT a) (NN store) (NN owner))
+                        (SBAR
+                          (S
+                            (NP (PRP they))
+                            (VP (VBD took)
+                              (SBAR
+                                (S
+                                  (NP (NN hostage)
+                                    (CC and)
+                                    (NN police))
+                                  (VP (VBD found)
+                                    (NP
+                                      (NP (DT the) (NN man) (POS 's))
+                                      (ADJP (JJ dismembered)
+                                        (CC and)
+                                        (JJ decapitated))
+                                      (NN body))
+                                    (NP (NNP Friday))))))))))))))))))
+    (VP (VBD wrapped)
+      (PP (IN in)
+        (NP (JJ plastic) (NN garbage) (NNS bags))))
+    (. .)))
+

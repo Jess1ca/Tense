@@ -1,0 +1,17 @@
+1	The	_	DT	DT	_	4	det	_	_
+2	previous	_	JJ	JJ	_	4	amod	_	_
+3	BellSouth	_	NNP	NNP	_	4	nn	_	_
+4	pact	_	NN	NN	_	6	nsubjpass	_	_
+5	was	_	VBD	VBD	_	6	auxpass	_	_
+6	valued	_	VBN	VBN	_	0	root	_	_
+7	at	_	IN	IN	_	6	prep	_	_
+8	about	_	RB	RB	_	12	quantmod	_	_
+9	$	_	$	$	_	12	dep	_	_
+10	98	_	CD	CD	_	12	number	_	_
+11	to	_	TO	TO	_	12	dep	_	_
+12	$	_	$	$	_	7	pobj	_	_
+13	110	_	CD	CD	_	12	number	_	_
+14	a	_	DT	DT	_	15	det	_	_
+15	share	_	NN	NN	_	12	dep	_	_
+16	.	_	.	.	_	6	punct	_	_
+

@@ -1,0 +1,29 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (S
+        (NP (PRP We))
+        (VP (VBP have)
+          (ADVP (RB always))
+          (VP (VBN taken)
+            (NP (JJR smaller) (NNS accounts)))))
+      (, ,)
+      (CC but)
+      (S
+        (ADVP (RB now))
+        (NP (PRP we))
+        (VP (VBP are)
+          (VP (VBG looking)
+            (PP (IN for)
+              (NP
+                (NP (JJR smaller) (NNS accounts))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (MD will)
+                      (VP (VB grow)))))))))))
+    (, ,) ('' '')
+    (NP (NNP Mr.) (NNP Schwarz))
+    (VP (VBZ says))
+    (. .)))
+

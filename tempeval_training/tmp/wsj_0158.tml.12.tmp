@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN On)
+      (NP
+        (NP (NNP London) (POS 's))
+        (NNP Stock) (NNP Exchange)))
+    (, ,)
+    (NP (NNP Reuters) (NNS shares))
+    (VP (VBD rose)
+      (NP (CD five) (NNS pence))
+      (PP (TO to)
+        (NP
+          (NP (CD 913) (NNS pence))
+          (PRN (-LRB- -LRB-)
+            (NP ($ $) (CD 14.43))
+            (-RRB- -RRB-)))))
+    (. .)))
+

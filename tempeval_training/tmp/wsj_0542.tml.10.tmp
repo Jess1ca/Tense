@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNP Telerate))
+    (VP (VBZ provides)
+      (NP
+        (NP (NN information))
+        (PP (IN about)
+          (NP (JJ financial) (NNS markets))))
+      (PP (IN through)
+        (NP (DT an) (JJ electronic) (NN network))))
+    (. .)))
+

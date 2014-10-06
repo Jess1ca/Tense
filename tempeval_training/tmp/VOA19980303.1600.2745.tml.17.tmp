@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Potach))
+    (VP (VBZ notes)
+      (SBAR
+        (S
+          (NP
+            (NP (JJR older) (, ,) (JJR more) (JJ traditional) (NNS groups))
+            (PP (IN like)
+              (NP (DT the) (NNP Ku) (NNP Klux) (NNP Klan))))
+          (VP (VBP are)
+            (ADVP (RB also))
+            (VP (VBG opening)
+              (NP (JJ new) (NNS chapters))
+              (, ,)
+              (S
+                (ADVP (NNS thanks)
+                  (PP (IN in)
+                    (NP (NN part)))
+                  (PP (TO to)
+                    (NP (PRP$ their) (NN ability))))
+                (VP (TO to)
+                  (VP (VB use)
+                    (NP (JJ new) (NNS technologies))
+                    (PP (IN like)
+                      (NP (DT the) (NN Internet)))))))))))
+    (. .)))
+

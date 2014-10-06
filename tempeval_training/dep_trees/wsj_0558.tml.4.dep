@@ -1,0 +1,17 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	insurer	_	NN	NN	_	4	nsubj	_	_
+3	has	_	VBZ	VBZ	_	4	aux	_	_
+4	started	_	VBN	VBN	_	0	root	_	_
+5	processing	_	NN	NN	_	6	nn	_	_
+6	claims	_	NNS	NNS	_	4	dobj	_	_
+7	from	_	IN	IN	_	4	prep	_	_
+8	the	_	DT	DT	_	11	det	_	_
+9	Northern	_	NNP	NNP	_	11	nn	_	_
+10	California	_	NNP	NNP	_	11	nn	_	_
+11	earthquake	_	NN	NN	_	7	pobj	_	_
+12	nearly	_	RB	RB	_	14	advmod	_	_
+13	two	_	CD	CD	_	14	num	_	_
+14	weeks	_	NNS	NNS	_	15	npadvmod	_	_
+15	ago	_	RB	RB	_	7	advmod	_	_
+16	.	_	.	.	_	4	punct	_	_
+

@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD Two) (JJ rival) (NNS bidders))
+      (PP (IN for)
+        (NP (NNP Connaught) (NNPS BioSciences))))
+    (VP (VBD extended)
+      (NP (PRP$ their) (NNS offers))
+      (S
+        (VP (TO to)
+          (VP (VB acquire)
+            (NP (DT the) (JJ Toronto-based) (NN vaccine) (NN manufacturer))
+            (NP (NNP Friday))))))
+    (. .)))
+

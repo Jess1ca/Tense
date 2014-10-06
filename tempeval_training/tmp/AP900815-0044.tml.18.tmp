@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (ADVP (RB _))
+    (NP (DT The) (NN outlook))
+    (VP (VBD darkened)
+      (PP (IN for)
+        (NP
+          (NP
+            (QP (RB about) (CD 3,000))
+            (NNS Americans))
+          (VP (VBN caught)
+            (PP (IN in)
+              (NP (NNP Iraq)
+                (CC and)
+                (NNP Kuwait)))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (NNP Saddam))
+                (VP (VBD sent)
+                  (NP (PRP$ his) (NNS forces))
+                  (PP (IN into)
+                    (NP (DT the) (JJ small) (, ,) (JJ oil-rich) (NN sultanate))))))))))
+    (. .)))
+

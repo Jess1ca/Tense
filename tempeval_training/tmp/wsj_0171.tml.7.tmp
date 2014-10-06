@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP New) (NNS loans))
+      (VP (VBP continue)
+        (S
+          (VP (TO to)
+            (VP (VB slow))))))
+    (: ;)
+    (S
+      (NP (PRP they))
+      (VP (VBD were)
+        (NP
+          (QP ($ $) (CD 6.6) (CD million)))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN quarter))
+            (PP (VBN compared)
+              (PP (IN with)
+                (NP
+                  (QP ($ $) (CD 361.8) (CD million)))
+                (NP (DT a) (NN year) (IN ago))))))))
+    (. .)))
+

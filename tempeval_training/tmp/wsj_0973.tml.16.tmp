@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBZ is)
+      (VP (VBG negotiating)
+        (PP (IN with)
+          (NP (DT the) (NNPS Soviets)))
+        (S
+          (VP (TO to)
+            (VP (VB build)
+              (NP
+                (NP (DT a) (NNP Thermo) (NNP King) (NN truck-refrigeration) (NN plant))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (MD would)
+                      (VP (VB produce)
+                        (NP
+                          (QP (RB about) (CD 10,000))
+                          (NNS units))
+                        (ADVP (RB annually))))))))))))
+    (. .)))
+

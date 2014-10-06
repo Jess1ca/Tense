@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP$ its) (JJ industrial) (NN unit))
+          (VP (VBZ continues)
+            (S
+              (VP (TO to)
+                (VP (VB face)
+                  (NP
+                    (NP (NN margin) (NNS pressures))
+                    (CC and)
+                    (NP (JJR lower) (NN demand))))))))))
+    (. .)))
+

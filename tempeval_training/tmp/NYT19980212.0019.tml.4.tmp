@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBD were)
+        (NP
+          (QP (CD four)
+            (CC or)
+            (CD five))
+          (NNS people))
+        (ADVP (RB inside))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (ADVP (RB just))
+      (VP (VBD started)
+        (NP (NN firing))))
+    (. .) ('' '')))
+

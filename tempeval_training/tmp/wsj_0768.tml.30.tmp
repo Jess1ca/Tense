@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NN Junk-fund) (NNS holders))
+    (VP (VBP have)
+      (ADVP (RB barely))
+      (VP (VBN broken)
+        (NP (RB even) (DT this) (NN year))
+        (, ,)
+        (SBAR (IN as)
+          (S
+            (NP (JJ fat) (NN interest) (NNS payments))
+            (ADVP (RB barely))
+            (VP (VBD managed)
+              (S
+                (VP (TO to)
+                  (VP (VB offset)
+                    (NP (VBG declining) (NNS prices))))))))))
+    (. .)))
+

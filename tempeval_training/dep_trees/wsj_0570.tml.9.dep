@@ -1,0 +1,26 @@
+1	Thermo	_	NNP	NNP	_	2	nn	_	_
+2	Electron	_	NNP	NNP	_	3	nsubj	_	_
+3	acquired	_	VBD	VBD	_	0	root	_	_
+4	some	_	DT	DT	_	5	quantmod	_	_
+5	6	_	CD	CD	_	6	num	_	_
+6	%	_	NN	NN	_	3	dobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	Milton	_	NNP	NNP	_	9	nn	_	_
+9	Roy	_	NNP	NNP	_	12	poss	_	_
+10	's	_	POS	POS	_	9	possessive	_	_
+11	common	_	JJ	JJ	_	12	amod	_	_
+12	stock	_	NN	NN	_	7	pobj	_	_
+13	before	_	IN	IN	_	3	prep	_	_
+14	throwing	_	VBG	VBG	_	13	pcomp	_	_
+15	in	_	IN	IN	_	14	prep	_	_
+16	the	_	DT	DT	_	17	det	_	_
+17	towel	_	NN	NN	_	15	pobj	_	_
+18	and	_	CC	CC	_	14	cc	_	_
+19	reducing	_	VBG	VBG	_	14	conj	_	_
+20	its	_	PRP$	PRP$	_	21	poss	_	_
+21	stake	_	NN	NN	_	19	dobj	_	_
+22	in	_	IN	IN	_	19	prep	_	_
+23	early	_	JJ	JJ	_	24	amod	_	_
+24	September	_	NNP	NNP	_	22	pobj	_	_
+25	.	_	.	.	_	3	punct	_	_
+

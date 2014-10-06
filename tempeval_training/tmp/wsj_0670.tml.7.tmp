@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ fiscal) (CD 1989)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD had)
+      (NP
+        (NP
+          (NP (NNS sales))
+          (PP (IN of)
+            (NP
+              (QP (RB about) ($ $) (CD 40) (CD million)))))
+        (CC and)
+        (NP
+          (NP (DT an) (VBG operating) (NN loss))
+          (PP (IN of)
+            (NP
+              (QP ($ $) (CD 1.5) (CD million)))))))
+    (. .)))
+

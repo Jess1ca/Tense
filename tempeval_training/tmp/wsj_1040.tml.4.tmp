@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBZ has)
+      (NP
+        (NP
+          (QP (RB about) (CD 8.8) (CD million))
+          (NNS shares))
+        (ADJP (JJ outstanding))))
+    (. .)))
+

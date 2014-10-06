@@ -1,0 +1,10 @@
+(ROOT
+  (FRAG
+    (NP (VB Good) (NN news))
+    (PP (IN for)
+      (NP (NNP AT)
+        (CC and)
+        (NNP T)))
+    (NP (NN today))
+    (. .)))
+

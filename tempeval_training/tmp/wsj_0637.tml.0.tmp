@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (NNP John) (NNP Labatt) (NNP Ltd.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ plans)
+            (NP
+              (NP (DT a) (JJ private) (NN placement))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (QP (CD 150) (CD million))
+                    (JJ Canadian) (NNS dollars))
+                  (PRN (-LRB- -LRB-)
+                    (NP
+                      (QP ($ US$) (CD 127.5) (CD million)))
+                    (-RRB- -RRB-)))))
+            (PP (IN in)
+              (NP (VBN preferred) (NNS shares)))
+            (, ,)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBN completed)
+                    (ADVP (RB around))
+                    (NP (NNP Nov.) (CD 1))))))))))
+    (. .)))
+

@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (DT The) (NN candy) (NNS businesses))
+    (VP (VBD had)
+      (NP
+        (NP (NNS sales))
+        (PP (IN of)
+          (NP
+            (QP (RB about) ($ $) (CD 154) (CD million)))))
+      (NP (JJ last) (NN year))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD was)
+            (NP
+              (NP
+                (QP (RB roughly) (CD 12))
+                (NN %))
+              (PP (IN of)
+                (NP
+                  (NP (JJ total) (NN revenue))
+                  (PP (IN for)
+                    (NP
+                      (NP (NNP RJR) (POS 's))
+                      (NNP Planters) (NNPS LifeSavers) (NN unit)))))))))
+      (, ,)
+      (PP (VBG according)
+        (PP (TO to)
+          (NP
+            (NP (DT a) (NN memorandum))
+            (VP (VBN distributed)
+              (PP (IN by)
+                (NP
+                  (NP
+                    (NP (NNP RJR) (POS 's))
+                    (NN owner))
+                  (, ,)
+                  (NP (NNP Kohlberg) (NNP Kravis) (NNP Roberts) (NNP amp) (NNP Co.))
+                  (, ,)
+                  (PP (TO to)
+                    (NP (NNS bankers)))
+                  (NP (JJ last) (NNP December)))))))))
+    (. .)))
+

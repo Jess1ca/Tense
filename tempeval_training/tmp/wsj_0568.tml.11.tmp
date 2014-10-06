@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Unisys))
+    (ADVP (RB also))
+    (VP (VBD noted)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBD paid)
+            (NP
+              (QP ($ $) (CD 78.8) (CD million)))
+            (PP (IN in)
+              (NP (NNS taxes)))
+            (PP (IN during)
+              (NP (DT the) (NN quarter)))
+            (, ,)
+            (SBAR (RB even) (IN though)
+              (S
+                (NP (NN tax) (NNS payments))
+                (ADVP (RB normally))
+                (VP (MD would)
+                  (VP (VB be)
+                    (ADJP (JJ minimal)
+                      (PP (IN in)
+                        (NP
+                          (NP (DT a) (NN quarter))
+                          (SBAR
+                            (WHNP (WDT that))
+                            (S
+                              (VP (VBD produced)
+                                (NP (PDT such) (DT a) (JJ big) (NN loss))))))))))))))))
+    (. .)))
+

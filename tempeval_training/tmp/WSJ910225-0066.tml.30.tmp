@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (PP (IN Despite)
+      (NP (DT these) (JJ early) (NNS successes)))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ mere) (NN fact))
+      (SBAR (IN that)
+        (S
+          (NP (DT a) (NN ground) (NN campaign))
+          (VP (VBZ has)
+            (VP (VBN begun)
+              (ADVP (RB almost)))))))
+    (VP (VBZ guarantees)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNP Bush) (NN administration))
+          (VP (MD will)
+            (VP (VB face)
+              (NP (JJ fresh) (NNS problems))
+              (S
+                (VP (VBG growing)
+                  (PRT (RP out))
+                  (PP (IN of)
+                    (NP (DT the) (JJ military) (NN situation))))))))))
+    (. .)))
+

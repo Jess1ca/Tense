@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ 's)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB meet)
+              (PP (IN with)
+                (NP (JJ Iraqi) (JJ deputy) (JJ prime) (NN minister) (NNP Tariq) (NNP Aziz)))
+              (NP (RBR later) (DT this) (NN afternoon)))))))
+    (. .)))
+

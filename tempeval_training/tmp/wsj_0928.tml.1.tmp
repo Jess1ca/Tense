@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Sun))
+      (, ,)
+      (NP
+        (NP (DT a) (NN maker))
+        (PP (IN of)
+          (NP (NN computer) (NNS workstations))))
+      (, ,))
+    (VP (VBD reported)
+      (NP
+        (NP (NNS sales))
+        (PP (IN of)
+          (NP
+            (QP ($ $) (CD 538.5) (CD million)))))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN quarter))
+          (VP (VBN ended)
+            (NP (NNP Sept.) (CD 29))
+            (, ,)
+            (ADVP (RB up)
+              (NP (CD 39) (NN %))
+              (PP (IN from)
+                (NP
+                  (QP ($ $) (CD 388.5) (CD million)))
+                (NP (DT a) (NN year) (RBR earlier))))))))
+    (. .)))
+

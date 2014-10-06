@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT A) (NNP Kellogg) (NN officer))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD asked)
+              (S (RB not)
+                (VP (TO to)
+                  (VP (VB be)
+                    (VP (VBN named))))))))
+        (, ,))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (DT the) (NNP Memphis) (NN project))
+            (VP (VBD was))))))
+    ('' '')
+    (VP (VBD pulled)
+      (PP (IN in) (IN for)
+        (NP
+          (NP (DT a) (NN reconsideration))
+          (PP (IN of)
+            (NP (NNS costs)))))
+      (, ,) ('' '')
+      (SBAR
+        (NP (DT an) (NN indication))
+        (IN that)
+        (S
+          (NP (DT the) (JJ ambitious) (NNS plans))
+          (VP (MD might)
+            (VP (VB be)
+              (VP (VBN scaled)
+                (PRT (RP back))
+                (PP (IN in)
+                  (NP (DT any) (JJ future) (NN construction)))))))))
+    (. .)))
+

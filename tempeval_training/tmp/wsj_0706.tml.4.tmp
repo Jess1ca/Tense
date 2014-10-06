@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (PP (IN of)
+          (NP (NNP Sept.) (CD 30)))
+        (, ,)
+        (NP (DT the) (NN bank))
+        (VP (VBD had)
+          (NP
+            (NP
+              (NP (NNS assets))
+              (PP (IN of)
+                (NP
+                  (QP ($ $) (CD 511) (CD million)))))
+            (CC and)
+            (NP
+              (NP (NNS deposits))
+              (PP (IN of)
+                (NP
+                  (QP ($ $) (CD 469) (CD million)))))))))
+    (, ,)
+    (NP (NNP Security) (NNP Pacific))
+    (VP (VBD said))
+    (. .)))
+

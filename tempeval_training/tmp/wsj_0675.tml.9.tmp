@@ -1,0 +1,12 @@
+(ROOT
+  (S (CC But)
+    (NP (JJ weak) (NN car) (NNS sales))
+    (VP (VBP raise)
+      (NP
+        (NP (NNS questions))
+        (PP (IN about)
+          (NP (JJ future) (NN demand))))
+      (PP (IN from)
+        (NP (DT the) (NN auto) (NN sector))))
+    (. .)))
+

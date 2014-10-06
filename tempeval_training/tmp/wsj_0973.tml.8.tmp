@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ bright) (NN spot))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (NP (DT the) (NN company) (POS 's))
+          (JJ power-generation) (NN business))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (VP (VBG experiencing)
+                (NP
+                  (NP (DT a) (NN surge))
+                  (PP (IN of)
+                    (NP (NN growth))))
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (JJ first) (NN time))
+                    (PP (IN in)
+                      (NP (NNS years)))))))))))
+    (. .)))
+

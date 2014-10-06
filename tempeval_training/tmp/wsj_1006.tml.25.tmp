@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Yvon) (NNP Bussieres))
+    (VP (VBD was)
+      (VP (VBN named)
+        (NP
+          (NP (JJ senior)
+            (NX
+              (NX (JJ executive) (NN vice) (NN president))
+              (CC and)
+              (NX (JJ chief) (VBG operating) (NN officer))))
+          (PP (IN of)
+            (NP
+              (NP (NNP Provigo))
+              (, ,)
+              (NP (DT a) (JJ new) (NN position)))))))
+    (. .)))
+

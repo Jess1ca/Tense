@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN plight))
+            (PP (IN of)
+              (NP
+                (NP (NNS women))
+                (PP (IN in)
+                  (NP (JJ urban) (NNS areas))))))
+          (VP (VBZ is)
+            (ADJP
+              (ADJP (JJR greater))
+              (PP (IN than)
+                (NP
+                  (NP (DT that))
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBZ exists)
+                        (PP (IN in)
+                          (NP
+                            (NP (JJ rural) (NNS parts))
+                            (PP (IN of)
+                              (NP (DT the) (NN country)))))))))))))))
+    (. .)))
+

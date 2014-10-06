@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (NNP MGM) (NNP Grand))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (JJS latest) (NN stock) (NN offering))
+          (VP
+            (VP (MD wo) (RB n't)
+              (VP (VB cover)
+                (NP
+                  (NP (DT the)
+                    (ADJP
+                      (QP ($ $) (CD 600) (CD million)
+                        (CC or)
+                        (JJR more)))
+                    (NN cost))
+                  (PP (IN of)
+                    (S
+                      (VP (VBG building)
+                        (NP (DT the) (VBN proposed) (NN resort)
+                          (CC and)
+                          (NN theme) (NN park))))))))
+            (, ,)
+            (CC and)
+            (VP (VBD added)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (MD will)
+                    (VP (VB need)
+                      (S
+                        (VP (TO to)
+                          (VP (VB seek)
+                            (NP (JJ additional) (NN financing)))))
+                      (, ,)
+                      (PP (CC either)
+                        (IN through)
+                        (NP
+                          (NP (NN bank) (NNS borrowings))
+                          (CC or)
+                          (NP (NN debt)
+                            (CC and)
+                            (NN equity) (NNS offerings))))
+                      (, ,)
+                      (PP (IN at)
+                        (NP (DT a) (JJ later) (NN date))))))))))))
+    (. .)))
+

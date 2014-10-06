@@ -1,0 +1,13 @@
+1	A	_	DT	DT	_	2	det	_	_
+2	passerby	_	NN	NN	_	3	nsubj	_	_
+3	called	_	VBD	VBD	_	0	root	_	_
+4	police	_	NNS	NNS	_	3	dobj	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	report	_	VB	VB	_	3	xcomp	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	body	_	NN	NN	_	6	dobj	_	_
+9	alongside	_	IN	IN	_	6	prep	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	road	_	NN	NN	_	9	pobj	_	_
+12	.	_	.	.	_	3	punct	_	_
+

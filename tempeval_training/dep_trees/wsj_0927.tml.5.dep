@@ -1,0 +1,20 @@
+1	But	_	CC	CC	_	4	cc	_	_
+2	Mr.	_	NNP	NNP	_	3	nn	_	_
+3	Schwarz	_	NNP	NNP	_	4	nsubj	_	_
+4	welcomes	_	VBZ	VBZ	_	0	root	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	competition	_	NN	NN	_	4	dobj	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	U.S.	_	NNP	NNP	_	9	nn	_	_
+9	Trust	_	NNP	NNP	_	12	poss	_	_
+10	's	_	POS	POS	_	9	possessive	_	_
+11	flagship	_	NN	NN	_	12	nn	_	_
+12	businesses	_	NNS	NNS	_	7	pobj	_	_
+13	,	_	,	,	_	4	punct	_	_
+14	calling	_	VBG	VBG	_	4	vmod	_	_
+15	it	_	PRP	PRP	_	17	dep	_	_
+16	``	_	``	``	_	17	punct	_	_
+17	flattery	_	JJ	JJ	_	14	dep	_	_
+18	.	_	.	.	_	4	punct	_	_
+19	''	_	''	''	_	4	punct	_	_
+

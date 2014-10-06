@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Billions))
+      (PP (IN of)
+        (NP
+          (NP (NNS investors) (POS '))
+          (NNS dollars))))
+    (VP (VBP are)
+      (VP (VBG pouring)
+        (PRT (RP out))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN nation) (POS 's))
+            (JJ junk-bond) (JJ mutual) (NNS funds)))
+        (, ,)
+        (S
+          (VP (VBG undermining)
+            (NP
+              (NP (DT a) (NN pillar))
+              (PP (IN of)
+                (NP (NN support))))
+            (PP (IN in)
+              (NP (DT the)
+                (ADJP (RB already) (VBG reeling))
+                (NN junk) (NN market)))))))
+    (. .)))
+

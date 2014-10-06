@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Unisys) (NNP Corp.) (POS 's))
+        (NN announcement))
+      (NP (NNP Friday))
+      (PP (IN of)
+        (NP
+          (NP (DT a)
+            (ADJP
+              (QP ($ $) (CD 648.2) (CD million)))
+            (NN loss))
+          (PP (IN for)
+            (NP (DT the) (JJ third) (NN quarter))))))
+    (VP (VBD showed)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN company))
+          (VP (VBZ is)
+            (VP (VBG moving)
+              (ADVP
+                (ADVP (RB even) (RBR faster))
+                (SBAR (IN than)
+                  (FRAG
+                    (VP (VBN expected)
+                      (S
+                        (VP (TO to)
+                          (VP
+                            (VP (VB take)
+                              (NP (NNS write-offs))
+                              (PP (IN on)
+                                (NP (PRP$ its) (JJ various) (NNS problems))))
+                            (CC and)
+                            (VP (VB prepare)
+                              (PP (IN for)
+                                (NP (DT a) (NN turnaround)))
+                              (NP (JJ next) (NN year)))))))))))))))
+    (. .)))
+

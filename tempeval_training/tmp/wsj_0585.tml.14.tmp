@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (NNP Shearson) (NNP Lehman))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VBZ executes)
+      (NP
+        (NP (NN program) (NNS trades))
+        (PP (IN for)
+          (NP (NNS clients)))))
+    (. .)))
+

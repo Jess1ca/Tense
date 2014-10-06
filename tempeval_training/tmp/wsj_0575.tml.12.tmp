@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ recent) (NNS months)))
+    (NP
+      (NP (DT a) (NN group))
+      (PP (IN of)
+        (NP (NNS lenders)))
+      (, ,)
+      (VP (VBN led)
+        (PP (IN by)
+          (NP
+            (NP (NNP Bank))
+            (PP (IN of)
+              (NP (NNP America))))))
+      (, ,))
+    (VP (VBZ has)
+      (VP (VBN extended)
+        (NP (NNP Control) (NNP Data))
+        (NP
+          (NP
+            (NP
+              (QP (IN up) (TO to) ($ $) (CD 90) (CD million)))
+            (PP (IN in)
+              (NP
+                (NP (VBG revolving) (NNS loans))
+                (PP (IN through)
+                  (NP (NNP January))))))
+          (, ,)
+          (CONJP (RB as) (RB well) (IN as))
+          (NP
+            (NP
+              (QP ($ $) (CD 115) (CD million)))
+            (PP (IN in)
+              (NP
+                (NP (JJ standby) (NNS letters))
+                (PP (IN of)
+                  (NP (NN credit)))))))))
+    (. .)))
+

@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (S
+        (VP (VBG wooing)
+          (NP (JJ British) (NNS lawmakers)))))
+    (, ,)
+    (NP (NNP GM))
+    (VP (VBZ has)
+      (VP (VBN pointed)
+        (PRT (RP out))
+        (SBAR (IN that)
+          (S
+            (NP (PRP$ its) (NN willingness)
+              (S
+                (VP (TO to)
+                  (VP (VB settle)
+                    (PP (IN for)
+                      (NP (DT a) (NN minority) (NN stake)))))))
+            (VP (MD would)
+              (VP (VB keep)
+                (S
+                  (NP (NNP Jaguar))
+                  (ADJP (JJ British-owned)
+                    (CC and)
+                    (JJ independent)))))))))
+    (. .)))
+

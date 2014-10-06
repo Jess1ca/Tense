@@ -1,0 +1,7 @@
+(ROOT
+  (S
+    (NP (NNP Bond) (NNS prices))
+    (VP (VBD were)
+      (ADJP (RB barely) (JJR higher)))
+    (. .)))
+

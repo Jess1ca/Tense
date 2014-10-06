@@ -1,0 +1,16 @@
+1	Worries	_	NNS	NNS	_	3	nsubj	_	_
+2	however	_	RB	RB	_	3	advmod	_	_
+3	grew	_	VBD	VBD	_	0	root	_	_
+4	about	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	safety	_	NN	NN	_	4	pobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	Americans	_	NNPS	NNPS	_	7	pobj	_	_
+9	and	_	CC	CC	_	6	cc	_	_
+10	other	_	JJ	JJ	_	11	amod	_	_
+11	Westerners	_	NNPS	NNPS	_	6	conj	_	_
+12	trapped	_	VBN	VBN	_	11	vmod	_	_
+13	in	_	IN	IN	_	12	prep	_	_
+14	Kuwait	_	NNP	NNP	_	13	pobj	_	_
+15	.	_	.	.	_	3	punct	_	_
+

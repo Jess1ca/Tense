@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (JJ Other) (JJ new) (NN board) (NNS members))
+    (VP (VBP include)
+      (NP
+        (NP (NNP John) (NNP S.) (NNP Harrison)
+          (CC and)
+          (NNP Mark) (NNP A.) (NNP Adley))
+        (PP (IN of)
+          (NP
+            (NP (NNP First) (NNP Boston))
+            (, ,)
+            (NP (NNP James) (NNP F.) (NNP Lyons))
+            (, ,)
+            (NP (NNP William) (NNP S.) (NNP Goldberg))
+            (CC and)
+            (NP (NNP Harold) (NNP S.) (NNP Handelsman))))))
+    (. .)))
+

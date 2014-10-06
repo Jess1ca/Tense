@@ -1,0 +1,25 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	restaurant	_	NN	NN	_	3	nn	_	_
+3	operator	_	NN	NN	_	4	nsubj	_	_
+4	cited	_	VBD	VBD	_	0	root	_	_
+5	transaction	_	NN	NN	_	6	nn	_	_
+6	costs	_	NNS	NNS	_	4	dobj	_	_
+7	from	_	IN	IN	_	4	prep	_	_
+8	its	_	PRP$	PRP$	_	10	poss	_	_
+9	1988	_	CD	CD	_	10	num	_	_
+10	recapitalization	_	NN	NN	_	7	pobj	_	_
+11	as	_	IN	IN	_	4	prep	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	result	_	NN	NN	_	11	pobj	_	_
+14	of	_	IN	IN	_	13	prep	_	_
+15	a	_	DT	DT	_	19	det	_	_
+16	$	_	$	$	_	19	amod	_	_
+17	160	_	CD	CD	_	18	number	_	_
+18	million	_	CD	CD	_	16	num	_	_
+19	restructuring	_	NN	NN	_	14	pobj	_	_
+20	of	_	IN	IN	_	19	prep	_	_
+21	its	_	PRP$	PRP$	_	23	poss	_	_
+22	bank	_	NN	NN	_	23	nn	_	_
+23	debt	_	NN	NN	_	20	pobj	_	_
+24	.	_	.	.	_	4	punct	_	_
+

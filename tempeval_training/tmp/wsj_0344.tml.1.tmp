@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT These) (NNS results))
+    (VP (VBP compare)
+      (PP (IN with)
+        (NP
+          (NP (JJ net) (NN income))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP ($ $) (CD 1.8) (CD million)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP (CD 44) (NNS cents))
+                (NP (DT a) (NN share)))
+              (, ,)))))
+      (PP (IN for)
+        (NP (DT the) (JJ corresponding) (NN period)))
+      (NP (JJ last) (NN year)))
+    (. .)))
+

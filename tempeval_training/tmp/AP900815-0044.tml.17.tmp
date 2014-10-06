@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Sytenko))
+        (, ,)
+        (NP
+          (NP (DT a) (JJ former) (NN deputy) (NN secretary-general))
+          (PP (IN of)
+            (NP (DT the) (NNP United) (NNPS Nations))))
+        (, ,))
+      (VP (VBZ is)
+        (ADVP (RB also))
+        (VP (VBN expected)
+          (S
+            (VP (TO to)
+              (VP (VB visit)
+                (NP (NNP Baghdad))))))))
+    (, ,)
+    (NP (NNP Gremitskikh))
+    (VP (VBD said)
+      (PP (IN at)
+        (NP (DT a) (JJ regular) (NN news) (NN briefing)))
+      (NP (NN today)))
+    (. .)))
+

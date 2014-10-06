@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP United) (NNPS Nations))
+    (VP (VBZ says)
+      (S
+        (NP (NNS women)
+          (CC and)
+          (NNS children))
+        (VP (VB make)
+          (PRT (RP up))
+          (PP (IN about)
+            (NP
+              (NP (JJ seventy-five) (NN percent))
+              (PP (IN of)
+                (NP (DT the) (JJ Afghan) (NN population))))))))
+    (. .)))
+

@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (DT the) (NN split)))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (MD will)
+      (VP (VB have)
+        (NP
+          (NP
+            (QP (JJR more) (IN than) (CD 4.7) (CD million))
+            (NNS shares))
+          (ADJP (JJ outstanding)))))
+    (. .)))
+

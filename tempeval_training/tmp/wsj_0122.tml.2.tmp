@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Underwood) (NN family))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNS holders))
+            (PP (IN of)
+              (NP
+                (NP
+                  (QP (JJR more) (IN than) (DT a))
+                  (NN majority))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN stock))
+                    (PP (IN of)
+                      (NP (DT the) (NN company))))))))
+          (VP (VBP have)
+            (VP (VBN approved)
+              (NP (DT the) (NN transaction))
+              (PP (IN by)
+                (NP (VBN written) (NN consent))))))))
+    (. .)))
+

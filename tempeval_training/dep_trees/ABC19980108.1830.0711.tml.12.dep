@@ -1,0 +1,14 @@
+1	In	_	IN	IN	_	7	prep	_	_
+2	Hong	_	NNP	NNP	_	3	nn	_	_
+3	Kong	_	NNP	NNP	_	1	pobj	_	_
+4	,	_	,	,	_	7	punct	_	_
+5	is	_	VBZ	VBZ	_	7	csubj	_	_
+6	always	_	RB	RB	_	5	advmod	_	_
+7	belongs	_	VBZ	VBZ	_	0	root	_	_
+8	to	_	TO	TO	_	7	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	seller	_	NN	NN	_	12	poss	_	_
+11	's	_	POS	POS	_	10	possessive	_	_
+12	market	_	NN	NN	_	8	pobj	_	_
+13	.	_	.	.	_	7	punct	_	_
+

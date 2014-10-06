@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ His) (NNS kidnappers))
+      (VP (VBD demanded)
+        (NP
+          (NP (DT a) (NN ransom))
+          (PP (IN of)
+            (NP
+              (NP (NNS dlrs))
+              (QP (CD 1) (CD million)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNS negotiations))
+      (VP (VBD broke)
+        (PRT (RP off))
+        (PP (IN at)
+          (NP
+            (NP (NN noon))
+            (NP (NNP Thursday))))))
+    (. .)))
+

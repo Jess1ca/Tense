@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBZ estimates)
+      (NP (DT the) (NN offering) (NN price))
+      (PP (IN at)
+        (NP
+          (NP
+            (QP (IN between) ($ $) (CD 14)
+              (CC and)
+              ($ $) (CD 16)))
+          (NP (DT a) (NN share)))))
+    (. .)))
+

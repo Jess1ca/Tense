@@ -1,0 +1,11 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP want)
+        (NP (DT a) (NN referendum))))
+    (, ,) ('' '')
+    (NP (NNP Howard))
+    (VP (VBD said))
+    (. .)))
+

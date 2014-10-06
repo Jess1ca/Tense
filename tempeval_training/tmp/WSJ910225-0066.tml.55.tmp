@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ expects)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP
+              (QP (NNS tens) (IN of) (NNS thousands)))
+            (PP (IN of)
+              (NP (JJ Iraqi) (NNS soldiers))))
+          (VP (MD will)
+            (VP (VB surrender)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NNP U.S.))
+                  (CC and)
+                  (NP (PRP$ its) (NNS allies))))
+              (PP (IN over)
+                (NP (DT the) (DT the) (JJ next) (JJ few) (NNS days))))))))
+    (. .)))
+

@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (S
+      (NP (RB Sometime) (JJ next) (NN year))
+      (, ,)
+      (NP (NNP Control) (NNP Data) (NN will))
+      ('' '')
+      (VP (VBP develop)
+        (NP (DT a) (JJ new) (NN bank) (NN relationship))))
+    (, ,) ('' '')
+    (NP (NNP Mr.) (NNP Perlman))
+    (VP (VBD said))
+    (. .)))
+

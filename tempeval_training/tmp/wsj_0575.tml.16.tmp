@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (DT a) (JJ few) (NNS assets))
+        (VP (VBP are)
+          (ADVP (RB still))
+          (VP (VBG being)
+            (VP (VBN shopped))))))
+    (PRN (: --)
+      (PP (VBG including)
+        (NP
+          (NP (DT the) (NNS sports)
+            (CC and)
+            (NN entertainment) (VBG ticketing) (NN portion))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN company) (POS 's))
+              (NNP Ticketron) (NN unit)))))
+      (: --))
+    (NP (NNP Mr.) (NNP Price))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (JJ future) (NN restructuring))
+          (VP (MD would)
+            (VP (VB be)
+              (NP
+                (NP (DT a) (NN question))
+                (PP (IN of)
+                  (NP (NN strategy)))))))))
+    (. .)))
+

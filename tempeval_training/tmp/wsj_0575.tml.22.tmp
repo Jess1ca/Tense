@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT The) (NN company) (POS 's))
+        (NN strategy))
+      (PP (IN for)
+        (S
+          (VP (VBG keeping)
+            (S
+              (NP (PRP$ its) (NN computer) (NNS products) (NN business))
+              (ADJP (JJ profitable))))))
+      (PRN (: --)
+        (S
+          (NP (PRP it))
+          (ADVP (RB recently))
+          (VP (VBD achieved)
+            (NP (NN profitability))
+            (PP (IN after)
+              (NP
+                (NP (JJ several) (NNS quarters))
+                (PP (IN of)
+                  (NP (NNS losses)))))))
+        (: --)))
+    (VP (VBZ calls)
+      (PP (IN for)
+        (NP
+          (NP (DT a) (JJ narrow) (NN focus))
+          (CC and)
+          (NP (DT a) (NN lid))))
+      (PP (IN on)
+        (NP (NNS expenses))))
+    (. .)))
+

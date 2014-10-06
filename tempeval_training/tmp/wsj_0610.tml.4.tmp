@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (VP (VBG delaying)
+              (NP
+                (NP (NN construction))
+                (PP (RB because) (IN of)
+                  (NP (JJ current) (NN market) (NNS conditions)))))))))
+    (. .)))
+

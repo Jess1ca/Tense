@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Issuance))
+      (PP (IN of)
+        (NP (DT those) (NNS warrants))))
+    (VP (MD will)
+      (VP (VB be)
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN rate))
+            (PP (IN of)
+              (NP (JJ one-third) (NN warrant)))))
+        (PP (IN for)
+          (NP
+            (NP (DT each) (NN warrant))
+            (VP (VBN exercised))))))
+    (. .)))
+

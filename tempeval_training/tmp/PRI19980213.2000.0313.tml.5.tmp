@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (S
+      (NP (DT No) (NN one))
+      (VP (VBD was)
+        (VP (VBN hurt))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNS firefighters))
+      (VP
+        (VP (VBD ordered)
+          (NP
+            (NP (DT the) (NN evacuation))
+            (PP (IN of)
+              (NP (JJ nearby) (NNS homes)))))
+        (CC and)
+        (VP (VBD said)
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (MD 'll)
+                (VP (VB monitor)
+                  (NP (DT the) (VBG shifting) (NN ground)))))))))
+    (. .)))
+

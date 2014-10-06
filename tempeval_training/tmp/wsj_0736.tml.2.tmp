@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN charge))
+      (VP (VBZ represents)
+        (NP
+          (NP (DT a) (NN write-down))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN goodwill))
+              (VP (VBN associated)
+                (PP (IN with)
+                  (NP
+                    (NP
+                      (NP (NNP Poughkeepsie) (POS 's))
+                      (NN investment))
+                    (PP (IN in)
+                      (NP (DT the) (NNS banks)))))))))))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBG trying)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB sell))
+              (CC and)
+              (VP
+                (NP (PRP$ its) (NNP North) (NNP Carolina) (NNS branches))
+                (ADVP (RB as) (RB well))))))))
+    (. .)))
+

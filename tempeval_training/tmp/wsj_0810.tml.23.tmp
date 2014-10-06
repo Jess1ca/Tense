@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN purchase))
+      (PP (IN of)
+        (NP (DT the) (JJ additional)
+          (ADJP (CD 48) (NN %))
+          (NN stake))))
+    (VP (VBZ is)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB cost)
+              (NP
+                (NP
+                  (QP (JJR more) (IN than) (CD 11) (CD billion))
+                  (NNS francs))
+                (PRN (-LRB- -LRB-)
+                  (NP
+                    (QP ($ $) (CD 1.77) (CD billion)))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+

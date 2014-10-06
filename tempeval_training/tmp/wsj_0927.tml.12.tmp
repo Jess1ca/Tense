@@ -1,0 +1,17 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP$ Our) (NN bread)
+        (CC and)
+        (NN butter))
+      (VP (VBZ is)
+        (ADVP (RB still))
+        (NP (DT the)
+          (ADJP
+            (QP ($ $) (CD 2) (CD million) (TO to) ($ $) (CD 20) (CD million)))
+          (NN account))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBZ says))
+    (. .)))
+

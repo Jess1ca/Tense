@@ -1,0 +1,20 @@
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	declined	_	VBD	VBD	_	0	root	_	_
+3	to	_	TO	TO	_	4	aux	_	_
+4	say	_	VB	VB	_	2	xcomp	_	_
+5	if	_	IN	IN	_	8	mark	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	weapons	_	NNS	NNS	_	8	nsubj	_	_
+8	included	_	VBD	VBD	_	4	advcl	_	_
+9	missiles	_	NNS	NNS	_	8	dobj	_	_
+10	,	_	,	,	_	2	punct	_	_
+11	but	_	CC	CC	_	2	cc	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	Iraqis	_	NNPS	NNPS	_	14	nsubj	_	_
+14	have	_	VBP	VBP	_	2	conj	_	_
+15	them	_	PRP	PRP	_	14	dobj	_	_
+16	in	_	IN	IN	_	14	prep	_	_
+17	their	_	PRP$	PRP$	_	18	poss	_	_
+18	arsenal	_	NN	NN	_	16	pobj	_	_
+19	.	_	.	.	_	2	punct	_	_
+

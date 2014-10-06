@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (ADVP (RB Moreover))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (JJR higher) (NNS sales)
+              (CC and)
+              (NNS shipments))
+            (PP (TO to)
+              (NP
+                (NP (NN service) (NNS centers))
+                (PP (IN from)
+                  (NP (PRP$ its) (NNP Armco) (NNP Steel) (NNP Co.) (JJ joint) (NN venture))))))
+          (VP (VBD failed)
+            (S
+              (VP (TO to)
+                (VP (VB offset)
+                  (NP (NN weakness))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (JJ automotive) (NN market))
+                      (, ,)
+                      (NP (JJR higher) (NN production) (NNS costs))
+                      (CC and)
+                      (NP (DT a) (JJR poorer) (NN product) (NN mix)))))))))))
+    (. .)))
+

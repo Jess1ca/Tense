@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (NP (NN today))
+    (, ,)
+    (NP
+      (NP (NNP King) (NNP Hussein))
+      (PP (IN of)
+        (NP (NNP Jordan))))
+    (VP (VBD arrived)
+      (PP (IN in)
+        (NP
+          (NP (NNP Washington))
+          (VP (VBG seeking)
+            (S
+              (VP (TO to)
+                (VP (VB mediate)
+                  (NP (DT the) (NNP Persian) (NNP Gulf) (NN crisis)))))))))
+    (. .)))
+

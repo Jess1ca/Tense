@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (NNP Crane) (NNS officials))
+    (VP (VBD did) (RB n't)
+      (VP (VB return)
+        (NP (NN phone) (NNS calls))
+        (S
+          (VP (VBG seeking)
+            (NP (NN comment))))))
+    (. .)))
+

@@ -1,0 +1,7 @@
+(ROOT
+  (S
+    (NP (JJ Long-term) (NNP Treasury) (NNS bonds))
+    (VP (VBD ended)
+      (ADJP (RB slightly) (JJR higher)))
+    (. .)))
+

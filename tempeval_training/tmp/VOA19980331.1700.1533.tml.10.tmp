@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (NN um))
+    (RB So)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP
+        (NP (SYM a))
+        (: -)
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (NP (DT a) (NN fallacy))
+            (SBAR (IN that)
+              (S
+                (NP (PRP they))
+                (VP (VBP 're)
+                  (VP (VBG doing)
+                    (NP (DT this))
+                    (PP (IN because)
+                      (NP (NN um)))
+                    (SBAR
+                      (S
+                        (NP (DT the) (NN sickest) (NNS patients))
+                        (VP (VBP are) (RB n't)
+                          (VP (VBG being)
+                            (VP (VBN served))))))))))))))
+    (. .)))
+

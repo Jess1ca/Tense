@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG _)
+        (NP (DT The) (JJ Iraqi) (NN ambassador))
+        (PP (TO to)
+          (NP (NNP Venezuela)))))
+    (VP (VBD said)
+      (PP (IN on)
+        (NP (NNP Tuesday)))
+      (SBAR (IN that)
+        (S
+          (NP (NNP Iraq))
+          (VP (MD would)
+            (VP (VB retaliate)
+              (PP (IN against)
+                (NP (NNP Venezuela)
+                  (CC and)
+                  (JJ other) (NNP OPEC) (NN oil) (NN cartel) (NNS members)))
+              (SBAR (IN if)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP boost)
+                    (S
+                      (NP (NN oil) (NN production))
+                      (VP (TO to)
+                        (VP (VB fill)
+                          (NP
+                            (NP (DT the) (NN gap))
+                            (VP (VBN created)
+                              (PP (IN by)
+                                (NP
+                                  (NP (VBN blocked) (NNS supplies))
+                                  (PP (IN from)
+                                    (NP (NNP Iraq)
+                                      (CC and)
+                                      (NNP Kuwait))))))))))))))))))
+    (. .)))
+

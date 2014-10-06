@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNS Sales))
+    (VP (VBD increased)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN quarter))
+          (VP (VBN ended)
+            (NP (NNP Sept.) (CD 30))
+            (PP (TO to)
+              (NP
+                (QP ($ $) (CD 747.8) (CD million))))
+            (PP (IN from)
+              (NP
+                (QP ($ $) (CD 623.5) (CD million)))
+              (NP (DT a) (NN year) (IN ago)))))))
+    (. .)))
+

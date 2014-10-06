@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (PP (IN As)
+      (NP (DT a) (NN result)))
+    (, ,)
+    (NP
+      (NP (NNP U.S.) (NNP Trust) (POS 's))
+      (NNS earnings))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN hurt))))
+    (. .)))
+

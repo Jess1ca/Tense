@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ quarter-to-quarter) (NN comparison))
+    (VP (VBD was)
+      (ADVP (RB also))
+      (VP (VBN enhanced)
+        (PP (IN by)
+          (NP
+            (NP (NNS charges))
+            (VP (VBN taken)
+              (PP (IN in)
+                (NP (DT the) (JJ year-earlier) (NN period)))
+              (, ,)
+              (PP (VBG including)
+                (NP
+                  (NP
+                    (QP ($ $) (CD 11) (CD million)))
+                  (VP (VBN related)
+                    (PP (TO to)
+                      (NP
+                        (NP (DT the) (NN modernization))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT a) (NN pulp)
+                              (CC and)
+                              (NN newsprint) (NN mill))
+                            (PP (IN in)
+                              (NP (NNP Alabama)))))))))))))))
+    (. .)))
+

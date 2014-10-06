@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (NNP UNOS) (NN spokeswoman) (NNP Donna) (NNP Henry) (NNP Wright))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (DT the) (JJ new) (NN policy))
+          (VP (MD would) (RB not)
+            (ADVP (RB necessarily))
+            (VP (VB be)
+              (ADJP (RBR more) (JJ fair)
+                (CC or)
+                (JJ effective))
+              (SBAR (IN because)
+                (S
+                  (NP (NNS allowances))
+                  (VP (VBP are)
+                    (ADVP (RB already))
+                    (VP (VBN made)
+                      (PP (IN for)
+                        (NP (DT the) (JJS most) (JJ needy) (NNS patients))))))))))))
+    (. .)))
+

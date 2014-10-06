@@ -1,0 +1,19 @@
+1	Egypt	_	NNP	NNP	_	9	nsubj	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	Syria	_	NNP	NNP	_	1	conj	_	_
+4	,	_	,	,	_	1	punct	_	_
+5	Morocco	_	NNP	NNP	_	1	conj	_	_
+6	and	_	CC	CC	_	1	cc	_	_
+7	Bangladesh	_	NNP	NNP	_	1	conj	_	_
+8	also	_	RB	RB	_	9	advmod	_	_
+9	committed	_	VBD	VBD	_	0	root	_	_
+10	ground	_	NN	NN	_	11	nn	_	_
+11	troops	_	NNS	NNS	_	9	dobj	_	_
+12	,	_	,	,	_	9	punct	_	_
+13	to	_	TO	TO	_	9	prep	_	_
+14	a	_	DT	DT	_	17	det	_	_
+15	much	_	RB	RB	_	16	advmod	_	_
+16	lesser	_	JJR	JJR	_	17	amod	_	_
+17	degree	_	NN	NN	_	13	pobj	_	_
+18	.	_	.	.	_	9	punct	_	_
+

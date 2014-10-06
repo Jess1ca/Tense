@@ -1,0 +1,22 @@
+(ROOT
+  (S (`` ``)
+    (NP (DT All) (NNPS Iraqis))
+    (, ,)
+    (VP (VB fight)
+      (NP (PRP them))
+      (PP (IN with)
+        (NP
+          (NP
+            (NP (PDT all) (DT the) (NN power))
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP (VBP have)))))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (DT all) (NN struggle))
+            (PP (IN for)
+              (NP (NN everything)))))))
+    (. .) ('' '')))
+

@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT The) (NN fund))
+    (ADVP (RB now))
+    (VP (VBZ holds)
+      (NP
+        (NP (DT a) (NN cash) (NN position))
+        (PP (IN of)
+          (NP
+            (QP (RB about) (CD 15))
+            (NN %)))))
+    (. .)))
+

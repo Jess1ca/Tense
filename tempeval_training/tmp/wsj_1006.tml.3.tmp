@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Lortie))
+    (VP
+      (VP (VBD joined)
+        (NP
+          (NP (NNP Provigo))
+          (PP (IN in)
+            (NP (CD 1985)))))
+      (CC and)
+      (VP (VBD spearheaded)
+        (NP
+          (NP (DT the) (NN company) (POS 's))
+          (NN drive)
+          (S
+            (VP (TO to)
+              (VP (VB grow)
+                (PP (IN outside)
+                  (NP (PRP$ its) (JJ traditional) (NN food) (NN business)))))))))
+    (. .)))
+

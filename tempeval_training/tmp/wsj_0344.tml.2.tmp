@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT This) (NN quarter) (POS 's))
+      (NN loss))
+    (VP (VBZ includes)
+      (NP
+        (NP (JJ pretax) (NNS charges))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP
+                (QP ($ $) (CD 4.9) (CD million)))
+              (PP (IN on)
+                (NP
+                  (NP (DT the) (VBN proposed) (NN discontinuation))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN company) (POS 's))
+                      (JJ troubled) (JJ British) (NN subsidiary))))))
+            (, ,)
+            (CC and)
+            (NP
+              (NP
+                (QP ($ $) (CD 3.7) (CD million)))
+              (PP (IN of)
+                (NP
+                  (NP (JJ other) (NNS write-offs))
+                  (SBAR
+                    (S
+                      (NP (DT the) (NN company))
+                      (VP (VBD said)
+                        (SBAR
+                          (S
+                            (VP (VBD were)
+                              (ADJP
+                                (ADJP (JJ non-recurring))
+                                (CC and)
+                                (ADJP (RB principally) (VBN related)
+                                  (PP (TO to)
+                                    (NP
+                                      (NP (NN inventory))
+                                      (, ,)
+                                      (NP (NN publishing) (NNS advances))
+                                      (CC and)
+                                      (NP (JJ pre-publication) (NNS costs)))))))))))))))))))
+    (. .)))
+

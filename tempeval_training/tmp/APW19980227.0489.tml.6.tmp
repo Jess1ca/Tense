@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN panel))
+      (VP
+        (VP (MD will)
+          (VP (VB be)
+            (VP (VBN based)
+              (PP (IN in)
+                (NP (NNP Addis) (NNP Ababa))))))
+        (, ,)
+        (CC and)
+        (VP (MD will)
+          (VP (VB finish)
+            (NP (PRP$ its) (NN investigation))
+            (PP (IN within)
+              (NP (DT a) (NN year)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD said))
+    (. .)))
+

@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB also))
+    (VP (VBD rejected)
+      (NP (NNS reports))
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ his) (NN departure))
+          (VP (VBD stemmed)
+            (PP (IN from)
+              (NP (NN disappointment)))
+            (SBAR
+              (S
+                (NP
+                  (NP (DT the) (JJ general) (NN manager) (POS 's))
+                  (NN post))
+                (VP (VBD had) (RB n't)
+                  (ADVP (RB also))
+                  (VP (VBN led)
+                    (PP (TO to)
+                      (NP (DT a) (NN board) (NN directorship)))
+                    (PP (IN at)
+                      (NP (DT the) (JJ London-based) (NN news) (NN organization)))))))))))
+    (. .)))
+

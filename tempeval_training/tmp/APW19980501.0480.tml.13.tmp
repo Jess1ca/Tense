@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Other))
+      (PP (IN than)
+        (NP
+          (NP (NN usage))
+          (PP (IN in)
+            (NP
+              (NP (NN business))
+              (, ,)
+              (NP (NN Internet) (NN technology)))))))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (VP (VBG beginning)
+        (S
+          (VP (TO to)
+            (VP (VB infiltrate)
+              (NP (DT the) (NN lifestyle) (NN domain)))))))
+    (. .)))
+

@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (PP (IN Until)
+      (NP (RB then)))
+    (, ,)
+    (NP (NNP Conseco))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN stock))
+          (VP (VBZ remains)
+            (ADJP (JJ convertible)
+              (PP (IN into)
+                (NP
+                  (NP (JJ common) (NN stock))
+                  (PP (IN at)
+                    (NP
+                      (NP (DT the) (NN rate))
+                      (PP (IN of)
+                        (NP
+                          (NP (CD 1.439) (NNS shares))
+                          (PP (IN of)
+                            (NP (JJ common) (NN stock))))))))))
+            (PP (IN for)
+              (NP
+                (NP (DT each) (NN share))
+                (PP (IN of)
+                  (NP
+                    (NP (VBN preferred) (NN stock))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBZ is)
+                          (ADJP (JJ equivalent)
+                            (PP (TO to)
+                              (NP
+                                (NP (DT a) (NN conversion) (NN price))
+                                (PP (IN of)
+                                  (NP
+                                    (NP ($ $) (CD 17.50))
+                                    (NP (DT a) (JJ common) (NN share))))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Stock-index) (NN arbitrage))
+      (PRN (: --)
+        (NP
+          (NP (DT the) (JJ computer-guided) (NN buying)
+            (CC and)
+            (NN selling))
+          (PP (IN of)
+            (NP
+              (NP (NNS stocks))
+              (PP (IN with)
+                (NP
+                  (NP (VBG offsetting) (NNS trades))
+                  (PP (IN in)
+                    (NP (JJ stock-index) (NNS futures)))
+                  (S
+                    (VP (TO to)
+                      (VP (VB profit)
+                        (PP (IN from)
+                          (NP (JJ fleeting) (NN price) (NNS discrepancies)))))))))))
+        (: --)))
+    (VP (VBZ affects)
+      (NP (DT the) (NNP OTC) (NN market))
+      (PP
+        (ADVP (RB directly))
+        (IN through)
+        (NP
+          (NP (DT the) (CD 31) (NNS stocks))
+          (VP (VBN included)
+            (PP (IN in)
+              (NP
+                (NP (NNP Standard) (NNP amp) (NNP Poor) (POS 's))
+                (JJ 500-stock) (NN index)))))))
+    (. .)))
+

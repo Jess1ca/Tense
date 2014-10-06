@@ -1,0 +1,26 @@
+1	``	_	``	``	_	14	punct	_	_
+2	We	_	PRP	PRP	_	3	nsubj	_	_
+3	were	_	VBD	VBD	_	14	ccomp	_	_
+4	n't	_	RB	RB	_	3	neg	_	_
+5	as	_	RB	RB	_	6	advmod	_	_
+6	concerned	_	JJ	JJ	_	3	acomp	_	_
+7	until	_	IN	IN	_	9	mark	_	_
+8	they	_	PRP	PRP	_	9	nsubj	_	_
+9	became	_	VBD	VBD	_	3	advcl	_	_
+10	sell	_	VB	VB	_	9	xcomp	_	_
+11	programs	_	NNS	NNS	_	10	dobj	_	_
+12	,	_	,	,	_	14	punct	_	_
+13	''	_	''	''	_	14	punct	_	_
+14	says	_	VBZ	VBZ	_	0	root	_	_
+15	Mr.	_	NNP	NNP	_	16	nn	_	_
+16	DaPuzzo	_	NNP	NNP	_	14	nsubj	_	_
+17	,	_	,	,	_	16	punct	_	_
+18	who	_	WP	WP	_	20	nsubj	_	_
+19	now	_	RB	RB	_	20	advmod	_	_
+20	thinks	_	VBZ	VBZ	_	16	rcmod	_	_
+21	it	_	PRP	PRP	_	22	nsubj	_	_
+22	adds	_	VBZ	VBZ	_	20	ccomp	_	_
+23	unnecessary	_	JJ	JJ	_	24	amod	_	_
+24	volatility	_	NN	NN	_	22	dobj	_	_
+25	.	_	.	.	_	14	punct	_	_
+

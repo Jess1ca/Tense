@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (PP
+      (ADVP
+        (NP (RB Even)
+          (QP (CD two) (CD hundred))
+          (NNS miles))
+        (RB up))
+      (IN in)
+      (NP (NN space)))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (NP (DT a) (NN glass) (NN ceiling))))
+    (. .)))
+

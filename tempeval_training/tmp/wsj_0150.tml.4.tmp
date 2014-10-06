@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (NNP Primerica))
+    (VP (VBD closed)
+      (PP (IN at)
+        (NP ($ $) (CD 28.25)))
+      (, ,)
+      (ADVP (RB down)
+        (NP (CD 50) (NNS cents))))
+    (. .)))
+

@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP Columbia))
+    (VP (VBZ owes)
+      (NP (PRP$ its) (JJ spectacular) (NN growth))
+      (PP (IN in)
+        (NP (JJ recent) (NNS years)))
+      (PP (TO to)
+        (NP (PRP$ its) (NN junk-bond) (NN portfolio)))
+      (, ,)
+      (NP
+        (NP (DT the) (JJS largest))
+        (PP (IN of)
+          (NP (DT any) (NNP U.S.) (NN thrift)))))
+    (. .)))
+

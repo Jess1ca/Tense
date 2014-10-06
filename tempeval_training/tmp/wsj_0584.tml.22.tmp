@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (VP (TO To)
+        (VP (VB sweeten)
+          (NP (DT the) (NN pact))
+          (ADVP
+            (ADVP (RBR further))
+            (PRN (: --)
+              (CC and)
+              (VP (TO to)
+                (VP (VB ease)
+                  (NP
+                    (NP (NNS concerns))
+                    (PP (IN of)
+                      (NP (JJ institutional) (NNS investors))))))
+              (: --))))))
+    (NP (NNP BellSouth))
+    (VP (VBD added)
+      (NP
+        (NP (DT a) (NN provision))
+        (VP (VBN designed)
+          (S
+            (VP (TO to)
+              (VP (VB give)
+                (NP (JJ extra) (NN protection))
+                (PP (TO to)
+                  (NP (NNS holders)))
+                (SBAR (IN if)
+                  (S
+                    (NP (DT the) (JJ regional) (NNP Bell) (NN company))
+                    (ADVP (RB ever))
+                    (VP (VBZ decides)
+                      (S
+                        (VP (TO to)
+                          (VP (VB buy)
+                            (NP
+                              (NP (DT the) (NN rest))
+                              (PP (IN of)
+                                (NP (DT the) (JJ new) (JJ cellular) (NN company))))))))))))))))
+    (. .)))
+

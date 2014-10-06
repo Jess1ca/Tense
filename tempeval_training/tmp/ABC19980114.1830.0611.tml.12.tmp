@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (ADVP (RB Later))
+    (, ,)
+    (NP (DT the) (NN controller))
+    (VP (VBZ asks)
+      (NP
+        (NP (DT the) (NNP Eastwind) (NN pilot))
+        (PP (IN for)
+          (NP (JJR more) (NNS details)))))
+    (. .)))
+

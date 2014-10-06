@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (NNS Farkas))
+    (VP (MD will)
+      (VP (VB move)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN company) (POS 's))
+            (NNP U.S.) (NN headquarters)))))
+    (. .)))
+

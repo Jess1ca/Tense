@@ -1,0 +1,23 @@
+1	Because	_	IN	IN	_	10	prep	_	_
+2	of	_	IN	IN	_	1	pcomp	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	glitch	_	NN	NN	_	2	pobj	_	_
+5	,	_	,	,	_	10	punct	_	_
+6	however	_	RB	RB	_	10	advmod	_	_
+7	,	_	,	,	_	10	punct	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	company	_	NN	NN	_	10	nsubj	_	_
+10	said	_	VBD	VBD	_	0	root	_	_
+11	it	_	PRP	PRP	_	14	nsubj	_	_
+12	does	_	VBZ	VBZ	_	14	aux	_	_
+13	n't	_	RB	RB	_	14	neg	_	_
+14	know	_	VB	VB	_	10	ccomp	_	_
+15	when	_	WRB	WRB	_	19	advmod	_	_
+16	its	_	PRP$	PRP$	_	17	poss	_	_
+17	machine	_	NN	NN	_	19	nsubj	_	_
+18	will	_	MD	MD	_	19	aux	_	_
+19	be	_	VB	VB	_	14	advcl	_	_
+20	commercially	_	RB	RB	_	21	advmod	_	_
+21	available	_	JJ	JJ	_	19	acomp	_	_
+22	.	_	.	.	_	10	punct	_	_
+

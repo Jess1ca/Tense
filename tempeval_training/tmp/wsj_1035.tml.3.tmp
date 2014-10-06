@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NN Profit))
+    (ADVP (RB also))
+    (VP (VBD suffered)
+      (SBAR (IN because)
+        (S
+          (PP (IN of)
+            (NP
+              (NP (`` ``) (JJ intense) ('' '') (NN discounting))
+              (PP (IN in)
+                (NP (PRP$ its) (JJ long-haul) (NN trucking) (NN business)))))
+          (, ,)
+          (NP (DT the) (NN company))
+          (VP (VBD said)))))
+    (. .)))
+

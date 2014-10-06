@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (NNS Farkas))
+    (VP (VBD expressed)
+      (NP
+        (NP (DT the) (NN hope))
+        (SBAR
+          (S
+            (NP (PRP he))
+            (NP (CD one) (NN day))
+            (VP (VBP follow)
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NNS footsteps))
+                  (PP (IN of)
+                    (NP (JJ fellow) (NN astronaut) (NNP John) (NNP Glenn)))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (PP (IN at)
+                        (NP (CD 77)))
+                      (VP (VBZ is)
+                        (VP (IN about)
+                          (S
+                            (VP (TO to)
+                              (VP (VB go)
+                                (PP (IN into)
+                                  (NP (NN space)))
+                                (ADVP (RB again))))))))))))))))
+    (. .)))
+

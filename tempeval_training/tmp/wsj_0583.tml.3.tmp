@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Polly) (NNP Peck) (POS 's))
+        (NN chairman))
+      (, ,)
+      (NP (NNP Asil) (NNP Nadir))
+      (, ,))
+    (VP (VBD echoed)
+      (NP
+        (NP (DT the) (JJ official) (JJ Japanese) (NN view))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN accord))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD was)
+                  (VP (VBN announced)
+                    (NP (NNP Friday))))))))))
+    (. .)))
+

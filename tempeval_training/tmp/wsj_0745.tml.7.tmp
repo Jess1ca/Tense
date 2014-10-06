@@ -1,0 +1,17 @@
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT an) (JJ all-out) (NN bidding) (NN war))
+      (PP (IN between)
+        (NP
+          (NP
+            (NP (DT the) (NN world) (POS 's))
+            (JJ top) (NN auto) (NNS giants))
+          (PP (IN for)
+            (NP
+              (NP (NNP Britain) (POS 's))
+              (VBG leading) (NN luxury-car) (NN maker))))))
+    (VP (VBZ seems)
+      (ADJP (JJ unlikely)))
+    (. .)))
+

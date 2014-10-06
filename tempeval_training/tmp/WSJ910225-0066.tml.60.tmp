@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (JJ Outside) (NNS analysts))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Saddam) (NNP Hussein) (POS 's))
+            (NN position))
+          (VP (VBZ is)
+            (ADVP (RB indeed))
+            (ADJP (JJ precarious))))))
+    (. .)))
+

@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (VBG Operating) (NN profit))
+    (VP (VBD dropped)
+      (NP (CD 46) (NN %))
+      (PP (IN in)
+        (NP (PRP$ its) (JJ specialty) (JJ flat-rolled) (NN steel) (NN segment))))
+    (. .)))
+

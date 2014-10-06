@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (NNP Lisa) (NNP Schlein))
+    (VP (VBZ reports)
+      (PP (IN from)
+        (NP (NNP Geneva))))
+    (. .)))
+

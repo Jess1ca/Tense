@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (DT The) (JJS largest) (NN beneficiary))
+    (VP (MD will)
+      (VP (VB be)
+        (NP
+          (NP (NNP Seagram) (NNP Co.))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ owns)
+                (NP
+                  (NP
+                    (QP (RB about) (CD 23))
+                    (NN %))
+                  (PP (IN of)
+                    (NP (NNP Du) (NNP Pont))))))))))
+    (. .)))
+

@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN thrift))
+      (CC and)
+      (NP (DT the) (NNS holders)))
+    (VP (VBD had)
+      (VP (VBN suspended)
+        (NP (PRP$ their) (NNS lawsuits))
+        (PP (IN as)
+          (NP
+            (NP (NN part))
+            (PP (IN of)
+              (NP (DT the) (NN agreement)))))))
+    (. .)))
+

@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Taylor))
+    (ADVP (RB also))
+    (VP
+      (VP (VBD was)
+        (VP (VBN named)
+          (NP (DT a) (NN director))
+          (, ,)
+          (S
+            (VP (VBG increasing)
+              (NP (DT the) (NN board))
+              (PP (TO to)
+                (NP (CD 22)))))))
+      (, ,)
+      (CC but)
+      (VP (VBZ is) (RB not)
+        (NP
+          (NP (NN part))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJ new) (NN office))
+              (PP (IN of)
+                (NP (DT the) (NN chairman))))))))
+    (. .)))
+

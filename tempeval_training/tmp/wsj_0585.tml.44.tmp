@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Friday) (POS 's))
+      (NN trading) (NN volume))
+    (VP (VBD totaled)
+      (NP
+        (QP (CD 132.8) (CD million))
+        (NNS shares)))
+    (. .)))
+

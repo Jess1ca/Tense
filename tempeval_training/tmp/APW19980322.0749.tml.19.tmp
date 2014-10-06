@@ -1,0 +1,32 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (JJ Small) (JJ nationalist) (NNS communities))
+      (VP (VBP are) (RB not)
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBN left)
+                  (PP (IN on)
+                    (NP (PRP$ their) (JJ own)))
+                  (NP (DT this) (NN summer)))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Gerard) (NNP Rice))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ former) (NNP IRA) (NN prisoner))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ leads)
+              (NP (JJ anti-Orange) (NNS protests))
+              (PP (IN in)
+                (NP
+                  (NP (DT a) (JJ Catholic) (NN neighborhood))
+                  (PP (IN of)
+                    (NP (JJ south) (NNP Belfast))))))))))
+    (. .)))
+

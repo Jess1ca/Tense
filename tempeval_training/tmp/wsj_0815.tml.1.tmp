@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Di) (NNP Giorgio))
+      (, ,)
+      (NP (DT a) (NN food) (NN wholesaler)
+        (CC and)
+        (NN building) (NNS products) (NN maker))
+      (, ,))
+    (VP (VBZ is)
+      (VP (VBG seeking)
+        (NP (NNS alternatives))
+        (PP (TO to)
+          (NP
+            (NP (DT an) (JJ unsolicited)
+              (ADJP ($ $) (JJ 32-a-share))
+              (NN tender) (NN offer))
+            (PP (IN of)
+              (NP
+                (NP (NNP DIG) (NNP Acquisition) (NNP Corp.))
+                (, ,)
+                (NP
+                  (NP (DT a) (NN unit))
+                  (PP (IN of)
+                    (NP (NNP Rose) (NNPS Partners) (NNP Limited) (NNP Partnership))))))))))
+    (. .)))
+

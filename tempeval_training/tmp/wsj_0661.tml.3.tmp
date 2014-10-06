@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (DT The) (NN offer))
+    (VP (VBZ is)
+      (VP (VBN based)
+        (PP (IN on)
+          (NP (JJ several) (NNS conditions)))
+        (, ,)
+        (PP (VBG including)
+          (S
+            (VP (VBG obtaining)
+              (NP (NN financing)))))))
+    (. .)))
+

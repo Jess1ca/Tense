@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ other) (NNS customers))
+      (VP (VBD fled)))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN police))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD did) (RB not)
+              (VP (VB appear)
+                (SBAR (IN that)
+                  (S
+                    (NP (NN anyone) (RB else))
+                    (VP (VBD was)
+                      (VP (VBN injured)))))))))))
+    (. .)))
+

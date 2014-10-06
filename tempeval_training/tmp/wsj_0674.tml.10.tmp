@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ joint) (NN venture))
+      (PP (VBG involving)
+        (NP
+          (NP (NNS units))
+          (PP (IN of)
+            (NP (NNP Innopac)
+              (CC and)
+              (NNP Mobil) (NNP Corp.)))
+          (NP (RBR earlier) (DT this) (NN year)))))
+    (VP (VBD opened)
+      (NP (DT the) (JJ first) (NNP U.S.) (NN polystyrene) (NN recycling) (NN plant))
+      (, ,)
+      (PP (IN in)
+        (NP (NNP Leominster) (, ,) (NNP Mass.))))
+    (. .)))
+

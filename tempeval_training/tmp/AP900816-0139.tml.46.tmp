@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP Bush))
+    (VP (VBZ has)
+      (VP (VBN indicated)
+        (SBAR
+          (S
+            (NP (DT the) (NNP U.S.) (NNP Navy))
+            (VP (MD will)
+              (VP (VB barricade)
+                (NP (DT the) (NN port))
+                (PP (IN from)
+                  (NP (JJ Iraqi) (NNS ships)))))))))
+    (. .)))
+

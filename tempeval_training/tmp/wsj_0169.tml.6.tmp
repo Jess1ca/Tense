@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (QP (RB About) (CD 30))
+        (NN %))
+      (PP (IN of)
+        (NP
+          (NP (NNP Ratners) (POS 's))
+          (NN profit)))
+      (ADVP (RB already)))
+    (VP (VBZ is)
+      (VP (VBN derived)
+        (PP (IN from)
+          (NP (DT the) (NNP U.S.)))))))
+

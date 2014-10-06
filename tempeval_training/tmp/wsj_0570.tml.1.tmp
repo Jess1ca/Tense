@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Crane))
+      (, ,)
+      (NP
+        (NP (DT a) (NN maker))
+        (PP (IN of)
+          (NP
+            (NP (JJ engineered) (NNS products))
+            (PP (IN for)
+              (NP
+                (UCP (NN aerospace) (, ,) (NN construction) (, ,) (NN defense)
+                  (CC and)
+                  (JJ other))
+                (NNS uses))))))
+      (, ,))
+    (VP (VBD made)
+      (NP
+        (NP (DT the) (NN disclosure))
+        (PP (IN in)
+          (NP (DT a) (NNPS Securities)
+            (CC and)
+            (NNP Exchange) (NNP Commission) (VBG filing)))))
+    (. .)))
+

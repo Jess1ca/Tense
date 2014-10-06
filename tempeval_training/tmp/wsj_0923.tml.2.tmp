@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT The) (NN transaction))
+    (VP
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN approved)
+            (PP (IN by)
+              (NP
+                (NP (NNP Kyle) (POS 's))
+                (NN board))))))
+      (, ,)
+      (CC but)
+      (VP (VBZ requires)
+        (NP
+          (NP (DT the) (NN approval))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN company) (POS 's))
+              (NNS shareholders))))))
+    (. .)))
+

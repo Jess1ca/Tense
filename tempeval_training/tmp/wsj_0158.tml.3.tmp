@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP (DT No) (NN successor))
+        (VP (VBD was)
+          (VP (VBN named))))
+      (, ,)
+      (CC and)
+      (S
+        (NP
+          (NP (NNP Mr.) (NNP Reupke) (POS 's))
+          (NNS duties))
+        (VP (MD will)
+          (VP (VB be)
+            (VP (VBN split)
+              (PP (IN among)
+                (NP (CD three) (JJ other) (JJ senior) (NNP Reuters) (NNS executives))))))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said))
+    (. .)))
+

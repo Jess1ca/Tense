@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (DT A) (NN source))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN outcome))
+            (PP (IN of)
+              (NP (DT that) (NN session))))
+          (VP (VBD was)
+            (ADJP (JJ unclear))))))
+    (. .)))
+

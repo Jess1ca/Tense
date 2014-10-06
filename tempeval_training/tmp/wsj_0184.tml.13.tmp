@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (DT The) (NN spokesman))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (NP
+              (NP (DT the) (JJ first) (JJ early) (NN retirement) (NN plan))
+              (VP (VBN offered)
+                (PP (IN under)
+                  (NP (PRP$ its) (JJ two-year) (JJ cost-control) (NN strategy)))))))))
+    (. .)))
+

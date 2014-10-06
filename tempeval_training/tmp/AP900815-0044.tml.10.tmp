@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Iran))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT an) (JJ Iraqi) (JJ diplomatic) (NN delegation))
+          (VP (VBD was)
+            (ADVP (IN en) (NN route)
+              (PP (TO to)
+                (NP (NNP Tehran))))
+            (S
+              (VP (TO to)
+                (VP (VB deliver)
+                  (NP
+                    (NP
+                      (NP (NNP Saddam) (POS 's))
+                      (NN message))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (NP (PRP it))
+                        (VP (VBD said)
+                          (SBAR
+                            (S
+                              (NP (PRP it))
+                              (VP (MD would)
+                                (VP (VB review) (`` ``)
+                                  (PP (IN with)
+                                    (NP (NN optimism))))))))))))))))))
+    (. .) ('' '')))
+

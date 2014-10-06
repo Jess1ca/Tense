@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (ADVP
+      (NP (DT A) (NN year))
+      (RBR earlier))
+    (NP (NNP UniFirst))
+    (VP (VBD earned)
+      (NP
+        (NP
+          (NP
+            (QP ($ $) (CD 2.4) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP (CD 24) (NNS cents))
+            (NP (DT a) (NN share))))
+        (VP (VBN adjusted)
+          (PP (IN for)
+            (NP (DT the) (NN split))))))
+    (. .)))
+

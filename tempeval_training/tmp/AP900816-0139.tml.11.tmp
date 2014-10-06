@@ -1,0 +1,26 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (SBAR
+        (WHNP (WP What))
+        (S
+          (NP (PRP we))
+          (VP (VBP fear))))
+      (VP (VBZ is)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (MD will)
+              (VP (VB be)
+                (VP (VBN interned)
+                  (NP
+                    (NP (RB somewhere))
+                    (, ,)
+                    (ADJP (RBS most) (JJ likely)))
+                  (PP (IN in)
+                    (NP (NNP Iraq))))))))))
+    (, ,) ('' '')
+    (NP (NNP Waldegrave))
+    (VP (VBD said))
+    (. .)))
+

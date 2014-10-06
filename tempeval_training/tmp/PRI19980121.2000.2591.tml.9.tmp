@@ -1,0 +1,10 @@
+(ROOT
+  (SQ
+    (VP (VB Think)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBD got)
+            (NP (PRP it))))))
+    (. ?)))
+

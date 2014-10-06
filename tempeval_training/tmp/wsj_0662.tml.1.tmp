@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the) (NN market) (NN price)))
+    (, ,)
+    (NP (DT the) (NN transaction))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJ total) (JJ indicated) (NN value))
+        (PP (IN of)
+          (NP
+            (QP ($ $) (CD 7.4) (CD million))))))
+    (. .)))
+

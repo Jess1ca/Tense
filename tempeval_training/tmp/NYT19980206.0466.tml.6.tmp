@@ -1,0 +1,19 @@
+(ROOT
+  (S (`` ``)
+    (ADVP (RB Once) (RB again))
+    (, ,)
+    (NP (PRP I))
+    (VP
+      (VP
+        (ADVP (RB never))
+        (VBD asked)
+        (NP (NN anybody))
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (NP (NN anything))))))
+      (CC but)
+      (VP (VBP tell)
+        (NP (DT the) (NN truth))))
+    (. .)))
+

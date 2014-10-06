@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (JJ Last) (NN year))
+    (, ,)
+    (NP (NNP DSM))
+    (VP (VBD had)
+      (NP
+        (NP
+          (QP (CD 71) (CD million))
+          (NNS guilders))
+        (PP (IN of)
+          (NP (JJ extraordinary) (NNS charges))))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN restructuring) (NN program))
+          (CC and)
+          (NP (JJ other) (NNS transactions)))))
+    (. .)))
+

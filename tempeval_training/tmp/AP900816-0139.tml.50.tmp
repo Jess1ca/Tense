@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (ADVP
+      (NP (DT A) (NN day))
+      (RBR earlier))
+    (, ,)
+    (NP
+      (NP (NNS scores))
+      (PP (IN of)
+        (NP (NNS trucks)))
+      (, ,)
+      (ADJP (JJ many)
+        (PP (IN with)
+          (NP (JJ Iraqi) (NN license) (NNS plates))))
+      (, ,))
+    (VP (VBD streamed)
+      (ADVP (RB north) (RB out))
+      (PP (IN of)
+        (NP (NNP Aqaba)))
+      (PP
+        (PP (TO to)
+          (NP (NNP Amman)))
+        (CC and)
+        (PP (IN onto)
+          (NP
+            (NP (DT the) (NN desert) (NN highway))
+            (VP (VBN bound)
+              (PP (IN for)
+                (NP (NNP Iraq))))))))
+    (. .)))
+

@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP UN) (NN security) (NN council))
+    (VP (VBZ insists)
+      (SBAR
+        (S
+          (NP (DT any) (NN deal))
+          (VP (MD must)
+            (VP (VB allow)
+              (NP (NNP UN) (NNS inspectors))
+              (NP
+                (NP (JJ unrestricted) (NN access))
+                (PP (TO to)
+                  (NP (DT all) (VBN suspected) (NNS weapons) (NNS sites)))))))))
+    (. .)))
+

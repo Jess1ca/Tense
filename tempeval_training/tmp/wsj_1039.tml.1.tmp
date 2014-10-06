@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (JJ Net) (NN income))
+    (VP (VBD fell)
+      (NP (CD 37) (NN %))
+      (PP (TO to)
+        (NP
+          (NP
+            (QP ($ $) (CD 32.9) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP (CD 30) (NNS cents))
+            (NP (DT a) (NN share)))
+          (, ,)))
+      (PP (IN from)
+        (NP
+          (NP
+            (QP ($ $) (CD 52.2) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP (CD 48) (NNS cents))
+            (NP (DT a) (NN share)))
+          (, ,)))
+      (PP (IN in)
+        (NP (DT the) (JJ year-ago) (NN period))))
+    (. .)))
+

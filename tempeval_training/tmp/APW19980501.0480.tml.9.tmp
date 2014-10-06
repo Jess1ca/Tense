@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (NNP strategically))
+        (VP (VBD implemented))))
+    (, ,)
+    (NP (DT an) (NN intranet) (NN solution))
+    (VP (MD will)
+      (VP (VB provide)
+        (NP (DT the) (NN ability)
+          (S
+            (VP (TO to)
+              (VP (VB mediate)
+                (NP
+                  (NP (NN mission-critical))
+                  (, ,)
+                  (NP
+                    (NP (NN decision) (NN support) (NNS functions))
+                    (PP (IN in)
+                      (NP (NNS organisations)))))))))))
+    (. .)))
+

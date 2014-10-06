@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (VBG Operating) (NN revenue))
+    (VP (VBD surged)
+      (NP (CD 54) (NN %))
+      (PP (IN in)
+        (NP (DT the) (JJS latest) (NN period)))
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 42.9) (CD million))))
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 27.7) (CD million)))))
+    (. .)))
+

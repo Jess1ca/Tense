@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (ADVP (RB Additionally))
+    (, ,)
+    (NP (DT the) (NN bank))
+    (VP (VBZ is)
+      (VP (VBG increasing)
+        (NP (PRP$ its) (JJ loan-loss) (NNS reserves))
+        (PP (IN for)
+          (NP (DT the) (JJ third) (NN quarter)))
+        (PP (IN by)
+          (NP
+            (QP ($ $) (CD 8.5) (CD million))))
+        (PP (IN before)
+          (NP (NNS taxes)))))
+    (. .)))
+

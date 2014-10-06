@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (VBN sweetened) (NN offer))
+      (VP (VBZ has)
+        (NP
+          (NP (NNS acceptances))
+          (PP (IN from)
+            (NP
+              (NP
+                (QP (JJR more) (IN than) (CD 50))
+                (NN %))
+              (PP (IN of)
+                (NP
+                  (NP (NNP Weisfield) (POS 's))
+                  (NNS shareholders))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (VP (VBN scheduled)
+          (PP (IN for)
+            (NP (NN completion)))
+          (PP (IN by)
+            (NP (NNP Dec.) (CD 10))))))
+    (. .)))
+

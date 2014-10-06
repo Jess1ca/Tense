@@ -1,0 +1,16 @@
+(ROOT
+  (S (`` ``)
+    (NP (NNS People))
+    (VP (VBP are)
+      (VP (VBG questioning)
+        (NP (JJ corporate) (NNS profits))
+        (PP (IN as)
+          (NP
+            (NP (DT a) (NN pillar))
+            (PP (IN of)
+              (NP
+                (NP (NN support))
+                (PP (IN for)
+                  (NP (DT the) (NN equity) (NN market)))))))))
+    (. .) ('' '')))
+

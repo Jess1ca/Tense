@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (DT The) (NN fine))
+    (VP (VBZ is)
+      (ADVP (RB twice))
+      (NP (DT the) (NN donation))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (VP (VBN provided)
+            (PP (IN for)
+              (PP (IN under)
+                (NP (JJ German) (NN party) (NN financing) (NNS laws))))))))
+    (. .)))
+

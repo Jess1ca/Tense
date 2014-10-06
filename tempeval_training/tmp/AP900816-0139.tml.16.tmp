@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Washington)))
+    (, ,)
+    (NP (NNP Pentagon) (NN spokesman) (NNP Pete) (NNP Williams))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (S
+            (NP (NNP Iraq))
+            (VP (VBZ has)
+              (VP (VBN continued)
+                (S
+                  (VP (TO to)
+                    (VP (VB increase)
+                      (NP (PRP$ its) (JJ armed) (NNS forces))
+                      (PP (IN in)
+                        (NP (NNP Kuwait)))))))))
+          (CC and)
+          (S
+            (NP (PRP they))
+            (NP
+              (NP (RB now) (NN number))
+              (PP (IN about)
+                (NP (CD 160,000))))))))
+    (. .)))
+

@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP (NNP Unisys))
+    (VP (VBD set)
+      (PRT (RP up))
+      (NP
+        (NP (DT an) (JJ unspecified) (NN reserve))
+        (PRN (: --)
+          (ADVP (RB apparently))
+          (NP
+            (QP ($ $) (CD 60) (CD million) (TO to) ($ $) (CD 70) (CD million)))
+          (: --)))
+      (S
+        (VP (TO to)
+          (VP (VB cover)
+            (NP
+              (NP (DT the) (JJ minimum) (NN amount))
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (MD will)
+                    (VP (VB have)
+                      (S
+                        (VP (TO to)
+                          (VP (VB pay)
+                            (NP
+                              (NP (DT the) (NN government))
+                              (PP (RB because) (IN of)
+                                (NP (PRP$ its) (NN involvement))))
+                            (PP (IN in)
+                              (NP (DT the) (NN defense-procurement) (NN scandal)))))))))))))))
+    (. .)))
+

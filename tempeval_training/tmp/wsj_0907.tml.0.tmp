@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NNP Chandler) (NNP Insurance) (NNP Co.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ expects)
+            (S
+              (VP (TO to)
+                (VP (VB report)
+                  (SBAR
+                    (S
+                      (NP (JJ third-quarter) (JJ net) (NN income))
+                      (VP (VBD jumped)
+                        (NP (CD 97) (NN %))
+                        (PP (TO to)
+                          (NP
+                            (NP
+                              (QP ($ $) (CD 2.8) (CD million)))
+                            (, ,)
+                            (CC or)
+                            (NP
+                              (NP (CD 51) (NNS cents))
+                              (NP (DT a) (NN share)))))))))))))))
+    (. .)))
+

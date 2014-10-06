@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT The) (NN extremist) (NN party))
+    (ADVP (RB recently))
+    (VP
+      (VP (VBD took)
+        (NP
+          (NP (DT a)
+            (ADJP (JJ surprising)
+              (NP (CD 13)))
+            (NN percent))
+          (PP (IN of)
+            (NP (DT the) (NN vote))))
+        (PP (IN in)
+          (NP
+            (NP (NNS elections))
+            (PP (IN in)
+              (NP (DT a) (JJ depressed) (JJ eastern) (JJ German) (NN state))))))
+      (, ,)
+      (CC and)
+      (VP (VBZ hopes)
+        (S
+          (VP (TO to)
+            (VP (VB win)
+              (NP (PRP$ its) (JJ first) (NNS seats))
+              (PP (IN in)
+                (NP (DT the) (JJ federal) (NN parliament)))
+              (NP (DT this) (NNP September)))))))
+    (. .)))
+

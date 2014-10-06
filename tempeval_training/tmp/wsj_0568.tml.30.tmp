@@ -1,0 +1,50 @@
+(ROOT
+  (S (CC But)
+    (NP (DT the) (NN company))
+    (VP (VBD said)
+      (NP (NNP Friday))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBD had)
+            (NP
+              (NP (NNS losses))
+              (PP (IN of)
+                (NP
+                  (QP ($ $) (CD 673.3) (CD million)))))
+            (PP (IN through)
+              (NP (DT the) (JJ first) (CD nine) (NNS months)))
+            (, ,)
+            (PP (VBN compared)
+              (PP (IN with)
+                (NP
+                  (NP (NNS earnings))
+                  (PP
+                    (ADVP
+                      (NP (DT a) (NN year))
+                      (RBR earlier))
+                    (IN of)
+                    (NP
+                      (NP
+                        (QP ($ $) (CD 382.2) (CD million)))
+                      (, ,)
+                      (CC or)
+                      (NP
+                        (NP ($ $) (CD 2.22))
+                        (NP (DT a) (NN share)))))
+                  (ADJP (RB fully) (VBN diluted)))))
+            (, ,)
+            (SBAR (IN as)
+              (S
+                (NP (NN revenue))
+                (VP (VBD inched)
+                  (PRT (RP up))
+                  (NP (CD 1.4) (NN %))
+                  (PP (TO to)
+                    (NP
+                      (QP ($ $) (CD 7.13) (CD billion))))
+                  (PP (IN from)
+                    (NP
+                      (QP ($ $) (CD 7.03) (CD billion)))))))))))
+    (. .)))
+

@@ -1,0 +1,21 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	people	_	NNS	NNS	_	4	nsubj	_	_
+3	here	_	RB	RB	_	4	advmod	_	_
+4	are	_	VBP	VBP	_	0	root	_	_
+5	famous	_	JJ	JJ	_	4	acomp	_	_
+6	throughout	_	IN	IN	_	5	prep	_	_
+7	central	_	JJ	JJ	_	8	amod	_	_
+8	Asia	_	NNP	NNP	_	6	pobj	_	_
+9	for	_	IN	IN	_	4	prep	_	_
+10	their	_	PRP$	PRP$	_	11	poss	_	_
+11	skill	_	NN	NN	_	9	pobj	_	_
+12	in	_	IN	IN	_	11	prep	_	_
+13	fashioning	_	JJ	JJ	_	14	amod	_	_
+14	pottery	_	NN	NN	_	12	pobj	_	_
+15	and	_	CC	CC	_	14	cc	_	_
+16	tile	_	NN	NN	_	14	conj	_	_
+17	,	_	,	,	_	9	punct	_	_
+18	glass	_	NN	NN	_	9	pobj	_	_
+19	too	_	RB	RB	_	18	advmod	_	_
+20	.	_	.	.	_	4	punct	_	_
+

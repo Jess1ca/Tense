@@ -1,0 +1,17 @@
+1	Police	_	NNP	NNP	_	2	nsubj	_	_
+2	said	_	VBD	VBD	_	0	root	_	_
+3	an	_	DT	DT	_	6	det	_	_
+4	unmarked	_	JJ	JJ	_	6	amod	_	_
+5	police	_	NN	NN	_	6	nn	_	_
+6	car	_	NN	NN	_	8	nsubjpass	_	_
+7	was	_	VBD	VBD	_	8	auxpass	_	_
+8	hit	_	VBN	VBN	_	2	ccomp	_	_
+9	with	_	IN	IN	_	8	prep	_	_
+10	gasoline	_	NN	NN	_	11	nn	_	_
+11	bombs	_	NNS	NNS	_	9	pobj	_	_
+12	from	_	IN	IN	_	8	prep	_	_
+13	the	_	DT	DT	_	15	det	_	_
+14	Protestant	_	JJ	JJ	_	15	amod	_	_
+15	side	_	NN	NN	_	12	pobj	_	_
+16	.	_	.	.	_	2	punct	_	_
+

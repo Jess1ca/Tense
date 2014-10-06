@@ -1,0 +1,20 @@
+1	And	_	CC	CC	_	5	cc	_	_
+2	the	_	DT	DT	_	4	det	_	_
+3	German	_	JJ	JJ	_	4	amod	_	_
+4	electorate	_	NN	NN	_	5	nsubj	_	_
+5	appears	_	VBZ	VBZ	_	0	root	_	_
+6	increasingly	_	RB	RB	_	7	advmod	_	_
+7	eager	_	JJ	JJ	_	5	acomp	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	dispense	_	VB	VB	_	7	xcomp	_	_
+10	with	_	IN	IN	_	9	prep	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	services	_	NNS	NNS	_	10	pobj	_	_
+13	of	_	IN	IN	_	12	prep	_	_
+14	Europe	_	NNP	NNP	_	18	poss	_	_
+15	's	_	POS	POS	_	14	possessive	_	_
+16	longest	_	JJS	JJS	_	18	amod	_	_
+17	serving	_	JJ	JJ	_	18	amod	_	_
+18	leader	_	NN	NN	_	13	pobj	_	_
+19	.	_	.	.	_	5	punct	_	_
+

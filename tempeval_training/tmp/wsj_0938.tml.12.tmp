@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Mr.) (NNP Drabinsky))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (MD would)
+            (VP (VB have)
+              (VP (VBN had)
+                (NP (DT the) (NN right))
+                (S
+                  (VP (TO to)
+                    (VP (VB vote)
+                      (NP (DT those) (NNS shares))
+                      (PP (IN for)
+                        (NP (CD two) (NNS years)))))))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN purchase))
+            (, ,)
+            (VP
+              (ADVP (RB subsequently))
+              (VBN rejected)
+              (PP (IN by)
+                (NP (NNS regulators))))
+            (, ,))
+          (VP (VBD was)
+            (VP (VBN aimed)
+              (PP (IN at)
+                (S
+                  (VP (VBG consolidating)
+                    (NP
+                      (NP (PRP$ his) (NN control))
+                      (PP (IN of)
+                        (NP (DT the) (NN company))))))))))))
+    (. .)))
+

@@ -1,0 +1,24 @@
+1	GMAC	_	NNP	NNP	_	2	nn	_	_
+2	profits	_	NNS	NNS	_	4	nsubjpass	_	_
+3	are	_	VBP	VBP	_	4	auxpass	_	_
+4	combined	_	VBN	VBN	_	0	root	_	_
+5	with	_	IN	IN	_	4	prep	_	_
+6	earnings	_	NNS	NNS	_	5	pobj	_	_
+7	from	_	IN	IN	_	4	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	rest	_	NN	NN	_	7	pobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	GM	_	NNP	NNP	_	13	poss	_	_
+12	's	_	POS	POS	_	11	possessive	_	_
+13	operations	_	NNS	NNS	_	10	pobj	_	_
+14	and	_	CC	CC	_	4	cc	_	_
+15	attributed	_	VBN	VBN	_	4	conj	_	_
+16	to	_	TO	TO	_	15	prep	_	_
+17	the	_	DT	DT	_	18	det	_	_
+18	company	_	NN	NN	_	22	poss	_	_
+19	's	_	POS	POS	_	18	possessive	_	_
+20	traditional	_	JJ	JJ	_	22	amod	_	_
+21	common	_	JJ	JJ	_	22	amod	_	_
+22	stock	_	NN	NN	_	16	pobj	_	_
+23	.	_	.	.	_	4	punct	_	_
+

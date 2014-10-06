@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD declined)
+        (S
+          (VP (TO to)
+            (VP (VB say)
+              (SBAR (IN if)
+                (S
+                  (NP (DT the) (NNS weapons))
+                  (VP (VBD included)
+                    (NP (NNS missiles))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NNPS Iraqis))
+      (VP (VBP have)
+        (NP (PRP them))
+        (PP (IN in)
+          (NP (PRP$ their) (NN arsenal)))))
+    (. .)))
+

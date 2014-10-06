@@ -1,0 +1,18 @@
+1	First	_	NNP	NNP	_	4	nsubj	_	_
+2	of	_	IN	IN	_	1	prep	_	_
+3	America	_	NNP	NNP	_	2	pobj	_	_
+4	said	_	VBD	VBD	_	0	root	_	_
+5	some	_	DT	DT	_	10	nsubj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	managers	_	NNS	NNS	_	6	pobj	_	_
+9	will	_	MD	MD	_	10	aux	_	_
+10	take	_	VB	VB	_	4	ccomp	_	_
+11	other	_	JJ	JJ	_	12	amod	_	_
+12	jobs	_	NNS	NNS	_	10	dobj	_	_
+13	with	_	IN	IN	_	10	prep	_	_
+14	First	_	NNP	NNP	_	13	pobj	_	_
+15	of	_	IN	IN	_	14	prep	_	_
+16	America	_	NNP	NNP	_	15	pobj	_	_
+17	.	_	.	.	_	4	punct	_	_
+

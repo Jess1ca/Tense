@@ -1,0 +1,25 @@
+1	Washington	_	NNP	NNP	_	4	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	London	_	NNP	NNP	_	1	conj	_	_
+4	are	_	VBP	VBP	_	0	root	_	_
+5	virtually	_	RB	RB	_	4	advmod	_	_
+6	alone	_	RB	RB	_	4	advmod	_	_
+7	in	_	IN	IN	_	4	prep	_	_
+8	warning	_	VBG	VBG	_	7	pcomp	_	_
+9	Iraq	_	NNP	NNP	_	8	dobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	military	_	JJ	JJ	_	12	amod	_	_
+12	strikes	_	NNS	NNS	_	10	pobj	_	_
+13	if	_	IN	IN	_	17	mark	_	_
+14	it	_	PRP	PRP	_	17	nsubj	_	_
+15	does	_	VBZ	VBZ	_	17	aux	_	_
+16	n't	_	RB	RB	_	17	neg	_	_
+17	back	_	VB	VB	_	8	advcl	_	_
+18	down	_	RP	RP	_	17	prt	_	_
+19	on	_	IN	IN	_	17	prep	_	_
+20	the	_	DT	DT	_	23	det	_	_
+21	weapons	_	NNS	NNS	_	23	nn	_	_
+22	inspection	_	NN	NN	_	23	nn	_	_
+23	issue	_	NN	NN	_	19	pobj	_	_
+24	.	_	.	.	_	4	punct	_	_
+

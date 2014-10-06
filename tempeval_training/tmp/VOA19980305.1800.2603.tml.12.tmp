@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP Ms.) (NNP Atimadi))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (DT the) (NN war))
+          (VP (VBZ has)
+            (VP (VBN created)
+              (NP
+                (NP (DT a) (NN nation))
+                (PP (IN of)
+                  (NP (NNS widows)))))))))
+    (. .)))
+

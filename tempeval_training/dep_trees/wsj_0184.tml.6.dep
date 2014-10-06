@@ -1,0 +1,25 @@
+1	But	_	CC	CC	_	4	cc	_	_
+2	some	_	DT	DT	_	3	det	_	_
+3	analysts	_	NNS	NNS	_	4	nsubj	_	_
+4	questioned	_	VBD	VBD	_	0	root	_	_
+5	how	_	WRB	WRB	_	6	advmod	_	_
+6	much	_	RB	RB	_	14	dobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	an	_	DT	DT	_	9	det	_	_
+9	impact	_	NN	NN	_	7	pobj	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	retirement	_	NN	NN	_	12	nn	_	_
+12	package	_	NN	NN	_	14	nsubj	_	_
+13	will	_	MD	MD	_	14	aux	_	_
+14	have	_	VB	VB	_	4	ccomp	_	_
+15	,	_	,	,	_	4	punct	_	_
+16	because	_	IN	IN	_	20	mark	_	_
+17	few	_	JJ	JJ	_	18	amod	_	_
+18	jobs	_	NNS	NNS	_	20	nsubj	_	_
+19	will	_	MD	MD	_	20	aux	_	_
+20	end	_	VB	VB	_	4	advcl	_	_
+21	up	_	RP	RP	_	20	prt	_	_
+22	being	_	VBG	VBG	_	23	auxpass	_	_
+23	eliminated	_	VBN	VBN	_	20	xcomp	_	_
+24	.	_	.	.	_	4	punct	_	_
+

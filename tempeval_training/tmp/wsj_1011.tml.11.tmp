@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (NNP America) (NNP West))
+    (VP
+      (VP (MD would) (RB n't)
+        (VP (VB identify)
+          (NP (DT the) (NN entity))))
+      (, ,)
+      (CC but)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (DT the) (NN payment))
+            (VP (VBD was)
+              (PP (IN for)
+                (NP
+                  (NP
+                    (NP (DT the) (JJ foreign) (NN company) (POS 's))
+                    (NN use))
+                  (PP (IN of)
+                    (NP
+                      (NP (JJ certain) (NN tax) (NNS benefits))
+                      (PP (IN in)
+                        (NP
+                          (NP (NN connection))
+                          (PP (IN with)
+                            (NP (NNP America) (NNP West) (NN plane) (NNS purchases))))))))))))))
+    (. .)))
+

@@ -1,0 +1,17 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	extrusion	_	NN	NN	_	3	nn	_	_
+3	unit	_	NN	NN	_	4	nsubj	_	_
+4	produces	_	VBZ	VBZ	_	0	root	_	_
+5	bare	_	JJ	JJ	_	9	amod	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	painted	_	JJ	JJ	_	5	conj	_	_
+8	custom	_	NN	NN	_	9	nn	_	_
+9	extrusions	_	NNS	NNS	_	4	dobj	_	_
+10	for	_	IN	IN	_	9	prep	_	_
+11	building	_	VBG	VBG	_	15	amod	_	_
+12	products	_	NNS	NNS	_	15	nn	_	_
+13	and	_	CC	CC	_	12	cc	_	_
+14	construction	_	NN	NN	_	12	conj	_	_
+15	industries	_	NNS	NNS	_	10	pobj	_	_
+16	.	_	.	.	_	4	punct	_	_
+

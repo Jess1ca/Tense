@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (PP (IN with)
+      (NP
+        (NP (DT a) (JJ diplomatic) (NN solution))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN crisis))
+            (ADJP (RB seemingly)
+              (PP (IN at)
+                (NP (NN hand))))))))
+    (, ,)
+    (VP (VBP get)
+      (S
+        (VP (VBN set)
+          (PP (IN for)
+            (NP (NN oil) (NNS prices)))
+          (PP (IN from)
+            (NP (DT the) (NNP Brent) (NN north) (NN sea) (NN variety)))
+          (PP (TO to)
+            (NP (JJ light) (NN swede) (NN crude)))))
+      (S
+        (VP (TO to)
+          (VP (VB fall) (RBR further)))))
+    (. .)))
+

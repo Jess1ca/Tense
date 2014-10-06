@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (PP (IN Under)
+      (NP (DT the) (NNS terms)))
+    (, ,)
+    (NP (NNP Milton) (NNP Roy))
+    (VP (MD will)
+      (VP (VB pay)
+        (NP
+          (NP (DT an) (JJ initial)
+            (QP ($ $) (CD 4) (CD million)))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NNS operations))
+              (CC and)
+              (NP (JJ additional) (NNS payments)))))
+        (PP (IN during)
+          (NP (DT the) (JJ next) (CD four) (NNS years)))
+        (PP (VBN based)
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NNS earnings) (NN performance))
+              (PP (IN of)
+                (NP (DT the) (NNS businesses))))))))
+    (. .)))
+

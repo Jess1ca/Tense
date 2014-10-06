@@ -1,0 +1,10 @@
+(ROOT
+  (NP
+    (NP (NNP Lisa) (NNP Schlein))
+    (PP (IN for)
+      (NP
+        (NP (NNP VOA) (NNP News))
+        (, ,)
+        (NP (NNP Geneva))))
+    (. .)))
+

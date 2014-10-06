@@ -1,0 +1,22 @@
+1	DPC	_	NNP	NNP	_	2	nn	_	_
+2	Acquisition	_	NNP	NNP	_	3	nsubj	_	_
+3	said	_	VBD	VBD	_	0	root	_	_
+4	it	_	PRP	PRP	_	6	nsubj	_	_
+5	had	_	VBD	VBD	_	6	aux	_	_
+6	received	_	VBN	VBN	_	3	ccomp	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	reasonable	_	JJ	JJ	_	9	amod	_	_
+9	assurance	_	NN	NN	_	6	dobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	Chase	_	NNP	NNP	_	14	nn	_	_
+12	Manhattan	_	NNP	NNP	_	14	nn	_	_
+13	Bank	_	NNP	NNP	_	14	nn	_	_
+14	N.A.	_	NNP	NNP	_	10	pobj	_	_
+15	that	_	IN	IN	_	20	mark	_	_
+16	the	_	DT	DT	_	17	det	_	_
+17	financing	_	NN	NN	_	20	nsubjpass	_	_
+18	can	_	MD	MD	_	20	aux	_	_
+19	be	_	VB	VB	_	20	auxpass	_	_
+20	obtained	_	VBN	VBN	_	6	ccomp	_	_
+21	.	_	.	.	_	3	punct	_	_
+

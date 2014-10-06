@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (S
+      (PP (IN For)
+        (NP
+          (NP (DT the) (JJ first) (NN time))
+          (PP (IN in)
+            (NP (NN history)))))
+      (, ,)
+      (NP (DT the) (NNP U.S.))
+      (VP (VBZ has)
+        (VP (VBN gone)
+          (PP (TO to)
+            (NP (NN war)))
+          (PP (IN with)
+            (NP (DT an) (JJ Arab)
+              (CC and)
+              (JJ Muslim) (NN nation))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBP know)
+        (SBAR
+          (S
+            (NP (DT a) (JJ peaceful) (NN solution))
+            (VP (VBD was)
+              (PP (IN in)
+                (NP (NN reach))))))))
+    (. .) ('' '')))
+

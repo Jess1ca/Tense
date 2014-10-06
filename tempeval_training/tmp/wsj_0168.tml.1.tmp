@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (DT The) (NN sale))
+    (VP (VBZ represents)
+      (S
+        (NP
+          (NP (CD 10.2) (NN %))
+          (PP (IN of)
+            (NP
+              (NP (NNP Meridian) (POS 's))
+              (NNS shares))))
+        (ADJP (JJ outstanding))))
+    (. .)))
+

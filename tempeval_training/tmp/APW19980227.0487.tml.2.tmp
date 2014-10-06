@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD took)
+      (NP (DT the) (NN stand))
+      (PP (IN for)
+        (NP
+          (QP (JJR more) (IN than) (CD four))
+          (NNS hours)))
+      (NP (NNP Friday))
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NNP Tel) (NNP Aviv) (NN magistrate) (POS 's))
+          (NN court))))
+    (. .)))
+

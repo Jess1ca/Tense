@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Fournier))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Navigation) (NNP Mixte) (POS 's))
+            (CD 1989)
+            (ADJP (JJ unconsolidated) (, ,)
+              (CC or)
+              (NN parent-company) (, ,))
+            (NN profit))
+          (VP (VBZ is)
+            (ADJP (JJ likely)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (NP
+                      (NP
+                        (QP (CD 4.7) (CD billion))
+                        (NNS francs))
+                      (PRN (-LRB- -LRB-)
+                        (NP
+                          (QP ($ $) (CD 754.4) (CD million)))
+                        (-RRB- -RRB-)))))))
+            (, ,)
+            (ADVP (RB up)
+              (PP (IN from)
+                (NP
+                  (QP (CD 633.8) (CD million))
+                  (NNS francs))
+                (NP (JJ last) (NN year))))))))
+    (. .)))
+

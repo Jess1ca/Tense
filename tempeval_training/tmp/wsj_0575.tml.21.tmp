@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP
+          (NP (NNP Control) (NNP Data) (POS 's))
+          (NN semiconductor) (NN business))
+        (, ,)
+        (NP (NNP VTC) (NNP Inc.))
+        (, ,))
+      (VP (VBZ continues)
+        (S
+          (VP (TO to)
+            (VP (VB lose)
+              (NP (NN money)))))))
+    (PRN (, ,)
+      (S
+        (NP (DT the) (NNS executives))
+        (VP (VBD acknowledged)))
+      (, ,))
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP
+              (VP (VBP consider)
+                (S
+                  (NP
+                    (NP (DT some))
+                    (PP (IN of)
+                      (NP (DT the) (NN technology))))
+                  (ADJP (JJ vital)
+                    (PP (TO to)
+                      (NP (JJ national) (NN defense))))))
+              (CC and)
+              (VP
+                (ADVP (RB so))
+                (VBP are)
+                (ADJP (JJ reluctant)
+                  (S
+                    (VP (TO to)
+                      (VP (VB dispose)
+                        (PP (IN of)
+                          (NP (PRP it)))))))))))))
+    (. .)))
+

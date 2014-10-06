@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (NNP Columbia))
+    (ADVP (RB also))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ unrealized) (NNS gains))
+        (PP (IN in)
+          (NP (PRP$ its) (JJ public) (NN equity) (NNS securities) (NN portfolio)))
+        (PP (IN of)
+          (NP
+            (QP (JJR more) (IN than) ($ $) (CD 70) (CD million))))))
+    (. .)))
+

@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP Reuters) (NNPS Holdings) (NNP PLC))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Michael) (NNP Reupke))
+          (VP
+            (VP (VBD resigned)
+              (PP (IN as)
+                (NP (JJ general) (NN manager)))
+              (S
+                (VP (TO to)
+                  (VP (VB pursue)
+                    (NP (JJ unspecified) (NNS interests))))))
+            (, ,)
+            (NP
+              (NP (DT a) (NN move))
+              (SBAR
+                (S
+                  (NP (DT the) (NN news) (NN organization))
+                  (VP (VBD termed)
+                    (NP (DT an) (`` ``) (JJ amicable) (NN separation))))))))))
+    (. .) ('' '')))
+

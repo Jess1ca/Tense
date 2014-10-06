@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Average) (JJ hourly) (NNS earnings))
+      (PP (IN of)
+        (NP (NN production)
+          (CC and)
+          (NN nonsupervisory) (NNS employees))))
+    (VP (VBD rose)
+      (NP (CD 4) (NNS cents))
+      (, ,)
+      (PP (TO to)
+        (NP ($ $) (CD 12.51))))
+    (. .)))
+

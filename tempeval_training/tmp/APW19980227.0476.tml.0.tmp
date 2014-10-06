@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT THE) (NNP HAGUE) (, ,) (NNP Netherlands))
+      (PRN (-LRB- -LRB-)
+        (NP (NNP AP))
+        (-RRB- -RRB-)))
+    (VP (VBD _)
+      (SBAR
+        (S
+          (NP (DT The) (NNP World) (NNP Court) (NNP Friday))
+          (VP (VBD rejected)
+            (NP
+              (UCP (NNP U.S.)
+                (CC and)
+                (JJ British))
+              (NNS objections))
+            (PP (TO to)
+              (NP
+                (NP (DT a) (JJ Libyan) (NNP World) (NNP Court) (NN case))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ has)
+                      (VP (VBN blocked)
+                        (NP
+                          (NP (DT the) (NN trial))
+                          (PP (IN of)
+                            (NP
+                              (NP (CD two) (NNPS Libyans))
+                              (VP (VBN suspected)
+                                (PP (IN of)
+                                  (S
+                                    (VP (VBG blowing)
+                                      (PRT (RP up))
+                                      (NP
+                                        (NP (DT a) (NNP Pan) (NNP Am) (JJ jumbo) (NN jet))
+                                        (PP (IN over)
+                                          (NP
+                                            (NP (NNP Scotland))
+                                            (PP (IN in)
+                                              (NP (CD 1988)))))))))))))))))))))))
+    (. .)))
+

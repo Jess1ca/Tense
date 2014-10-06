@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP Seagram))
+    (VP (VBD closed)
+      (PP (IN at)
+        (NP ($ $) (CD 84.75)))
+      (, ,)
+      (ADVP
+        (ADVP (RB up)
+          (NP
+            (NP (CD 12.5) (NNS cents))
+            (NP (DT a) (NN share))))
+        (PP (IN in)
+          (NP (NNP Big) (NNP Board) (NN trading)))))
+    (. .)))
+

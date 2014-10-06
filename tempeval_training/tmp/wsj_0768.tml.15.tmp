@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (JJ Mutual) (NNS funds))
+    (VP (VBP are)
+      (X (DT the))
+      (PP (IN among)
+        (NP
+          (NP (DT the) (JJS largest) (NNS holders))
+          (PP (IN of)
+            (NP (NN junk)))))
+      (, ,)
+      (VP (VBG accounting)
+        (PP (IN for)
+          (NP
+            (NP
+              (QP (JJR more) (IN than) (DT a) (NN quarter)))
+            (PP (IN of)
+              (NP (DT the) (JJ entire) (JJ high-yield) (, ,) (JJ high-risk) (NN market)))))))
+    (. .)))
+

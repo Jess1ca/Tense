@@ -1,0 +1,19 @@
+(ROOT
+  (S (CC And)
+    (ADVP (RB then))
+    (, ,)
+    (NP
+      (NP (NN asset) (NNS values))
+      (PP (IN of)
+        (NP (DT the) (NNS funds))))
+    (VP (MD could)
+      (VP (VB plunge)
+        (ADVP
+          (ADVP (RBR more))
+          (SBAR (IN than)
+            (S
+              (NP (PRP they))
+              (VP (VBP have)
+                (ADVP (RB so) (RB far))))))))
+    (. .)))
+

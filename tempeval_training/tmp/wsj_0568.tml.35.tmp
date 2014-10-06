@@ -1,0 +1,23 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (S
+        (NP
+          (NP (DT The) (JJ break-even) (NN point))
+          (PP (IN for)
+            (NP (JJ next) (NN year))))
+        (VP (VBZ is)
+          (ADJP (RB much) (JJR lower))))
+      (, ,)
+      (CC but)
+      (SQ (VBZ is)
+        (NP (PRP it))
+        (ADJP (JJ low) (RB enough))))
+    (. ?) ('' '')))
+
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBD asked))
+    (. .)))
+

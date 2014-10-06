@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN price))
+      (PP (IN of)
+        (NP (NNP Columbia) (NNS shares))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN cut)
+          (ADVP (RB nearly))
+          (PP (IN in)
+            (NP (NN half)))
+          (PP (IN since)
+            (NP (NNP August)))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP they))
+              (VP (VBD traded)
+                (PP (IN at)
+                  (NP
+                    (QP (RB about) ($ $) (CD 10))))
+                (, ,)
+                (SBAR (IN as)
+                  (S
+                    (NP (NNS investors))
+                    (ADVP (RB apparently))
+                    (VP (VBD realized)
+                      (SBAR (IN that)
+                        (S
+                          (NP (DT the) (NN thrift))
+                          (VP (MD would)
+                            (VP (VB be)
+                              (VP (VBN forced)
+                                (S
+                                  (VP (TO to)
+                                    (VP (VB take)
+                                      (NP (DT a) (JJ big) (NN write-down)))))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD was) (RB n't)
+        (PP (IN until)
+          (NP (CD twenty) (NNS years)))
+        (SBAR (IN after)
+          (S
+            (NP (DT the) (JJ first) (NNS astronauts))
+            (VP (VBD were)
+              (VP (VBN chosen)
+                (SBAR (IN that)
+                  (S
+                    (NP (NNP NASA))
+                    (ADVP (RB finally))
+                    (VP (VBD included)
+                      (NP (CD six) (NNS women)))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD were)
+        (NP
+          (NP (DT all) (NNS scientists))
+          (, ,) (RB not)
+          (NP (NNS pilots)))))
+    (. .)))
+

@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP (DT each) (NN note))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN converted)
+          (PP (IN into)
+            (NP (NNP Blockbuster) (NNP Entertainment) (JJ common) (NN stock)))
+          (PP (IN at)
+            (NP
+              (NP (DT a) (NN rate))
+              (PP (IN of)
+                (NP
+                  (NP (CD 13.851) (NNS shares))
+                  (PP (IN per)
+                    (NP (NN note))))))))))
+    (. .)))
+

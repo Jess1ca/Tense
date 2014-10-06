@@ -1,0 +1,25 @@
+1	Mr.	_	NNP	NNP	_	2	nn	_	_
+2	Schwarz	_	NNP	NNP	_	4	poss	_	_
+3	's	_	POS	POS	_	2	possessive	_	_
+4	great-grandfather	_	NN	NN	_	5	nsubj	_	_
+5	founded	_	VBD	VBD	_	0	root	_	_
+6	the	_	DT	DT	_	12	det	_	_
+7	New	_	NNP	NNP	_	12	nn	_	_
+8	York	_	NNP	NNP	_	12	nn	_	_
+9	toy	_	NN	NN	_	12	nn	_	_
+10	store	_	NN	NN	_	12	nn	_	_
+11	F.A.O.	_	NNP	NNP	_	12	nn	_	_
+12	Schwarz	_	NNP	NNP	_	5	dobj	_	_
+13	,	_	,	,	_	5	punct	_	_
+14	but	_	CC	CC	_	5	cc	_	_
+15	his	_	PRP$	PRP$	_	16	poss	_	_
+16	family	_	NN	NN	_	19	nsubj	_	_
+17	no	_	RB	RB	_	18	advmod	_	_
+18	longer	_	RB	RB	_	19	advmod	_	_
+19	has	_	VBZ	VBZ	_	5	conj	_	_
+20	ties	_	NNS	NNS	_	19	dobj	_	_
+21	to	_	TO	TO	_	20	prep	_	_
+22	the	_	DT	DT	_	23	det	_	_
+23	company	_	NN	NN	_	21	pobj	_	_
+24	.	_	.	.	_	5	punct	_	_
+

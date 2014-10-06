@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN Of)
+      (NP (PDT all) (DT the) (JJ major) (NNS steelmakers)))
+    (, ,)
+    (NP (NNP Bethlehem))
+    (VP (MD would)
+      (VP (VB seem)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (DT the)
+                  (ADJP (RBS most) (JJ vulnerable)))
+                (PP (TO to)
+                  (NP (DT a) (NN slowdown)))))))))
+    (. .)))
+

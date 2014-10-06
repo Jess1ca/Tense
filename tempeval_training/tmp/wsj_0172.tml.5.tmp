@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP First))
+      (PP (IN of)
+        (NP (NNP America))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT some))
+            (PP (IN of)
+              (NP (DT the) (NNS managers))))
+          (VP (MD will)
+            (VP (VB take)
+              (NP (JJ other) (NNS jobs))
+              (PP (IN with)
+                (NP
+                  (NP (NNP First))
+                  (PP (IN of)
+                    (NP (NNP America))))))))))
+    (. .)))
+

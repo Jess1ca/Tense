@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT Each))
+      (PP (IN of)
+        (NP (DT the) (NNP Class) (NNP C) (NNS warrants))))
+    (VP (MD will)
+      (VP (VB enable)
+        (S
+          (NP (DT the) (NNS holders))
+          (VP (TO to)
+            (VP (VB purchase)
+              (NP
+                (NP (CD one) (NN share))
+                (PP (IN of)
+                  (NP (JJ common) (NN stock))))
+              (PP (IN at)
+                (NP ($ $) (CD 5.50))))))))
+    (. .)))
+

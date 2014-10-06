@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBD was)
+      (NP
+        (NP (NNP Eileen) (NNP Collins))
+        (, ,)
+        (SBAR (IN after)
+          (S
+            (NP (PRP she))
+            (VP (VBD flew)
+              (SBAR (IN as)
+                (S
+                  (NP (DT the) (JJ first))
+                  (ADVP (RB ever))
+                  (VP (VBZ co-pilot)))))))))
+    (. .)))
+

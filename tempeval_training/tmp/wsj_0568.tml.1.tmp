@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the) (JJ same) (NN time)))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ sheer) (NN size))
+      (PP (IN of)
+        (NP (DT the) (NN loss)))
+      (, ,)
+      (VP (VBN coupled)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (NN slowing))
+            (PP (IN of)
+              (NP (NNS orders))))))
+      (, ,))
+    (VP (VBD made)
+      (SBAR
+        (S
+          (NP (DT some) (NNS securities) (NNS analysts))
+          (VP (VBP wonder)
+            (SBAR
+              (WHADJP (RB just) (WRB how) (JJ strong))
+              (S
+                (NP (DT that) (NN turnaround))
+                (VP (MD will)
+                  (VP (VB be)
+                    (PP (IN at)
+                      (NP
+                        (NP (DT the) (NN computer) (NN maker))
+                        (CC and)
+                        (NP (JJ defense-electronics) (NN concern))))))))))))
+    (. .)))
+

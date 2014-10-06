@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJS Most))
+      (PP (IN of)
+        (NP
+          (NP (NNP Compaq) (POS 's))
+          (NN decline))))
+    (VP (VBZ is)
+      (VP (VBG being)
+        (VP (VBN attributed)
+          (PP (TO to)
+            (NP
+              (NP (DT a) (JJ third-quarter) (NNS earnings) (NN report))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD came)
+                    (PP (IN in) (IN at)
+                      (NP
+                        (NP (DT the) (JJ low) (NN end))
+                        (PP (IN of)
+                          (NP
+                            (NP (NNS analysts) (POS '))
+                            (NNS expectations)))))))))))))
+    (. .)))
+

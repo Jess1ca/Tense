@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (DT Some) (NNS analysts))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN outcome))
+            (PP (IN of)
+              (NP
+                (NP (DT a) (NN face))
+                (PP (RB off) (IN between)
+                  (NP (DT the) (NN police)
+                    (CC and)
+                    (NN anti) (NNP Abacha) (JJ political) (NNS groups))))))
+          (VP (MD will)
+            (VP (VB be)
+              (NP
+                (NP (DT a) (NN test))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN opposition) (POS 's))
+                    (NN resolve)))))))))
+    (. .)))
+

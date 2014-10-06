@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ funeral) (NN home)
+      (CC and)
+      (NN cemetery) (NN operator))
+    (VP (VBD changed)
+      (PP (IN from)
+        (NP (DT a) (JJ fiscal) (NN year)))
+      (PP (TO to)
+        (NP
+          (NP (DT a) (NN calendar) (NN year))
+          (PP (IN in)
+            (NP (NNP December))))))
+    (. .)))
+

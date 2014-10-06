@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT The) (NNP World)))
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (NP
+        (NP (NNP Nancy) (NNP Marshall))
+        (PP (IN in)
+          (NP (NNP Washington)))))
+    (. .)))
+

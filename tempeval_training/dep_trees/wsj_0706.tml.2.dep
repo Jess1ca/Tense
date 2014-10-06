@@ -1,0 +1,22 @@
+1	Based	_	VBN	VBN	_	12	prep	_	_
+2	on	_	IN	IN	_	1	pcomp	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	current	_	JJ	JJ	_	5	amod	_	_
+5	number	_	NN	NN	_	2	pobj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	La	_	NNP	NNP	_	9	nn	_	_
+8	Jolla	_	NNP	NNP	_	9	nn	_	_
+9	shares	_	NNS	NNS	_	6	pobj	_	_
+10	,	_	,	,	_	12	punct	_	_
+11	that	_	DT	DT	_	12	nsubj	_	_
+12	gives	_	VBZ	VBZ	_	0	root	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	transaction	_	NN	NN	_	12	iobj	_	_
+15	a	_	DT	DT	_	16	det	_	_
+16	value	_	NN	NN	_	12	dobj	_	_
+17	of	_	IN	IN	_	16	prep	_	_
+18	$	_	$	$	_	17	pobj	_	_
+19	104	_	CD	CD	_	20	number	_	_
+20	million	_	CD	CD	_	18	num	_	_
+21	.	_	.	.	_	12	punct	_	_
+

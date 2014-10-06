@@ -1,0 +1,25 @@
+1	On	_	IN	IN	_	8	prep	_	_
+2	the	_	DT	DT	_	5	det	_	_
+3	Toronto	_	NNP	NNP	_	5	nn	_	_
+4	Stock	_	NNP	NNP	_	5	nn	_	_
+5	Exchange	_	NNP	NNP	_	1	pobj	_	_
+6	,	_	,	,	_	8	punct	_	_
+7	Cineplex	_	NNP	NNP	_	8	nsubj	_	_
+8	closed	_	VBD	VBD	_	0	root	_	_
+9	at	_	IN	IN	_	8	prep	_	_
+10	C$	_	$	$	_	9	pobj	_	_
+11	12.875	_	CD	CD	_	10	num	_	_
+12	,	_	,	,	_	10	punct	_	_
+13	off	_	IN	IN	_	10	advmod	_	_
+14	37.5	_	CD	CD	_	16	num	_	_
+15	Canadian	_	JJ	JJ	_	16	amod	_	_
+16	cents	_	NNS	NNS	_	13	pobj	_	_
+17	,	_	,	,	_	8	punct	_	_
+18	well	_	RB	RB	_	8	advmod	_	_
+19	below	_	IN	IN	_	18	prep	_	_
+20	the	_	DT	DT	_	23	det	_	_
+21	C$	_	$	$	_	23	amod	_	_
+22	16.40	_	CD	CD	_	21	number	_	_
+23	level	_	NN	NN	_	19	pobj	_	_
+24	.	_	.	.	_	8	punct	_	_
+

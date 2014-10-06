@@ -1,0 +1,44 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (MD will) (RB not)
+        (VP (VB go)
+          (PRT (RP over))
+          (NP (DT a) (JJ certain) (NN level)))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP (NNP David) (NNP N.) (NNP McCammon)
+      (PRN (, ,)
+        (NP
+          (NP
+            (NP
+              (NP (NNP Ford) (POS 's))
+              (NN vice) (NN president))
+            (PP (IN for)
+              (NP (NN finance))))
+          (, ,)
+          (ADVP (IN at)
+            (NP (DT a) (NN news)))
+          (NP
+            (NP (NN conference) (NN yesterday))
+            (PP (IN in)
+              (NP (NNP Dearborn)))))
+        (, ,))
+      (NNP Mich.))
+    (`` ``)
+    (S
+      (NP (EX There))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT some) (NN price))
+          (SBAR
+            (WHPP (IN at)
+              (WHNP (WDT which)))
+            (S
+              (NP (PRP we))
+              (VP (MD 'd)
+                (VP (VB stop)
+                  (NP (NN bidding)))))))))
+    (. .) ('' '')))
+

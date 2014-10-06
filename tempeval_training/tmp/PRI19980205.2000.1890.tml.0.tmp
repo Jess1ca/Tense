@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP US))
+    (VP (VBZ is)
+      (VP (VBG bolstering)
+        (NP (PRP$ its) (JJ military) (NN presence))
+        (PP (IN in)
+          (NP (DT the) (NN gulf)))
+        (, ,)
+        (SBAR (IN as)
+          (S
+            (NP (NNP President) (NNP Clinton))
+            (VP (VBD discussed)
+              (NP (DT the) (NNP Iraq) (NN crisis))
+              (PP (IN with)
+                (NP
+                  (NP (DT the) (CD one) (NN ally))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBZ has)
+                        (VP (VBN backed)
+                          (NP
+                            (NP (PRP$ his) (NN threat))
+                            (PP (IN of)
+                              (NP
+                                (NP (NN force))
+                                (, ,)
+                                (NP (JJ British) (JJ prime) (NN minister) (NNP Tony) (NNP Blair))))))))))))))))
+    (. .)))
+

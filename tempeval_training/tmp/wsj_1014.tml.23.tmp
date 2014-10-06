@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (PP (VBG According)
+      (PP (TO to)
+        (NP
+          (NP (NNP Mr.) (NNP Steinman))
+          (, ,)
+          (NP (DT the) (NN newsletter) (NN publisher)))))
+    (, ,)
+    (NP
+      (NP (NNP Anheuser) (POS 's))
+      (NN market) (NN share))
+    (VP (VBZ is)
+      (ADVP (RB nearly) (RB twice))
+      (NP
+        (NP (DT that))
+        (PP (IN of)
+          (NP
+            (NP (PRP$ its) (JJS nearest) (NN competitor))
+            (, ,)
+            (NP (NNP Miller) (NNP Brewing))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD had)
+                  (NP (DT a)
+                    (ADJP (CD 21.2) (NN %))
+                    (NN stake))
+                  (NP (JJ last) (NN year)))))))))
+    (. .)))
+

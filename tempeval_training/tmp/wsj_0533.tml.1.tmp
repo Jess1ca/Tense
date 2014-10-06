@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Institut) (NNP Merieux) (NNP S.A.))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD offered)
+            (NP
+              (NP
+                (NP
+                  (QP (CD 942) (CD million))
+                  (JJ Canadian) (NNS dollars))
+                (PRN (-LRB- -LRB-)
+                  (NP
+                    (QP ($ US$) (CD 801.2) (CD million)))
+                  (-RRB- -RRB-)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP ($ C$) (CD 37))
+                (NP (DT a) (NN share))))
+            (PP (IN for)
+              (NP (NNP Connaught))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD would)
+            (VP
+              (VP (VB extend)
+                (NP (PRP$ its) (NN bid)))
+              (, ,)
+              (ADJP (JJ due)
+                (S
+                  (VP (TO to)
+                    (VP (VB expire)
+                      (NP (JJ last) (NNP Thursday))
+                      (, ,)
+                      (PP (TO to)
+                        (NP (NNP Nov.) (CD 6))))))))))))
+    (. .)))
+

@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD noted) (, ,)
+      (ADVP (RB however))
+      (, ,)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN company) (POS 's))
+            (NN order) (NN entry))
+          (VP (VBZ has)
+            (VP (VBN increased)
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (JJ low) (NNS levels))
+                  (PP (IN of)
+                    (NP (DT the) (JJ early) (NN summer)))))))))
+      (, ,)
+      (PP (VBG following)
+        (NP
+          (NP (DT the) (NN end))
+          (PP (IN of)
+            (NP (NN labor) (NNS negotiations))))))
+    (. .)))
+

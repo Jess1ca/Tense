@@ -1,0 +1,24 @@
+(ROOT
+  (S (CC But)
+    (SBAR (IN as)
+      (S
+        (NP (DT the) (NN craze))
+        (VP (VBD died))))
+    (, ,)
+    (NP (NNP Coleco))
+    (VP
+      (VP (VBD failed)
+        (S
+          (VP (TO to)
+            (VP (VB come)
+              (PRT (RP up))
+              (PP (IN with)
+                (NP (DT another) (NN winner)))))))
+      (CC and)
+      (VP (VBD filed)
+        (PP (IN for)
+          (NP (NN bankruptcy-law) (NN protection)))
+        (PP (IN in)
+          (NP (NNP July) (CD 1988)))))
+    (. .)))
+

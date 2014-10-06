@@ -1,0 +1,46 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP
+        (NP (DT All))
+        (SBAR
+          (S
+            (NP (DT this))
+            (VP (VBZ has)
+              (ADVP (RB really))
+              (VP (VBN established))))))
+      (VP (VBZ is)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNP MCA))
+              (CC and)
+              (NP (DT the) (NNP Bronfmans)))
+            (VP (VBP have)
+              (VP (VBN agreed)
+                (PP (IN on)
+                  (NP
+                    (NP (DT a) (NN price))
+                    (SBAR
+                      (WHPP (IN at)
+                        (WHNP (WDT which)))
+                      (S
+                        (NP (PRP they))
+                        (VP (MD can)
+                          (VP (VB be)
+                            (VP (VBN bought)
+                              (PRT (RP out)))))))))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Jeffery) (NNP Logsdon))
+      (, ,)
+      (NP
+        (NP (DT an) (NN analyst))
+        (PP (IN with)
+          (NP
+            (NP (NNP Crowell) (, ,) (NNP Weedon))
+            (PP (IN in)
+              (NP (NNP Los) (NNP Angeles)))))))
+    (. .)))
+

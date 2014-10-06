@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN president))
+      (CC and)
+      (NP (PRP$ his) (JJ top) (NNS aides)))
+    (ADVP (RB tentatively))
+    (VP (VBD decided)
+      (PRT (RP on))
+      (NP (NNP Feb.) (CD 11))
+      (SBAR (IN that)
+        (S
+          (NP (DT a) (NN ground) (NN war))
+          (VP (MD would)
+            (VP (VB be)
+              (ADJP (JJ necessary)))))))
+    (. .)))
+

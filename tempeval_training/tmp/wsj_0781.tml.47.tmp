@@ -1,0 +1,17 @@
+(ROOT
+  (S (`` ``)
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (DT the) (VBG leading) (NN edge) (NN technology))
+                (PP (IN in)
+                  (NP
+                    (NP (JJ personal) (NNS computers))
+                    (PP (IN for)
+                      (NP (DT the) (JJ next) (JJ few) (NNS years)))))))))))
+    (. .)))
+

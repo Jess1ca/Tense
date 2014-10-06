@@ -1,0 +1,22 @@
+1	Treasurer	_	NNP	NNP	_	3	nn	_	_
+2	Peter	_	NNP	NNP	_	3	nn	_	_
+3	Costello	_	NNP	NNP	_	15	nsubj	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	Environment	_	NNP	NNP	_	8	nn	_	_
+6	Minister	_	NNP	NNP	_	8	nn	_	_
+7	Robert	_	NNP	NNP	_	8	nn	_	_
+8	Hill	_	NNP	NNP	_	3	conj	_	_
+9	and	_	CC	CC	_	3	cc	_	_
+10	Attorney	_	NNP	NNP	_	13	nn	_	_
+11	General	_	NNP	NNP	_	13	nn	_	_
+12	Daryl	_	NNP	NNP	_	13	nn	_	_
+13	Williams	_	NNP	NNP	_	3	conj	_	_
+14	all	_	RB	RB	_	15	advmod	_	_
+15	voted	_	VBD	VBD	_	0	root	_	_
+16	to	_	TO	TO	_	17	aux	_	_
+17	support	_	VB	VB	_	15	xcomp	_	_
+18	the	_	DT	DT	_	19	det	_	_
+19	republic	_	NN	NN	_	17	dobj	_	_
+20	Friday	_	NNP	NNP	_	17	tmod	_	_
+21	.	_	.	.	_	15	punct	_	_
+

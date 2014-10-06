@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ financial-services) (NN company))
+    (VP (MD will)
+      (VP (VB pay)
+        (NP
+          (NP (CD 0.82) (NN share))
+          (PP (IN for)
+            (NP (DT each) (NNP Williams) (NN share))))))
+    (. .)))
+

@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Swavely))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (JJ new) (NN space))
+          (VP (MD will)
+            (VP (VB allow)
+              (S
+                (NP (NNP Compaq))
+                (VP (TO to)
+                  (VP (VB increase)
+                    (NP
+                      (NP (DT the) (VBG manufacturing) (NN capacity))
+                      (PP (IN of)
+                        (NP
+                          (NP (PRP$ its) (NN plant))
+                          (PP (IN in)
+                            (NP (NNP Erskine) (, ,) (NNP Scotland))))))))))))))
+    (. .)))
+

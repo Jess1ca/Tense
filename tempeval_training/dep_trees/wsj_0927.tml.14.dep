@@ -1,0 +1,24 @@
+1	Quarterly	_	JJ	JJ	_	3	amod	_	_
+2	net	_	JJ	JJ	_	3	amod	_	_
+3	income	_	NN	NN	_	7	nsubj	_	_
+4	this	_	DT	DT	_	5	det	_	_
+5	year	_	NN	NN	_	7	nsubj	_	_
+6	has	_	VBZ	VBZ	_	7	aux	_	_
+7	risen	_	VBN	VBN	_	0	root	_	_
+8	just	_	RB	RB	_	7	advmod	_	_
+9	over	_	IN	IN	_	7	prep	_	_
+10	comparable	_	JJ	JJ	_	11	amod	_	_
+11	periods	_	NNS	NNS	_	9	pobj	_	_
+12	in	_	IN	IN	_	11	prep	_	_
+13	1988	_	CD	CD	_	12	pobj	_	_
+14	,	_	,	,	_	11	punct	_	_
+15	when	_	WRB	WRB	_	17	advmod	_	_
+16	year-end	_	JJ	JJ	_	17	amod	_	_
+17	net	_	NN	NN	_	18	nsubj	_	_
+18	was	_	VBD	VBD	_	11	rcmod	_	_
+19	below	_	IN	IN	_	18	prep	_	_
+20	the	_	DT	DT	_	22	det	_	_
+21	1987	_	CD	CD	_	22	num	_	_
+22	level	_	NN	NN	_	19	pobj	_	_
+23	.	_	.	.	_	7	punct	_	_
+

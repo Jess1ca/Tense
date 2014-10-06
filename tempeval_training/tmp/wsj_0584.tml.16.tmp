@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (NN response))
+        (PP (TO to)
+          (NP
+            (NP (NNP BellSouth) (POS 's))
+            (VBN amended) (NN pact)))))
+    (, ,)
+    (NP (DT the)
+      (NAC (NNP Kirkland) (, ,) (NNP Wash.) (, ,))
+      (NN company))
+    (VP (VBD extended)
+      (NP (PRP$ its) (JJ own) (NN offer))
+      (S
+        (VP (TO to)
+          (VP (VB buy)
+            (NP
+              (QP (CD 22) (CD million))
+              (NNP LIN) (NNS shares))
+            (PP (IN for)
+              (NP
+                (NP
+                  (NP ($ $) (CD 125))
+                  (NP (RB apiece)))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (MD would)
+                      (VP (VB give)
+                        (NP (NNP McCaw))
+                        (NP (DT a)
+                          (ADJP (CD 50.3) (NN %))
+                          (VBG controlling) (NN interest))))))))))))
+    (. .)))
+

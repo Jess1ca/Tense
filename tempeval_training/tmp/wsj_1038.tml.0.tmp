@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (NNP Benjamin) (NNP Franklin) (NNP Federal) (NNPS Savings) (NN amp) (NNP Loan) (NNP Association))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ plans)
+            (S
+              (VP (TO to)
+                (VP (VB restructure)
+                  (PP (IN in)
+                    (S
+                      (NP
+                        (NP (DT the) (NN wake))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT a) (JJ third-quarter) (NN loss))
+                            (PP (IN of)
+                              (NP
+                                (NP
+                                  (QP ($ $) (CD 7.7) (CD million)))
+                                (, ,)
+                                (CC or)
+                                (NP
+                                  (NP ($ $) (CD 1.01))
+                                  (NP (DT a) (NN share)))
+                                (, ,))))))
+                      (VP (VBG reflecting)
+                        (NP (DT an)
+                          (ADJP
+                            (QP ($ $) (CD 11) (CD million)))
+                          (NN addition))
+                        (PP (TO to)
+                          (NP (JJ loan-loss) (NNS reserves)))))))))))))
+    (. .)))
+

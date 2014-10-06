@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NNP Saddam))
+    (VP (MD will)
+      (VP (VB know)
+        (PP (IN by)
+          (NP
+            (NP (PRP$ our) (NNS actions))
+            (CC and)
+            (NP (PRP$ our) (NN warning))))
+        (SBAR (IN that)
+          (S
+            (NP (PRP we))
+            (VP (MD will)
+              (VP (VB be)
+                (VP (VBN prepared)
+                  (S
+                    (VP (TO to)
+                      (VP (VB act)
+                        (ADVP (RB again))
+                        (SBAR (IN if)
+                          (S
+                            (NP (PRP we))
+                            (VP (VBP have)
+                              (NP
+                                (NP (NN evidence))
+                                (SBAR
+                                  (S
+                                    (NP (PRP he))
+                                    (VP (VBZ is)
+                                      (VP (VBG trying)
+                                        (S
+                                          (VP (TO to)
+                                            (VP (VB rebuild)
+                                              (NP
+                                                (NP (PRP$ his) (NNS weapons))
+                                                (PP (IN of)
+                                                  (NP (JJ mass) (NN destruction) (NNS capabilities)))))))))))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ giant) (NNS foods) (, ,) (NN tobacco)
+      (CC and)
+      (NN brewing) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB issue)
+              (NP (JJ common-share) (NN purchase) (NNS rights))
+              (PP (TO to)
+                (NP
+                  (NP (NNS shareholders))
+                  (PP (IN of)
+                    (NP (NN record)))))
+              (NP (NNP Nov.) (CD 8)))))))
+    (. .)))
+

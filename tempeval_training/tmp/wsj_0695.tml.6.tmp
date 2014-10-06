@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (VP (VBN estimated)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NNP Patterson) (NN group))
+            (VP (VBZ controls)
+              (NP
+                (NP
+                  (QP (JJR more) (IN than) (CD 40))
+                  (NN %))
+                (PP (IN of)
+                  (NP
+                    (NP (NNP Rally) (POS 's))
+                    (NN stock)))))))))
+    (. .)))
+

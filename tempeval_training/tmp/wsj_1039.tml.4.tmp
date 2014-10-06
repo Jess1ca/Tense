@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Jay) (NNP Stevens))
+      (, ,)
+      (NP
+        (NP (DT an) (NN analyst))
+        (PP (IN with)
+          (NP (NNP Dean) (NNP Witter) (NNP Reynolds))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP
+            (VP (VBD expected)
+              (S
+                (NP (DT the)
+                  (NAC (NNP Sunnyvale) (, ,) (NNP Calif.) (, ,))
+                  (NN company))
+                (VP (TO to)
+                  (VP (VB earn)
+                    (NP
+                      (NP (CD 35) (NNS cents))
+                      (NP (DT a) (NN share)))
+                    (PP (IN for)
+                      (NP (DT the) (NN quarter)))))))
+            (CC and)
+            (VP (VBD said)
+              (SBAR
+                (S
+                  (NP
+                    (NP (DT the) (NN firm) (POS 's))
+                    (JJR weaker) (NN profit))
+                  (VP (VBD was)
+                    (ADVP (RB partly))
+                    (NP
+                      (NP (DT the) (NN result))
+                      (PP (IN of)
+                        (NP
+                          (NP (VBN increased) (NN competition))
+                          (PP (IN from)
+                            (NP
+                              (NP (NNP International) (NNP Business) (NNPS Machines) (NNP Corp.))
+                              (, ,)
+                              (NP
+                                (NP
+                                  (NP (NNP Amdahl) (POS 's))
+                                  (JJ principal) (NN competitor))
+                                (PP (IN for)
+                                  (NP (NN mainframe) (NNS sales)))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (NNP Valley) (NNP Federal))
+    (VP (VBZ is)
+      (ADVP (RB currently))
+      (VP (VBG being)
+        (VP (VBN examined)
+          (PP (IN by)
+            (NP (NNS regulators))))))
+    (. .)))
+

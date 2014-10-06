@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT The)
+      (ADJP (CD 32) (NN %))
+      (JJ state-owned) (NN DSM))
+    (VP (VBD had)
+      (NP
+        (NP
+          (QP (CD eight) (CD million))
+          (NNS guilders))
+        (PP (IN of)
+          (NP (JJ extraordinary) (NNS charges))))
+      (PP (IN in)
+        (NP (DT the) (JJS latest) (NN quarter)))
+      (, ,)
+      (S
+        (ADVP (RB mainly))
+        (VP (TO to)
+          (VP (VB reflect)
+            (NP
+              (NP (JJ one-time) (NNS losses))
+              (PP (IN in)
+                (NP (NN connection))))
+            (PP (IN with)
+              (NP
+                (NP (DT the) (NN disposal))
+                (PP (IN of)
+                  (NP (DT some) (NNS operations)))))))))
+    (. .)))
+

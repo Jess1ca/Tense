@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (JJ Several) (NNP Cineplex) (NNS analysts))
+    (VP (VBP have)
+      (VP (VBN speculated)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (JJ outside) (NNS bids))
+              (VP (VBN received)
+                (PP (IN by)
+                  (NP (DT the) (NN committee)))))
+            (VP (VBD were)
+              (UCP (RB either)
+                (ADJP (RB disappointingly) (JJ low))
+                (CC or)
+                (PP (IN for)
+                  (NP
+                    (NP (JJ only) (NN part))
+                    (PP (IN of)
+                      (NP (DT the) (NN company)))))))))))
+    (. .)))
+

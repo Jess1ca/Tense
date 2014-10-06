@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT The) (NN split))
+    (VP (MD will)
+      (VP (VB raise)
+        (S
+          (NP
+            (NP (DT the) (NN number))
+            (PP (IN of)
+              (NP (NNS shares))))
+          (ADJP (JJ outstanding)))
+        (PP (TO to)
+          (NP
+            (QP (RB about) (CD 10.2) (CD million))))))
+    (. .)))
+

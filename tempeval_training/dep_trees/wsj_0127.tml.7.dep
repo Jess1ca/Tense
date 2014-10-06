@@ -1,0 +1,15 @@
+1	Earnings	_	NNS	NNS	_	3	nsubjpass	_	_
+2	were	_	VBD	VBD	_	3	auxpass	_	_
+3	hurt	_	VBN	VBN	_	13	ccomp	_	_
+4	by	_	IN	IN	_	3	prep	_	_
+5	disposal	_	NN	NN	_	4	pobj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	operations	_	NNS	NNS	_	6	pobj	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	its	_	PRP$	PRP$	_	10	poss	_	_
+10	restructuring	_	NN	NN	_	8	pobj	_	_
+11	,	_	,	,	_	13	punct	_	_
+12	Reed	_	NNP	NNP	_	13	nsubj	_	_
+13	said	_	VBD	VBD	_	0	root	_	_
+14	.	_	.	.	_	13	punct	_	_
+

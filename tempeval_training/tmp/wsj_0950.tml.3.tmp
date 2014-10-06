@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP GM))
+    (VP (VBD closed)
+      (PRT (RP down))
+      (NP
+        (NP ($ $) (CD 1.875))
+        (PP (IN at)
+          (NP
+            (NP ($ $) (CD 44.875))
+            (PP (IN in)
+              (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN trading))))))
+      (NP (NN yesterday)))
+    (. .)))
+

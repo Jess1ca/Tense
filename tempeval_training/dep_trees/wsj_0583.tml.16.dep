@@ -1,0 +1,19 @@
+1	As	_	IN	IN	_	4	mark	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	yen	_	NN	NN	_	4	nsubj	_	_
+4	soared	_	VBD	VBD	_	14	advcl	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	recent	_	JJ	JJ	_	7	amod	_	_
+7	years	_	NNS	NNS	_	5	pobj	_	_
+8	,	_	,	,	_	14	punct	_	_
+9	Sansui	_	NNP	NNP	_	13	poss	_	_
+10	's	_	POS	POS	_	9	possessive	_	_
+11	deepening	_	VBG	VBG	_	13	amod	_	_
+12	financial	_	JJ	JJ	_	13	amod	_	_
+13	problems	_	NNS	NNS	_	14	nsubj	_	_
+14	became	_	VBD	VBD	_	0	root	_	_
+15	a	_	DT	DT	_	17	det	_	_
+16	vicious	_	JJ	JJ	_	17	amod	_	_
+17	circle	_	NN	NN	_	14	xcomp	_	_
+18	.	_	.	.	_	14	punct	_	_
+

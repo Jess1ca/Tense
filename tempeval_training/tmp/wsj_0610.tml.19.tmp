@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Mr.) (NNP Maxwell))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (MD would) (RB n't)
+              (VP (VB be)
+                (VP (VBN surprised)
+                  (S
+                    (ADJP (IN if)))
+                  (, ,)
+                  (UCP
+                    (PP (IN over)
+                      (NP (DT the) (JJ next) (CD two) (NNS years)))
+                    (CC or)
+                    (ADVP (RB so))))))))))
+    (, ,)
+    (NP
+      (NP (NNP General) (NNP Mills) (POS '))
+      (NN share))
+    (VP (VBD increased)
+      (PP (TO to)
+        (NP
+          (QP (CD 30) (NN %)
+            (CC or)
+            (JJR more)))))
+    (. .)))
+

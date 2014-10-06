@@ -1,0 +1,15 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	demand	_	NN	NN	_	6	nsubj	_	_
+3	for	_	IN	IN	_	2	prep	_	_
+4	workers	_	NNS	NNS	_	3	pobj	_	_
+5	also	_	RB	RB	_	6	advmod	_	_
+6	led	_	VBD	VBD	_	0	root	_	_
+7	employers	_	NNS	NNS	_	6	dobj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	raise	_	VB	VB	_	6	xcomp	_	_
+10	wages	_	NNS	NNS	_	9	dobj	_	_
+11	again	_	RB	RB	_	9	advmod	_	_
+12	last	_	JJ	JJ	_	13	amod	_	_
+13	month	_	NN	NN	_	9	tmod	_	_
+14	.	_	.	.	_	6	punct	_	_
+

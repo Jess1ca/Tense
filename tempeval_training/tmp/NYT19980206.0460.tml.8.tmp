@@ -1,0 +1,47 @@
+(ROOT
+  (S (CC And)
+    (SBAR (IN because)
+      (S
+        (NP (DT the) (NNP Federal) (NNP Reserve))
+        (VP (VBZ has)
+          (VP (VBN made)
+            (ADJP (JJ clear))
+            (SBAR (IN that)
+              (S
+                (NP (PRP it))
+                (VP (VBZ expects)
+                  (NP (DT the) (NN economy)
+                    (S
+                      (VP (TO to)
+                        (VP (VB slow)
+                          (PP (IN in)
+                            (NP (JJ coming) (NNS months)))
+                          (SBAR (IN as)
+                            (S
+                              (NP
+                                (NP (JJ ripple) (NNS effects))
+                                (PP (IN from)
+                                  (NP (NNP Asia))))
+                              (VP (VBP reach)
+                                (NP (DT the) (NNP United) (NNPS States))))))))))))))))
+    (, ,)
+    (NP (NNS investors))
+    (VP (VBD disregarded)
+      (NP (DT the) (JJ large) (NNS jobs) (NNS gains))
+      (, ,)
+      (S
+        (VP (VBG betting)
+          (SBAR (IN that)
+            (S
+              (NP (CC neither)
+                (NP
+                  (NP (DT a) (NN rise))
+                  (PP (IN in)
+                    (NP
+                      (NP (NN interest) (NNS rates))
+                      (CC nor)
+                      (NP (JJ resurgent) (NN inflation))))))
+              (VP (VBZ is)
+                (VP (VBG looming))))))))
+    (. .)))
+

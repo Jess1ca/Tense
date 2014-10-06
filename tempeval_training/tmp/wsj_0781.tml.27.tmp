@@ -1,0 +1,19 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (VBP do) (RB n't)
+        (VP (VB look)
+          (PP (IN at)
+            (NP
+              (NP (DT this))
+              (PP (IN as)
+                (NP
+                  (NP (DT a) (JJ major) (NN problem))
+                  (PP (IN for)
+                    (NP (PRP us))))))))))
+    (, ,) ('' '')
+    (NP (PRP she))
+    (VP (VBD said))
+    (. .)))
+

@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (ADVP (RB Well))
+    (, ,)
+    (S
+      (ADVP (RB frankly))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN answer))
+      (VP (VBZ is)
+        (VP (VBG coming)
+          (PRT (RP up))
+          (PP (IN in)
+            (NP
+              (QP (RB just) (DT a) (JJ few))
+              (NNS minutes))))))
+    (. .)))
+

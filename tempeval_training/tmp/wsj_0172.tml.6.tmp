@@ -1,0 +1,36 @@
+(ROOT
+  (S (CC But)
+    (NP (PRP it))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN severance) (NNS payments))
+            (PP (TO to)
+              (NP
+                (NP (DT those) (NNS executives))
+                (VP (RB not) (VBG staying)
+                  (PP (IN with)
+                    (NP (DT the) (NN company)))))))
+          (VP (MD will)
+            (VP (VB reduce)
+              (NP
+                (NP (NNP First))
+                (PP (IN of)
+                  (NP
+                    (NP (NNP America) (POS 's))
+                    (VBG operating) (NNS results))))
+              (PP (IN for)
+                (NP (CD 1989)))
+              (PP (IN by)
+                (NP
+                  (NP
+                    (QP ($ $) (CD 3) (CD million) (TO to) ($ $) (CD 4) (CD million)))
+                  (, ,)
+                  (CC or)
+                  (NP
+                    (NP
+                      (QP (CD 15) (NNS cents) (TO to) (CD 20) (NNS cents)))
+                    (NP (DT a) (NN share))))))))))
+    (. .)))
+

@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Norton) (NNP Co.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (JJ net) (NN income))
+            (PP (IN for)
+              (NP (DT the) (JJ third) (NN quarter))))
+          (VP (VBD fell)
+            (NP (CD 6) (NN %))
+            (PP (TO to)
+              (NP
+                (NP
+                  (QP ($ $) (CD 20.6) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (CD 98) (NNS cents))
+                  (NP (DT a) (NN share)))
+                (, ,)))
+            (PP (IN from)
+              (NP
+                (NP
+                  (QP ($ $) (CD 22) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP ($ $) (CD 1.03))
+                  (NP (DT a) (NN share)))))))))
+    (. .)))
+

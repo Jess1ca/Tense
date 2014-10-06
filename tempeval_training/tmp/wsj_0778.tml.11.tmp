@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT a) (NN letter)))
+    (, ,)
+    (NP (NNS prosecutors))
+    (VP (VBD told)
+      (NP
+        (NP (NNP Mr.) (NNP Antar) (POS 's))
+        (NNS lawyers))
+      (SBAR (IN that) (IN because)
+        (S
+          (PP (IN of)
+            (NP (DT the) (JJ recent) (NNP Supreme) (NNP Court) (NNS rulings)))
+          (, ,)
+          (NP (PRP they))
+          (VP (MD could)
+            (VP (VB expect)
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (DT any) (NNS fees))
+                    (VP (VBN collected)
+                      (PP (IN from)
+                        (NP (NNP Mr.) (NNP Antar)))))
+                  (VP (MD may)
+                    (VP (VB be)
+                      (VP (VBN seized)))))))))))
+    (. .)))
+

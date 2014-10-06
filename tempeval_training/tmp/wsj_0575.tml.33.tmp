@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG Reviewing)
+        (NP
+          (NP (DT the) (NN company) (POS 's))
+          (NN scrape))
+        (PP (IN with)
+          (NP (NN disaster)))))
+    (, ,)
+    (NP (NNP Mr.) (NNP Price))
+    (VP (VBD conceded)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD had)
+            (VP (VBN tried)
+              (S
+                (VP (TO to)
+                  (VP (VB do)
+                    (ADVP (RB too) (RB much))
+                    (PP (IN on)
+                      (NP (PRP$ its) (JJ own)))))))))))
+    (. .)))
+

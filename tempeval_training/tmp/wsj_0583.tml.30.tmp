@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP September)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD announced)
+      (NP (NNS plans))
+      (S
+        (VP (TO to)
+          (VP (VB acquire)
+            (NP
+              (NP (DT the) (NN tropical-fruit) (NN business))
+              (PP (IN of)
+                (NP
+                  (NP (NNP RJR) (NNP Nabisco) (NNP Inc.) (POS 's))
+                  (NNP Del) (NNP Monte) (NNS foods) (NN unit))))
+            (PP (IN for)
+              (NP
+                (NP
+                  (QP (# #) (CD 557) (CD million)))
+                (PRN (-LRB- -LRB-)
+                  (NP
+                    (QP ($ $) (CD 878) (CD million)))
+                  (-RRB- -RRB-))))))))
+    (. .)))
+

@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (DT the) (NN government))
+        (VP (VBD said)
+          (SBAR
+            (S
+              (NP (DT the) (NN economy))
+              (VP (VBD grew)
+                (NP (DT an) (JJ estimated) (CD 2.5) (NN %))
+                (PP (IN in)
+                  (NP (DT the) (JJ third) (NN quarter)))
+                (, ,)
+                (PP (IN in)
+                  (NP
+                    (NP (NN line))
+                    (PP (IN with)
+                      (NP (NNS expectations)))))))))))
+    (, ,)
+    (NP (NNS analysts))
+    (VP (VBP are)
+      (ADVP (RB increasingly))
+      (VP (VBG predicting)
+        (NP
+          (NP
+            (ADJP (RB much) (RBR more) (JJ sluggish))
+            (NN growth))
+          (PRN (: --)
+            (CC and)
+            (ADVP (RB therefore))
+            (NP (JJR more) (JJ corporate) (NNS earnings) (NNS disappointments))
+            (: --)))
+        (PP (IN for)
+          (NP (DT the) (JJ fourth) (NN quarter)))))
+    (. .)))
+

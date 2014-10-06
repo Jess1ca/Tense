@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN move))
+          (VP (VBZ recognizes)
+            (NP (PRP$ its) (JJ strong) (JJ financial) (NN position))))))
+    (. .)))
+

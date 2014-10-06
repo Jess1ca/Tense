@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT the) (NN quarter))
+        (VP (VBN ended)
+          (NP (NNP July) (CD 31)))))
+    (, ,)
+    (NP (NNP Jayark))
+    (VP (VBD had)
+      (NP
+        (NP (DT an) (NN average))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP (CD 5.6) (CD million))
+              (NNS shares))
+            (ADJP (JJ outstanding))))))
+    (. .)))
+

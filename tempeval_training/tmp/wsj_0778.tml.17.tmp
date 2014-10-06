@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Antar))
+    (VP (VBD was)
+      (VP (VBN charged)
+        (NP (JJ last) (NN month))
+        (PP (IN in)
+          (NP
+            (NP (DT a) (JJ civil) (NN suit))
+            (VP (VBN filed)
+              (PP (IN in)
+                (NP
+                  (NP (JJ federal) (NN court))
+                  (PP (IN in)
+                    (NP (NNP Newark)))))
+              (PP (IN by)
+                (NP (DT the) (NNPS Securities)
+                  (CC and)
+                  (NNP Exchange) (NNP Commission))))))))
+    (. .)))
+

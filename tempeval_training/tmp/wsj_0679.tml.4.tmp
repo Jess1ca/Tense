@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP Hewlett-Packard))
+    (VP (VBD affirmed)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ does) (RB n't)
+            (VP (VB plan)
+              (S
+                (VP (TO to)
+                  (VP (VB obtain)
+                    (NP
+                      (NP (NN control))
+                      (PP (IN of)
+                        (NP
+                          (NP (NNP Octel))
+                          (, ,)
+                          (NP
+                            (NP (DT a)
+                              (NAC (NNP Milpitas) (, ,) (NNP Calif.) (, ,))
+                              (NN maker))
+                            (PP (IN of)
+                              (NP (JJ voice-processing) (NNS systems)))))))))))))))
+    (. .)))
+

@@ -1,0 +1,14 @@
+1	About	_	RB	RB	_	3	quantmod	_	_
+2	1.1	_	CD	CD	_	3	number	_	_
+3	million	_	CD	CD	_	6	num	_	_
+4	Class	_	NNP	NNP	_	6	nn	_	_
+5	C	_	NNP	NNP	_	6	nn	_	_
+6	warrants	_	NNS	NNS	_	8	nsubjpass	_	_
+7	were	_	VBD	VBD	_	8	auxpass	_	_
+8	issued	_	VBN	VBN	_	12	ccomp	_	_
+9	,	_	,	,	_	12	punct	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	company	_	NN	NN	_	12	nsubj	_	_
+12	said	_	VBD	VBD	_	0	root	_	_
+13	.	_	.	.	_	12	punct	_	_
+

@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT The) (NN gain))
+    (VP (VBD left)
+      (NP (NNS wages))
+      (ADVP
+        (ADVP
+          (NP (CD 3.8) (NN percent))
+          (JJR higher))
+        (PP (IN than)
+          (NP (DT a) (NN year) (RBR earlier))))
+      (, ,)
+      (S
+        (VP (VBG extending)
+          (NP
+            (NP (DT a) (NN trend))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ has)
+                  (VP (VBN given)
+                    (PRT (RP back))
+                    (PP (TO to)
+                      (NP (NNS workers)))
+                    (NP
+                      (NP (DT some))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT the) (VBG earning) (NN power))
+                          (SBAR
+                            (S
+                              (NP (PRP they))
+                              (VP (VBD lost)
+                                (PP (TO to)
+                                  (NP (NN inflation)))))))))
+                    (PP (IN in)
+                      (NP (DT the) (JJ last) (NN decade)))))))))))
+    (. .)))
+

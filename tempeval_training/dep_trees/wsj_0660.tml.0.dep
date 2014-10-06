@@ -1,0 +1,21 @@
+1	Montedison	_	NNP	NNP	_	2	nn	_	_
+2	S.p.A.	_	NNP	NNP	_	4	nsubj	_	_
+3	definitively	_	RB	RB	_	4	advmod	_	_
+4	agreed	_	VBD	VBD	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	buy	_	VB	VB	_	4	xcomp	_	_
+7	all	_	DT	DT	_	6	dobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	12	det	_	_
+10	publicly	_	RB	RB	_	11	advmod	_	_
+11	held	_	VBN	VBN	_	12	amod	_	_
+12	shares	_	NNS	NNS	_	8	pobj	_	_
+13	of	_	IN	IN	_	12	prep	_	_
+14	Erbamont	_	NNP	NNP	_	15	nn	_	_
+15	N.V.	_	NNP	NNP	_	13	pobj	_	_
+16	for	_	IN	IN	_	15	prep	_	_
+17	$	_	$	$	_	16	pobj	_	_
+18	37	_	CD	CD	_	17	num	_	_
+19	each	_	DT	DT	_	17	dep	_	_
+20	.	_	.	.	_	4	punct	_	_
+

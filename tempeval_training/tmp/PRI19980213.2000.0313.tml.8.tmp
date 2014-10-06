@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNS Forecasters))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (DT the) (NN picture))
+          (VP (MD will)
+            (VP (VB get)
+              (ADJP (JJR worse))
+              (SBAR (IN because)
+                (S
+                  (NP (JJR more) (NNS rains))
+                  (VP (VBP are)
+                    (PP (IN on)
+                      (NP (DT the) (NN way)))))))))))
+    (. .)))
+

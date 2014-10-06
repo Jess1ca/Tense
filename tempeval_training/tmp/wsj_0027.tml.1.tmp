@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Mr.) (NNP Stronach))
+      (VP (MD will)
+        (VP (VB direct)
+          (NP (DT an) (NN effort)
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB reduce)
+                    (ADVP (RB overhead)))
+                  (CC and)
+                  (VP (VB curb)
+                    (NP (NN capital) (NN spending))
+                    (`` ``)
+                    (SBAR (IN until)
+                      (S
+                        (NP
+                          (NP (DT a)
+                            (ADJP (RBR more) (JJ satisfactory))
+                            (NN level))
+                          (PP (IN of)
+                            (NP (NN profit))))
+                        (VP (VBZ is)
+                          (VP (VBN achieved)
+                            (CC and)
+                            (VBN maintained)))))))))))))
+    (, ,) ('' '')
+    (NP (FW Magna))
+    (VP (VBD said))
+    (. .)))
+

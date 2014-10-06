@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS companies))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN accord))
+          (VP (VBD was)
+            (ADVP (RB unanimously))
+            (VP (VBN approved)
+              (PP (IN by)
+                (NP
+                  (NP (DT a) (JJ special) (NN committee))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNP Erbamont) (NNS directors))
+                      (ADJP (JJ unaffiliated)
+                        (PP (IN with)
+                          (NP (NNP Montedison)))))))))))))
+    (. .)))
+

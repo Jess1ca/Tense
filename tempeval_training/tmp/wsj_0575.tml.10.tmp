@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN company))
+          (VP (VBZ has)
+            (NP
+              (NP (DT no) (NN intention))
+              (PP (IN of)
+                (S
+                  (VP (VBG tapping)
+                    (NP (PRP$ its) (JJ short-term) (NN bank) (NNS lines))))))
+            (`` ``)
+            (PP (IN for)
+              (NP
+                (NP (DT a) (JJ good) (NN part))
+                (PP (IN of)
+                  (NP (CD 1990)))))))))
+    (. .) ('' '')))
+

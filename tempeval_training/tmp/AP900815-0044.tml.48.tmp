@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP United) (NNPS States))
+    (VP (VBZ has)
+      (VP (VBN provided)
+        (ADVP (RBS most))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ naval) (NNS vessels))
+            (ADVP (RB so) (RB far))))
+        (S
+          (VP (TO to)
+            (VP (VB block)
+              (NP (JJ Iraqi) (NN trade)))))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (NNP Britain) (, ,) (NNP West) (NNP Germany)
+              (CC and)
+              (NNP Australia))
+            (PP (IN among)
+              (NP
+                (NP (DT the) (JJ other) (NNS nations) (NN lending) (NN support))
+                (PP (IN at)
+                  (NP (NN sea)))))))))
+    (. .)))
+

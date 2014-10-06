@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNPS Americans))
+      (VP (VBP say)
+        (SBAR
+          (S
+            (NP (PRP$ their) (NN battle) (NNS plans))
+            (VP (VBP call)
+              (PP (IN for)
+                (S
+                  (VP (VBG operating)
+                    (PP (IN against)
+                      (NP
+                        (NP (NNS forces))
+                        (PP (IN inside)
+                          (NP
+                            (NP (NNP Iraq))
+                            (ADVP (RB as)
+                              (ADVP (RB far) (RB north))
+                              (PP (IN as)
+                                (NP
+                                  (NP (DT the) (NN city))
+                                  (PP (IN of)
+                                    (NP (NNP Basra))))
+                                (, ,)
+                                (ADVP
+                                  (NP (RB about) (CD 30) (NNS miles))
+                                  (RB north))))))
+                        (PP (IN of)
+                          (NP (NNP Kuwait)))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (INTJ (VB say))
+      (NP (EX there))
+      (VP (VBZ is) (RB n't)
+        (NP (DT any) (NN plan)
+          (S
+            (VP (TO to)
+              (VP (VB drive)
+                (PP (IN beyond)
+                  (NP (DT that)))))))))
+    (. .)))
+

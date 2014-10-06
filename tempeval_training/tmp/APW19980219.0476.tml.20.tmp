@@ -1,0 +1,18 @@
+(ROOT
+  (S (CC But)
+    (PP (IN in)
+      (NP (NNP June)))
+    (S
+      (NP (JJ last) (NN year))
+      (, ,)
+      (NP (DT the) (VBG remaining) (NN leadership))
+      (VP (VBD had)
+        (NP (DT a) (VBG falling) (NN out))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNP Pol) (NNP Pot))
+      (VP (VBD was)
+        (VP (VBN arrested))))
+    (. .)))
+

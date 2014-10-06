@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Ratners) (NNP Group) (NNP PLC))
+      (, ,)
+      (NP (DT a) (JJ fast-growing) (, ,) (JJ acquisition-minded) (JJ London-based) (NN jeweler))
+      (, ,))
+    (VP (VBD raised)
+      (NP (PRP$ its) (NN price))
+      (PP (IN for)
+        (NP (JJ Seattle-based) (NN specialty) (NN jeweler)
+          (NP (NNP Weisfield) (POS 's))
+          (NNP Inc.)))
+      (PP (TO to)
+        (NP
+          (NP
+            (NP ($ $) (CD 57.50))
+            (NP (DT a) (NN share)))
+          (, ,)
+          (CC or)
+          (NP
+            (QP ($ $) (CD 62.1) (CD million)))))
+      (, ,)
+      (PP (IN from)
+        (NP
+          (NP
+            (NP ($ $) (CD 50))
+            (NP (DT a) (NN share)))
+          (, ,)
+          (CC or)
+          (NP
+            (QP ($ $) (CD 55) (CD million)))))
+      (, ,)
+      (SBAR (IN after)
+        (S
+          (NP (DT another) (NN concern))
+          (VP (VBD said)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (MD would)
+                  (VP (VB be)
+                    (VP (VBN prepared)
+                      (S
+                        (VP (TO to)
+                          (VP (VB outbid)
+                            (NP
+                              (NP (NNP Ratners) (POS 's))
+                              (JJ initial) (NN offer))))))))))))))
+    (. .)))
+

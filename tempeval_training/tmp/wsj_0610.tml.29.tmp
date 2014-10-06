@@ -1,0 +1,46 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (SBAR (IN As)
+        (S
+          (NP (PRP we))
+          (VP (VBP regain)
+            (NP (PRP$ our) (NN leadership) (NN level))
+            (SBAR
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (PRP we))
+                  (VP (VBP have)
+                    (VP (VBN been)))))
+              (, ,)
+              (CC and)
+              (SBAR (IN as)
+                (S
+                  (NP (PRP we))
+                  (VP (VBP continue)
+                    (S
+                      (VP (TO to)
+                        (VP
+                          (VP (VB put)
+                            (NP (JJ new) (NNS products))
+                            (PP (IN into)
+                              (NP (DT the) (NN marketplace))))
+                          (CC and)
+                          (VP (VB need)
+                            (NP (JJ additional) (NN capacity)))))))))))))
+      (, ,)
+      (NP (PRP we))
+      (VP (MD will)
+        (VP (VB look)
+          (PP (IN at)
+            (S
+              (VP (VBG resuming)
+                (NP (PRP$ our) (NN involvement))
+                (PP (IN with)
+                  (NP (PRP$ our) (NN plan)))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+

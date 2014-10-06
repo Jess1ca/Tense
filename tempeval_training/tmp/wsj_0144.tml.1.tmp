@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (NN Net))
+    (VP (VBD advanced)
+      (PP (TO to)
+        (NP
+          (NP
+            (QP ($ $) (CD 94.2) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP (CD 89) (NNS cents))
+            (NP (DT a) (NN share)))
+          (, ,)))
+      (PP (IN from)
+        (NP
+          (NP
+            (QP ($ $) (CD 85) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP (CD 83) (NNS cents))
+            (NP (DT a) (NN share)))))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP (JJ net) (VBN realized) (NN investment) (NNS gains))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP ($ $) (CD 31) (CD million)))
+              (, ,)
+              (ADVP (RB up)
+                (PP (IN from)
+                  (NP
+                    (QP ($ $) (CD 10) (CD million)))
+                  (NP (DT a) (NN year) (IN ago)))))))))
+    (. .)))
+

@@ -1,0 +1,30 @@
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT the) (JJ big) (, ,)
+        (ADJP (RB often) (JJ tumultuous))
+        (NN slide))
+      (PP (IN in)
+        (NP
+          (NP (NN stock) (NNS prices))
+          (NP (DT this) (NN month)))))
+    (VP (VBZ has)
+      (VP (VBN turned)
+        (NP
+          (NP (DT some))
+          (PP (IN of)
+            (NP
+              (NP (DT those))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBP have)
+                    (VP (VBN been)
+                      (VP (VBG profiting)
+                        (PP (IN from)
+                          (NP
+                            (NP (DT the) (NN practice))
+                            (PP (IN against)
+                              (NP (PRP it)))))))))))))))
+    (. .)))
+

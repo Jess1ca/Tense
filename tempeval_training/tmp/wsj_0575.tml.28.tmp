@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (S
+      (VP (VBN Asked)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP (DT the) (NN company))
+            (VP (VBZ hopes)
+              (S
+                (VP (TO to)
+                  (VP (VB expand)
+                    (NP (PRP$ its) (NN computer) (NN hardware) (NN business))))))))))
+    (, ,)
+    (NP (NNP Mr.) (NNP Ousley))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ sees)
+            (NP
+              (NP (JJ good) (NNS opportunities))
+              (PP (IN in)
+                (NP (NNS systems) (NN integration))))))))
+    (. .)))
+

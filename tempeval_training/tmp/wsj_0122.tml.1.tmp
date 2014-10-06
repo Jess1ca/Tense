@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (PP (IN Under)
+      (NP
+        (NP (NNS terms))
+        (PP (IN of)
+          (NP (DT the) (NN agreement)))))
+    (, ,)
+    (NP
+      (NP (NNS shareholders))
+      (PP (JJ other) (IN than)
+        (NP (DT the) (NNPS Underwoods))))
+    (VP (MD will)
+      (VP (VB receive)
+        (NP
+          (NP ($ $) (CD 3,500))
+          (NP (DT a) (NN share)))
+        (PP (IN at)
+          (NP
+            (NP (NN closing))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (VP (VBN expected)
+                    (PP (IN in)
+                      (NP (NNP December)))))))))))
+    (. .)))
+

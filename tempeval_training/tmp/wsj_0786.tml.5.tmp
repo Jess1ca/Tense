@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP January)))
+    (, ,)
+    (NP (NNP American) (NNP Medical))
+    (VP (VBD brought)
+      (PP (IN in)
+        (NP
+          (NP (DT a) (JJ new) (JJ chief) (NN executive) (NN officer))
+          (, ,)
+          (NP (NNP Richard) (NNP A.) (NNP Gilleland))
+          (, ,)
+          (NP (CD 45))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (MD will)
+                (VP (VB remain)
+                  (PP (IN as)
+                    (NP
+                      (NP (NN chairman))
+                      (, ,)
+                      (NP (NN president))
+                      (CC and)
+                      (NP (JJ chief) (NN executive)))))))))))
+    (. .)))
+

@@ -1,0 +1,18 @@
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	said	_	VBD	VBD	_	14	ccomp	_	_
+3	Jaguar	_	NNP	NNP	_	8	nsubjpass	_	_
+4	``	_	``	``	_	8	punct	_	_
+5	should	_	MD	MD	_	8	aux	_	_
+6	n't	_	RB	RB	_	8	neg	_	_
+7	be	_	VB	VB	_	8	auxpass	_	_
+8	smothered	_	VBN	VBN	_	2	ccomp	_	_
+9	by	_	IN	IN	_	8	prep	_	_
+10	anyone	_	NN	NN	_	9	pobj	_	_
+11	else	_	RB	RB	_	10	advmod	_	_
+12	,	_	,	,	_	14	punct	_	_
+13	''	_	''	''	_	14	punct	_	_
+14	recalled	_	VBD	VBD	_	0	root	_	_
+15	one	_	CD	CD	_	16	num	_	_
+16	participant	_	NN	NN	_	14	nsubj	_	_
+17	.	_	.	.	_	14	punct	_	_
+

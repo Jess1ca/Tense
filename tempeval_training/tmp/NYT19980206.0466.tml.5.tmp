@@ -1,0 +1,7 @@
+(ROOT
+  (NP
+    (NP (NNP Clinton))
+    (PP (IN on)
+      (NP (NNP Friday)))
+    (. .)))
+

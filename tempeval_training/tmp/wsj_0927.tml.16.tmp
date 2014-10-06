@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Assets))
+      (PP (RB as) (IN of)
+        (NP (NNP Sept.) (CD 30))))
+    (VP (VBD fell)
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 2.46) (CD billion))))
+      (PP (IN from)
+        (NP
+          (QP (RB about) ($ $) (CD 2.77) (CD billion)))))
+    (. .)))
+

@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN company))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP$ its) (JJ third-quarter) (NNS earnings))
+            (VP (MD will)
+              (ADVP (RB probably))
+              (VP (VB be)
+                (ADJP (JJR lower))
+                (PP (IN than)
+                  (NP
+                    (NP (DT the) (CD 16) (NNS cents))
+                    (NP (DT a) (NN share))))))))))
+    (NP (PRP it))
+    (VP (VBD reported)
+      (NP (JJ last) (NN year))
+      (, ,)
+      (PP (IN despite)
+        (NP
+          (NP (DT a) (NN rise))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN company) (POS 's))
+              (NN revenue))))))
+    (. .)))
+

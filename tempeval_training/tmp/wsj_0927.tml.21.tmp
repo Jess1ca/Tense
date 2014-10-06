@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (NNP U.S.) (NNP Trust))
+    (ADVP (RB also))
+    (VP (VBD created)
+      (NP
+        (NP (DT a) (JJ four-member) (NN office))
+        (PP (IN of)
+          (NP (DT the) (NN chairman)))
+        (, ,)
+        (ADJP (JJ effective)
+          (NP (NNP Feb.) (CD 1)))))
+    (. .)))
+

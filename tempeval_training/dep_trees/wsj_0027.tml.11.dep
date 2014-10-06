@@ -1,0 +1,12 @@
+1	Neither	_	CC	CC	_	2	preconj	_	_
+2	they	_	PRP	PRP	_	8	nsubjpass	_	_
+3	nor	_	CC	CC	_	2	cc	_	_
+4	Mr.	_	NNP	NNP	_	5	nn	_	_
+5	McAlpine	_	NNP	NNP	_	2	conj	_	_
+6	could	_	MD	MD	_	8	aux	_	_
+7	be	_	VB	VB	_	8	auxpass	_	_
+8	reached	_	VBN	VBN	_	0	root	_	_
+9	for	_	IN	IN	_	8	prep	_	_
+10	comment	_	NN	NN	_	9	pobj	_	_
+11	.	_	.	.	_	8	punct	_	_
+

@@ -1,0 +1,27 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	real	_	JJ	JJ	_	3	amod	_	_
+3	problem	_	NN	NN	_	14	nsubj	_	_
+4	with	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	Soviet	_	JJ	JJ	_	7	amod	_	_
+7	proposals	_	NNS	NNS	_	4	pobj	_	_
+8	,	_	,	,	_	12	punct	_	_
+9	U.S.	_	NNP	NNP	_	10	nn	_	_
+10	officials	_	NNS	NNS	_	12	nsubj	_	_
+11	now	_	RB	RB	_	12	advmod	_	_
+12	say	_	VBP	VBP	_	14	parataxis	_	_
+13	,	_	,	,	_	12	punct	_	_
+14	was	_	VBD	VBD	_	0	root	_	_
+15	that	_	IN	IN	_	20	mark	_	_
+16	they	_	PRP	PRP	_	20	nsubj	_	_
+17	all	_	DT	DT	_	20	advmod	_	_
+18	would	_	MD	MD	_	20	aux	_	_
+19	have	_	VB	VB	_	20	aux	_	_
+20	required	_	VBN	VBN	_	14	ccomp	_	_
+21	lifting	_	VBG	VBG	_	20	xcomp	_	_
+22	economic	_	JJ	JJ	_	23	amod	_	_
+23	sanctions	_	NNS	NNS	_	21	dobj	_	_
+24	against	_	IN	IN	_	21	prep	_	_
+25	Iraq	_	NNP	NNP	_	24	pobj	_	_
+26	.	_	.	.	_	14	punct	_	_
+

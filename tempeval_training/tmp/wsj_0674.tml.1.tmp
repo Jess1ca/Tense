@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Jim) (NNP Pattison) (NNPS Industries))
+        (, ,)
+        (NP
+          (NP (DT a) (VBG holding) (NN company))
+          (PP (IN with)
+            (NP (JJ annual) (NNS sales)))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP (RB about) ($ C$) (CD 1.9) (CD billion)))
+              (, ,)
+              (ADVP (RB largely))))
+          (PP (IN from)
+            (NP (NN car) (NNS dealerships)
+              (CC and)
+              (NN grocery) (NNS stores))))
+        (, ,))
+      (VP (VBD did) (RB n't)
+        (VP (VB elaborate)
+          (PP (IN on)
+            (NP (DT the) (NN statement))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT a) (NN company) (NN official))
+      (VP (VBD declined)
+        (NP (JJ further) (NN comment))))
+    (. .)))
+

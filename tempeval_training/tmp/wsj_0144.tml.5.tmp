@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Travelers) (POS 's))
+        (NN employee) (NNS benefits) (NN group))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ includes)
+            (NP (PRP$ its) (NN group) (NN health) (NN insurance) (NNS operations)))))
+      (, ,))
+    (VP (VBD posted)
+      (NP
+        (NP (NNS earnings))
+        (PP (IN of)
+          (NP
+            (QP ($ $) (CD 24) (CD million)))))
+      (, ,)
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (NN loss))
+            (PP (IN of)
+              (NP
+                (QP ($ $) (CD 3) (CD million))))
+            (NP (JJ last) (NN year))))))
+    (. .)))
+

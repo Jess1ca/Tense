@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT the) (NN moment)))
+    (PRN (, ,)
+      (S
+        (NP (DT the) (NNS sources))
+        (VP (VBD said)))
+      (, ,))
+    (NP (PRP he))
+    (VP (VBZ has)
+      (VP (VBN decided)
+        (PP (IN against)
+          (S
+            (VP
+              (VP (VBG seeking)
+                (NP (DT a) (JJ white) (NN knight)))
+              (CC or)
+              (VP (VBG organizing)
+                (NP
+                  (NP (DT a) (NN counterbid))
+                  (PP (IN for)
+                    (NP (NNP Paribas))))))))))
+    (. .)))
+

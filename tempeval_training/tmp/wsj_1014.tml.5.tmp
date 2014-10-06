@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP St.) (NNP Louis) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (JJ major) (NNS rivals))
+            (, ,)
+            (NP
+              (NP
+                (NP (NNP Philip) (NNP Morris) (NNP Co.) (POS 's))
+                (NNP Miller) (NNP Brewing) (NN unit))
+              (CC and)
+              (NP (NNP Adolph) (NNP Coors) (NNP Co.))))
+          (`` ``)
+          (VP (VBP have)
+            (VP (VBN been)
+              (VP (VBG following)
+                (NP
+                  (NP (DT a) (NN policy))
+                  (PP (IN of)
+                    (NP
+                      (ADJP (JJ continuous)
+                        (CC and)
+                        (JJ deep))
+                      (NN discounting))))
+                (PP (IN for)
+                  (NP
+                    (NP
+                      (ADVP (IN at) (JJS least))
+                      (NP (DT the) (JJ past) (CD 18) (NNS months))
+                      ('' '')
+                      (PP (IN on)
+                        (NP (PRP$ their) (NN premium) (NNS brands))))
+                    (, ,)
+                    (VP (VBG pricing)
+                      (NP
+                        (NP (PRP$ their) (NN product))
+                        (PP
+                          (NP
+                            (NP
+                              (QP (RB as) (JJ much) (IN as) (CD 25))
+                              (NNS cents))
+                            (NP (DT a) (NN 12-pack)))
+                          (IN below)
+                          (NP
+                            (NP
+                              (NP (NNP Anheuser) (POS 's))
+                              (NNP Budweiser) (NN label))
+                            (PP (IN in)
+                              (NP (JJ many) (NNS markets)))))))))))))))
+    (. .)))
+

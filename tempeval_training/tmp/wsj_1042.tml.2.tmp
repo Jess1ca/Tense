@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (QP (RB About) (CD 1.1) (CD million))
+        (NNP Class) (NNP C) (NNS warrants))
+      (VP (VBD were)
+        (VP (VBN issued))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said))
+    (. .)))
+

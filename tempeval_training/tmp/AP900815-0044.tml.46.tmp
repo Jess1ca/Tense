@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNP Bush))
+    (VP (VBD held)
+      (PRT (RP out))
+      (NP
+        (NP (DT the) (NN prospect))
+        (PP (IN of)
+          (NP
+            (NP (JJR more) (NN aid))
+            (PP (TO to)
+              (NP (NNP Jordan))))))
+      (SBAR (IN if)
+        (S
+          (NP (PRP it))
+          (VP (VBZ cooperates)
+            (PP (IN with)
+              (NP (DT the) (NN trade) (NN embargo)))))))
+    (. .)))
+

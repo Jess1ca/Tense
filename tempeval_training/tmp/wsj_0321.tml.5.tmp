@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNP StatesWest))
+    (VP (VBZ serves)
+      (NP
+        (NP (CD 10) (NNS cities))
+        (PP (IN in)
+          (NP (NNP California) (, ,) (NNP Arizona)
+            (CC and)
+            (NNP Nevada)))))
+    (. .)))
+

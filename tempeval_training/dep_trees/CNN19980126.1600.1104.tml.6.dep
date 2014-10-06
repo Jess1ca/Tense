@@ -1,0 +1,8 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	mean	_	VBP	VBP	_	0	root	_	_
+3	look	_	VB	VB	_	2	dep	_	_
+4	at	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	stock	_	NN	NN	_	4	pobj	_	_
+7	.	_	.	.	_	2	punct	_	_
+

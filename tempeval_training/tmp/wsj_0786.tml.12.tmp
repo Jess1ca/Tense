@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD indicated)
+      (SBAR (IN that)
+        (S
+          (NP (DT some) (NNS assets))
+          (VP (MD might)
+            (VP (VB be)
+              (VP (VBN sold)
+                (PRT (RP off))
+                (S
+                  (VP (TO to)
+                    (VP (VB service)
+                      (NP (DT the) (NN debt)))))))))))
+    (. .)))
+

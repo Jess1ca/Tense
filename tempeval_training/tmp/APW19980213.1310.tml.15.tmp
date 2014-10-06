@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (NNS Polls))
+    (VP (VBP have)
+      (VP (VBN shown)
+        (NP (JJ public) (NN support))
+        (PP (IN for)
+          (NP
+            (NP (DT a) (NN republic) (VBG increasing))
+            (, ,)
+            (VP (VBG rising)
+              (PP (IN from)
+                (NP
+                  (QP (RB about) (CD 35))
+                  (NN percent))
+                (ADVP
+                  (NP (JJ several) (NNS years))
+                  (RB ago)))
+              (PP (TO to)
+                (NP
+                  (NP
+                    (QP (RB about) (CD 51))
+                    (NN percent))
+                  (NP (DT this) (NN year))))
+              (, ,)
+              (SBAR (IN as)
+                (S
+                  (NP (JJ pro-monarchist) (NN sentiment))
+                  (VP (VBZ diminishes)))))))))
+    (. .)))
+

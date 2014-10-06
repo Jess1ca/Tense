@@ -1,0 +1,21 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP am) (RB not)
+        (VP (VBG talking)
+          (PP (IN on)
+            (NP
+              (NP (NN behalf))
+              (PP (IN of)
+                (NP (NN anyone)))))
+          (PP (IN in)
+            (NP (DT the) (NN area)))
+          (: ...)
+          (PP (CC but)
+            (NP (PRP myself))))))
+    (, ,) ('' '')
+    (NP (NNP Hussein))
+    (VP (VBD said))
+    (. .)))
+

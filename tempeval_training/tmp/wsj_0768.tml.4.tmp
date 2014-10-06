@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Interviews))
+      (PP (IN with)
+        (NP
+          (NP (CD three) (JJ major) (NN fund) (NNS groups))
+          (PRN (: --)
+            (NP
+              (NP (NNP Fidelity) (NNP Investments))
+              (, ,)
+              (NP (NNP Vanguard) (NNP Group) (NNP Inc.))
+              (CC and)
+              (NP (NNP T.) (NNP Rowe) (NNP Price) (NNPS Associates) (NNP Inc.)))
+            (: --)))))
+    (VP (VBP confirm)
+      (NP (DT the) (NN trend)))
+    (. .)))
+

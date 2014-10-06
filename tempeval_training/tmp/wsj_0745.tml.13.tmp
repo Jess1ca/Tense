@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (DT The) (NN government))
+    (VP (VBD retained)
+      (NP (DT the) (JJ single) (NN share))
+      (PP (IN after)
+        (S
+          (VP (VBG selling)
+            (NP (PRP$ its) (NN stake))
+            (PP (IN in)
+              (NP
+                (NP
+                  (NP (NNP Jaguar))
+                  (PP (IN in)
+                    (NP (CD 1984))))
+                (: --)
+                (NP
+                  (NP (NN part))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT a) (JJ nationalistic) (NN practice))
+                      (PP (IN of)
+                        (S
+                          (VP (VBG protecting)
+                            (NP (JJ former) (JJ government-owned) (NNS enterprises))
+                            (S
+                              (VP (TO to)
+                                (VP (VB deflect)
+                                  (NP
+                                    (NP (NN criticism))
+                                    (PP (IN of)
+                                      (NP (NN privatization)))))))))))))))))))
+    (. .)))
+

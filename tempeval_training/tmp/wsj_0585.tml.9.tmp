@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (ADVP (RB Moreover))
+    (, ,)
+    (NP
+      (NP (DT the) (NN price) (NN volatility))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ is)
+            (VP (VBN amplified)
+              (PP (IN by)
+                (NP (NN program) (NN trading))))))))
+    (VP (VBZ is)
+      (VP (VBG undercutting)
+        (NP (NNS efforts))
+        (S
+          (VP (TO to)
+            (VP (VB woo)
+              (NP (JJ individual) (NNS investors))
+              (ADVP (RB back)
+                (PP (TO to)
+                  (NP
+                    (NP (DT an) (NNP OTC) (NN market))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (ADVP (RB sorely))
+                        (VP (VBZ misses)
+                          (NP (PRP them)))))))))))))
+    (. .)))
+

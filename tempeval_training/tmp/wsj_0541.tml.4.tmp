@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PDT all) (DT the) (NN debt))
+          (VP (VBZ is)
+            (VP (VBN converted)
+              (PP (TO to)
+                (NP (JJ common)))))))
+      (, ,)
+      (NP (NNP Automatic) (NNP Data))
+      (VP (MD will)
+        (VP (VB issue)
+          (NP
+            (QP (RB about) (CD 3.6) (CD million))
+            (NNS shares)))))
+    (: ;)
+    (S
+      (NP (JJ last) (NNP Monday))
+      (, ,)
+      (NP (DT the) (NN company))
+      (VP (VBD had)
+        (NP
+          (NP
+            (QP (RB nearly) (CD 73) (CD million))
+            (NNS shares))
+          (ADJP (JJ outstanding)))))
+    (. .)))
+

@@ -1,0 +1,9 @@
+(ROOT
+  (FRAG
+    (PP (IN In)
+      (NP
+        (NP (DT the) (NNPS Philippines))
+        (, ,)
+        (NP (DT a) (CD four) (NN year) (NN low))))
+    (. .)))
+

@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNP Intel))
+    (VP (VBD told)
+      (NP (NNS analysts))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN company))
+          (VP (MD will)
+            (VP (VB resume)
+              (NP
+                (NP (NNS shipments))
+                (PP (IN of)
+                  (NP (DT the) (NNS chips))))
+              (PP (IN within)
+                (NP
+                  (QP (CD two) (TO to) (CD three))
+                  (NNS weeks))))))))
+    (. .)))
+

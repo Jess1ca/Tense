@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP (VBG operating) (NNS results))
+    (VP (VBD were)
+      (VP (VBN hit)
+        (PP (IN by)
+          (NP
+            (NP (DT an) (NN increase))
+            (PP (IN in)
+              (NP (NN loan)
+                (CC and)
+                (JJ real) (NN estate) (NN loss) (NNS reserves)))))))
+    (. .)))
+

@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD was)
+      (NP
+        (NP (DT no) (NN hint))
+        (PP (IN of)
+          (NP
+            (NP (NN trouble))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (JJ last) (NN conversation))
+                (PP (IN between)
+                  (NP
+                    (NP (NNS controllers))
+                    (CC and)
+                    (NP (NNP TWA) (NN pilot) (NNP Steven) (NNP Snyder))))))))))))
+

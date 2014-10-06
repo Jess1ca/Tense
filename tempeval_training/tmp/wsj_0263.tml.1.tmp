@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT The)
+      (NAC (NNP Wilmington) (, ,) (NNP Mass.) (, ,))
+      (NN garment) (NN service) (NN company))
+    (ADVP (RB also))
+    (VP (VBD boosted)
+      (NP (PRP$ its) (JJ quarterly) (NN dividend))
+      (NP (CD 20) (NN %))
+      (PP (TO to)
+        (NP
+          (NP
+            (NP (CD three) (NNS cents))
+            (NP (DT a) (NN share)))
+          (VP (VBN adjusted)
+            (PP (IN for)
+              (NP (DT the) (NN split)))))))
+    (. .)))
+

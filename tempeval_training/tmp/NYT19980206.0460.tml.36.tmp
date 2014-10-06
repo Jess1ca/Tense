@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT The) (NN analysis))
+    (VP (VBD showed)
+      (SBAR
+        (S
+          (NP (NN unemployment) (NNS rates))
+          (VP (VBD dropped)
+            (ADVP (RB steadily))
+            (PP (IN with)
+              (NP
+                (NP (JJR higher) (NNS levels))
+                (PP (IN of)
+                  (NP (NN education)))))))))
+    (. .)))
+

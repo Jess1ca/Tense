@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ last) (CD twenty) (CD four) (NNS hours)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN value))
+      (PP (IN of)
+        (NP (DT the) (NNP Indonesian) (NN stock) (NN market))))
+    (VP (VBZ has)
+      (VP (VBN fallen)
+        (PP (IN by)
+          (NP (CD twelve) (NN percent)))))
+    (. .)))
+

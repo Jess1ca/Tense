@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Confrontations))
+      (PP (IN among)
+        (NP
+          (NP (JJ Catholic) (NNS protesters))
+          (, ,)
+          (NP (JJ Protestant) (NNS marchers))
+          (CC and)
+          (NP (DT the) (NN police)))))
+    (VP (VBP have)
+      (VP (VBN provoked)
+        (NP (JJ widespread) (NN violence))
+        (PP (IN in)
+          (NP
+            (NP (NNP Northern) (NNP Ireland))
+            (PP (IN for)
+              (NP (DT the) (JJ past) (CD three) (NNS summers)))))))
+    (. .)))
+

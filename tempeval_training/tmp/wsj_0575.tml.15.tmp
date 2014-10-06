@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (PP (IN Through)
+      (NP (DT the) (JJ first) (CD nine) (NNS months)))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (NN loss))
+        (PP (IN of)
+          (NP
+            (QP ($ $) (CD 484) (CD million)))))
+      (, ,)
+      (ADVP (RB largely))
+      (S
+        (VP (VBG reflecting)
+          (NP
+            (NP (DT the) (NN closing))
+            (PP (IN of)
+              (NP (PRP$ its) (NN supercomputer) (NN unit)))))))
+    (. .)))
+

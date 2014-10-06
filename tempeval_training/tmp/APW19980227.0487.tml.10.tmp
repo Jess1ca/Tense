@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP Har-Shefi))
+    (VP (VBD described)
+      (NP (NNP Amir))
+      (PP (IN as)
+        (NP
+          (NP (DT an) (`` ``) (JJ original) (NN thinker) (, ,) ('' ''))
+          (CONJP (RB as) (RB well) (IN as))
+          (NP
+            (NP (NN delusional))
+            (CC and)
+            (NP (DT a) (NN liar))))))
+    (. .)))
+

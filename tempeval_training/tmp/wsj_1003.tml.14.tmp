@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP$ its) (NNS shipments))
+          (VP (VBD declined)
+            (PP (IN as)
+              (NP
+                (NP (DT a) (NN result))
+                (PP (IN of)
+                  (NP
+                    (NP (DT a) (NN reduction))
+                    (PP (IN in)
+                      (NP (NNS inventories)))))))
+            (PP (IN by)
+              (NP
+                (NP (NN service) (NNS centers))
+                (, ,)
+                (NP (DT a) (JJ lackluster) (JJ automotive) (NN market))
+                (CC and)
+                (NP
+                  (NP (VBG increasing) (JJ competitive) (NNS pressures))
+                  (PP (IN in)
+                    (NP (DT the) (NN construction) (NN market))))))))))
+    (. .)))
+

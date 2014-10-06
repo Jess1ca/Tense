@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (ADVP (RB Previously))
+    (, ,)
+    (NP (NNP Columbia))
+    (VP (VBD did) (RB n't)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB adjust)
+              (NP
+                (NP (DT the) (NN book) (NN value))
+                (PP (IN of)
+                  (NP (PRP$ its) (NN junk-bond) (NNS holdings)))))))
+        (S
+          (VP (TO to)
+            (VP (VB reflect)
+              (NP (NNS declines))
+              (PP (IN in)
+                (NP (NN market) (NNS prices)))
+              (, ,)
+              (SBAR (IN because)
+                (S
+                  (NP (PRP it))
+                  (VP (VBD held)
+                    (NP (DT the) (NNS bonds))
+                    (PP (IN as)
+                      (NP (JJ long-term) (NNS investments)))))))))))
+    (. .)))
+

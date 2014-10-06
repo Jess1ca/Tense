@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP
+      (ADJP (NNP New) (JJ York-based))
+      (NNP LIN))
+    (VP (MD would)
+      (VP (VB exercise)
+        (NP (PRP$ its) (NN right)
+          (S
+            (VP (TO to)
+              (VP (VB buy)
+                (PRT (RP out))
+                (PP (IN for)
+                  (NP
+                    (QP ($ $) (CD 1.9) (CD billion))))
+                (NP
+                  (NP (DT the)
+                    (ADJP (CD 55) (NN %))
+                    (NN equity) (NN interest))
+                  (PP (IN of)
+                    (NP
+                      (NP (PRP$ its) (NN partner))
+                      (, ,)
+                      (NP (NNP Metromedia) (NNP Co.))
+                      (, ,)))
+                  (PP (IN in)
+                    (NP (DT a) (NNP New) (NNP York) (JJ cellular) (NN franchise))))))))))
+    (. .)))
+

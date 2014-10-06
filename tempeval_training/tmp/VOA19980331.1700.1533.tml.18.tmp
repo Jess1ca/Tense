@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (NNP Secretary) (NNP Shalala))
+    (VP
+      (VP (VBZ says)
+        (NP (NNS UNOS))
+        (ADVP
+          (NP (CD five) (NNS months))
+          (RB ago)))
+      (, ,)
+      (CC or)
+      (VP (VBD gave)
+        (NP (PRP them))
+        (NP (CD five) (NNS months))
+        (S
+          (VP (TO to)
+            (VP (VB develop)
+              (NP (DT a) (JJ new) (NN plan))
+              (S
+                (VP (TO to)
+                  (VP (VB distribute)
+                    (NP
+                      (NP (NNS livers))
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBP are)
+                            (PP (IN in)
+                              (NP (DT the) (JJS shortest) (NN supply)))))))))))))))
+    (. .)))
+

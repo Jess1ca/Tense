@@ -1,0 +1,25 @@
+1	Each	_	DT	DT	_	2	det	_	_
+2	note	_	NN	NN	_	5	nsubjpass	_	_
+3	is	_	VBZ	VBZ	_	5	aux	_	_
+4	being	_	VBG	VBG	_	5	auxpass	_	_
+5	offered	_	VBN	VBN	_	0	root	_	_
+6	at	_	IN	IN	_	5	prep	_	_
+7	$	_	$	$	_	6	pobj	_	_
+8	308.32	_	CD	CD	_	7	num	_	_
+9	per	_	IN	IN	_	7	prep	_	_
+10	$	_	$	$	_	13	amod	_	_
+11	1,000	_	CD	CD	_	10	number	_	_
+12	principal	_	JJ	JJ	_	13	amod	_	_
+13	amount	_	NN	NN	_	9	pobj	_	_
+14	at	_	IN	IN	_	5	prep	_	_
+15	maturity	_	NN	NN	_	14	pobj	_	_
+16	,	_	,	,	_	5	punct	_	_
+17	representing	_	VBG	VBG	_	5	xcomp	_	_
+18	an	_	DT	DT	_	21	det	_	_
+19	8	_	CD	CD	_	20	number	_	_
+20	%	_	NN	NN	_	21	amod	_	_
+21	yield	_	NN	NN	_	17	dobj	_	_
+22	to	_	TO	TO	_	17	prep	_	_
+23	maturity	_	NN	NN	_	22	pobj	_	_
+24	.	_	.	.	_	5	punct	_	_
+

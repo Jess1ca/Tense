@@ -1,0 +1,16 @@
+1	The	_	DT	DT	_	4	det	_	_
+2	Nasdaq	_	NNP	NNP	_	4	nn	_	_
+3	Financial	_	NNP	NNP	_	4	nn	_	_
+4	Index	_	NNP	NNP	_	5	nsubj	_	_
+5	lost	_	VBD	VBD	_	0	root	_	_
+6	about	_	RB	RB	_	7	quantmod	_	_
+7	1	_	CD	CD	_	8	num	_	_
+8	%	_	NN	NN	_	5	dobj	_	_
+9	,	_	,	,	_	8	punct	_	_
+10	or	_	CC	CC	_	8	cc	_	_
+11	3.95	_	CD	CD	_	8	conj	_	_
+12	,	_	,	,	_	8	punct	_	_
+13	to	_	TO	TO	_	5	prep	_	_
+14	448.80	_	CD	CD	_	13	pobj	_	_
+15	.	_	.	.	_	5	punct	_	_
+

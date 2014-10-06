@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NNP CBS) (NNP News) (NN report))
+      (VP (VBG citing)
+        (NP (JJ unidentified) (JJ Jordanian) (NNS sources))))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNP Saddam) (POS 's))
+            (NN message))
+          (VP (VBD called)
+            (PP (IN for)
+              (NP (DT an) (JJ international) (NN conference)))
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBN convened)
+                    (S
+                      (VP (TO to)
+                        (VP (VB discuss)
+                          (NP (DT an) (JJ Iraqi) (NN withdrawal))
+                          (PP (IN from)
+                            (NP (NNP Kuwait))))))))))))))
+    (. .)))
+

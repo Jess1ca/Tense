@@ -1,0 +1,21 @@
+1	Rally	_	NNP	NNP	_	3	poss	_	_
+2	's	_	POS	POS	_	1	possessive	_	_
+3	Inc.	_	NNP	NNP	_	4	nsubj	_	_
+4	said	_	VBD	VBD	_	0	root	_	_
+5	it	_	PRP	PRP	_	6	nsubj	_	_
+6	adopted	_	VBD	VBD	_	4	ccomp	_	_
+7	a	_	DT	DT	_	10	det	_	_
+8	shareholders	_	NNS	NNS	_	10	nn	_	_
+9	rights	_	NNS	NNS	_	10	nn	_	_
+10	plan	_	NN	NN	_	6	dobj	_	_
+11	to	_	TO	TO	_	12	aux	_	_
+12	protect	_	VB	VB	_	10	vmod	_	_
+13	shareholders	_	NNS	NNS	_	12	dobj	_	_
+14	from	_	IN	IN	_	12	prep	_	_
+15	an	_	DT	DT	_	19	det	_	_
+16	inadequately	_	RB	RB	_	17	advmod	_	_
+17	priced	_	VBN	VBN	_	19	amod	_	_
+18	takeover	_	NN	NN	_	19	nn	_	_
+19	offer	_	NN	NN	_	14	pobj	_	_
+20	.	_	.	.	_	4	punct	_	_
+

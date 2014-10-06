@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ economic) (NN chokehold))
+    (VP (VBZ appears)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBG working))))))
+    (. .)))
+

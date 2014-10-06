@@ -1,0 +1,27 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP
+        (NP (NNP Well))
+        (SBAR
+          (S
+            (VP (MD may))))
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBP say)
+              (NP (`` `)
+                (NP (NNP God))
+                (PP (IN save)
+                  (NP (DT the) (NN Queen)))
+                (, ,) ('' ')
+                (PP (IN for)
+                  (NP (NN nothing))))))))
+      (VP (MD will)
+        (VP (VB save)
+          (NP (DT the) (NN republic)))))
+    (, ,) ('' '')
+    (NP (NNP outraged) (NN monarchist) (NN delegate) (NNP David) (NNP Mitchell))
+    (VP (VBD said))
+    (. .)))
+

@@ -1,0 +1,32 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (VBP have)
+        (VP
+          (VP (VBN covered)
+            (NP
+              (NP (DT the) (JJ entire) (NN list))
+              (PP (IN of)
+                (NP (NNS questions)))))
+          (CC and)
+          (VP (VBN discussed)
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (NP (PRP we))
+                (VP (MD will)
+                  (VP (VB be)
+                    (VP (VBG tackling)
+                      (NP (PRP them)))))))))))
+    (, ,) ('' '')
+    (NP (NNP Yeltsin))
+    (VP (VBD was)
+      (VP (VBN quoted)
+        (PP (IN as)
+          (S
+            (VP (VBG saying)
+              (PP (IN by)
+                (NP (DT the) (NNP ITAR-Tass) (NN news) (NN agency))))))))
+    (. .)))
+

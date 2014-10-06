@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP Uh))
+    (, ,)
+    (PP (IN in)
+      (NP (NN addition)))
+    (, ,)
+    (NP (JJ white) (NN power) (NN racist) (NN music))
+    (VP (VBZ has)
+      (VP (VBN become)
+        (S
+          (ADJP (RB uh) (RB quite) (JJ popular)
+            (PP (IN in)
+              (NP (JJ certain) (NNS sectors)))))))
+    (. .)))
+

@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Newark)))
+    (PRN (, ,)
+      (S
+        (NP (NNP U.S.) (NNP Attorney) (NNP Samuel) (NNP A.) (NNP Alito))
+        (VP (VBD said)))
+      (, ,))
+    (`` ``)
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB think)
+        (SBAR
+          (S
+            (NP (EX there))
+            (VP (VBZ 's)
+              (NP (DT any) (JJ legal) (NN reason)
+                (S
+                  (VP (TO to)
+                    (VP (VB limit)
+                      (NP
+                        (NP (NN forfeiture))
+                        (PP (IN of)
+                          (NP
+                            (NP (NN attorney) (POS 's))
+                            (NNS fees))))
+                      (PP (TO to)
+                        (NP (NN drug) (NNS cases))))))))))))
+    (. .) ('' '')))
+

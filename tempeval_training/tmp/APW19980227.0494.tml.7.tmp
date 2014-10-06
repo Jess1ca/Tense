@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (PRP$ Their) (NN solution))
+    (VP (MD would)
+      (VP (VB require)
+        (NP
+          (NP (DT a) (NN compromise))
+          (PP (IN between)
+            (NP
+              (NP (DT the) (CD two) (NNS nations) (POS '))
+              (NNS parliaments))))))
+    (. .)))
+

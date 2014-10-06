@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN Internet))
+      (VP (VBZ has)
+        (ADVP (RB certainly))
+        (VP
+          (VP (VBN helped)
+            (S
+              (INTJ (UH uh))
+              (VP (VB hate)
+                (S
+                  (NP (NNS mongers))
+                  (VP (TO to)
+                    (VP (VB organize)))))))
+          (CC and)
+          (VP (VBN uh)
+            (S
+              (VP (TO to)
+                (VP (VB feel)
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP are)
+                        (NP
+                          (NP (NN part))
+                          (PP (IN of)
+                            (NP (DT a) (JJR larger) (NN community))))
+                        (, ,)
+                        (SBAR (RB even) (IN if)
+                          (S
+                            (INTJ (UH uh))
+                            (NP (PRP they))
+                            (VP (VBP are)
+                              (ADJP (RB essentially) (JJ uh)))))))))))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP know) (, ,)
+      (NP
+        (NP (JJ angry) (NNS people))
+        (VP (VBG sitting)
+          (PP (IN in)
+            (NP (PRP$ their) (NNS bedrooms)))
+          (ADVP (RB uh) (DT all) (JJ alone)))))
+    (. .)))
+

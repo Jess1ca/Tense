@@ -1,0 +1,16 @@
+1	Fluor	_	NNP	NNP	_	2	nn	_	_
+2	Daniel	_	NNP	NNP	_	5	nsubj	_	_
+3	already	_	RB	RB	_	5	advmod	_	_
+4	has	_	VBZ	VBZ	_	5	aux	_	_
+5	reassigned	_	VBN	VBN	_	14	ccomp	_	_
+6	most	_	JJS	JJS	_	5	dobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	its	_	PRP$	PRP$	_	10	poss	_	_
+9	work	_	NN	NN	_	10	nn	_	_
+10	crew	_	NN	NN	_	7	pobj	_	_
+11	,	_	,	,	_	14	punct	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	sources	_	NNS	NNS	_	14	nsubj	_	_
+14	said	_	VBD	VBD	_	0	root	_	_
+15	.	_	.	.	_	14	punct	_	_
+

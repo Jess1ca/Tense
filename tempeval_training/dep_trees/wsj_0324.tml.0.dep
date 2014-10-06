@@ -1,0 +1,18 @@
+1	QVC	_	NNP	NNP	_	3	nn	_	_
+2	Network	_	NNP	NNP	_	3	nn	_	_
+3	Inc.	_	NNP	NNP	_	4	nsubj	_	_
+4	said	_	VBD	VBD	_	0	root	_	_
+5	it	_	PRP	PRP	_	6	nsubj	_	_
+6	completed	_	VBD	VBD	_	4	ccomp	_	_
+7	its	_	PRP$	PRP$	_	8	poss	_	_
+8	acquisition	_	NN	NN	_	6	dobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	CVN	_	NNP	NNP	_	11	nn	_	_
+11	Cos.	_	NNP	NNP	_	9	pobj	_	_
+12	for	_	IN	IN	_	6	prep	_	_
+13	about	_	RB	RB	_	14	quantmod	_	_
+14	$	_	$	$	_	12	pobj	_	_
+15	423	_	CD	CD	_	14	number	_	_
+16	million	_	CD	CD	_	14	number	_	_
+17	.	_	.	.	_	4	punct	_	_
+

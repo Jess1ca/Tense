@@ -1,0 +1,11 @@
+1	Everything	_	NN	NN	_	6	nsubj	_	_
+2	that	_	WDT	WDT	_	3	nsubj	_	_
+3	happens	_	VBZ	VBZ	_	1	rcmod	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	Cuba	_	NNP	NNP	_	4	pobj	_	_
+6	gets	_	VBZ	VBZ	_	0	root	_	_
+7	America	_	NNP	NNP	_	9	poss	_	_
+8	's	_	POS	POS	_	7	possessive	_	_
+9	attention	_	NN	NN	_	6	dobj	_	_
+10	.	_	.	.	_	6	punct	_	_
+

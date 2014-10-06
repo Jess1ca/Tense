@@ -1,0 +1,7 @@
+(ROOT
+  (S
+    (NP (NNP God))
+    (VP (VB bless)
+      (NP (PRP him)))
+    (. .)))
+

@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP Courtaulds) (NNP PLC))
+    (VP (VBD announced)
+      (NP (NNS plans))
+      (S
+        (VP (TO to)
+          (VP (VB spin)
+            (PRT (RP off))
+            (NP (PRP$ its) (NNS textiles) (NNS operations))
+            (PP (TO to)
+              (NP
+                (NP (VBG existing) (NNS shareholders))
+                (PP (IN in)
+                  (NP (DT a) (NN restructuring)
+                    (S
+                      (VP (TO to)
+                        (VP (VB boost)
+                          (NP (NN shareholder) (NN value)))))))))))))
+    (. .)))
+

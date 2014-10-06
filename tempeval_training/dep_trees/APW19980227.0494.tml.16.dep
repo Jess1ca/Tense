@@ -1,0 +1,15 @@
+1	Kuchma	_	NNP	NNP	_	3	nsubj	_	_
+2	has	_	VBZ	VBZ	_	3	aux	_	_
+3	said	_	VBN	VBN	_	0	root	_	_
+4	repeatedly	_	RB	RB	_	3	advmod	_	_
+5	that	_	IN	IN	_	8	mark	_	_
+6	Ukraine	_	NNP	NNP	_	8	nsubj	_	_
+7	would	_	MD	MD	_	8	aux	_	_
+8	remain	_	VB	VB	_	3	ccomp	_	_
+9	neutral	_	JJ	JJ	_	8	acomp	_	_
+10	for	_	IN	IN	_	8	prep	_	_
+11	the	_	DT	DT	_	13	det	_	_
+12	foreseeable	_	JJ	JJ	_	13	amod	_	_
+13	future	_	NN	NN	_	10	pobj	_	_
+14	.	_	.	.	_	3	punct	_	_
+

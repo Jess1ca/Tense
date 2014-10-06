@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (DT The) (NN move))
+    (VP
+      (VP (VBZ boosts)
+        (NP
+          (NP (NNP Intelogic) (NNP Chairman) (NNP Asher) (NNP Edelman) (POS 's))
+          (NN stake))
+        (PP (TO to)
+          (NP
+            (NP (CD 20) (NN %))
+            (PP (IN from)
+              (NP (CD 16.2) (NN %))))))
+      (CC and)
+      (VP (MD may)
+        (VP (VB help)
+          (VP (VB prevent)
+            (NP (NNP Martin) (NNP Ackerman))
+            (PP (IN from)
+              (S
+                (VP (VBG making)
+                  (NP (DT a) (NN run))
+                  (PP (IN at)
+                    (NP (DT the) (NNS computer-services) (NN concern))))))))))
+    (. .)))
+

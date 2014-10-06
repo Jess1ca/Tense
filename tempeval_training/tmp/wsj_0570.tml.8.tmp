@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (NNP Milton) (NNP Roy))
+    (VP (VBD disclosed)
+      (PP (IN in)
+        (NP (NNP May)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (VP (VBN approached)
+              (PP (IN for)
+                (NP (DT a) (JJ possible) (NN acquisition)))
+              (PP (IN by)
+                (NP
+                  (NP (NNP Thermo) (NNP Electron))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBD agreed)
+                        (S
+                          (VP (TO to)
+                            (VP (VB purchase)
+                              (NP
+                                (NP (NNP Milton) (NNP Roy) (POS 's))
+                                (NN liquid-chromatography) (NN line))
+                              (PP (IN for)
+                                (NP
+                                  (QP ($ $) (CD 22) (CD million))))
+                              (PP (IN in)
+                                (NP (NNP February))))))))))))))))
+    (. .)))
+

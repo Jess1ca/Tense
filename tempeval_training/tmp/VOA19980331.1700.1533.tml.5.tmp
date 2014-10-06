@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (UCP (NNP Health)
+          (CC and)
+          (NNP Human) (NNP Services))
+        (NN Secretary))
+      (VP (VBP Do)))
+    (: -)
+    (S
+      (S
+        (NP (NNP Donna) (NNP Shalala))
+        (VP (VBZ says)
+          (NP
+            (NP (NNS patients))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBP need)
+                  (SBAR
+                    (S
+                      (NP (DT an) (NN organ) (NN transplant))
+                      (VP (MD should) (RB not)
+                        (VP (VB have)
+                          (S
+                            (VP (TO to)
+                              (VP (VB take)
+                                (NP (DT a) (NN chance))
+                                (SBAR (IN that)
+                                  (S
+                                    (NP (DT an) (NN organ))
+                                    (VP (MD will)
+                                      (VP (VB become)
+                                        (ADJP (JJ available))
+                                        (PP (IN in)
+                                          (NP (PRP$ their) (JJ local) (NN area))))))))))))))))))))
+      (, ,)
+      (CC nor)
+      (SQ (MD should)
+        (NP (NNS patients))
+        (VP (VB have)
+          (S
+            (VP (TO to)
+              (VP (VB travel)
+                (S
+                  (VP (TO to)
+                    (VP (VB transplant)
+                      (NP (NNS centers))
+                      (ADVP (RB far)
+                        (PP (IN from)
+                          (NP (PRP$ their) (NNS homes)
+                            (S
+                              (VP (TO to)
+                                (VP (VB improve)
+                                  (NP
+                                    (NP (PRP$ their) (NNS chances))
+                                    (PP (IN of)
+                                      (S
+                                        (VP (VBG getting)
+                                          (NP (DT an) (NN organ)))))))))))))))))))))
+    (. .)))
+

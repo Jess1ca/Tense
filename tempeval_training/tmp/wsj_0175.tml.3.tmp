@@ -1,0 +1,22 @@
+(ROOT
+  (SINV
+    (ADVP (RB Still))
+    (ADJP (JJ unresolved))
+    (VP (VBZ is))
+    (NP
+      (NP (NNP Sony) (POS 's))
+      (NN effort)
+      (S
+        (VP (TO to)
+          (VP (VB hire)
+            (S
+              (NP (NNS producers)
+                (NX
+                  (NX (NNP Jon) (NNP Peters))
+                  (CC and)
+                  (NX (NNP Peter) (NNP Guber))))
+              (VP (TO to)
+                (VP (VB run)
+                  (NP (DT the) (NN studio)))))))))
+    (. .)))
+

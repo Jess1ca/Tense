@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP
+          (NP (JJ many))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NNS transactions))
+              (VP (VBN related)
+                (PP (TO to)
+                  (NP (DT those) (NNS securities)))))))
+        (VP (VBP have) (RB n't)
+          (VP (VBN been)
+            (VP (VBN completed))))))
+    (, ,)
+    (NP (NNP Columbia))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (JJ ultimate) (NN gain))
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN sale))
+                (PP (IN of)
+                  (NP (DT those) (NNS assets))))))
+          (VP (MD will)
+            (VP (VB range)
+              (PP (IN from)
+                (NP
+                  (QP ($ $) (CD 200) (CD million) (TO to) ($ $) (CD 300) (CD million)))))))))
+    (. .)))
+

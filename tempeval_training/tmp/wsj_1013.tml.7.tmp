@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NNP Columbia))
+    (ADVP (RB also))
+    (VP (VBD added)
+      (NP
+        (QP ($ $) (CD 227.3) (CD million)))
+      (PP (TO to)
+        (NP
+          (NP (NNS reserves))
+          (PP (IN for)
+            (NP (NNS losses)))))
+      (PP (IN on)
+        (NP (DT the) (NN portfolio)))
+      (, ,)
+      (S
+        (VP (VBG increasing)
+          (NP (JJ general) (NNS reserves))
+          (PP (TO to)
+            (NP
+              (NP
+                (QP ($ $) (CD 300) (CD million)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP
+                  (QP (RB about) (CD 6.7))
+                  (NN %))
+                (PP (IN of)
+                  (NP (DT the) (JJ total) (NN portfolio))))
+              (, ,)
+              (ADVP (RB as)
+                (PP (IN of)
+                  (NP (NNP Sept.) (CD 30)))))))))
+    (. .)))
+

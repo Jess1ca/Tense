@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN warning))
+      (PP (IN by)
+        (NP
+          (NP (DT the) (NNP U.S.) (NN attorney) (POS 's))
+          (NN office))))
+    (VP (VBZ follows)
+      (NP
+        (NP (CD two) (NNS decisions))
+        (PP (IN by)
+          (NP (DT the) (NNP U.S.) (NNP Supreme) (NNP Court))))
+      (NP (JJ last) (NNP June)))
+    (. .)))
+

@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS directors))
+      (VP (VBD said)
+        (SBAR (IN if)
+          (S
+            (NP (NNPS Messrs.) (NNP Drabinsky)
+              (CC and)
+              (NNP Gottlieb))
+            (VP (VBP mail)
+              (NP (DT an) (NN offer))
+              (PP (TO to)
+                (NP
+                  (NP (NNS shareholders))
+                  (PP (IN by)
+                    (NP (NNP Nov.) (CD 22))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD will)
+      (VP (VB reimburse)
+        (NP (PRP them))
+        (NP
+          (NP (DT a) (NN maximum))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP ($ C$) (CD 8.5) (CD million)))
+              (PP (IN for)
+                (NP
+                  (NP (NNS expenses))
+                  (VP (VBN related)
+                    (PP (TO to)
+                      (NP (DT a) (NN bid)))))))))))
+    (. .)))
+

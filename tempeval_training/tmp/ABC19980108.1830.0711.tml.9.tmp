@@ -1,0 +1,24 @@
+(ROOT
+  (S (RB Not)
+    (ADVP (DT that) (RB long) (RB ago))
+    (, ,)
+    (PP (IN before)
+      (NP (DT the) (JJ Chinese) (NN takeover)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN news))
+      (PP (IN about)
+        (NP (JJ real) (NN estate))))
+    (ADVP (RB here))
+    (VP (VBD was)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN sky))
+          (VP (VBD was)
+            (NP (DT the) (NN limit))
+            (NP
+              (NP (DT the) (JJS highest) (NNS prices))
+              (PP (IN in)
+                (NP (DT the) (NN world))))))))
+    (. .)))
+

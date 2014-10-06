@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ real) (NN problem))
+      (PP (IN with)
+        (NP (DT the) (JJ Soviet) (NNS proposals))))
+    (PRN (, ,)
+      (S
+        (NP (NNP U.S.) (NNS officials))
+        (VP
+          (ADVP (RB now))
+          (VBP say)))
+      (, ,))
+    (VP (VBD was)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (ADVP (DT all))
+          (VP (MD would)
+            (VP (VB have)
+              (VP (VBN required)
+                (S
+                  (VP (VBG lifting)
+                    (NP (JJ economic) (NNS sanctions))
+                    (PP (IN against)
+                      (NP (NNP Iraq)))))))))))
+    (. .)))
+

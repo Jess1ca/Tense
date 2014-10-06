@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (ADVP (RB Meanwhile))
+    (, ,)
+    (NP
+      (NP (NNP Ogden) (NNP Corp.))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (ADVP (RB also))
+          (VP (VBZ has)
+            (NP
+              (NP (NNS interests))
+              (PP (IN in)
+                (NP (NN building) (NN maintenance)
+                  (CC and)
+                  (NN management)))))))
+      (, ,))
+    (VP (VBD reported)
+      (NP
+        (NP (JJ third-quarter) (JJ net) (NN income))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 27.1) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 67) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,))))
+      (ADVP
+        (NP
+          (NP
+            (NP
+              (QP (JJR more) (IN than) (RB twice) (DT the) ($ $) (CD 13.5) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 34) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,))
+          (NP (DT a) (NN year)))
+        (RBR earlier)))
+    (. .)))
+

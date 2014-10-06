@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNP Ms.) (NNP Kolber))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN committee))
+          (VP (VBD had)
+            (VP (VBN received)
+              (NP (JJ other) (NNS bids)))))))
+    (. .)))
+

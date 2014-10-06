@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (PP (IN By)
+      (S
+        (VP (VBG acquiring)
+          (NP (DT the) (NNS shares)))))
+    (, ,)
+    (NP (NNP Lawrence) (NNP Group))
+    (VP (VBD increased)
+      (NP (PRP$ its) (NN stake))
+      (PP (IN in)
+        (NP (NNP Lawrence) (NNP Insurance)))
+      (PP (TO to)
+        (NP
+          (NP (CD 93.2) (NN %))
+          (PP (IN from)
+            (NP (CD 91.2) (NN %))))))
+    (. .)))
+

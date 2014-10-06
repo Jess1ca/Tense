@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS Earnings))
+      (VP (VBD were)
+        (VP (VBN hurt)
+          (PP (IN by)
+            (NP
+              (NP (NN disposal))
+              (PP (IN of)
+                (NP
+                  (NP (NNS operations))
+                  (PP (IN in)
+                    (NP (PRP$ its) (NN restructuring))))))))))
+    (, ,)
+    (NP (NNP Reed))
+    (VP (VBD said))
+    (. .)))
+

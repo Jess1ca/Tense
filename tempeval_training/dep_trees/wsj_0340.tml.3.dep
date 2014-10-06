@@ -1,0 +1,23 @@
+1	Navigation	_	NNP	NNP	_	2	nn	_	_
+2	Mixte	_	NNP	NNP	_	4	poss	_	_
+3	's	_	POS	POS	_	2	possessive	_	_
+4	chairman	_	NN	NN	_	6	nsubj	_	_
+5	had	_	VBD	VBD	_	6	aux	_	_
+6	suggested	_	VBN	VBN	_	0	root	_	_
+7	that	_	IN	IN	_	10	mark	_	_
+8	friendly	_	JJ	JJ	_	9	amod	_	_
+9	institutions	_	NNS	NNS	_	10	nsubj	_	_
+10	were	_	VBD	VBD	_	6	ccomp	_	_
+11	likely	_	JJ	JJ	_	10	acomp	_	_
+12	to	_	TO	TO	_	13	aux	_	_
+13	buy	_	VB	VB	_	11	xcomp	_	_
+14	its	_	PRP$	PRP$	_	15	poss	_	_
+15	stock	_	NN	NN	_	13	dobj	_	_
+16	as	_	RB	RB	_	17	advmod	_	_
+17	soon	_	RB	RB	_	13	advmod	_	_
+18	as	_	IN	IN	_	20	mark	_	_
+19	trading	_	NN	NN	_	20	nsubj	_	_
+20	opened	_	VBD	VBD	_	17	ccomp	_	_
+21	Monday	_	NNP	NNP	_	20	tmod	_	_
+22	.	_	.	.	_	6	punct	_	_
+

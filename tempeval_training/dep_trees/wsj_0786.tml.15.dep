@@ -1,0 +1,12 @@
+1	But	_	CC	CC	_	4	cc	_	_
+2	they	_	PRP	PRP	_	4	nsubj	_	_
+3	never	_	RB	RB	_	4	neg	_	_
+4	materialized	_	VBD	VBD	_	0	root	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	IMA	_	NNP	NNP	_	7	nsubj	_	_
+7	completed	_	VBD	VBD	_	4	conj	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	purchase	_	NN	NN	_	7	dobj	_	_
+10	yesterday	_	NN	NN	_	7	tmod	_	_
+11	.	_	.	.	_	4	punct	_	_
+

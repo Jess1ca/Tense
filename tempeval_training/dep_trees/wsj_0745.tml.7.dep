@@ -1,0 +1,22 @@
+1	But	_	CC	CC	_	19	cc	_	_
+2	an	_	DT	DT	_	5	det	_	_
+3	all-out	_	JJ	JJ	_	5	amod	_	_
+4	bidding	_	NN	NN	_	5	nn	_	_
+5	war	_	NN	NN	_	19	nsubj	_	_
+6	between	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	world	_	NN	NN	_	12	poss	_	_
+9	's	_	POS	POS	_	8	possessive	_	_
+10	top	_	JJ	JJ	_	12	amod	_	_
+11	auto	_	NN	NN	_	12	nn	_	_
+12	giants	_	NNS	NNS	_	6	pobj	_	_
+13	for	_	IN	IN	_	12	prep	_	_
+14	Britain	_	NNP	NNP	_	18	poss	_	_
+15	's	_	POS	POS	_	14	possessive	_	_
+16	leading	_	VBG	VBG	_	18	amod	_	_
+17	luxury-car	_	NN	NN	_	18	nn	_	_
+18	maker	_	NN	NN	_	13	pobj	_	_
+19	seems	_	VBZ	VBZ	_	0	root	_	_
+20	unlikely	_	JJ	JJ	_	19	acomp	_	_
+21	.	_	.	.	_	19	punct	_	_
+

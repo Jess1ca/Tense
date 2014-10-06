@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP
+        (NP
+          (QP (IN between) (CD two) (TO to) (CD six))
+          (NNS days))
+        (PP (IN for)
+          (NP
+            (NP (DT every) (CD one) (NNS uh))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (JJ sickest) (NNS patients))
+                (PP (IN across)
+                  (NP (DT the) (NN country)))))))))
+    (. .)))
+

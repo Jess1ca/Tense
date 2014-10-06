@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP (DT the) (NN bank))
+    (VP (VBZ has)
+      (NP (DT an) (NN option)
+        (S
+          (VP (TO to)
+            (VP (VB buy)
+              (NP
+                (NP (DT a)
+                  (ADJP (CD 30.84) (NN %))
+                  (NN stake))
+                (PP (IN in)
+                  (NP (NNP BIP))))
+              (PP (IN from)
+                (NP (NNP Societe) (NNP Generale)))
+              (PP (IN after)
+                (NP
+                  (NP (NNP Jan.) (CD 1) (, ,) (CD 1990))
+                  (PP (IN at)
+                    (NP
+                      (NP (CD 1,015) (NNS francs))
+                      (NP (DT a) (NN share)))))))))))
+    (. .)))
+

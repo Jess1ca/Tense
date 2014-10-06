@@ -1,0 +1,15 @@
+1	Aqaba	_	NNP	NNP	_	2	nsubj	_	_
+2	is	_	VBZ	VBZ	_	0	root	_	_
+3	Iraq	_	NNP	NNP	_	6	poss	_	_
+4	's	_	POS	POS	_	3	possessive	_	_
+5	only	_	JJ	JJ	_	6	amod	_	_
+6	outlet	_	NN	NN	_	2	xcomp	_	_
+7	now	_	RB	RB	_	13	advmod	_	_
+8	that	_	IN	IN	_	13	mark	_	_
+9	an	_	DT	DT	_	11	det	_	_
+10	international	_	JJ	JJ	_	11	amod	_	_
+11	noose	_	NN	NN	_	13	nsubj	_	_
+12	has	_	VBZ	VBZ	_	13	aux	_	_
+13	tightened	_	VBD	VBD	_	2	advcl	_	_
+14	.	_	.	.	_	2	punct	_	_
+

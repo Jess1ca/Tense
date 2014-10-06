@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Mr.) (NNP Lortie) (POS 's))
+      (NN departure))
+    (, ,)
+    (SBAR (IN while)
+      (FRAG
+        (ADJP (JJ sudden))))
+    (, ,)
+    (VP (VBD was)
+      (VP (VBN seen)
+        (ADJP (RB as) (JJ inevitable))
+        (PP (IN in)
+          (NP
+            (NP (NN light))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN shift))
+                (PP (IN in)
+                  (NP (NN strategy)))))))))
+    (. .)))
+

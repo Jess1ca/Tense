@@ -1,0 +1,27 @@
+1	Initial	_	JJ	JJ	_	3	amod	_	_
+2	cost	_	NN	NN	_	3	nn	_	_
+3	estimates	_	NNS	NNS	_	17	nsubj	_	_
+4	for	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	plant	_	NN	NN	_	4	pobj	_	_
+7	,	_	,	,	_	3	punct	_	_
+8	which	_	WDT	WDT	_	9	nsubj	_	_
+9	was	_	VBD	VBD	_	3	rcmod	_	_
+10	to	_	TO	TO	_	13	aux	_	_
+11	have	_	VB	VB	_	13	aux	_	_
+12	been	_	VBN	VBN	_	13	auxpass	_	_
+13	built	_	VBN	VBN	_	9	xcomp	_	_
+14	in	_	IN	IN	_	13	prep	_	_
+15	phases	_	NNS	NNS	_	14	pobj	_	_
+16	,	_	,	,	_	3	punct	_	_
+17	ranged	_	VBD	VBD	_	0	root	_	_
+18	from	_	IN	IN	_	17	prep	_	_
+19	$	_	$	$	_	18	pobj	_	_
+20	1	_	CD	CD	_	21	number	_	_
+21	billion	_	CD	CD	_	19	num	_	_
+22	to	_	TO	TO	_	17	prep	_	_
+23	$	_	$	$	_	22	pobj	_	_
+24	1.2	_	CD	CD	_	25	number	_	_
+25	billion	_	CD	CD	_	23	num	_	_
+26	.	_	.	.	_	17	punct	_	_
+

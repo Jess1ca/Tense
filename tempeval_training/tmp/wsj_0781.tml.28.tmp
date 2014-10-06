@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Compaq))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD said)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (VBD discovered)
+                  (NP (DT the) (NNS bugs))))))))
+      (, ,))
+    (ADVP (RB still))
+    (VP (VBZ plans)
+      (S
+        (VP (TO to)
+          (VP (VB announce)
+            (NP (JJ new) (CD 486) (NNS products))
+            (PP (IN on)
+              (NP (NNP Nov.) (CD 6)))))))
+    (. .)))
+

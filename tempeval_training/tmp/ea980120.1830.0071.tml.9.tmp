@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (NP (RB Not) (DT all) (NNPS Cubans))
+      (VP (VBP believe)))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (NP (NNP Castro))
+        (VP (VBZ has)
+          (VP (VBN invited)
+            (NP (NN everyone))
+            (S
+              (VP (TO to)
+                (VP (VB welcome)
+                  (NP
+                    (NP (DT the) (NN man))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBZ has)
+                          (VP (VBN been)
+                            (NP
+                              (NP (CD one))
+                              (PP (IN of)
+                                (NP
+                                  (NP (NNP Communism) (POS 's))
+                                  (ADJP (RBS most) (JJ effective))
+                                  (NNS adversaries)))))))))))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (DT that))
+        (VP (VBZ 's)
+          (SBAR
+            (WHADVP (WRB why))
+            (S
+              (NP (EX there))
+              (VP (VBZ is)
+                (NP (NN suspense))))))))
+    (. .)))
+

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Yoshihisa) (NNP Murasawa))
+      (, ,)
+      (NP
+        (NP (DT a) (NN management) (NN consultant))
+        (PP (IN for)
+          (NP (NNP Booz-Allen) (NNP amp) (NNP Hamilton)
+            (PRN (-LRB- -LRB-)
+              (NP (NNP Japan))
+              (-RRB- -RRB-))
+            (NNP Inc.))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP$ his) (NN firm))
+          (VP (MD will)
+            (ADVP (RB likely))
+            (VP (VB be)
+              (VP (VBG recommending)
+                (NP
+                  (NP (NNS acquisitions))
+                  (PP (IN of)
+                    (NP (JJ Japanese) (NNS companies))))
+                (ADVP
+                  (ADVP (RBR more) (RB often))
+                  (PP (TO to)
+                    (NP (JJ foreign) (NNS clients))))
+                (PP (IN in)
+                  (NP (DT the) (NN future)))))))))
+    (. .)))
+

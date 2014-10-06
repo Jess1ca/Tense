@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (MD would)
+      (VP (VB undermine)
+        (NP
+          (NP
+            (NP (DT any) (NNS chances))
+            (PP (IN of)
+              (NP (NNP rebuilding)
+                (CC either)
+                (NNP Iraq))))
+          (CC or)
+          (NP
+            (NP (PRP$ its) (JJ armed) (NNS forces))
+            (PP (IN in)
+              (NP (JJ short) (NN order)))))
+        (ADVP
+          (ADVP (RB as) (RB long))
+          (SBAR (IN as)
+            (S
+              (NP (NNP Saddam) (NNP Hussein))
+              (VP (VBZ remains)
+                (PP (IN in)
+                  (NP (NN power)))))))))
+    (. .)))
+

@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (DT Those) (NNS companies))
+    (VP (VBP are)
+      (VP (VBG paying)
+        (NP (DT the) (NN price))
+        (PP (IN for)
+          (S
+            (VP (VBG taking)
+              (NP (DT the) (NN risk)))))))
+    (. .) ('' '')))
+

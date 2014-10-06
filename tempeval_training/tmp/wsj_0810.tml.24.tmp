@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (NNP Paribas))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB offer)
+              (NP
+                (NP (CD 1,850) (NNS francs))
+                (PRN (-LRB- -LRB-)
+                  (NP ($ $) (CD 296.95))
+                  (-RRB- -RRB-))
+                (NP (DT each)))
+              (PP (IN for)
+                (NP (NNP Navigation) (NNP Mixte) (NNS shares)
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBP enjoy)
+                        (NP
+                          (NP (JJ full) (NN dividend) (NNS rights))
+                          (, ,)
+                          (CC and)
+                          (NP
+                            (NP (CD 1,800) (NNS francs))
+                            (NP (DT each))))
+                        (PP (IN for)
+                          (NP
+                            (NP (DT a) (NN block))
+                            (PP (IN of)
+                              (NP
+                                (NP (NNS shares))
+                                (VP (VBN issued)
+                                  (NP (NNP July) (CD 1)))
+                                (, ,)
+                                (SBAR
+                                  (WHNP (WDT which))
+                                  (S
+                                    (VP (MD will)
+                                      (VP (VB receive)
+                                        (NP (RB only) (JJ partial) (NNS dividends))
+                                        (NP (DT this) (NN year))))))))))))))))))))
+    (. .)))
+

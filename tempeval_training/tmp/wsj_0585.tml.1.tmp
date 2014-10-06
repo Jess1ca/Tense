@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Their) (NN motivation))
+      (, ,)
+      (ADVP (RB however))
+      (, ,)
+      (VP (VBZ has)
+        (NP (DT a)
+          (ADJP (JJ strong) (JJ practical))
+          (NN aspect))))
+    (: :)
+    (S
+      (NP (NN Program) (NN trading))
+      (VP (VBZ is)
+        (ADJP (JJ hazardous)
+          (PP (TO to)
+            (NP (PRP$ their) (NNS paychecks))))))
+    (. .)))
+

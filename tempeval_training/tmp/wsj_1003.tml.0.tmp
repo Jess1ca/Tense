@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Bethlehem) (NNP Steel) (NNP Corp.))
+      (, ,)
+      (VP (VBN hammered)
+        (PP (IN by)
+          (NP
+            (NP (JJR higher) (NNS costs))
+            (CC and)
+            (NP (JJR lower) (NNS shipments))))
+        (PP (TO to)
+          (NP (JJ key) (JJ automotive)
+            (CC and)
+            (NN service-center) (NNS customers))))
+      (, ,))
+    (VP (VBD posted)
+      (NP
+        (NP (DT a)
+          (ADJP (CD 54) (NN %))
+          (NN drop))
+        (PP (IN in)
+          (NP (JJ third-quarter) (NN profit)))))
+    (. .)))
+

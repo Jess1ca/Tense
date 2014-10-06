@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN restructuring) (POS 's))
+            (JJ initial) (NN phase))
+          (VP (MD will)
+            (VP (VB feature)
+              (NP (DT a) (JJ gradual) (NN reduction))
+              (PP (IN in)
+                (NP (NNS assets)
+                  (CC and)
+                  (NN staff) (NNS positions))))))))
+    (. .)))
+

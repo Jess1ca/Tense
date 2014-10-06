@@ -1,0 +1,29 @@
+(ROOT
+  (S (CC But)
+    (NP
+      (NP
+        (NP (NNP Smith) (NNP Barney) (POS 's))
+        (NNP Mr.) (NNP Doyle))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (NP (NN yesterday))
+          (VP (VBD trimmed)
+            (NP (PRP$ his) (CD 1990) (NNP Anheuser) (NNS earnings) (NN projection))
+            (PP (TO to)
+              (NP
+                (NP ($ $) (CD 2.95))
+                (NP (DT a) (NN share))))
+            (PP (IN from)
+              (NP ($ $) (CD 3.10))))))
+      (, ,))
+    (VP (VBD called)
+      (S
+        (NP
+          (NP (DT the) (NN market) (POS 's))
+          (NN reaction))
+        (`` ``)
+        (ADJP (JJ justified))))
+    (. .) ('' '')))
+

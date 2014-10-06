@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB also))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN price) (NNS wars))
+            (VP (VBG flaring)
+              (PRT (RP up))
+              (PP (IN in)
+                (NP
+                  (NP (NNS parts))
+                  (PP (IN of)
+                    (NP (DT the) (NN computer) (NN industry)))))))
+          (VP (MD will)
+            (VP (VB continue)
+              (PP (IN through)
+                (NP (JJ next) (NN year))))))))
+    (. .)))
+

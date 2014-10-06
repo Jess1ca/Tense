@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The)
+        (NAC (NNP El) (NNP Paso) (, ,) (NNP Texas) (, ,))
+        (NN maker))
+      (PP (IN of)
+        (NP (JJ Western) (NNS boots)
+          (CC and)
+          (NN leather) (NNS accessories))))
+    (VP
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (DT the) (JJ preferred) (NN stock))
+            (VP (MD would)
+              (VP (VB accrue)
+                (NP (NNS dividends))
+                (PP (IN at)
+                  (NP (DT a)
+                    (ADJP (CD 12) (NN %))
+                    (NN rate))))))))
+      (, ,)
+      (CC but)
+      (VP (MD would) (RB n't)
+        (VP (VB be)
+          (VP (VBN paid)
+            (PP (IN for)
+              (NP (DT the) (JJ first) (CD two) (NNS years)))))))
+    (. .)))
+

@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (ADVP (RB Incidentally))
+    (, ,)
+    (S
+      (NP (PRP we))
+      (ADVP (RB just))
+      (VP (VBP show)
+        (PRT (RP up))
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (NP (DT the) (NN broadcast)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNPS Cubans))
+      (VP (VBP want)
+        (S
+          (VP (TO to)
+            (VP (VB know)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (PRP we))
+                  (VP (VBP 're)
+                    (VP (VBG going)
+                      (S
+                        (VP (TO to)
+                          (VP (VB tell)
+                            (NP (NNPS Americans)))))
+                      (, ,)
+                      (PP (IN in)
+                        (NP
+                          (NP (JJ many) (NNS cases))
+                          (, ,)
+                          (SBAR
+                            (WHNP (WP what))
+                            (S
+                              (NP
+                                (NP (PRP$ their) (NNS relatives))
+                                (PP (IN in)
+                                  (NP (DT the) (NNP United) (NNPS States))))
+                              (VP (VBP are)
+                                (VP (VBG going)
+                                  (S
+                                    (VP (TO to)
+                                      (VP (VB hear)))))))))))))))))))
+    (. .)))
+

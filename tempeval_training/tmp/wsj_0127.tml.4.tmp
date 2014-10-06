@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ Pretax) (NN profit))
+      (VP
+        (VP (VBD fell)
+          (NP (CD 3.7) (NN %))
+          (PP (TO to)
+            (NP
+              (QP (# #) (CD 128) (CD million))))
+          (PP (IN from)
+            (NP
+              (QP (# #) (CD 133) (CD million)))))
+        (CC and)
+        (VP (VBD was)
+          (PP (IN below)
+            (NP
+              (NP
+                (NP (NNS analysts) (POS '))
+                (NNS expectations))
+              (PP (IN of)
+                (NP
+                  (QP (# #) (CD 130) (CD million) (TO to) (# #) (CD 135) (CD million)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNS shares))
+      (VP (VBD rose)
+        (NP (CD 6) (NNS pence))
+        (PP (TO to)
+          (NP
+            (NP (CD 388) (NNS pence))
+            (PP (IN in)
+              (NP (JJ early) (NN trading)))
+            (NP (NN yesterday))))
+        (PP (IN in)
+          (NP (NNP London)))))
+    (. .)))
+

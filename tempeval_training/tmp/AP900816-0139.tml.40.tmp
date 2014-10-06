@@ -1,0 +1,7 @@
+(ROOT
+  (S (RB Only)
+    (NP (NNP Saudi) (NNP Arabia))
+    (VP (VBZ has)
+      (NP (JJR more) (NN oil) (NNS reserves)))
+    (. .)))
+

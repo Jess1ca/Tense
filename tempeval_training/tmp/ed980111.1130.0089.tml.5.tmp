@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Maine)))
+    (, ,)
+    (S
+      (NP
+        (NP
+          (QP (RB about) (DT a) (NN half))
+          (CD million) (NNS people))
+        (ADVP (RB still)))
+      (VP (VBP do) (RB n't)
+        (VP (VB have)
+          (NP (NN power)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP 're)
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB have)
+                (S
+                  (VP (TO to)
+                    (VP (VB live)
+                      (PP (IN without)
+                        (NP (PRP it)))
+                      (PP (IN for)
+                        (NP (DT a) (NN while))))))))))))
+    (. .)))
+

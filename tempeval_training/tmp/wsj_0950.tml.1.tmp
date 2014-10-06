@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (ADVP (RB Meanwhile))
+    (, ,)
+    (NP
+      (NP
+        (NP (NN net))
+        (PP (IN at)
+          (NP
+            (NP (NNP GM) (POS 's))
+            (NN finance) (NN arm))))
+      (, ,)
+      (NP (NNP General) (NNPS Motors) (NNP Acceptance) (NNP Corp.))
+      (, ,))
+    (VP (VBD fell)
+      (NP (CD 3.1) (NN %)))
+    (. .)))
+

@@ -1,0 +1,16 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	surge	_	NN	NN	_	5	nsubj	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	jobs	_	NNS	NNS	_	3	pobj	_	_
+5	reflects	_	VBZ	VBZ	_	0	root	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	remarkable	_	JJ	JJ	_	8	amod	_	_
+8	confluence	_	NN	NN	_	5	dobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	positive	_	JJ	JJ	_	14	amod	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	self-reinforcing	_	JJ	JJ	_	10	conj	_	_
+13	economic	_	JJ	JJ	_	14	amod	_	_
+14	forces	_	NNS	NNS	_	9	pobj	_	_
+15	.	_	.	.	_	5	punct	_	_
+

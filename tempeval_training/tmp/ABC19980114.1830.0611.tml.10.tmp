@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (PP (IN TWA)
+      (NP (CD eight) (CD hundred)))
+    (, ,)
+    (SBAR (IN if)
+      (S
+        (NP (PRP you))
+        (VP (VBP hear)
+          (NP (NN center)))))
+    (, ,)
+    (VP (VB ident))
+    (. .)))
+

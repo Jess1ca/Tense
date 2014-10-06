@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (NNP U.S.)
+      (CC and)
+      (NNP Kuwaiti) (NNS officials))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (EX there))
+          (VP (VBP are)
+            (NP
+              (NP (NNS reports))
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (JJ large) (NNS numbers))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNS civilians))
+                        (PP (IN from)
+                          (NP (NNP Kuwait) (NNP City))))))
+                  (VP (VBP are)
+                    (VP (VBG being)
+                      (VP
+                        (VP (VBN rounded)
+                          (PRT (RP up)))
+                        (CC and)
+                        (VP (VBN held)
+                          (PP (IN by)
+                            (NP (JJ Iraqi) (NNS troops)))
+                          (, ,)
+                          (ADVP (RB apparently)))
+                        (PP (CC either)
+                          (PP (IN for)
+                            (NP
+                              (NP (NN use))
+                              (PP (IN as)
+                                (NP (JJ human) (NNS shields)))))
+                          (CC or)
+                          (PP (IN for)
+                            (NP (NN use))))
+                        (ADVP (RB later)
+                          (PP (IN in)
+                            (NP (NN bargaining))))))))))
+            (SBAR (IN once)
+              (S
+                (NP (DT the) (NN war))
+                (VP (VBZ is)
+                  (ADJP (RP over)))))))))
+    (. .)))
+

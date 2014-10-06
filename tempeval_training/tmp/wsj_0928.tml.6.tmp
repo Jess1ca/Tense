@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (CD One))
+        (PP (IN of)
+          (NP (DT those) (JJ new) (NNS computers)))
+        (, ,)
+        (VP (VBN called)
+          (NP (NNP Sparcstation) (CD 1)))
+        (, ,))
+      (VP (VBD accounted)
+        (PP (IN for)
+          (NP
+            (NP
+              (QP (RB nearly) (PDT half)))
+            (PP (IN of)
+              (NP (DT the) (CD 28,000) (NNS systems)))))
+        (NP
+          (NP (NNP Sun))
+          (VP (VBN shipped)
+            (PP (IN in)
+              (NP (DT the) (NN quarter)))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+

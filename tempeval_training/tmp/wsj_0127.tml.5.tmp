@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Reed))
+    (VP (VBZ is)
+      (VP (VBG paying)
+        (NP
+          (NP (DT an) (JJ interim) (NN dividend))
+          (PP (IN of)
+            (NP
+              (NP (CD 4.6) (NNS pence))
+              (, ,)
+              (ADVP (RB up)
+                (NP (CD 15) (NN %))
+                (PP (IN from)
+                  (NP (CD 4) (NNS pence))
+                  (NP (DT a) (NN year) (RBR earlier)))))))))
+    (. .)))
+

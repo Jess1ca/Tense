@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ major) (NN market) (NN activity)))
+    (: :)
+    (NP (NNP Stock) (NNS prices))
+    (VP (VBD fell)
+      (ADVP (RB sharply))
+      (PP (IN in)
+        (NP (JJ active) (NN trading))))
+    (. .)))
+

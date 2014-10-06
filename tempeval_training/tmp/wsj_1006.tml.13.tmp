@@ -1,0 +1,32 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP think)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (NP (DT a)
+                (ADJP (RB pretty) (JJ positive))
+                (NN development)))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Ross) (NNP Cowan))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ financial) (NN analyst))
+        (PP (IN with)
+          (NP
+            (NP (NNP Levesque) (NNP Beaubien) (NNP Geoffrion) (NNP Inc.))
+            (, ,)
+            (PP (IN of)
+              (NP (DT the) (NN decision)
+                (S
+                  (VP (TO to)
+                    (VP (VB concentrate)
+                      (PP (IN on)
+                        (NP (NNS groceries))))))))))))
+    (. .)))
+

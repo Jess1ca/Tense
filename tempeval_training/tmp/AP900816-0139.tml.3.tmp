@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (NNP Bush))
+    (ADVP (RB also))
+    (VP (VBD said)
+      (NP (NNP Thursday))
+      (SBAR (IN that)
+        (S
+          (NP (NNP King) (NNP Hussein))
+          (VP (VBD assured)
+            (NP (PRP him))
+            (SBAR
+              (S
+                (NP (NNP Jordan))
+                (VP (MD would)
+                  (VP (VB close)
+                    (NP (DT the) (JJ last) (JJ remaining) (JJ free) (NN port))
+                    (PP (TO to)
+                      (NP
+                        (NP (JJS most) (JJ Iraqi) (NN trade))
+                        (PP (IN as)
+                          (NP
+                            (NP (DT the) (JJ economic) (NN embargo))
+                            (PP (IN on)
+                              (NP (NNS materials)))))))
+                    (PP (TO to)
+                      (NP (NNP Iraq) (VBN continued) (NN unabated)))))))))))
+    (. .)))
+

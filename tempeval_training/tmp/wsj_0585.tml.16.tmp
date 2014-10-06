@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Shearson))
+      (, ,)
+      (NP (NNP Merrill) (NNP Lynch))
+      (CC and)
+      (NP (NNP Goldman) (NNP Sachs)))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP do)
+            (ADVP (RB so) (RB only))
+            (PP (IN for)
+              (NP (NNS customers)))
+            (, ,)
+            (ADVP (RB however))))))
+    (. .)))
+

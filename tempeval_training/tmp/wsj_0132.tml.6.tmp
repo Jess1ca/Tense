@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (S
+      (ADVP (RB Also))
+      (, ,)
+      (NP
+        (ADJP (RB substantially) (JJR lower))
+        (JJ Dutch) (JJ corporate) (NN tax) (NNS rates))
+      (VP (VBD helped)
+        (SBAR
+          (S
+            (NP (DT the) (NN company))
+            (VP (VBP keep)
+              (NP (PRP$ its) (NN tax) (NN outlay))
+              (ADVP (RB flat) (JJ relative)
+                (PP (TO to)
+                  (NP (NNS earnings) (NN growth)))))))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD added))
+    (. .)))
+

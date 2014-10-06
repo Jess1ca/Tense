@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG Leading)
+        (NP (DT the) (NNS gains))
+        (PP (IN for)
+          (NP
+            (NP (NNP Du) (NNP Pont))
+            (PP (IN in)
+              (NP (DT the) (JJS latest) (NN quarter)))))))
+    (VP (VBD was)
+      (NP (PRP$ its) (JJ industrial) (NNS products) (NN segment))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (NN profit))
+          (VP (VBD soared)
+            (PP (TO to)
+              (NP
+                (QP ($ $) (CD 155) (CD million))))
+            (PP (IN from)
+              (NP
+                (QP ($ $) (CD 99) (CD million)))
+              (NP (DT a) (NN year) (RBR earlier)))))))
+    (. .)))
+

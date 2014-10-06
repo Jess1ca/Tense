@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (NNP Columbia) (NNPS Savings) (NN amp) (NNP Loan) (NNP Association))
+    (, ,)
+    (S
+      (VP (VBG reeling)
+        (PP (IN from)
+          (NP
+            (NP (NN thrift-accounting) (NNS changes))
+            (VP (VBN mandated)
+              (PP (IN by)
+                (NP
+                  (NP (NNP Congress))
+                  (CC and)
+                  (NP
+                    (NP (DT the) (JJ recent) (NN collapse))
+                    (PP (IN of)
+                      (NP (DT the) (JJ junk-bond) (NN market)))))))))))
+    (, ,)
+    (VP (VBD announced)
+      (NP (DT a) (NN loss))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (JJ third) (NN quarter))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP ($ $) (CD 226.3) (CD million)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP ($ $) (CD 11.57))
+                (NP (DT a) (NN share))))))))
+    (. .)))
+

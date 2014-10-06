@@ -1,0 +1,26 @@
+1	And	_	CC	CC	_	6	cc	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	U.S.	_	NNP	NNP	_	6	nsubj	_	_
+4	now	_	RB	RB	_	6	advmod	_	_
+5	will	_	MD	MD	_	6	aux	_	_
+6	face	_	VB	VB	_	0	root	_	_
+7	sharper	_	JJR	JJR	_	8	amod	_	_
+8	questions	_	NNS	NNS	_	6	dobj	_	_
+9	in	_	IN	IN	_	6	prep	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	Arab	_	JJ	JJ	_	12	amod	_	_
+12	world	_	NN	NN	_	9	pobj	_	_
+13	since	_	IN	IN	_	17	mark	_	_
+14	it	_	PRP	PRP	_	17	nsubj	_	_
+15	did	_	VBD	VBD	_	17	aux	_	_
+16	n't	_	RB	RB	_	17	neg	_	_
+17	back	_	VB	VB	_	6	advcl	_	_
+18	the	_	DT	DT	_	20	det	_	_
+19	peace	_	NN	NN	_	20	nn	_	_
+20	proposals	_	NNS	NNS	_	17	dobj	_	_
+21	worked	_	VBN	VBN	_	20	vmod	_	_
+22	out	_	RP	RP	_	21	prt	_	_
+23	in	_	IN	IN	_	21	prep	_	_
+24	Moscow	_	NNP	NNP	_	23	pobj	_	_
+25	.	_	.	.	_	6	punct	_	_
+

@@ -1,0 +1,25 @@
+1	Nhek	_	NNP	NNP	_	2	nn	_	_
+2	Bunchhay	_	NNP	NNP	_	9	nsubj	_	_
+3	,	_	,	,	_	9	punct	_	_
+4	evading	_	VBG	VBG	_	9	vmod	_	_
+5	an	_	DT	DT	_	7	det	_	_
+6	intensive	_	JJ	JJ	_	7	amod	_	_
+7	manhunt	_	NN	NN	_	4	dobj	_	_
+8	,	_	,	,	_	9	punct	_	_
+9	made	_	VBD	VBD	_	0	root	_	_
+10	his	_	PRP$	PRP$	_	11	poss	_	_
+11	way	_	NN	NN	_	9	dobj	_	_
+12	to	_	TO	TO	_	9	prep	_	_
+13	O'Smach	_	NNP	NNP	_	12	pobj	_	_
+14	,	_	,	,	_	13	punct	_	_
+15	the	_	DT	DT	_	18	det	_	_
+16	last	_	JJ	JJ	_	18	amod	_	_
+17	major	_	JJ	JJ	_	18	amod	_	_
+18	outpost	_	NN	NN	_	13	appos	_	_
+19	held	_	VBN	VBN	_	18	vmod	_	_
+20	by	_	IN	IN	_	19	prep	_	_
+21	Ranariddh	_	NNP	NNP	_	23	poss	_	_
+22	's	_	POS	POS	_	21	possessive	_	_
+23	forces	_	NNS	NNS	_	20	pobj	_	_
+24	.	_	.	.	_	9	punct	_	_
+

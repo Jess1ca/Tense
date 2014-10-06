@@ -1,0 +1,21 @@
+(ROOT
+  (S (CC But)
+    (NP (NNP Sinn) (NNP Fein) (NN leader) (NNP Gerry) (NNP Adams))
+    (VP (VBD kept)
+      (NP (PRP$ his) (NN party))
+      (PP (IN out)
+        (NP
+          (NP
+            (NP (VBG pending) (NNS meetings))
+            (PP (IN with)
+              (NP
+                (NP (NNP British) (NNP Prime) (NNP Minister) (NNP Tony) (NNP Blair))
+                (ADVP
+                  (NP (CD 10) (NNS days))
+                  (RB ago)))))
+          (CC and)
+          (NP
+            (NP (NNP President) (NNP Clinton))
+            (NP (JJ last) (NN week))))))
+    (. .)))
+

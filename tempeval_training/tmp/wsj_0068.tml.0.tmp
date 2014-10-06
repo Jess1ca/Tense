@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP GOODY) (NNP PRODUCTS) (NNP Inc.))
+    (VP (VBD cut)
+      (NP (PRP$ its) (JJ quarterly) (NN dividend))
+      (PP (TO to)
+        (NP
+          (NP (CD five) (NNS cents))
+          (NP (DT a) (NN share))))
+      (PP (IN from)
+        (NP
+          (NP (CD 11.5) (NNS cents))
+          (NP (DT a) (NN share)))))
+    (. .)))
+

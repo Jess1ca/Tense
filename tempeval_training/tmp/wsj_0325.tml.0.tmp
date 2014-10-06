@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (NNP Coast) (NNP Savings) (NNP Financial) (NNP Inc.))
+    (VP (VBD reported)
+      (NP (DT a) (JJ third-quarter) (NN loss))
+      (, ,)
+      (S
+        (VP (VBG citing)
+          (NP (DT a)
+            (ADJP (RB previously) (VBN announced))
+            (NN capital) (VBG restructuring) (NN program)))))
+    (. .)))
+

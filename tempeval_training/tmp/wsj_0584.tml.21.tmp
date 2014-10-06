@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (PP (IN Under)
+      (NP (PRP$ its) (VBN revised) (NN proposal)))
+    (, ,)
+    (NP (NNP Atlanta-based) (NNP BellSouth))
+    (VP
+      (VP (MD would)
+        (VP (VB have)
+          (NP
+            (NP (DT a)
+              (ADJP (CD 50) (NN %))
+              (NN interest))
+            (PP (IN in)
+              (NP (DT the) (JJ new) (JJ cellular) (NN company))))))
+      (CC and)
+      (VP (MD would)
+        (VP (VB be)
+          (ADJP (JJ responsible)
+            (PP (IN for)
+              (NP
+                (NP (NN half))
+                (PP (IN of)
+                  (NP (PRP$ its) (NN debt)))))))))
+    (. .)))
+

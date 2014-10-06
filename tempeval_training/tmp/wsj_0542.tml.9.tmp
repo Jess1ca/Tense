@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (S
+      (NP (RB Late) (JJ last) (NN week))
+      (, ,)
+      (NP
+        (NP (NNS representatives))
+        (PP (IN of)
+          (NP (NNP Dow) (NNP Jones)
+            (CC and)
+            (NNP Telerate))))
+      (VP (VBD began)
+        (NP (NNS negotiations))
+        (PP (IN about)
+          (NP
+            (NP (DT the) (NNS terms))
+            (PP (IN of)
+              (NP (DT the) (NN offer)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT those) (NNS talks))
+      (VP (VBD did) (RB n't)
+        (VP (VB result)
+          (PP (IN in)
+            (NP
+              (NP (DT any) (NNS changes))
+              (PP (IN in)
+                (NP (DT the) (NN offer))))))))
+    (. .)))
+

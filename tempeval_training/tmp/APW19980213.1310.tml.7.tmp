@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Treasurer) (NNP Peter) (NNP Costello))
+      (, ,)
+      (NP (NNP Environment) (NNP Minister) (NNP Robert) (NNP Hill))
+      (CC and)
+      (NP (NNP Attorney) (NNP General) (NNP Daryl) (NNP Williams)))
+    (RB all)
+    (VP (VBD voted)
+      (S
+        (VP (TO to)
+          (VP (VB support)
+            (NP (DT the) (NN republic))
+            (NP (NNP Friday))))))
+    (. .)))
+

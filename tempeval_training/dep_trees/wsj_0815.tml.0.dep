@@ -1,0 +1,25 @@
+1	Di	_	NNP	NNP	_	3	nn	_	_
+2	Giorgio	_	NNP	NNP	_	3	nn	_	_
+3	Corp.	_	NNP	NNP	_	4	nsubj	_	_
+4	said	_	VBD	VBD	_	0	root	_	_
+5	it	_	PRP	PRP	_	6	nsubj	_	_
+6	's	_	VBZ	VBZ	_	4	ccomp	_	_
+7	continuing	_	VBG	VBG	_	8	amod	_	_
+8	talks	_	NNS	NNS	_	6	xcomp	_	_
+9	with	_	IN	IN	_	8	prep	_	_
+10	potential	_	JJ	JJ	_	11	amod	_	_
+11	buyers	_	NNS	NNS	_	9	pobj	_	_
+12	of	_	IN	IN	_	11	prep	_	_
+13	certain	_	JJ	JJ	_	14	amod	_	_
+14	units	_	NNS	NNS	_	12	pobj	_	_
+15	,	_	,	,	_	4	punct	_	_
+16	but	_	CC	CC	_	4	cc	_	_
+17	has	_	VBZ	VBZ	_	18	aux	_	_
+18	reached	_	VBN	VBN	_	4	conj	_	_
+19	no	_	DT	DT	_	20	det	_	_
+20	agreement	_	NN	NN	_	18	dobj	_	_
+21	on	_	IN	IN	_	20	prep	_	_
+22	any	_	DT	DT	_	23	det	_	_
+23	deals	_	NNS	NNS	_	21	pobj	_	_
+24	.	_	.	.	_	4	punct	_	_
+

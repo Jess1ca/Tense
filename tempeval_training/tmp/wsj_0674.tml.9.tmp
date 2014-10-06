@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (PP (IN Among)
+      (NP (JJ other) (NNS things)))
+    (, ,)
+    (NP (NNP Innopac))
+    (VP (VBZ is)
+      (VP (VBN involved)
+        (PP (IN in)
+          (NP
+            (NP (VBG recycling) (NN polystyrene) (NN foam) (NNS products))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP are)
+                  (ADVP (RB often))
+                  (VP (VBN used)
+                    (PP (IN by)
+                      (NP
+                        (NP (JJ fast) (NN food) (NNS chains))
+                        (, ,)
+                        (PP (JJ such) (IN as)
+                          (NP
+                            (NP (NNP McDonald) (POS 's))
+                            (NNP Corp.)))
+                        (, ,)))
+                    (PP (IN for)
+                      (NP (NN food) (NN packaging)))))))))))
+    (. .)))
+

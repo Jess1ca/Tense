@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT This) (NN year) (POS 's))
+      (NNS results))
+    (VP (VBD included)
+      (NP
+        (NP (DT a) (NN gain))
+        (PP (IN of)
+          (NP
+            (QP ($ $) (CD 70.2) (CD million)))))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN disposal))
+          (PP (IN of)
+            (NP (NN seafood) (NNS operations))))))
+    (. .)))
+

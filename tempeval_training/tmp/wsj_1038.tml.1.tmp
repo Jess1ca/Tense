@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT The)
+      (NAC (NNP Portland) (, ,) (NNP Ore.) (, ,))
+      (NN thrift))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN restructuring))
+          (VP (MD should)
+            (VP (VB help)
+              (S
+                (NP (PRP it))
+                (VP (VB meet)
+                  (NP (JJ new) (NN capital) (NNS standards))
+                  (PP (IN from)
+                    (NP
+                      (NP (DT the) (NNP Financial) (NNP Institution) (NNP Reform))
+                      (, ,)
+                      (NP (NNP Recovery))
+                      (CC and)
+                      (NP (NNP Enforcement) (NNP Act)))))))))))
+    (. .)))
+

@@ -1,0 +1,16 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (MD will)
+        (VP (VB have)
+          (NP
+            (NP (DT a)
+              (ADJP (RB reasonably) (JJ flat))
+              (NN year))
+            (NP (DT this) (NN year))))))
+    (, ,) ('' '')
+    (NP (NNP Mr.) (NNP Schwarz))
+    (VP (VBZ says))
+    (. .)))
+

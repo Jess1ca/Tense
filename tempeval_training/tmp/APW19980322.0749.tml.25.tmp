@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNP Police))
+    (VP (VBN arrested)
+      (NP (CD six) (NNPS Protestants))
+      (PP (IN on)
+        (NP
+          (NP (NN suspicion))
+          (PP (IN of)
+            (NP (NN rioting))))))
+    (. .)))
+

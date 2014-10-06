@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT Both) (NNS offers))
+    (VP (VBP are)
+      (ADJP (JJ conditional)
+        (PP (IN on)
+          (NP
+            (NP (JJ regulatory) (NNS approvals))
+            (CC and)
+            (NP
+              (NP (JJ enough) (NNS shares))
+              (VP (VBG being)
+                (VP (VBN tendered)
+                  (S
+                    (VP (TO to)
+                      (VP (VB give)
+                        (NP (DT the) (NNS bidders))
+                        (NP
+                          (NP (DT a) (NN majority))
+                          (PP (IN of)
+                            (NP
+                              (NP
+                                (NP (NNP Connaught) (POS 's))
+                                (NNS shares))
+                              (ADJP (JJ outstanding)))))))))))))))
+    (. .)))
+

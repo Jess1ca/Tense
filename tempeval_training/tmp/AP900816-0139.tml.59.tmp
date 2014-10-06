@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Reports))
+      (VP (VBN attributed)
+        (PP (TO to)
+          (NP (DT the) (JJ Japanese) (JJ foreign) (NN ministry)))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Saudi) (NNP Arabia))
+          (VP (VBD told)
+            (NP
+              (NP (NNP U.S.))
+              (, ,)
+              (NP
+                (NP (JJ European)
+                  (CC and)
+                  (JJ Japanese) (NN oil) (NNS companies))
+                (PP (IN of)
+                  (NP (DT a) (CD 15-20) (NN percent) (NN cutback)))))
+            (PP (IN in)
+              (NP (PRP$ its) (NN oil) (NN supply)))
+            (PP (IN in)
+              (NP (NNP September)))))))
+    (. .)))
+

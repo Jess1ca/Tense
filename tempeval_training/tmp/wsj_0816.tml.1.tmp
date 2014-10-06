@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Dow) (NNP Jones) (NNP Industrial) (NNP Average))
+    (VP (VBD tumbled)
+      (NP (CD 39.55) (NNS points))
+      (, ,)
+      (PP (TO to)
+        (NP (CD 2613.73)))
+      (, ,)
+      (PP (IN in)
+        (NP (JJ active) (NN trading))))
+    (. .)))
+

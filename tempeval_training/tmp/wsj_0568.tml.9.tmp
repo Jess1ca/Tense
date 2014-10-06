@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (ADVP (RB also))
+    (VP (VBD took)
+      (NP
+        (NP (DT a) (NN write-off))
+        (PP (IN of)
+          (NP
+            (QP ($ $) (CD 150) (CD million)))))
+      (S
+        (VP (TO to)
+          (VP (VB cover)
+            (NP (NNS losses))
+            (PP (IN on)
+              (NP (DT some) (JJ fixed-price) (NN defense) (NNS contracts))))))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (NP (DT some) (JJ new) (NNS managers))
+          (VP (VBD took)
+            (NP (DT a) (JJ hard) (NN look))
+            (PP (IN at)
+              (NP (DT the) (NNS prospects)))
+            (PP (IN for)
+              (NP (DT that) (JJ slow-growing) (NN business)))))))
+    (. .)))
+

@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Marous))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Westinghouse))
+          (VP (MD would)
+            (VP (VB own)
+              (NP
+                (NP (CD 70) (NN %))
+                (PP (IN of)
+                  (NP (DT the) (NN facility)))))))))
+    (. .)))
+

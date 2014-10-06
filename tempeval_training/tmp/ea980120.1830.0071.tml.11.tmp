@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP Castro))
+    (VP (VBZ has)
+      (VP (VBN said)
+        (ADVP (RB officially))
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (ADJP (JJ okay)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (ADJP (JJ enthusiastic)))))))))))
+    (. .)))
+

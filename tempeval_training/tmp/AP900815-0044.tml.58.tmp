@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP Iraq))
+    (VP (VBZ has)
+      (NP
+        (NP
+          (QP (CD 17) (CD million))
+          (NNS residents))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (NNP Kuwait))
+          (PP (IN about)
+            (NP
+              (QP (CD 1.9) (CD million)))))))
+    (. .)))
+

@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN deal))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (MD will)
+              (VP (VB involve)
+                (NP (DT an) (JJ initial)
+                  (ADJP
+                    (QP ($ $) (CD 20) (CD million)))
+                  (NN investment))))))
+        (, ,))
+      (VP (VBD was)
+        (VP (VBN struck)
+          (PP (IN with)
+            (NP (DT a) (NN handshake))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD added))
+    (. .)))
+

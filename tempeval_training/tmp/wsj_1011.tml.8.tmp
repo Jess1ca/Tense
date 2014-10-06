@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (NNP Eastern))
+        (VP (VBZ is)
+          (ADVP (RB back))
+          (PP (TO to)
+            (NP
+              (NP
+                (QP (RB about) (CD 80))
+                (NN %))
+              (PP (IN of)
+                (NP (PRP$ its) (JJ pre-strike) (NN schedule)))))
+          (ADVP (RB now)))))
+    (, ,)
+    (NP (DT the) (NNP Texas) (NNP Air) (NNP Corp.) (NN subsidiary))
+    (VP (VBD was)
+      (ADVP (RB only))
+      (VP (VBG beginning)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (PRT (RP back))
+              (PP (IN on)
+                (NP (PRP$ its) (NNS feet)))
+              (PP (IN during)
+                (NP (DT the) (NN quarter))))))))
+    (. .)))
+

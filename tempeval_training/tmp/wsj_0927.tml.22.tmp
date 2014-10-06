@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (MD will)
+      (VP (VB include)
+        (NP (NNP Messrs.) (NNP Schwarz)
+          (CC and)
+          (NNP Maurer))))
+    (. .)))
+

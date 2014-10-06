@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNS Sales))
+    (VP (VBD were)
+      (NP
+        (QP ($ C$) (CD 348.2) (CD million)))
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP ($ C$) (CD 307.2))
+          (NP (DT a) (NN year) (RBR earlier)))))
+    (. .)))
+

@@ -1,0 +1,22 @@
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NNP U.S.))
+    (ADVP (RB now))
+    (VP (MD will)
+      (VP (VB face)
+        (NP (JJR sharper) (NNS questions))
+        (PP (IN in)
+          (NP (DT the) (JJ Arab) (NN world)))
+        (SBAR (IN since)
+          (S
+            (NP (PRP it))
+            (VP (VBD did) (RB n't)
+              (VP (VB back)
+                (NP
+                  (NP (DT the) (NN peace) (NNS proposals))
+                  (VP (VBN worked)
+                    (PRT (RP out))
+                    (PP (IN in)
+                      (NP (NNP Moscow)))))))))))
+    (. .)))
+

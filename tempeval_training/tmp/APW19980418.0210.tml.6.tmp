@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP
+          (NP (NNP McBride))
+          (, ,)
+          (NP (CD 54))
+          (, ,))
+        (PP (IN of)
+          (NP (NNP Lewisburg))))
+      (, ,)
+      (NP (NNP West) (NNP Virginia))
+      (, ,))
+    (VP
+      (VP (VBD was)
+        (NP
+          (NP (NN part))
+          (PP (IN of)
+            (NP (DT a) (JJ seven-member) (NN crew))))
+        (PP (IN aboard)
+          (NP
+            (NP (DT the) (NNP Orbiter) (NNP Challenger))
+            (PP (IN in)
+              (NP (NNP October) (CD 1984))))))
+      (CC and)
+      (VP
+        (ADVP (RB later))
+        (VBD served)
+        (PP (IN as)
+          (NP (JJ assistant) (NN administrator)))
+        (PP (IN for)
+          (NP
+            (NP (JJ congressional) (NNS relations))
+            (PP (IN for)
+              (NP (NNP NASA)))))))
+    (. .)))
+

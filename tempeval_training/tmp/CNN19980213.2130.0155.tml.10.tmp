@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (ADVP (RB Nevertheless))
+    (, ,)
+    (NP (DT the) (NN president))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Washington))
+          (VP (MD would)
+            (VP (VB use)
+              (NP (NN force))
+              (SBAR (IN if)
+                (S
+                  (NP (NN diplomacy))
+                  (VP (VBZ fails)
+                    (S
+                      (VP (TO to)
+                        (VP (VB force)
+                          (S
+                            (NP (NNP Saddam) (NNP Hussein))
+                            (VP (TO to)
+                              (VP (VB back)
+                                (PRT (RP down))))))))))))))))
+    (. .)))
+

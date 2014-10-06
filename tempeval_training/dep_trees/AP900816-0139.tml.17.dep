@@ -1,0 +1,25 @@
+1	Saddam	_	NNP	NNP	_	3	nsubj	_	_
+2	has	_	VBZ	VBZ	_	3	aux	_	_
+3	been	_	VBN	VBN	_	0	root	_	_
+4	under	_	IN	IN	_	3	prep	_	_
+5	international	_	JJ	JJ	_	6	amod	_	_
+6	quarantine	_	NN	NN	_	4	pobj	_	_
+7	since	_	IN	IN	_	6	prep	_	_
+8	his	_	PRP$	PRP$	_	11	poss	_	_
+9	Aug.	_	NNP	NNP	_	11	nn	_	_
+10	2	_	CD	CD	_	11	num	_	_
+11	power-grab	_	NN	NN	_	7	pobj	_	_
+12	,	_	,	,	_	6	punct	_	_
+13	or	_	CC	CC	_	6	cc	_	_
+14	what	_	WP	WP	_	16	dobj	_	_
+15	he	_	PRP	PRP	_	16	nsubj	_	_
+16	calls	_	VBZ	VBZ	_	6	conj	_	_
+17	an	_	DT	DT	_	20	det	_	_
+18	``	_	``	``	_	20	punct	_	_
+19	eternal	_	JJ	JJ	_	20	amod	_	_
+20	merger	_	NN	NN	_	16	dobj	_	_
+21	''	_	''	''	_	20	punct	_	_
+22	with	_	IN	IN	_	20	prep	_	_
+23	Kuwait	_	NNP	NNP	_	22	pobj	_	_
+24	.	_	.	.	_	3	punct	_	_
+

@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (DT the) (JJ third-quarter) (NNS earnings))
+        (VP (VBD were)
+          (NP (DT a) (`` ``) (JJ moderate) (NN disappointment)))))
+    (PRN (, ,) ('' '')
+      (S
+        (NP (PRP he))
+        (VP (VBD said)))
+      (, ,) (`` ``))
+    (NP (DT the) (JJ real) (JJ bad) (NN news))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN intensity))
+        (PP (IN of)
+          (NP
+            (NP (NN price) (NN competition))
+            ('' '')
+            (PP (IN in)
+              (NP (DT the) (NN premium-beer) (NN sector)))))))
+    (. .)))
+

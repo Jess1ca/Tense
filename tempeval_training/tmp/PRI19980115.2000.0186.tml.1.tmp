@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ federal) (NNS appeals) (NN court))
+    (VP (VBZ has)
+      (VP (VBN reinstated)
+        (NP (PRP$ his) (NN state) (NNS convictions))
+        (PP (IN for)
+          (NP (NNS securities) (NN fraud)))))
+    (. .)))
+

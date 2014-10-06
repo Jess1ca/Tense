@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (DT An) (NN officially))
+    (VP (VBN sanctioned)
+      (NP (CD one))
+      (, ,)
+      (ADVP (RB too)))
+    (. .)))
+

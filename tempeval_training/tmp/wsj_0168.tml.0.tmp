@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP Meridian) (NNP National) (NNP Corp.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD sold)
+            (NP
+              (NP (CD 750,000) (NNS shares))
+              (PP (IN of)
+                (NP (PRP$ its) (JJ common) (NN stock))))
+            (PP (TO to)
+              (NP (DT the) (NNP McAlpine) (NN family) (NNS interests)))
+            (, ,)
+            (PP (IN for)
+              (NP
+                (NP
+                  (QP ($ $) (CD 1) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP ($ $) (CD 1.35))
+                  (NP (DT a) (NN share)))))))))
+    (. .)))
+

@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP GMAC))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP$ its) (JJ automotive) (NN financing)
+            (CC and)
+            (VBG leasing) (NN business))
+          (VP (VBD rose)
+            (NP (CD 35) (NN %))
+            (PP (IN in)
+              (NP (DT the) (NNP U.S.)))
+            (, ,)
+            (PP
+              (ADVP (RB largely))
+              (IN because) (IN of)
+              (NP
+                (NP (NN dealer)
+                  (CC and)
+                  (NN customer) (NNS incentives))
+                (VP (VBN used)
+                  (S
+                    (VP (TO to)
+                      (VP (VB boost)
+                        (NP (NNS sales))))))))))))
+    (. .)))
+

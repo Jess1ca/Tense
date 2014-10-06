@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP MOSCOW))
+        (PRN (-LRB- -LRB-)
+          (NP (NNP AP))
+          (-RRB- -RRB-)))
+      (VP (VBD _)
+        (SBAR
+          (S
+            (NP
+              (NP (NNP Presidents) (NNP Leonid) (NNP Kuchma))
+              (PP (IN of)
+                (NP
+                  (NP (NNP Ukraine)
+                    (CC and)
+                    (NNP Boris) (NNP Yeltsin))
+                  (PP (IN of)
+                    (NP (NNP Russia))))))
+            (VP (VBD signed)
+              (NP (DT an) (JJ economic) (NN cooperation) (NN plan))
+              (NP (NNP Friday)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNP Yeltsin))
+      (VP (VBD claimed)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBD resolved)
+              (NP (RB even) (JJR more) (JJ nagging) (NNS problems)))))))
+    (. .)))
+

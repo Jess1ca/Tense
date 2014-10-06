@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN Of)
+      (NP (DT the) (JJ total) (NN purchase) (NN price)))
+    (, ,)
+    (NP
+      (NP
+        (NP
+          (QP ($ $) (CD 50) (CD million))
+          (NN cash))
+        (CC and)
+        (NP
+          (NP
+            (QP ($ $) (CD 30) (CD million)))
+          (PP (IN in)
+            (NP (NN stock)))))
+      (PRN (-LRB- -LRB-)
+        (NP
+          (QP (RB nearly) (CD 1.8) (CD million))
+          (NNS shares))
+        (-RRB- -RRB-)))
+    (VP (MD would)
+      (VP (VB be)
+        (VP (VBN paid)
+          (S
+            (VP (TO to)
+              (VP (VB buy)
+                (NP (DT the) (JJ existing) (JJ 700-room) (NNP Marina) (NNP Hotel) (NN amp) (NN Casino))
+                (PP (IN from)
+                  (NP
+                    (NP (NNP Southwest) (NNPS Securities))
+                    (, ,)
+                    (NP (DT a) (NNP Nevada) (JJ limited) (NN partnership))))))))))
+    (. .)))
+

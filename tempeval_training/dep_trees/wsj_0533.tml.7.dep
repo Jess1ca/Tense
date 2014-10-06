@@ -1,0 +1,25 @@
+1	Both	_	DT	DT	_	2	det	_	_
+2	offers	_	NNS	NNS	_	3	nsubj	_	_
+3	are	_	VBP	VBP	_	0	root	_	_
+4	conditional	_	JJ	JJ	_	3	acomp	_	_
+5	on	_	IN	IN	_	4	prep	_	_
+6	regulatory	_	JJ	JJ	_	7	amod	_	_
+7	approvals	_	NNS	NNS	_	5	pobj	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	enough	_	JJ	JJ	_	10	amod	_	_
+10	shares	_	NNS	NNS	_	7	conj	_	_
+11	being	_	VBG	VBG	_	12	auxpass	_	_
+12	tendered	_	VBN	VBN	_	10	vmod	_	_
+13	to	_	TO	TO	_	14	aux	_	_
+14	give	_	VB	VB	_	12	xcomp	_	_
+15	the	_	DT	DT	_	16	det	_	_
+16	bidders	_	NNS	NNS	_	14	iobj	_	_
+17	a	_	DT	DT	_	18	det	_	_
+18	majority	_	NN	NN	_	14	dobj	_	_
+19	of	_	IN	IN	_	18	prep	_	_
+20	Connaught	_	NNP	NNP	_	22	poss	_	_
+21	's	_	POS	POS	_	20	possessive	_	_
+22	shares	_	NNS	NNS	_	19	pobj	_	_
+23	outstanding	_	JJ	JJ	_	22	amod	_	_
+24	.	_	.	.	_	3	punct	_	_
+

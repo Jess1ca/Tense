@@ -1,0 +1,9 @@
+(ROOT
+  (NP
+    (NP (JJ Good) (NN evening))
+    (PP (IN from)
+      (NP (DT the) (JJ central) (NN park)))
+    (PP (IN in)
+      (NP (JJ downtown) (NNP Havana)))
+    (. .)))
+

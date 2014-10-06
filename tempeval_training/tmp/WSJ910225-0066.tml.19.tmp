@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (PP (IN Of)
+      (NP (NN course)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADVP (RB still))
+      (ADJP (RB far) (RB too) (JJ early))
+      (S
+        (VP (TO to)
+          (VP (VB assume)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (DT the) (JJ military) (NN situation))
+                  (PP (IN on)
+                    (NP (DT the) (NN ground))))
+                (VP (MD will)
+                  (VP (VB stay)
+                    (ADJP (RB as) (JJ smooth))
+                    (PP (IN for)
+                      (NP (JJ allied) (NNS forces))))))))))
+      (SBAR (IN as)
+        (S
+          (NP (PRP it))
+          (VP (VBZ appears)
+            (S
+              (VP (TO to)
+                (VP (VB have)
+                  (VP (VBN been)
+                    (ADVP (RB so) (RB far))))))))))
+    (. .)))
+

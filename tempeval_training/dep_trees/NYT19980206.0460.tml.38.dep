@@ -1,0 +1,19 @@
+1	Among	_	IN	IN	_	8	prep	_	_
+2	high	_	JJ	JJ	_	4	amod	_	_
+3	school	_	NN	NN	_	4	nn	_	_
+4	graduates	_	NNS	NNS	_	1	pobj	_	_
+5	,	_	,	,	_	8	punct	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	rate	_	NN	NN	_	8	nsubj	_	_
+8	was	_	VBD	VBD	_	0	root	_	_
+9	3.9	_	CD	CD	_	10	number	_	_
+10	percent	_	CD	CD	_	8	xcomp	_	_
+11	,	_	,	,	_	10	punct	_	_
+12	and	_	CC	CC	_	10	cc	_	_
+13	college	_	NN	NN	_	14	nn	_	_
+14	graduates	_	NNS	NNS	_	10	conj	_	_
+15	,	_	,	,	_	14	punct	_	_
+16	1.9	_	CD	CD	_	17	num	_	_
+17	percent	_	NN	NN	_	14	appos	_	_
+18	.	_	.	.	_	8	punct	_	_
+

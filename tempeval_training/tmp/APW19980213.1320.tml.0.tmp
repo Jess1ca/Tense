@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP CANBERRA) (, ,) (NNP Australia))
+      (PRN (-LRB- -LRB-)
+        (NP (NNP AP))
+        (-RRB- -RRB-)))
+    (VP (VBD _)
+      (SBAR
+        (S
+          (NP (NNP Qantas))
+          (VP (MD will)
+            (ADVP (RB almost))
+            (VP (VB double)
+              (NP
+                (NP (PRP$ its) (NNS flights))
+                (PP (IN between)
+                  (NP (NNP Australia)
+                    (CC and)
+                    (NNP India))))
+              (PP (IN by)
+                (NP
+                  (NP (NNP August))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN search))
+                      (PP (IN for)
+                        (NP
+                          (NP (JJ new) (NNS markets))
+                          (VP (VBN untouched)
+                            (PP (IN by)
+                              (NP (DT the) (JJ crippling) (JJ Asian) (JJ financial) (NN crisis)))))))))))))))
+    (. .)))
+

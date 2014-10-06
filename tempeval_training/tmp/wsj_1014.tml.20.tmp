@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Thompson))
+    (VP (VBD noted)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (JJ disappointing) (NNS earnings))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD fell)
+                  (NP (CD five) (NNS cents))
+                  (NP
+                    (NP (DT a) (NN share))
+                    (ADVP (JJ short))
+                    (PP (IN of)
+                      (NP (PRP$ his) (JJ own) (NNS projections)))))))
+            (, ,))
+          (VP (VBD contributed)
+            (PP (TO to)
+              (NP (DT the) (NN sell-off)))
+            (PP (IN by)
+              (NP (DT an)
+                (ADJP
+                  (ADJP (JJ edgy))
+                  (CC and)
+                  (ADJP (RB currently) (JJ unforgiving)))
+                (NN investing) (NN public)))))))
+    (. .)))
+

@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NNP Chief) (NNP Superintendent) (NNP Al) (NNP McHugh))
+    (VP
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (NN bomb))
+              (VP (VBN discovered)
+                (PP (IN in)
+                  (NP (DT the) (JJ Irish) (NN Republic)))))
+            (VP (VBD was)
+              (VP (VBN destined)
+                (PP (IN for)
+                  (NP
+                    (NP (DT an) (JJ unknown) (NN target))
+                    (PP (IN in)
+                      (NP (NNP Northern) (NNP Ireland))))))))))
+      (CC and)
+      (`` ``)
+      (VP (MD would)
+        (VP (VB have)
+          (VP (VBN caused)
+            (NP (JJ massive) (NN destruction))))))
+    (. .) ('' '')))
+

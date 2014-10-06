@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN rabbi))
+      (VP
+        (VP (VBD said)
+          (VP (VBN called)
+            (NP (DT the) (NN talk))
+            (PP (IN about)
+              (S
+                (VP (VBG killing)
+                  (S
+                    (NP (NNP Rabin))
+                    (`` ``)
+                    (ADJP (JJ nonsense))))))))
+        (, ,) ('' '')
+        (CC and)
+        (VP (VBD said)
+          (SBAR
+            (S
+              (NP (NNPS Jews))
+              (VP (VBP are)
+                (VP (VBN prohibited)
+                  (PP (IN from)
+                    (S
+                      (VP (VBG killing)
+                        (NP (CD one) (DT another))))))))))))
+    (, ,)
+    (NP (DT the) (NN radio) (NNS reports))
+    (VP (VBD said))
+    (. .)))
+

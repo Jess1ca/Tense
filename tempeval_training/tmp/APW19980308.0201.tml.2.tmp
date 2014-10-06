@@ -1,0 +1,12 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (VP (VB Stop)
+        (NP (DT the) (NN bloodshed))
+        (PP (IN in)
+          (NP (NNP Kosovo)))))
+    (, ,) ('' '')
+    (NP (DT the) (NNS protesters))
+    (VP (VBD chanted))
+    (. .)))
+

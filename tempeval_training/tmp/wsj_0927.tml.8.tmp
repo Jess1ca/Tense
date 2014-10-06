@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB believe)
+          (S
+            (NP (PRP they))
+            (VP (VB have)
+              (NP (DT the) (NN culture) ('' '')
+                (S
+                  (VP (TO to)
+                    (VP
+                      (ADVP (RB adequately))
+                      (VB service)
+                      (NP (JJ high-net-worth) (NNS individuals)))))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBZ adds))
+    (. .)))
+

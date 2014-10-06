@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNS holders))
+          (VP (VBP represent)
+            (NP
+              (NP (CD 52) (NN %))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN face) (NN amount))
+                  (PP (IN of)
+                    (NP (DT the) (NNS debentures))))))))))
+    (. .)))
+

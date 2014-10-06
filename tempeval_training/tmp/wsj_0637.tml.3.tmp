@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (ADVP (RB Thereafter))
+    (, ,)
+    (NP (DT the) (NN rate))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN renegotiated))))
+    (. .)))
+

@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Norton))
+      (CC and)
+      (NP (NNP Texas) (NNP Eastern)))
+    (VP (VBD had) (DT each)
+      (VP (VBD held)
+        (NP (DT a)
+          (ADJP (CD 50) (NN %))
+          (NN stake))
+        (PP (IN in)
+          (NP (NNP Eastman)))
+        (PP (IN in)
+          (NP (DT a) (JJ joint) (NN venture)))))
+    (. .)))
+

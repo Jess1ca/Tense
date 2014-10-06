@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ new) (NN company))
+      (VP (MD will)
+        (VP (VB attempt)
+          (S
+            (VP (TO to)
+              (VP (VB limit)
+                (NP
+                  (NP (DT the) (NN shipyard) (POS 's))
+                  (NNS losses))))))))
+    (, ,)
+    (NP (NNS participants))
+    (VP (VBD said))
+    (. .)))
+

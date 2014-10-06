@@ -1,0 +1,7 @@
+(ROOT
+  (S
+    (NP (NNP Utilities) (NN management))
+    (VP (VBZ is)
+      (NP (DT a) (JJ major) (JJ commercial) (NN niche)))
+    (. .)))
+

@@ -1,0 +1,18 @@
+(ROOT
+  (S (-LRB- -LRB-)
+    (NP (DT A) (JJ 16-bit) (NN microprocessor))
+    (VP
+      (VP (VBZ processes)
+        (NP
+          (NP (CD 16) (NNS pieces))
+          (PP (IN of)
+            (NP (NNS data))))
+        (PP (IN at)
+          (NP (DT a) (NN time))))
+      (CC and)
+      (VP (VBZ is)
+        (ADJP (JJR slower))
+        (PP (IN than)
+          (NP (JJR newer) (, ,) (JJ 32-bit) (NNS chips)))))
+    (. .) (-RRB- -RRB-)))
+

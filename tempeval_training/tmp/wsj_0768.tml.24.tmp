@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Vanguard) (POS 's))
+      (ADJP
+        (QP ($ $) (CD 1) (CD billion)))
+      (NNP High) (NNP Yield) (NNP Bond) (NNP Portfolio))
+    (VP (VBZ has)
+      (VP (VBN seen)
+        (ADVP
+          (ADVP
+            (NP
+              (QP ($ $) (CD 161) (CD million))
+              (NN flow))
+            (IN out))
+          (PP (IN since)
+            (NP
+              (NP (JJ early) (NNP September))
+              (: ;)
+              (NP
+                (NP
+                  (QP ($ $) (CD 14) (CD million)))
+                (PP (IN of)
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBD seeped)
+                        (PP (IN out)
+                          (NP (NNP Friday)))
+                        (NP (NNP Oct.) (CD 13))))))))))
+        (ADVP (RB alone))))
+    (. .)))
+

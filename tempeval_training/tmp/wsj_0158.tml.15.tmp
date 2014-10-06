@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Peter) (NNP Holland))
+      (, ,)
+      (NP
+        (NP (CD 45))
+        (, ,)
+        (NP (JJ deputy) (JJ general) (NN manager)))
+      (, ,))
+    (VP (VBZ becomes)
+      (NP
+        (NP (NN director))
+        (PP (IN of)
+          (NP (JJ corporate) (NNS affairs)))))
+    (. .)))
+

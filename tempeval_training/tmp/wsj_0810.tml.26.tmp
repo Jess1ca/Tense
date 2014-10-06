@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Paribas) (NN offer))
+    (VP (VBZ values)
+      (NP
+        (NP (NNP Navigation) (NNP Mixte))
+        (PP (IN at)
+          (NP
+            (QP (RB about) (CD 23) (CD billion))
+            (NNS francs))))
+      (, ,)
+      (PP (VBG depending)
+        (PP (IN on)
+          (SBAR
+            (WHADJP (WRB how) (JJ many)
+              (PP (IN of)
+                (NP (NNP Navigation))))
+            (S
+              (NP
+                (NP (NNP Mixte) (POS 's))
+                (NNS warrants))
+              (VP (VBP are)
+                (VP (VBN converted)
+                  (PP (IN into)
+                    (NP (NNS shares)))
+                  (PP (IN during)
+                    (NP (DT the) (NN takeover) (NN battle))))))))))
+    (. .)))
+

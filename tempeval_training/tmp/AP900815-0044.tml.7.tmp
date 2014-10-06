@@ -1,0 +1,14 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT No) (NN one))
+      (VP (MD should)
+        (VP (VB doubt)
+          (NP (PRP$ our) (NN staying) (NN power)
+            (CC or)
+            (NN determination)))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+

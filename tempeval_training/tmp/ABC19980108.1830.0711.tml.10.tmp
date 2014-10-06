@@ -1,0 +1,22 @@
+(ROOT
+  (S (IN So)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (NNP Wong) (NNP Kwan))
+        (VP (VBD spent)
+          (ADVP (RB seventy))
+          (NP
+            (QP (CD million) (NNS dollars)))
+          (PP (IN for)
+            (NP (DT this) (NN house))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD thought)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (NP (DT a) (JJ great) (NN deal))))))
+    (. .)))
+

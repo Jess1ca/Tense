@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (NNP CMS) (NNP ENERGY) (NNP Corp.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NN management))
+          (VP (MD would)
+            (VP (VB recommend)
+              (PP (TO to)
+                (NP (PRP$ its) (NN board)))
+              (NP (NN today))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP$ its) (JJ common) (NN stock) (NN dividend))
+                  (VP (VB be)
+                    (VP (VBN reinstated)
+                      (PP (IN at)
+                        (NP (DT a) (`` ``) (JJ modest) (NN level) ('' '')))
+                      (NP (RBR later) (DT this) (NN year)))))))))))
+    (. .)))
+

@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (S
+      (PP (IN At)
+        (NP (DT the) (NN time)))
+      (NP (NNP Howes))
+      (VP (VBD was)
+        (VP (VBN captured))))
+    (, ,)
+    (NP (DT the) (NNP Khmer) (NNP Rouge))
+    (VP (VBD were)
+      (NP (DT a)
+        (ADJP
+          (ADJP (JJR more))
+          (CC or)
+          (ADJP (RBR less) (JJ united)))
+        (NN guerrilla) (NN force))
+      (PP (IN with)
+        (NP
+          (NP
+            (QP (JJR more) (IN than) (CD 10,000))
+            (NNS men))
+          (PP (IN under)
+            (NP (NNS arms))))))
+    (. .)))
+

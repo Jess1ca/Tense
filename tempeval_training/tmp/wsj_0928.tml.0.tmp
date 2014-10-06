@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Sun) (NNPS Microsystems) (NNP Inc.))
+      (, ,)
+      (VP (VBG snapping)
+        (PRT (RP back))
+        (PP (TO to)
+          (NP (NN profitability)))
+        (PP (IN after)
+          (NP (PRP$ its) (JJ first) (JJ quarterly) (NN loss)))
+        (PP (IN as)
+          (NP (DT a) (JJ public) (NN firm))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD earned)
+            (NP
+              (NP
+                (QP ($ $) (CD 5.2) (CD million)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP (CD seven) (NNS cents))
+                (NP (DT a) (NN share)))
+              (, ,))
+            (PP (IN in)
+              (NP (DT the) (JJ fiscal) (JJ first) (NN quarter)))))))
+    (. .)))
+

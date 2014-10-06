@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Imports))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNS types))
+          (PP (IN of)
+            (NP
+              (NP (NNS watches))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (ADVP (RB now))
+                  (VP (MD will)
+                    (VP (VB be)
+                      (ADJP (JJ eligible)
+                        (PP (IN for)
+                          (NP (JJ duty-free) (NN treatment)))))))))))))
+    (VP (VBD totaled)
+      (NP
+        (QP (RB about) ($ $) (CD 37.3) (CD million)))
+      (PP (IN in)
+        (NP
+          (NP (CD 1988))
+          (, ,)
+          (NP
+            (NP (DT a)
+              (ADJP (RB relatively) (JJ small))
+              (NN share))
+            (PP (IN of)
+              (NP
+                (NP (DT the)
+                  (QP ($ $) (CD 1.5) (CD billion)))
+                (PP (IN in)
+                  (NP (NNP U.S.) (NN watch) (NNS imports))))))))
+      (NP (DT that) (NN year))
+      (, ,)
+      (PP (VBG according)
+        (PP (TO to)
+          (NP
+            (NP (DT an) (NN aide))
+            (PP (TO to)
+              (NP (NNP U.S.) (NNP Trade) (NNP Representative) (NNP Carla) (NNP Hills)))))))
+    (. .)))
+

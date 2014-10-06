@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (NN ah))
+    (ADVP (JJ next) (RP up))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN thirteen) (NN dollar))
+            (NP (DT a) (NN barrel)))
+          (VP (VBP level)
+            (SBAR
+              (S
+                (NP (PRP we))
+                (VP (VBD saw)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN winter))
+                      (PP (IN of)
+                        (NP (NN nineteen) (NN ninety-four))))))))))))
+    (. .)))
+

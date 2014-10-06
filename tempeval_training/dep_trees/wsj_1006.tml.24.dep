@@ -1,0 +1,8 @@
+1	Mr.	_	NNP	NNP	_	2	nn	_	_
+2	Roy	_	NNP	NNP	_	6	nsubjpass	_	_
+3	could	_	MD	MD	_	6	aux	_	_
+4	n't	_	RB	RB	_	6	neg	_	_
+5	be	_	VB	VB	_	6	auxpass	_	_
+6	reached	_	VBN	VBN	_	0	root	_	_
+7	.	_	.	.	_	6	punct	_	_
+

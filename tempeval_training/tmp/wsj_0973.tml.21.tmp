@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Capital) (NN expenditure))
+      (PP (IN in)
+        (NP (CD 1990))))
+    (VP (MD will)
+      (VP (VB rise)
+        (ADVP (RB slightly))
+        (PRN (, ,)
+          (S
+            (NP (NNP Mr.) (NNP Marous))
+            (VP (VBD said)))
+          (, ,))
+        (PP (IN from)
+          (NP
+            (NP (DT an) (VBN estimated)
+              (QP ($ $) (CD 470) (CD million)))
+            (NP (DT this) (NN year))))))
+    (. .)))
+

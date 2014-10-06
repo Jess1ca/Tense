@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Anheuser))
+      (, ,)
+      (NP
+        (NP
+          (NP (DT the) (NN world) (POS 's))
+          (JJS largest) (NN brewer))
+        (CC and)
+        (NP (NNP U.S.) (NN market) (NN leader)))
+      (, ,))
+    (VP (VBZ has)
+      (ADVP (RB historically))
+      (VP (VBN been)
+        (ADJP (JJ reluctant)
+          (S
+            (VP (TO to)
+              (VP (VB engage)
+                (PP (IN in)
+                  (NP (NN price-cutting)))
+                (PP (IN as)
+                  (NP
+                    (NP (DT a) (NN means))
+                    (PP (IN of)
+                      (S
+                        (VP (VBG boosting)
+                          (NP (JJ sales) (NN volume)))))))))))))
+    (. .)))
+

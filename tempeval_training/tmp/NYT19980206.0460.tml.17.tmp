@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (S
+      (NP (NN Inflation))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (ADJP (RB almost) (JJ nonexistent)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN consumer) (NN confidence))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (ADJP (RB extremely) (JJ strong)))))
+    (. .)))
+

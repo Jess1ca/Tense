@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP DD) (NNP Acquisition))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN extension))
+          (VP (VBZ is)
+            (S
+              (VP (TO to)
+                (VP (VB allow)
+                  (NP (DT this) (NN process)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (VP (VBN completed)))))))))))))
+    (. .)))
+

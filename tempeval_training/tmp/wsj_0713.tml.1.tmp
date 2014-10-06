@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN approval))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBN expected))))))
+      (, ,))
+    (VP (VBZ permits)
+      (S
+        (NP
+          (NP (NNP West) (NNP Germany) (POS 's))
+          (JJ second-largest) (NN bank))
+        (VP (TO to)
+          (VP (VB acquire)
+            (NP
+              (NP (NNS shares))
+              (PP (IN of)
+                (NP (DT the) (JJ French) (NN investment) (NN bank))))))))
+    (. .)))
+

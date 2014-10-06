@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (DT The) (NN conversion) (NN price))
+    (VP (VBZ is)
+      (NP
+        (NP ($ $) (CD 9.58))
+        (NP (DT a) (NN share))))
+    (. .)))
+

@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (DT The) (NN projection))
+    (VP (VBD sent)
+      (NP (NNP Anheuser) (NNS shares))
+      (S
+        (VP (VBG plunging)
+          (NP
+            (NP ($ $) (CD 4.375))
+            (PP (IN in)
+              (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))))
+          (NP (NN yesterday)))))
+    (. .)))
+

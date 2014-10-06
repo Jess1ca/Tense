@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Prime) (NNP Minister) (NNP John) (NNP Howard))
+      (, ,)
+      (NP
+        (NP (DT a) (NN monarchist))
+        (NP (PRP himself)))
+      (, ,))
+    (VP (VBD promised)
+      (S
+        (VP (TO to)
+          (VP (VB put)
+            (NP (DT the) (NN question))
+            (PP (TO to)
+              (NP (DT a) (JJ national) (NN referendum))))))
+      (NP (JJ next) (NN year))
+      (SBAR (IN after)
+        (S
+          (NP (NN convention) (NNS delegates))
+          (VP (VBD voted)
+            (NP (CD 89-52))
+            (PP (IN for)
+              (NP (DT a) (NN republic)))
+            (, ,)
+            (PP (IN with)
+              (NP (CD 11) (NNS abstentions)))))))
+    (. .)))
+

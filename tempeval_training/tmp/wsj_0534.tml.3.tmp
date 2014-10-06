@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN trading)))
+    (NP (NNP Friday))
+    (, ,)
+    (NP (NNP Conseco))
+    (VP (VBD closed)
+      (PP (IN at)
+        (NP ($ $) (CD 19.50)))
+      (, ,)
+      (ADVP (RB down)
+        (NP (CD 25) (NNS cents))))
+    (. .)))
+

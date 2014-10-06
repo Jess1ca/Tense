@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP National) (NNP Intergroup))
+      (PP (IN in)
+        (NP (DT the) (JJ year-ago) (JJ third) (NN quarter))))
+    (VP (VBD earned)
+      (NP
+        (NP
+          (QP ($ $) (CD 22.5) (CD million)))
+        (, ,)
+        (CC or)
+        (NP
+          (NP (CD 97) (NNS cents))
+          (NP (DT a) (NN share)))
+        (, ,))
+      (PP (VBG including)
+        (NP
+          (NP (DT a) (NN gain))
+          (PP (IN of)
+            (NP
+              (QP ($ $) (CD 18) (CD million))))))
+      (PP (IN from)
+        (NP
+          (NP (DT the) (NN sale))
+          (PP (IN of)
+            (NP (DT a) (NN steel) (NN tube) (NN company))))))
+    (. .)))
+

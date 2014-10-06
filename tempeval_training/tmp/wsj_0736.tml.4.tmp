@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (PP (IN Among)
+      (NP (JJ other) (NNS reasons)))
+    (, ,)
+    (NP
+      (NP (JJ high) (NNS fees) (NNS regulators))
+      (VP (VBN imposed)
+        (PP (IN on)
+          (NP
+            (NP (JJ certain) (NNS transfers))
+            (PP (IN of)
+              (NP (NN thrift) (NNS deposits)))))
+        (PP (TO to)
+          (NP (JJ commercial) (NNS banks)))))
+    (`` ``)
+    (S
+      (ADVP (RB substantially))
+      (VP (VBN altered)
+        (NP
+          (NP (DT the) (NNS economics))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN transaction))
+              (PP (IN for)
+                (NP (DT both) (NNS parties))))))))
+    (, ,) ('' '')
+    (NP (NNP Poughkeepsie))
+    (VP (VBD said))
+    (. .)))
+

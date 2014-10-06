@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (DT a) (JJ short) (, ,) (JJ sharp) (NN drop))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP
+              (NP (NNP Asia) (POS 's))
+              (JJ financial) (NNS problems))
+            (ADVP (RB first))
+            (VP (VBD became)
+              (ADJP (JJ clear)))))))
+    (, ,)
+    (S
+      (NP (DT the) (NN stock) (NN market))
+      (VP (VBZ has)
+        (VP (VBN rebounded))))
+    (CC and)
+    (S
+      (NP (JJ corporate) (NNS profits))
+      (VP (VBP have)
+        (VP (VBN remained)
+          (S
+            (ADJP (JJ healthy))))))
+    (. .)))
+

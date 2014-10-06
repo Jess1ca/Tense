@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT The)
+      (NAC (NNP Dearborn) (, ,) (NNP Mich.) (, ,))
+      (NN energy) (NN company))
+    (VP (VBD stopped)
+      (S
+        (VP (VBG paying)
+          (NP (DT a) (NN dividend))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (JJ third) (NN quarter))
+              (PP (IN of)
+                (NP
+                  (NP (CD 1984))
+                  (PP (RB because) (IN of)
+                    (NP
+                      (NP (NNS troubles))
+                      (PP (IN at)
+                        (NP (PRP$ its) (NNP Midland) (JJ nuclear) (NN plant))))))))))))
+    (. .)))
+

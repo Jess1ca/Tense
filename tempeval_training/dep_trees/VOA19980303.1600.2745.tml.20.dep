@@ -1,0 +1,9 @@
+1	Jim	_	NNP	NNP	_	2	nn	_	_
+2	Teple	_	NNP	NNP	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	VOA	_	NNP	NNP	_	5	nn	_	_
+5	News	_	NNP	NNP	_	2	appos	_	_
+6	,	_	,	,	_	5	punct	_	_
+7	Miami	_	NNP	NNP	_	5	appos	_	_
+8	.	_	.	.	_	2	punct	_	_
+

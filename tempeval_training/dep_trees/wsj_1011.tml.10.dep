@@ -1,0 +1,18 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	latest	_	JJS	JJS	_	3	amod	_	_
+3	results	_	NNS	NNS	_	4	nsubj	_	_
+4	include	_	VBP	VBP	_	0	root	_	_
+5	a	_	DT	DT	_	10	det	_	_
+6	$	_	$	$	_	10	amod	_	_
+7	2.6	_	CD	CD	_	8	number	_	_
+8	million	_	CD	CD	_	6	num	_	_
+9	one-time	_	JJ	JJ	_	10	amod	_	_
+10	payment	_	NN	NN	_	4	dobj	_	_
+11	from	_	IN	IN	_	10	prep	_	_
+12	a	_	DT	DT	_	15	det	_	_
+13	``	_	``	``	_	15	punct	_	_
+14	foreign	_	JJ	JJ	_	15	amod	_	_
+15	entity	_	NN	NN	_	11	pobj	_	_
+16	.	_	.	.	_	4	punct	_	_
+17	''	_	''	''	_	4	punct	_	_
+

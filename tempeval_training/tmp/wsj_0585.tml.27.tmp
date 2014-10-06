@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (S
+      (NP (DT No) (NN one))
+      (VP (VBZ has)
+        (NP (JJ big) (NNS positions))))
+    (CC and)
+    (S
+      (NP (DT no) (NN one))
+      (VP (VBZ wants)
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (NP (JJ big) (NNS risks)))))))
+    (. .) ('' '')))
+

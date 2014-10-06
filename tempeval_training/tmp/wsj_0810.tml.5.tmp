@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the) (JJ same) (NN time)))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBZ is)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB seek)
+              (NP
+                (NP
+                  (UCP (JJ legal)
+                    (CC and)
+                    (JJ regulatory))
+                  (NNS means))
+                (PP (IN of)
+                  (S
+                    (VP (VBG blocking)
+                      (CC or)
+                      (VBG delaying)
+                      (NP
+                        (NP (NNP Paribas) (POS 's))
+                        (NN bid)))))))))))
+    (. .)))
+

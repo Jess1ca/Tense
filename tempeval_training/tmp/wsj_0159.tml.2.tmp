@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NNP Acquisition))
+    (VP (VBZ has)
+      (VP (VBN launched)
+        (NP (DT a) (NN suit))
+        (PP (IN in)
+          (NP (DT a) (NNP Delaware) (NN court)))
+        (S
+          (VP (VBG seeking)
+            (NP
+              (NP (DT the) (NN withdrawal))
+              (PP (IN of)
+                (NP
+                  (NP (NNP Dunkin) (POS 's))
+                  (NN poison) (NN pill) (NNS rights)
+                  (CC and)
+                  (NN employee) (NN stock) (NN ownership) (NNS plans)))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ claims)
+                    (SBAR
+                      (S
+                        (VP (VBD were)
+                          (VP (VBN put)
+                            (PP (IN in)
+                              (NP (NN place)))
+                            (S
+                              (VP (TO to)
+                                (VP (VB deter)
+                                  (NP (NNS bidders)))))))))))))))))
+    (. .)))
+

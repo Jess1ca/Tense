@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT The) (NN chairman))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP$ his) (NN board) (NNS members))
+          (, ,)
+          (PP (VBG including)
+            (NP
+              (NP (NNS representatives))
+              (PP (IN of)
+                (NP
+                  (NP (NNP West) (NNP German) (NN insurance) (NN giant) (NNP Allianz) (NNP AG))
+                  (CC and)
+                  (NP (JJ French) (NNS banks) (NNP Credit) (NNP Lyonnais)
+                    (CC and)
+                    (NNP Societe) (NNP Generale))))))
+          (, ,)
+          (VP (VBP hold)
+            (NP
+              (NP
+                (QP (RB nearly) (CD 50))
+                (NN %))
+              (PP (IN of)
+                (NP
+                  (NP (NNP Navigation) (NNP Mixte) (POS 's))
+                  (NN capital))))))))
+    (. .)))
+

@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Lawrence) (NNP Insurance))
+      (VP (VBZ underwrites)
+        (NP (RB mostly) (JJ primary) (NN insurance))))
+    (, ,)
+    (NP (DT a) (NN company) (NN spokesman))
+    (VP (VBD said))
+    (. .)))
+

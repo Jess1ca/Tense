@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (ADVP (RB Similarly))
+    (, ,)
+    (SBAR (IN while)
+      (S
+        (VP (VBG cautioning)
+          (PP (IN about)
+            (NP
+              (NP (DT the) (NN uncertainty))
+              (PP (IN of)
+                (NP (JJ early) (NN battle) (NNS reports))))))))
+    (, ,)
+    (NP (NNP White) (NNP House) (NN spokesman) (NNP Marlin) (NNP Fitzwater))
+    (VP (VBD said)
+      (NP (JJ late) (NN yesterday))
+      (SBAR (IN that) (`` ``)
+        (S
+          (NP (DT the) (NN operation))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (ADJP (RB very) (JJ successful)))))))
+    (. .) ('' '')))
+

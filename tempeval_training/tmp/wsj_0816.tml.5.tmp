@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NNP Compaq) (NNP Computer))
+    (VP
+      (VP (VBD nose-dived)
+        (NP
+          (NP ($ $) (CD 8.625))
+          (NP (DT a) (NN share)))
+        (, ,)
+        (PP (TO to)
+          (NP ($ $) (CD 100))))
+      (, ,)
+      (CC and)
+      (VP (VBD pulled)
+        (NP (JJ other) (NN technology) (NNS issues))
+        (ADVP (RBR lower))
+        (PP (IN after)
+          (S
+            (VP (VBG reporting)
+              (NP (JJ lower-than-expected) (NNS earnings))
+              (SBAR (IN after)
+                (S
+                  (NP (DT the) (NN stock) (NN market))
+                  (VP (VBD closed)
+                    (NP (NNP Wednesday))))))))))
+    (. .)))
+

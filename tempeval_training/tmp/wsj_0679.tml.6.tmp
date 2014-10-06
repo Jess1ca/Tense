@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT That) (NN accord))
+    (ADVP (RB also))
+    (VP (VBD called)
+      (PP (IN for)
+        (NP (NNP Hewlett-Packard)))
+      (S
+        (VP (TO to)
+          (VP (VB buy)
+            (NP (CD 730,070) (NNP Octel) (NNS shares))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (JJ open) (NN market))
+                (PP (IN within)
+                  (NP (CD 18) (NNS months)))))))))
+    (. .)))
+

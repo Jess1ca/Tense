@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (DT The) (NN plan))
+    (ADVP (RB still))
+    (VP (VBZ calls)
+      (PP (IN for)
+        (NP (NNP LIN)))
+      (S
+        (VP
+          (VP (TO to)
+            (VP (VB combine)
+              (NP (PRP$ its) (JJ cellular) (NN telephone) (NNS properties))
+              (PP (IN with)
+                (NP (NNP BellSouth) (POS 's)))))
+          (CC and)
+          (VP (TO to)
+            (VP (VB spin)
+              (PRT (RP off))
+              (NP (PRP$ its) (VBG broadcasting) (NNS operations)))))))
+    (. .)))
+

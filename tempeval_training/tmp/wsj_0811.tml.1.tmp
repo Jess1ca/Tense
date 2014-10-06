@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ gross) (NNS proceeds))
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NN sale))
+            (PP (IN of)
+              (NP (DT the) (NNS notes)))))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (MD will)
+              (VP (VB be)
+                (ADJP (JJ due)
+                  (PP (IN on))
+                  (NP (NNP Nov.) (CD 1) (, ,) (CD 2004)))))))
+        (, ,))
+      (VP (MD will)
+        (VP (VB be)
+          (VP (VBN used)
+            (S
+              (VP (TO to)
+                (VP (VB reduce)
+                  (NP (VBG existing) (NN debt)))))))))
+    (CC and)
+    (S
+      (PP (IN for)
+        (NP (JJ general) (JJ corporate) (NNS purposes)))
+      (, ,)
+      (NP (DT the) (NN company))
+      (VP (VBD said)))
+    (. .)))
+

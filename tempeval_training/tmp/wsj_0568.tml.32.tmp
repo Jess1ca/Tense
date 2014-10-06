@@ -1,0 +1,23 @@
+(ROOT
+  (S (IN So)
+    (NP
+      (NP (NNP Steve) (NNP Milunovich))
+      (PP (IN at)
+        (NP (NNP First) (NNP Boston))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ is)
+            (VP (VBG cutting)
+              (NP (PRP$ his) (NNS earnings) (NN estimate))
+              (PP (IN for)
+                (NP (JJ next) (NN year)))
+              (PP (TO to)
+                (NP
+                  (NP ($ $) (CD 2))
+                  (NP (DT a) (NN share))))
+              (PP (IN from)
+                (NP ($ $) (CD 3))))))))
+    (. .)))
+

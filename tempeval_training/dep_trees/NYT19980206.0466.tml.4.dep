@@ -1,0 +1,19 @@
+1	I	_	PRP	PRP	_	2	nsubj	_	_
+2	am	_	VBP	VBP	_	0	root	_	_
+3	shocked	_	JJ	JJ	_	2	acomp	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	dismayed	_	JJ	JJ	_	3	conj	_	_
+6	by	_	IN	IN	_	2	prep	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	numerous	_	JJ	JJ	_	9	amod	_	_
+9	leaks	_	NNS	NNS	_	6	pobj	_	_
+10	regarding	_	VBG	VBG	_	9	prep	_	_
+11	Mrs.	_	NNP	NNP	_	12	nn	_	_
+12	Currie	_	NNP	NNP	_	16	poss	_	_
+13	's	_	POS	POS	_	12	possessive	_	_
+14	grand	_	JJ	JJ	_	16	amod	_	_
+15	jury	_	NN	NN	_	16	nn	_	_
+16	testimony	_	NN	NN	_	10	pobj	_	_
+17	.	_	.	.	_	2	punct	_	_
+18	''	_	''	''	_	2	punct	_	_
+

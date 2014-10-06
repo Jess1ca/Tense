@@ -1,0 +1,1176 @@
+Intel	0	
+Corp.	1	
+'s	2	
+most	3	
+powerful	4	
+computer	5	
+chip	6	
+has	7	present
+flaws	8	
+that	9	
+could	10	
+delay	11	
+several	12	
+computer	13	
+makers	14	
+'	15	
+marketing	16	
+efforts	17	
+,	18	
+but	19	
+the	20	
+"	21	
+bugs	22	
+"	23	
+are	24	
+n't	25	
+expected	26	present
+to	27	
+hurt	28	
+Intel	29	
+and	30	
+most	31	
+computer	32	
+makers	33	
+.	34	
+
+Computer	0	
+experts	1	
+familiar	2	
+with	3	
+the	4	
+flaws	5	
+,	6	
+found	7	
+in	8	
+Intel	9	
+'s	10	
+80486	11	
+chip	12	
+,	13	
+say	14	present
+the	15	
+defects	16	
+do	17	
+n't	18	
+affect	19	present
+the	20	
+average	21	
+user	22	
+and	23	
+are	24	
+likely	25	
+to	26	
+be	27	
+cleared	28	
+up	29	
+before	30	
+most	31	
+computers	32	
+using	33	
+the	34	
+chip	35	
+as	36	
+their	37	
+"	38	
+brains	39	
+"	40	
+appear	41	present
+on	42	
+the	43	
+market	44	
+sometime	45	
+next	46	
+year	47	
+.	48	
+
+Intel	0	
+said	1	past
+that	2	
+last	3	
+week	4	
+a	5	
+customer	6	
+discovered	7	past
+two	8	
+flaws	9	
+in	10	
+its	11	
+80486	12	
+microprocessor	13	
+chip	14	
+'s	15	
+"	16	
+floating-point	17	
+unit	18	
+"	19	
+,	20	
+a	21	
+set	22	
+of	23	
+circuits	24	
+that	25	
+do	26	
+certain	27	
+calculations	28	
+.	29	
+
+On	0	
+Friday	1	
+,	2	
+Intel	3	
+began	4	past
+notifying	5	present
+customers	6	
+about	7	
+the	8	
+bugs	9	
+which	10	
+cause	11	present
+the	12	
+chip	13	
+to	14	
+give	15	
+wrong	16	
+answers	17	
+for	18	
+some	19	
+mathematical	20	
+calculations	21	
+.	22	
+
+But	0	
+while	1	
+International	2	
+Business	3	
+Machines	4	
+Corp.	5	
+and	6	
+Compaq	7	
+Computer	8	
+Corp.	9	
+say	10	present
+the	11	
+bugs	12	
+will	13	
+delay	14	future
+products	15	
+,	16	
+most	17	
+big	18	
+computer	19	
+makers	20	
+said	21	past
+the	22	
+flaws	23	
+do	24	
+n't	25	
+affect	26	present
+them	27	
+.	28	
+
+"	0	
+Bugs	1	
+like	2	
+this	3	
+are	4	
+just	5	
+a	6	
+normal	7	
+part	8	
+of	9	
+product	10	
+development	11	
+,	12	
+"	13	
+said	14	past
+Richard	15	
+Archuleta	16	
+,	17	
+director	18	
+of	19	
+Hewlett-Packard	20	
+Co.	21	
+'s	22	
+advanced	23	
+systems	24	
+development	25	
+.	26	
+
+Hewlett	0	
+announced	1	past
+last	2	
+week	3	
+that	4	
+it	5	
+planned	6	past
+to	7	
+ship	8	
+a	9	
+computer	10	
+based	11	
+on	12	
+the	13	
+486	14	
+chip	15	
+early	16	
+next	17	
+year	18	
+.	19	
+
+"	0	
+These	1	
+bugs	2	
+do	3	
+n't	4	
+affect	5	present
+our	6	
+schedule	7	
+at	8	
+all	9	
+,	10	
+"	11	
+he	12	
+said	13	past
+.	14	
+
+Likewise	0	
+,	1	
+AST	2	
+Research	3	
+Inc.	4	
+and	5	
+Sun	6	
+Microsystems	7	
+Inc.	8	
+said	9	past
+the	10	
+bugs	11	
+wo	12	
+n't	13	
+delay	14	future
+their	15	
+development	16	
+of	17	
+486-based	18	
+machines	19	
+.	20	
+
+"	0	
+We	1	
+have	2	
+n't	3	
+modified	4	present	PERFECTIVE
+our	5	
+schedules	6	
+in	7	
+any	8	
+way	9	
+,	10	
+"	11	
+said	12	past
+a	13	
+Sun	14	
+spokesman	15	
+.	16	
+
+To	0	
+switch	1	
+to	2	
+another	3	
+vendor	4	
+'s	5	
+chips	6	
+,	7	
+"	8	
+would	9	
+not	10	
+definitely	11	
+be	12	
+an	13	
+option	14	
+,	15	
+"	16	
+he	17	
+said	18	past
+.	19	
+
+ERROR	0
+
+Yesterday	0	
+,	1	
+Compaq	2	
+plunged	3	past
+further	4	
+,	5	
+closing	6	
+at	7	
+$	8	
+100	9	
+a	10	
+share	11	
+,	12	
+off	13	
+$	14	
+8.625	15	
+a	16	
+share	17	
+,	18	
+on	19	
+volume	20	
+of	21	
+2,633,700	22	
+shares	23	
+.	24	
+
+Most	0	
+of	1	
+Compaq	2	
+'s	3	
+decline	4	
+is	5	
+being	6	
+attributed	7	present	PERFECTIVE_PROGRESSIVE
+to	8	
+a	9	
+third-quarter	10	
+earnings	11	
+report	12	
+that	13	
+came	14	
+in	15	
+at	16	
+the	17	
+low	18	
+end	19	
+of	20	
+analysts	21	
+'	22	
+expectations	23	
+.	24	
+
+Intel	0	
+said	1	past
+it	2	
+had	3	
+corrected	4	past	PERFECTIVE
+the	5	
+problems	6	
+and	7	
+would	8	
+start	9	
+producing	10	present
+bugless	11	
+chips	12	
+next	13	
+week	14	
+.	15	
+
+"	0	
+We	1	
+should	2	
+not	3	
+be	4	
+seeing	5	
+any	6	
+more	7	
+,	8	
+"	9	
+said	10	past
+Bill	11	
+Rash	12	
+,	13	
+Intel	14	
+'s	15	
+director	16	
+for	17	
+the	18	
+486	19	
+chip	20	
+.	21	
+
+What	0	
+'s	1	
+more	2	
+,	3	
+the	4	
+bugs	5	
+only	6	
+emerge	7	present
+on	8	
+esoteric	9	
+applications	10	
+such	11	
+as	12	
+computer-aided	13	
+design	14	
+and	15	
+scientific	16	
+calculations	17	
+,	18	
+he	19	
+said	20	past
+,	21	
+and	22	
+then	23	
+very	24	
+seldom	25	
+.	26	
+
+"	0	
+These	1	
+errata	2	
+do	3	
+not	4	
+affect	5	present
+business	6	
+programs	7	
+,	8	
+"	9	
+he	10	
+said	11	past
+.	12	
+
+The	0	
+bugs	1	
+will	2	
+cause	3	future
+problems	4	
+in	5	
+"	6	
+specific	7	
+and	8	
+rare	9	
+circumstances	10	
+that	11	
+will	12	
+not	13	
+occur	14	
+in	15	
+typical	16	
+applications	17	
+"	18	
+such	19	
+as	20	
+word-processing	21	
+and	22	
+spreadsheets	23	
+,	24	
+said	25	past
+Michael	26	
+Slater	27	
+,	28	
+editor	29	
+of	30	
+the	31	
+Microprocessor	32	
+Report	33	
+,	34	
+an	35	
+industry	36	
+newsletter	37	
+.	38	
+
+Sun	0	
+,	1	
+Hewlett-Packard	2	
+and	3	
+others	4	
+say	5	present
+Intel	6	
+is	7	
+n't	8	
+wholly	9	
+to	10	
+blame	11	
+for	12	
+the	13	
+snafu	14	
+.	15	
+
+The	0	
+real	1	
+culprits	2	
+,	3	
+they	4	
+said	5	past
+,	6	
+are	7	
+computer	8	
+makers	9	
+such	10	
+as	11	
+IBM	12	
+that	13	
+have	14	
+jumped	15	present	PERFECTIVE
+the	16	
+gun	17	
+to	18	
+unveil	19	
+486-based	20	
+products	21	
+.	22	
+
+"	0	
+The	1	
+reason	2	
+this	3	
+is	4	
+getting	5	
+so	6	
+much	7	
+visibility	8	
+is	9	
+that	10	
+some	11	
+started	12	past
+shipping	13	present
+and	14	
+announced	15	past
+early	16	
+availability	17	
+,	18	
+"	19	
+said	20	past
+Hewlett-Packard	21	
+'s	22	
+Mr.	23	
+Archuleta	24	
+.	25	
+
+"	0	
+You	1	
+can	2	
+do	3	
+that	4	
+but	5	
+you	6	
+'re	7	
+taking	8	
+a	9	
+risk	10	
+.	11	
+
+Those	0	
+companies	1	
+are	2	
+paying	3	
+the	4	
+price	5	
+for	6	
+taking	7	
+the	8	
+risk	9	
+.	10	
+"	11	
+
+In	0	
+late	1	
+September	2	
+,	3	
+IBM	4	
+began	5	past
+shipping	6	present
+a	7	
+plug-in	8	
+card	9	
+that	10	
+converts	11	
+its	12	
+PS/2	13	
+model	14	
+70-A21	15	
+from	16	
+a	17	
+80386	18	
+machine	19	
+to	20	
+an	21	
+80486	22	
+machine	23	
+.	24	
+
+An	0	
+IBM	1	
+spokeswoman	2	
+said	3	past
+the	4	
+company	5	
+told	6	past
+customers	7	
+Monday	8	
+about	9	
+the	10	
+bugs	11	
+and	12	
+temporarily	13	
+stopped	14	past
+shipping	15	present
+the	16	
+product	17	
+.	18	
+
+IBM	0	
+has	1	present
+no	2	
+plans	3	
+to	4	
+recall	5	
+its	6	
+add-on	7	
+cards	8	
+,	9	
+the	10	
+spokeswoman	11	
+said	12	past
+,	13	
+and	14	
+could	15	
+probably	16	
+circumvent	17	
+the	18	
+bugs	19	
+without	20	
+long	21	
+product	22	
+delays	23	
+.	24	
+
+"	0	
+We	1	
+do	2	
+n't	3	
+look	4	present
+at	5	
+this	6	
+as	7	
+a	8	
+major	9	
+problem	10	
+for	11	
+us	12	
+,	13	
+"	14	
+she	15	
+said	16	past
+.	17	
+
+Compaq	0	
+,	1	
+which	2	
+said	3	past
+it	4	
+discovered	5	past
+the	6	
+bugs	7	
+,	8	
+still	9	
+plans	10	present
+to	11	
+announce	12	
+new	13	
+486	14	
+products	15	
+on	16	
+Nov.	17	
+6	18	
+.	19	
+
+Because	0	
+of	1	
+the	2	
+glitch	3	
+,	4	
+however	5	
+,	6	
+the	7	
+company	8	
+said	9	past
+it	10	
+does	11	
+n't	12	
+know	13	present
+when	14	
+its	15	
+machine	16	
+will	17	
+be	18	
+commercially	19	
+available	20	
+.	21	
+
+That	0	
+'s	1	
+a	2	
+break	3	
+from	4	
+Compaq	5	
+tradition	6	
+,	7	
+because	8	
+the	9	
+company	10	
+does	11	
+n't	12	
+announce	13	
+products	14	
+until	15	
+they	16	
+'re	17	
+actually	18	
+at	19	
+the	20	
+dealers	21	
+.	22	
+
+The	0	
+problem	1	
+is	2	
+being	3	
+ballyhooed	4	present	PROGRESSIVE
+,	5	
+experts	6	
+say	7	present
+,	8	
+because	9	
+the	10	
+486	11	
+is	12	
+Intel	13	
+'s	14	
+future	15	
+flagship	16	
+.	17	
+
+Intel	0	
+'s	1	
+microprocessors	2	
+are	3	
+the	4	
+chips	5	
+of	6	
+choice	7	
+in	8	
+many	9	
+of	10	
+today	11	
+'s	12	
+personal	13	
+computers	14	
+and	15	
+the	16	
+80486	17	
+microprocessor	18	
+is	19	
+the	20	
+spearhead	21	
+of	22	
+the	23	
+company	24	
+'s	25	
+bid	26	
+to	27	
+guard	28	
+that	29	
+spot	30	
+in	31	
+the	32	
+next	33	
+generation	34	
+of	35	
+machines	36	
+.	37	
+
+"	0	
+Although	1	
+these	2	
+sorts	3	
+of	4	
+bugs	5	
+are	6	
+not	7	
+at	8	
+all	9	
+uncommon	10	
+,	11	
+the	12	
+486	13	
+is	14	
+an	15	
+extremely	16	
+high-profile	17	
+product	18	
+,	19	
+"	20	
+said	21	past
+Mr.	22	
+Slater	23	
+,	24	
+the	25	
+newsletter	26	
+editor	27	
+.	28	
+
+Intel	0	
+'s	1	
+80486	2	
+chip	3	
+is	4	
+the	5	
+Corvette	6	
+of	7	
+Intel	8	
+'s	9	
+microprocessors	10	
+,	11	
+a	12	
+super-fast	13	
+,	14	
+super-expensive	15	
+chip	16	
+that	17	
+only	18	
+the	19	
+most	20	
+power-hungry	21	
+computer	22	
+users	23	
+are	24	
+likely	25	
+to	26	
+buy	27	
+for	28	
+at	29	
+least	30	
+several	31	
+years	32	
+.	33	
+
+Unveiled	0	past
+last	1	
+April	2	
+,	3	
+the	4	
+chip	5	
+crams	6	
+1.2	7	
+million	8	
+transistors	9	
+on	10	
+a	11	
+sliver	12	
+of	13	
+silicon	14	
+,	15	
+more	16	
+than	17	
+four	18	
+times	19	
+as	20	
+many	21	
+as	22	
+on	23	
+Intel	24	
+'s	25	
+earlier	26	
+model	27	
+,	28	
+80386	29	
+.	30	
+
+Intel	0	
+clocks	1	
+the	2	
+chip	3	
+'s	4	
+speed	5	
+at	6	
+15	7	
+million	8	
+instructions	9	
+per	10	
+second	11	
+,	12	
+or	13	
+MIPs	14	
+.	15	
+
+That	0	
+'s	1	
+four	2	
+times	3	
+as	4	
+fast	5	
+as	6	
+the	7	
+386	8	
+.	9	
+
+Machines	0	
+using	1	present
+the	2	
+486	3	
+are	4	
+expected	5	present
+to	6	
+challenge	7	
+higher-priced	8	
+work	9	
+stations	10	
+and	11	
+minicomputers	12	
+in	13	
+applications	14	
+such	15	
+as	16	
+so-called	17	
+servers	18	
+,	19	
+which	20	
+connect	21	
+groups	22	
+of	23	
+computers	24	
+together	25	
+,	26	
+and	27	
+in	28	
+computer-aided	29	
+design	30	
+.	31	
+
+But	0	
+while	1	
+the	2	
+chip	3	
+'s	4	
+speed	5	
+in	6	
+processing	7	
+power	8	
+is	9	
+dazzling	10	
+,	11	
+it	12	
+'s	13	
+real	14	
+strength	15	
+lies	16	
+in	17	
+its	18	
+software	19	
+inheritance	20	
+.	21	
+
+The	0	
+486	1	
+is	2	
+the	3	
+descendant	4	
+of	5	
+a	6	
+long	7	
+series	8	
+of	9	
+Intel	10	
+chips	11	
+that	12	
+began	13	past
+dominating	14	present
+the	15	
+market	16	
+ever	17	
+since	18	
+IBM	19	
+picked	20	past
+the	21	
+16-bit	22	
+8088	23	
+chip	24	
+for	25	
+its	26	
+first	27	
+personal	28	
+computer	29	
+.	30	
+
+(	0	
+A	1	
+16-bit	2	
+microprocessor	3	
+processes	4	
+16	5	
+pieces	6	
+of	7	
+data	8	
+at	9	
+a	10	
+time	11	
+and	12	
+is	13	
+slower	14	
+than	15	
+newer	16	
+,	17	
+32-bit	18	
+chips	19	
+.	20	
+)	21	
+
+Since	0	
+then	1	
+,	2	
+Intel	3	
+has	4	
+cornered	5	present	PERFECTIVE
+a	6	
+large	7	
+part	8	
+of	9	
+the	10	
+market	11	
+with	12	
+successive	13	
+generations	14	
+of	15	
+16-bit	16	
+and	17	
+32-bit	18	
+chips	19	
+,	20	
+all	21	
+of	22	
+which	23	
+can	24	
+run	25	
+software	26	
+written	27	
+for	28	
+previous	29	
+models	30	
+.	31	
+
+That	0	
+'s	1	
+what	2	
+will	3	
+keep	4	future
+computer	5	
+makers	6	
+coming	7	present
+in	8	
+spite	9	
+of	10	
+the	11	
+irritation	12	
+of	13	
+bugs	14	
+.	15	
+
+Big	0	
+personal	1	
+computer	2	
+makers	3	
+and	4	
+many	5	
+makers	6	
+of	7	
+engineering	8	
+workstations	9	
+are	10	
+developing	11	present	PROGRESSIVE
+486-based	12	
+machines	13	
+,	14	
+which	15	
+are	16	
+expected	17	present
+to	18	
+reach	19	
+the	20	
+market	21	
+early	22	
+next	23	
+year	24	
+.	25	
+
+Of	0	
+the	1	
+big	2	
+computer	3	
+makers	4	
+,	5	
+only	6	
+Apple	7	
+Computer	8	
+Co.	9	
+bases	10	
+its	11	
+machines	12	
+on	13	
+Motorola	14	
+chips	15	
+instead	16	
+.	17	
+
+"	0	
+The	1	
+486	2	
+is	3	
+going	4	
+to	5	
+have	6	future
+a	7	
+big	8	
+impact	9	
+on	10	
+the	11	
+industry	12	
+,	13	
+"	14	
+said	15	past
+Hewlett-Packard	16	
+'s	17	
+Mr.	18	
+Archuleta	19	
+.	20	
+
+"	0	
+It	1	
+'s	2	
+going	3	
+to	4	
+be	5	
+the	6	
+leading	7	
+edge	8	
+technology	9	
+in	10	
+personal	11	
+computers	12	
+for	13	
+the	14	
+next	15	
+few	16	
+years	17	
+.	18	
+
+This	0	
+bug	1	
+is	2	
+not	3	
+going	4	
+to	5	
+have	6	future
+any	7	
+affect	8	
+on	9	
+that	10	
+at	11	
+all	12	
+.	13	
+"	14	
+
+ERROR	0
+

@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Initial) (NN cost) (NNS estimates))
+      (PP (IN for)
+        (NP (DT the) (NN plant)))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD was)
+            (S
+              (VP (TO to)
+                (VP (VB have)
+                  (VP (VBN been)
+                    (VP (VBN built)
+                      (PP (IN in)
+                        (NP (NNS phases)))))))))))
+      (, ,))
+    (VP (VBD ranged)
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 1) (CD billion))))
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 1.2) (CD billion)))))
+    (. .)))
+

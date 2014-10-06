@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (ADVP (RB Actually))
+    (, ,)
+    (ADVP
+      (NP (RB about) (CD two) (NNS years))
+      (RB ago))
+    (, ,)
+    (NP (DT the) (NNP Journal))
+    (VP (VBD listed)
+      (NP
+        (NP (DT the) (NN creation))
+        (PP (IN of)
+          (NP (DT the) (NN money) (NN fund))))
+      (PP (IN as)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (CD 10) (JJS most) (JJ significant) (NNS events))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN world))
+                  (PP (IN of)
+                    (NP (NN finance)))))))))
+      (PP (IN in)
+        (NP (DT the) (JJ 20th) (NN century))))
+    (. .)))
+

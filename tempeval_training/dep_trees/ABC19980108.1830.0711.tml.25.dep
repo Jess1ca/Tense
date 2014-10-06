@@ -1,0 +1,10 @@
+1	Three	_	CD	CD	_	0	root	_	_
+2	thousand	_	CD	CD	_	4	num	_	_
+3	dollar	_	NN	NN	_	4	nn	_	_
+4	pearls	_	NNS	NNS	_	1	dep	_	_
+5	for	_	IN	IN	_	4	prep	_	_
+6	eight	_	CD	CD	_	7	number	_	_
+7	hundred	_	CD	CD	_	8	num	_	_
+8	dollars	_	NNS	NNS	_	5	pobj	_	_
+9	.	_	.	.	_	1	punct	_	_
+

@@ -1,0 +1,10 @@
+(ROOT
+  (NP
+    (NP (NNP Elaine) (NNP Corey))
+    (, ,)
+    (NP
+      (NP (NNP NPR) (NN news))
+      (, ,)
+      (NP (NNP San) (NNP Francisco)))
+    (. .)))
+

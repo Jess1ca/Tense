@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (PP (IN During)
+      (NP (DT the) (JJ third) (NN quarter)))
+    (, ,)
+    (NP (NNP Compaq))
+    (VP (VBD purchased)
+      (NP
+        (NP (DT a) (JJ former) (NNP Wang) (NNPS Laboratories) (VBG manufacturing) (NN facility))
+        (PP (IN in)
+          (NP (NNP Stirling)))
+        (, ,)
+        (NP (NNP Scotland))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (MD will)
+              (VP (VB be)
+                (VP (VBN used)
+                  (PP (IN for)
+                    (NP (JJ international) (NN service)
+                      (CC and)
+                      (NN repair) (NNS operations))))))))))
+    (. .)))
+

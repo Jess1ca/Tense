@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN Under)
+      (NP
+        (NP (DT an) (NN accord))
+        (VP (VBN signed)
+          (NP (NN yesterday)))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN government))
+      (CC and)
+      (NP
+        (NP (NNP Union) (NNP Bank))
+        (PP (IN of)
+          (NP (NNP Finland)))))
+    (VP (MD would)
+      (VP (VB become)
+        (NP (JJ major) (NNS shareholders))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (JJ new) (NN company))
+            (, ,)
+            (NP
+              (NP (DT each))
+              (VP (VBG injecting)
+                (NP
+                  (NP
+                    (QP (CD 100) (CD million))
+                    (JJ Finnish) (NN markkaa))
+                  (PRN (-LRB- -LRB-)
+                    (NP
+                      (QP ($ $) (CD 23.5) (CD million)))
+                    (-RRB- -RRB-)))))))))
+    (. .)))
+

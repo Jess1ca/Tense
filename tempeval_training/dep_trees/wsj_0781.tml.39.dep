@@ -1,0 +1,23 @@
+1	But	_	CC	CC	_	17	cc	_	_
+2	while	_	IN	IN	_	10	mark	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	chip	_	NN	NN	_	6	poss	_	_
+5	's	_	POS	POS	_	4	possessive	_	_
+6	speed	_	NN	NN	_	10	nsubj	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	processing	_	NN	NN	_	9	nn	_	_
+9	power	_	NN	NN	_	7	pobj	_	_
+10	is	_	VBZ	VBZ	_	17	advcl	_	_
+11	dazzling	_	JJ	JJ	_	10	acomp	_	_
+12	,	_	,	,	_	17	punct	_	_
+13	it	_	PRP	PRP	_	16	dep	_	_
+14	's	_	POS	POS	_	16	possessive	_	_
+15	real	_	JJ	JJ	_	16	amod	_	_
+16	strength	_	NN	NN	_	17	nsubj	_	_
+17	lies	_	VBZ	VBZ	_	0	root	_	_
+18	in	_	IN	IN	_	17	prep	_	_
+19	its	_	PRP$	PRP$	_	21	poss	_	_
+20	software	_	NN	NN	_	21	nn	_	_
+21	inheritance	_	NN	NN	_	18	pobj	_	_
+22	.	_	.	.	_	17	punct	_	_
+

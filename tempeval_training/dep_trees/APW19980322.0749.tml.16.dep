@@ -1,0 +1,24 @@
+1	Confrontations	_	NNS	NNS	_	12	nsubj	_	_
+2	among	_	IN	IN	_	1	prep	_	_
+3	Catholic	_	JJ	JJ	_	4	amod	_	_
+4	protesters	_	NNS	NNS	_	2	pobj	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	Protestant	_	JJ	JJ	_	7	amod	_	_
+7	marchers	_	NNS	NNS	_	4	conj	_	_
+8	and	_	CC	CC	_	4	cc	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	police	_	NN	NN	_	4	conj	_	_
+11	have	_	VBP	VBP	_	12	aux	_	_
+12	provoked	_	VBN	VBN	_	0	root	_	_
+13	widespread	_	JJ	JJ	_	14	amod	_	_
+14	violence	_	NN	NN	_	12	dobj	_	_
+15	in	_	IN	IN	_	12	prep	_	_
+16	Northern	_	NNP	NNP	_	17	nn	_	_
+17	Ireland	_	NNP	NNP	_	15	pobj	_	_
+18	for	_	IN	IN	_	17	prep	_	_
+19	the	_	DT	DT	_	22	det	_	_
+20	past	_	JJ	JJ	_	22	amod	_	_
+21	three	_	CD	CD	_	22	num	_	_
+22	summers	_	NNS	NNS	_	18	pobj	_	_
+23	.	_	.	.	_	12	punct	_	_
+

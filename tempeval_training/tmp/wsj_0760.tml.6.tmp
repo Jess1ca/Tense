@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP
+      (NP (DT the) (NN company) (POS 's))
+      (NN petroleum) (NNS services) (NN segment))
+    (PRN (, ,)
+      (SBAR (IN while)
+        (FRAG
+          (ADJP (JJ profitable))))
+      (, ,))
+    (VP (VBD was)
+      (VP (VBN hurt)
+        (PP (IN by)
+          (NP
+            (NP (JJ high) (NN financing) (NNS costs))
+            (VP (VBN associated)
+              (PP (IN with)
+                (NP
+                  (NP
+                    (NP (DT the) (NN company) (POS 's))
+                    (NN buy-out))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT a)
+                        (ADJP (CD 50) (NN %))
+                        (NN stake))
+                      (PP (IN in)
+                        (NP
+                          (NP (NNP Eastman) (NNP Christensen) (NNP Co.))
+                          (PP (IN from)
+                            (NP (NNP Texas) (NNP Eastern) (NNP Corp.)))))))))
+              (NP (JJ last) (NNP June)))))))
+    (. .)))
+

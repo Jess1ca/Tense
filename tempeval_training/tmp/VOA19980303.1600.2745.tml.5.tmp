@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (ADVP (RBR More) (RB recently))
+    (NP (PRP it))
+    (VP (VBZ has)
+      (VP (VBN followed)
+        (NP
+          (NP
+            (NP (DT the) (NN growth))
+            (PP (IN of)
+              (NP (DT the) (NN militia) (NN movement))))
+          (CC and)
+          (NP
+            (NP (NN church) (NNS groups))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP preach)
+                  (NP
+                    (NP (DT a) (NN message))
+                    (PP (IN of)
+                      (NP (JJ white) (NN supremacy)
+                        (CC and)
+                        (NN anti-semitism)))))))))))
+    (. .)))
+

@@ -1,0 +1,24 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	plan	_	NN	NN	_	4	nsubjpass	_	_
+3	was	_	VBD	VBD	_	4	auxpass	_	_
+4	filed	_	VBN	VBN	_	0	root	_	_
+5	jointly	_	RB	RB	_	4	advmod	_	_
+6	with	_	IN	IN	_	4	prep	_	_
+7	unsecured	_	JJ	JJ	_	8	amod	_	_
+8	creditors	_	NNS	NNS	_	6	pobj	_	_
+9	in	_	IN	IN	_	8	prep	_	_
+10	federal	_	JJ	JJ	_	12	amod	_	_
+11	bankruptcy	_	NN	NN	_	12	nn	_	_
+12	court	_	NN	NN	_	9	pobj	_	_
+13	in	_	IN	IN	_	12	prep	_	_
+14	New	_	NNP	NNP	_	15	nn	_	_
+15	York	_	NNP	NNP	_	13	pobj	_	_
+16	and	_	CC	CC	_	4	cc	_	_
+17	must	_	MD	MD	_	19	aux	_	_
+18	be	_	VB	VB	_	19	auxpass	_	_
+19	approved	_	VBN	VBN	_	4	conj	_	_
+20	by	_	IN	IN	_	19	prep	_	_
+21	the	_	DT	DT	_	22	det	_	_
+22	court	_	NN	NN	_	20	pobj	_	_
+23	.	_	.	.	_	4	punct	_	_
+

@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT These) (NNS payments))
+    (VP (VBD consisted)
+      (PP (IN of)
+        (NP
+          (NP
+            (NP
+              (QP ($ $) (CD 54) (CD million)))
+            (PP (IN in)
+              (NP (VBN scheduled) (NNS payments))))
+          (CC and)
+          (NP
+            (NP
+              (QP ($ $) (CD 121) (CD million)))
+            (PP (IN in)
+              (NP (NNS prepayments)))
+            (, ,)
+            (VP (VBN funded)
+              (PP (IN by)
+                (NP
+                  (QP ($ $) (CD 82.8) (CD million))))
+              (PP (IN from)
+                (NP
+                  (NP (NN operating) (NN cash) (NN flow))
+                  (, ,)
+                  (NP (JJ zero-coupon) (JJ subordinated) (NN debt))
+                  (CC and)
+                  (NP (NNS assets) (NNS sales)))))))))
+    (. .)))
+

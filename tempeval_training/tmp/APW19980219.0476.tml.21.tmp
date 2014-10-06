@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP July)))
+    (NP (JJ last) (NN year))
+    (PP (IN in)
+      (NP
+        (NP (NNP Phnom) (NNP Penh))
+        (, ,)
+        (NP
+          (NP (NNP Cambodia) (POS 's))
+          (NN capital))))
+    (, ,)
+    (NP (NNP Second) (NNP Prime) (NNP Minister) (NNP Hun) (NNP Sen))
+    (VP (VBD staged)
+      (NP (DT a) (JJ successful) (NN coup) (NN d'etat))
+      (PP (IN against)
+        (NP (NNP First) (NNP Prime) (NNP Minister) (NNP Prince) (NNP Norodom) (NNP Ranariddh))))
+    (. .)))
+

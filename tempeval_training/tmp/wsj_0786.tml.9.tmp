@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN group))
+      (PP (VBG including)
+        (NP
+          (NP (JJ several) (NNS members))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (DT the) (NNP Bass) (NN family))
+              (PP (IN of)
+                (NP (NNP Texas))))))))
+    (VP (VBD urged)
+      (NP (DT the) (NN company)
+        (S
+          (VP (TO to)
+            (VP (VB take)
+              (S
+                (NP (DT some) (NNS steps))
+                (VP (TO to)
+                  (VP (VB maximize)
+                    (NP (NN shareholder) (NN value))))))))))
+    (. .)))
+

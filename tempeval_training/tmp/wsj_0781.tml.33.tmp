@@ -1,0 +1,26 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (SBAR (IN Although)
+        (S
+          (NP
+            (NP (DT these) (NNS sorts))
+            (PP (IN of)
+              (NP (NNS bugs))))
+          (VP (VBP are) (RB not)
+            (ADVP (IN at) (DT all))
+            (ADJP (JJ uncommon)))))
+      (, ,)
+      (NP (DT the) (CD 486))
+      (VP (VBZ is)
+        (NP (DT an)
+          (ADJP (RB extremely) (JJ high-profile))
+          (NN product))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Mr.) (NNP Slater))
+      (, ,)
+      (NP (DT the) (NN newsletter) (NN editor)))
+    (. .)))
+

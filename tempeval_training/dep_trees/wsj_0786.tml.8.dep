@@ -1,0 +1,14 @@
+1	It	_	PRP	PRP	_	4	nsubj	_	_
+2	also	_	RB	RB	_	4	advmod	_	_
+3	was	_	VBD	VBD	_	4	aux	_	_
+4	considering	_	VBG	VBG	_	0	root	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	restructuring	_	NN	NN	_	4	dobj	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	help	_	VB	VB	_	6	vmod	_	_
+9	boost	_	VB	VB	_	8	xcomp	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	stock	_	NN	NN	_	12	nn	_	_
+12	price	_	NN	NN	_	9	dobj	_	_
+13	.	_	.	.	_	4	punct	_	_
+

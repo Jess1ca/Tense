@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD was)
+      (NP
+        (NP (DT no) (JJ independent) (NN confirmation))
+        (PP (IN of)
+          (NP (DT the) (NN report))))
+      (PP (IN by)
+        (NP
+          (NP (DT the) (JJ government-run) (NN news) (NN agency))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD did) (RB not)
+                (VP (VB say)
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (DT the) (VBN reported) (NN attempt))
+                      (VP (VBD occurred)))))))))))
+    (. .)))
+

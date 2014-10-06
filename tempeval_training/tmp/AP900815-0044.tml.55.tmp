@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (QP (IN At) (JJS least) (CD 50,000))
+      (NNP U.S.) (NNS troops))
+    (VP (VBP are)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN committed)
+                (PP (TO to)
+                  (NP
+                    (NP (NNP Desert) (NNP Shield))
+                    (PP (IN within)
+                      (NP (NNS weeks)))))))))
+        (, ,)
+        (PP (VBG including)
+          (NP
+            (NP (NNPS Marines))
+            (, ,)
+            (NP (NNP Army) (NN air) (NN assault) (NNS forces))
+            (, ,)
+            (NP (NNS paratroopers))
+            (CC and)
+            (NP (NN infantry))))))
+    (. .)))
+

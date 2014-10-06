@@ -1,0 +1,10 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	size	_	NN	NN	_	8	nsubjpass	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	contingent	_	NN	NN	_	3	pobj	_	_
+6	was	_	VBD	VBD	_	8	auxpass	_	_
+7	not	_	RB	RB	_	8	neg	_	_
+8	disclosed	_	VBN	VBN	_	0	root	_	_
+9	.	_	.	.	_	8	punct	_	_
+

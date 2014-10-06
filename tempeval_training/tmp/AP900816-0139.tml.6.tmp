@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT a) (NN news) (NN conference)))
+    (, ,)
+    (NP
+      (NAC (NNP Secretary)
+        (PP (IN of)
+          (NP (NNP State) (NNP James))))
+      (NNP A.) (NNP Baker) (NNP III))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Jordan))
+          (`` ``)
+          (VP (VBZ is)
+            (VP (VBG seeking)
+              (NP
+                (NP (DT some) (NN guidance))
+                ('' '')
+                (PP (IN about)
+                  (NP (DT a) (NN provision))))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (JJ U.N.-backed) (NN trade) (NN embargo))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ allows)
+                        (NP
+                          (NP (NN food))
+                          (PP (IN for)
+                            (NP (JJ humanitarian) (NNS purposes))))))))))))))
+    (. .)))
+

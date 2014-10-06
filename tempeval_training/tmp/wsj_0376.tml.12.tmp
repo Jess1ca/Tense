@@ -1,0 +1,25 @@
+(ROOT
+  (SINV
+    (S
+      (PP (RB Even) (IN without)
+        (NP (DT a) (JJ specific) (NN takeover) (NN threat)))
+      (, ,)
+      (NP (NNP Courtaulds))
+      (VP (VBZ is)
+        (VP (VBG giving)
+          (NP (NNS shareholders))
+          (`` ``)
+          (NP (NN choice)
+            (CC and)
+            (NN value)))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Julia) (NNP Blake))
+      (, ,)
+      (NP
+        (NP (DT an) (NN analyst))
+        (PP (IN at)
+          (NP (NNP London) (NNS stockbrokers) (NNP Barclays) (IN de) (NNP Zoete) (NNP Wedd)))))
+    (. .)))
+

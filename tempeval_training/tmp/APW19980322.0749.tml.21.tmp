@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (RB Earlier) (NNP Sunday))
+    (, ,)
+    (NP
+      (NP (NNS police))
+      (CC and)
+      (NP (JJ militant) (NNPS Protestants)))
+    (VP (VBD clashed)
+      (PP (IN in)
+        (NP
+          (NP (DT a) (JJ religiously) (JJ polarized) (NN part))
+          (PP (IN of)
+            (NP (NN north) (NNS Belfast))))))
+    (. .)))
+

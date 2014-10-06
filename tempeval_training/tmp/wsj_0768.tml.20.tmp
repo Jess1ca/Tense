@@ -1,0 +1,31 @@
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP
+          (QP (RB About) (CD 98))
+          (NN %))
+        (PP (IN of)
+          (NP (DT the) (NN outflow))))
+      (VP (VBD was)
+        (VP (VBN transferred)
+          (PP (TO to)
+            (NP (JJ other) (NNP Fidelity) (NNS funds))))))
+    (, ,)
+    (VP (VBZ says))
+    (NP
+      (NP (NNP Neal) (NNP Litvack))
+      (, ,)
+      (NP
+        (NP (DT a) (NNP Fidelity) (NN vice) (NN president))
+        (, ,)
+        (NP (NN marketing))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (JJS most))
+            (VP (VBG going)
+              (PP (IN into)
+                (NP (NN money) (NN market) (NNS funds))))))))
+    (. .)))
+

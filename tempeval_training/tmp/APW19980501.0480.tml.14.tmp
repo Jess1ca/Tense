@@ -1,0 +1,21 @@
+(ROOT
+  (S (`` ``)
+    (NP (NNP Smart) (NNS homes))
+    ('' '')
+    (VP (VBP have)
+      (VP (VBN emerged)
+        (S
+          (VP (VBG bringing)
+            (NP
+              (NP (DT a) (NN wealth))
+              (PP (IN of)
+                (NP (NN information)
+                  (CC and)
+                  (NN entertainment))))
+            (PP (TO to)
+              (NP
+                (NP (NNS families))
+                (PP (IN over)
+                  (NP (NN telecommunications) (NNS lines)))))))))
+    (. .)))
+

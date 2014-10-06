@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP Kuchma))
+    (ADVP (RB also))
+    (VP (VBD planned)
+      (S
+        (VP (TO to)
+          (VP (VB visit)
+            (NP
+              (NP (JJ Russian) (NN gas) (NN giant) (NNP Gazprom))
+              (, ,)
+              (ADJP (RBS most) (JJ likely))
+              (S
+                (VP (TO to)
+                  (VP (VB discuss)
+                    (NP
+                      (NP (NNP Ukraine) (POS 's))
+                      (JJ dlrs)
+                      (ADJP
+                        (QP (CD 1.2) (CD billion)))
+                      (NN debt))
+                    (PP (TO to)
+                      (NP (DT the) (NN company)))))))))))
+    (. .)))
+

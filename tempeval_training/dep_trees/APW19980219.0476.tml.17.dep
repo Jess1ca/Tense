@@ -1,0 +1,23 @@
+1	But	_	CC	CC	_	4	cc	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	group	_	NN	NN	_	4	nsubj	_	_
+4	began	_	VBD	VBD	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	fall	_	VB	VB	_	4	xcomp	_	_
+7	apart	_	RB	RB	_	6	advmod	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	mid-1996	_	JJ	JJ	_	8	pobj	_	_
+10	after	_	IN	IN	_	6	prep	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	defection	_	NN	NN	_	10	pobj	_	_
+13	of	_	IN	IN	_	12	prep	_	_
+14	one	_	CD	CD	_	13	pobj	_	_
+15	of	_	IN	IN	_	14	prep	_	_
+16	its	_	PRP$	PRP$	_	18	poss	_	_
+17	top	_	JJ	JJ	_	18	amod	_	_
+18	leaders	_	NNS	NNS	_	15	pobj	_	_
+19	,	_	,	,	_	18	punct	_	_
+20	Ieng	_	NNP	NNP	_	21	nn	_	_
+21	Sary	_	NNP	NNP	_	18	appos	_	_
+22	.	_	.	.	_	4	punct	_	_
+

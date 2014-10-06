@@ -1,0 +1,27 @@
+(ROOT
+  (SINV
+    (S
+      (VP
+        (ADVP (RB Just))
+        (VBN clobbered)))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Ulric) (NNP Weil))
+      (, ,)
+      (NP
+        (NP (DT an) (NN analyst))
+        (PP (IN at)
+          (NP
+            (NP (NNP Weil) (NNP amp) (NNPS Associates))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD had)
+                  (ADVP (RB once))
+                  (VP (VBN been)
+                    (ADJP (JJ high))
+                    (PP (IN on)
+                      (NP (DT the) (NN company)))))))))))
+    (. .)))
+

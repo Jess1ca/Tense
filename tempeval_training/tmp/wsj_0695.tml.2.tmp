@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT The) (NN investor) (NN group))
+    (VP (VBZ includes)
+      (NP
+        (NP (NNP Restaurant) (NNP Investment) (NNP Partnership))
+        (, ,)
+        (NP (DT a) (NNP California) (JJ general) (NN partnership))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (CD three)
+            (NP (NNP Rally) (POS 's))
+            (NNS directors))
+          (: :)
+          (NP
+            (NP (NNP Mr.) (NNP Sugarman))
+            (, ,)
+            (NP (NNP James) (NNP M.) (NNP Trotter) (NNP III))
+            (CC and)
+            (NP (NNP William) (NNP E.) (NNP Trotter) (NNP II))))))
+    (. .)))
+

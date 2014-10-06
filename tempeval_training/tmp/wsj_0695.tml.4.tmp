@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (NNP Giant) (NNP Group))
+    (VP (VBD owned)
+      (NP
+        (NP (CD 22) (NN %))
+        (PP (IN of)
+          (NP
+            (NP (NNP Rally) (POS 's))
+            (NNS shares))))
+      (PP (IN before)
+        (NP (DT the) (JJ initial) (JJ public) (NN offering))))
+    (. .)))
+

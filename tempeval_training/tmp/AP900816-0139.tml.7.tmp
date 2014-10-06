@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNS Worries))
+    (ADVP (RB however))
+    (VP (VBD grew)
+      (PP (IN about)
+        (NP
+          (NP
+            (NP (DT the) (NN safety))
+            (PP (IN of)
+              (NP (NNPS Americans))))
+          (CC and)
+          (NP
+            (NP (JJ other) (NNPS Westerners))
+            (VP (VBN trapped)
+              (PP (IN in)
+                (NP (NNP Kuwait))))))))
+    (. .)))
+

@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Revenue))
+      (PP (IN from)
+        (NP (JJ non-GM) (NNS accounts))))
+    (VP (VBD was)
+      (NP
+        (NP (CD 45) (NN %))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP (NNP EDS) (POS 's))
+              (JJ total) (NN business))
+            (PP (IN in)
+              (NP (DT the) (JJS latest) (CD nine) (NNS months))))))
+      (, ,)
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP (CD 40) (NN %))
+          (NP (DT a) (NN year) (RBR earlier)))))
+    (. .)))
+

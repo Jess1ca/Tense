@@ -1,0 +1,22 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	split	_	NN	NN	_	7	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	quarterly	_	JJ	JJ	_	5	amod	_	_
+5	dividend	_	NN	NN	_	2	conj	_	_
+6	will	_	MD	MD	_	7	aux	_	_
+7	be	_	VB	VB	_	20	ccomp	_	_
+8	payable	_	JJ	JJ	_	7	acomp	_	_
+9	Jan.	_	NNP	NNP	_	8	tmod	_	_
+10	3	_	CD	CD	_	9	num	_	_
+11	to	_	TO	TO	_	8	prep	_	_
+12	stock	_	NN	NN	_	11	pobj	_	_
+13	of	_	IN	IN	_	12	prep	_	_
+14	record	_	NN	NN	_	13	pobj	_	_
+15	Nov.	_	NNP	NNP	_	7	tmod	_	_
+16	16	_	CD	CD	_	15	num	_	_
+17	,	_	,	,	_	20	punct	_	_
+18	the	_	DT	DT	_	19	det	_	_
+19	company	_	NN	NN	_	20	nsubj	_	_
+20	said	_	VBD	VBD	_	0	root	_	_
+21	.	_	.	.	_	20	punct	_	_
+

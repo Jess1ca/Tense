@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (ADVP
+      (NP (JJ Last) (NN week))
+      (RB alone))
+    (, ,)
+    (NP (DT an) (JJ eye-popping)
+      (QP ($ $) (CD 1.6) (CD billion)))
+    (VP (VBD flowed)
+      (PRT (RP out))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN junk) (NNS funds))
+          (, ,)
+          (CC or)
+          (NP
+            (NP
+              (QP (RB nearly) (CD 5))
+              (NN %))
+            (PP (IN of)
+              (NP (PRP$ their) (JJ total) (NNS assets))))))
+      (, ,)
+      (PP (VBG according)
+        (PP (TO to)
+          (NP
+            (NP (NNS estimates))
+            (PP (IN by)
+              (NP
+                (NP (NNP Dalbar) (NNP Financial) (NNPS Services) (NNP Inc.))
+                (, ,)
+                (NP (DT a) (NNP Boston) (NN research) (NN firm))))))))
+    (. .)))
+

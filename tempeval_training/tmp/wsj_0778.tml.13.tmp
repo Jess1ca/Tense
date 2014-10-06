@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (ADVP (RB Therefore))
+    (PRN (, ,)
+      (S
+        (NP (PRP they))
+        (VP (VBD said)))
+      (, ,))
+    (NP (DT the) (NN money))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN taken)
+          (PP (IN from)
+            (NP (DT the) (NNS lawyers)))
+          (SBAR (RB even) (IN after)
+            (S
+              (NP (PRP they))
+              (VP (VBP are)
+                (VP (VBN paid))))))))
+    (. .)))
+

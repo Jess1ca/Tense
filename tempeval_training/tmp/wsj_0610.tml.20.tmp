@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (S
+        (VP (VBG announcing)
+          (NP (DT the) (NN plant) (NN delay)))))
+    (PRN (, ,)
+      (S
+        (NP (NNP Kellogg) (NNP Chairman) (NNP William) (NNP E.) (NNP LaMothe))
+        (VP (VBD said)))
+      (, ,))
+    (`` ``)
+    (NP
+      (NP (NN Cereal) (NN volume) (NN growth))
+      (PP (IN in)
+        (NP (DT the) (NNP U.S.))))
+    (VP (VBZ has) (RB not)
+      (VP (VBN met)
+        (NP (PRP$ our) (NNS expectations))
+        (PP (IN for)
+          (NP (CD 1989)))))
+    (. .) ('' '')))
+

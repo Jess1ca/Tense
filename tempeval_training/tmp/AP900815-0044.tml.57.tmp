@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD accused)
+      (NP
+        (NP (NNP Kuwait))
+        (PP (IN of)
+          (S
+            (VP
+              (ADVP (RB deliberately))
+              (VBG slashing)
+              (NP (JJ Iraqi) (NN oil) (NNS revenues))
+              (PP (IN by)
+                (S
+                  (VP
+                    (VP (VBG overproducing)
+                      (NP (NN oil)))
+                    (CC and)
+                    (VP (VBG driving)
+                      (PRT (RP down))
+                      (NP (NNS prices))
+                      (, ,)
+                      (PP (IN among)
+                        (NP (JJ other) (NNS charges))))))))))))
+    (. .)))
+

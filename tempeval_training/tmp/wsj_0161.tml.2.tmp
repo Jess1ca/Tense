@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP (NNP Hadson))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB write)
+              (PRT (RP off))
+              (NP
+                (QP (RB about) ($ $) (CD 3.5) (CD million)))
+              (PP (IN in)
+                (NP
+                  (NP (NNS costs))
+                  (VP (VBN related)
+                    (PP (TO to)
+                      (NP (JJ international) (NN exploration) (NNS leases)))
+                    (SBAR
+                      (WHADVP (WRB where))
+                      (S
+                        (NP (NN exploration) (NNS efforts))
+                        (VP (VBP have)
+                          (VP (VBN been)
+                            (ADJP (JJ unsuccessful))))))))))))))
+    (. .)))
+

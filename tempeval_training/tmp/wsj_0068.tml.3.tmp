@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ year-ago) (NN quarter)))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD reported)
+      (NP
+        (NP (JJ net) (NN income))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 1.9) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 29) (NNS cents))
+              (NP (DT a) (NN share)))))))
+    (. .)))
+

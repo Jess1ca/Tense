@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP
+          (NP (DT the) (NN expansion))
+          (PP (IN of)
+            (NP (DT the) (NN Internet))))
+        (VP (VBZ has)
+          (VP (VBN been)
+            (NP
+              (NP (DT a) (NN blessing))
+              (PP (IN for)
+                (NP
+                  (NP (NNS researchers))
+                  (, ,)
+                  (NP (NNS students))
+                  (CC and)
+                  (NP (DT the) (RB just) (JJ plain) (NN curious)))))))))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ new) (NNS opportunities))
+      (VP (VBN mentioned)
+        (PP (IN by)
+          (NP (NNP Mr.) (NNP Gates)))))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (VP (VBG being)
+        (VP (VBN used)
+          (PP (IN by)
+            (NP (DT some)
+              (ADJP (RB rather) (JJ unsavory))
+              (NNS characters))))))
+    (. .)))
+

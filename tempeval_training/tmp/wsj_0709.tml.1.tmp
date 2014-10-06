@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ expects)
+            (S
+              (VP (TO to)
+                (VP (VB release)
+                  (NP (JJ third-quarter) (NNS results))
+                  (PP (IN in)
+                    (NP (NNP mid-November))))))))))
+    (. .)))
+

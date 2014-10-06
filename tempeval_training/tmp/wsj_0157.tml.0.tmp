@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP Tony) (NNP Lama) (NNP Co.))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP (NNP Equus) (NNP Investment) (NNP II) (NNP Limited) (NNP Partnership))
+          (VP (VBZ has)
+            (VP (VBN proposed)
+              (S
+                (VP (VBG changing)
+                  (NP
+                    (NP (DT the) (NN offer))
+                    (PP (IN for)
+                      (NP (DT the) (NN company))))
+                  (PP (TO to)
+                    (NP
+                      (NP ($ $) (CD 13.65))
+                      (PP (IN in)
+                        (NP (NN cash)
+                          (CC and)
+                          (NN stock)))))
+                  (PP (IN from)
+                    (NP (DT an) (JJ all-cash) (NN transaction))))))))))
+    (. .)))
+

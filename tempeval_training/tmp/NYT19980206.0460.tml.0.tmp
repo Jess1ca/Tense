@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP WASHINGTON))
+      (VP (VBD _)
+        (SBAR
+          (S
+            (NP (DT The) (NN economy))
+            (VP (VBD created)
+              (NP (NNS jobs))
+              (PP (IN at)
+                (NP
+                  (NP (DT a)
+                    (ADJP (RB surprisingly) (JJ robust))
+                    (NN pace))
+                  (PP (IN in)
+                    (NP (NNP January))))))))))
+    (, ,)
+    (NP (DT the) (NN government))
+    (VP (VBD reported)
+      (PP (IN on)
+        (NP
+          (NP (NNP Friday))
+          (, ,)
+          (NP (NN evidence))))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNP America) (POS 's))
+            (JJ economic) (NN stamina))
+          (VP (VBZ has)
+            (VP (VBN withstood)
+              (NP
+                (NP (DT any) (NNS disruptions))
+                (VP (VBN caused)
+                  (ADVP (RB so) (RB far))
+                  (PP (IN by)
+                    (NP
+                      (NP (DT the) (JJ financial) (NN tumult))
+                      (PP (IN in)
+                        (NP (NNP Asia))))))))))))
+    (. .)))
+

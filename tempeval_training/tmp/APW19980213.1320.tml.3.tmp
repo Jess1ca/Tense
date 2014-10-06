@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS Qantas))
+      (VP (VBZ plans)
+        (NP
+          (NP (JJ daily) (NNS flights))
+          (PP (IN between)
+            (NP (NNP Sydney)
+              (CC and)
+              (NNP Bombay)))
+          (, ,)
+          (ADVP (RB up)
+            (PP (IN from)
+              (NP (DT the) (JJ current) (CD four) (NNS flights))
+              (NP (DT a) (NN week)))))
+        (, ,)
+        (S
+          (VP (TO to)
+            (VP (VB boost)
+              (NP (NN business)
+                (CC and)
+                (NN tourism) (NNS ties))
+              (PP (IN with)
+                (NP (NNP India))))))))
+    (, ,)
+    (NP (DT the) (NN airline))
+    (VP (VBD announced)
+      (NP (NNP Friday)))
+    (. .)))
+

@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT The) (NN anti-foreigner) (NN party))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD wanted)
+            (S
+              (VP (TO to)
+                (VP (VB protect)
+                  (NP (DT the) (NN donor))
+                  (PP (IN from)
+                    (NP (JJ possible) (NNS attacks))))))))))
+    (. .)))
+

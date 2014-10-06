@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT A)
+          (ADJP ($ C$) (JJ 30-a-share))
+          (NN bid))
+        (PP (IN by)
+          (NP
+            (NP (NNP Ciba-Geigy) (NNP Ltd.))
+            (, ,)
+            (NP (DT a) (JJ pharmaceutical) (NN company)))))
+      (VP (VBN based)
+        (PP (IN in)
+          (NP (NNP Basel) (, ,) (NNP Switzerland)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (JJ California-based) (NNP Chiron) (NNP Corp.))
+        (, ,)
+        (NP (DT a) (NN bioresearch) (NN concern))
+        (, ,))
+      (VP (VBD was)
+        (VP (VBN extended)
+          (PP (TO to)
+            (NP (NNP Nov.) (CD 16))))))
+    (. .)))
+

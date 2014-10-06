@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN provision))
+      (, ,)
+      (VP (VBN described)
+        (PP (IN as)
+          (NP (`` ``) (JJ back-end) ('' '') (NN protection))))
+      (, ,))
+    (VP (MD would)
+      (VP (VB require)
+        (S
+          (NP (NNP BellSouth))
+          (VP (TO to)
+            (VP (VB pay)
+              (S
+                (NP (DT a) (NN price))
+                (ADJP (JJ equivalent)
+                  (PP (TO to)
+                    (SBAR
+                      (WHNP (WP what))
+                      (S
+                        (NP (DT an) (JJ outside) (NN party))
+                        (VP (MD might)
+                          (VP (VB have)
+                            (S
+                              (VP (TO to)
+                                (VP (VB pay))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (NNPS Hotels))
+    (VP (VBP are)
+      (ADVP (RB only)
+        (NP (CD thirty) (NN percent)))
+      (ADJP (JJ full)))
+    (. .)))
+

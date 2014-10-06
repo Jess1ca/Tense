@@ -1,0 +1,21 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (VBP 've)
+        (VP (VBN been)
+          (VP (VBN listed)
+            (PP (IN as)
+              (NP (DT a) (NN candidate)))
+            (SBAR (IN for)
+              (S
+                (ADVP (RB so) (RB long))
+                (NP (PRP it))
+                (VP (VBZ 's) (RB not)
+                  (ADJP (IN worth) (JJ worrying)
+                    (PP (IN about))))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP (NNP Mr.) (NNP Price))
+    (. .)))
+

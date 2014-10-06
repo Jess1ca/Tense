@@ -1,0 +1,25 @@
+1	Several	_	JJ	JJ	_	3	amod	_	_
+2	Cineplex	_	NNP	NNP	_	3	nn	_	_
+3	analysts	_	NNS	NNS	_	5	nsubj	_	_
+4	have	_	VBP	VBP	_	5	aux	_	_
+5	speculated	_	VBN	VBN	_	0	root	_	_
+6	that	_	IN	IN	_	13	mark	_	_
+7	outside	_	JJ	JJ	_	8	amod	_	_
+8	bids	_	NNS	NNS	_	13	nsubj	_	_
+9	received	_	VBN	VBN	_	8	vmod	_	_
+10	by	_	IN	IN	_	9	prep	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	committee	_	NN	NN	_	10	pobj	_	_
+13	were	_	VBD	VBD	_	5	ccomp	_	_
+14	either	_	RB	RB	_	13	dep	_	_
+15	disappointingly	_	RB	RB	_	16	advmod	_	_
+16	low	_	JJ	JJ	_	14	dep	_	_
+17	or	_	CC	CC	_	14	cc	_	_
+18	for	_	IN	IN	_	14	conj	_	_
+19	only	_	JJ	JJ	_	20	amod	_	_
+20	part	_	NN	NN	_	18	pobj	_	_
+21	of	_	IN	IN	_	20	prep	_	_
+22	the	_	DT	DT	_	23	det	_	_
+23	company	_	NN	NN	_	21	pobj	_	_
+24	.	_	.	.	_	5	punct	_	_
+

@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (NN bond) (NNS investors))
+        (VP (MD would)
+          (VP (VB have)
+            (NP (VBN preferred) (NN growth)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (ADJP
+                      (NP (DT a) (RB little))
+                      (JJR slower))))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD were)
+      (VP (VBN cheered)
+        (PP (IN by)
+          (NP (NN inflation) (NNS measures)))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NNS data))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD showed)
+                  (NP
+                    (NP (NNS prices))
+                    (VP (VBG rising)
+                      (PP (IN at)
+                        (NP
+                          (NP (DT a) (JJ modest) (JJ annual) (NN rate))
+                          (PP (IN of)
+                            (NP (CD 2.9) (NN %))))))))))))))
+    (. .)))
+

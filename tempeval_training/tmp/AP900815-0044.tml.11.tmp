@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NNP Saddam))
+    (VP (VBD appeared)
+      (S
+        (VP (TO to)
+          (VP (VB accept)
+            (NP
+              (NP (DT a) (NN border) (NN demarcation) (NN treaty))
+              (SBAR
+                (S
+                  (NP (PRP he))
+                  (VP (VBD had)
+                    (VP (VBN rejected)
+                      (PP (IN in)
+                        (NP
+                          (NP (NN peace) (NNS talks))
+                          (PP (VBG following)
+                            (NP
+                              (NP (DT the) (NNP August) (CD 1988) (NN cease-fire))
+                              (PP (IN of)
+                                (NP
+                                  (NP (DT the) (JJ eight-year) (NN war))
+                                  (PP (IN with)
+                                    (NP (NNP Iran))))))))))))))))))
+    (. .)))
+

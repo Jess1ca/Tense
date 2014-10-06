@@ -1,0 +1,17 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	company	_	NN	NN	_	4	nsubj	_	_
+3	also	_	RB	RB	_	4	advmod	_	_
+4	cited	_	VBD	VBD	_	0	root	_	_
+5	interest	_	NN	NN	_	6	nn	_	_
+6	costs	_	NNS	NNS	_	4	dobj	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	amortization	_	NN	NN	_	6	conj	_	_
+9	of	_	IN	IN	_	6	prep	_	_
+10	goodwill	_	NN	NN	_	9	pobj	_	_
+11	as	_	IN	IN	_	4	prep	_	_
+12	factors	_	NNS	NNS	_	11	pobj	_	_
+13	in	_	IN	IN	_	12	prep	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	loss	_	NN	NN	_	13	pobj	_	_
+16	.	_	.	.	_	4	punct	_	_
+

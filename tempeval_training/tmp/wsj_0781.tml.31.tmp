@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (DT The) (NN problem))
+    (VP (VBZ is)
+      (VP (VBG being)
+        (VP (VBN ballyhooed)
+          (PRN (, ,)
+            (S
+              (NP (NNS experts))
+              (VP (VBP say)))
+            (, ,))
+          (SBAR (IN because)
+            (S
+              (NP (DT the) (CD 486))
+              (VP (VBZ is)
+                (NP
+                  (NP (NNP Intel) (POS 's))
+                  (JJ future) (NN flagship))))))))
+    (. .)))
+

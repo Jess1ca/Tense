@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (NNP U.S.) (JJ over-the-counter) (NN market)))
+    (, ,)
+    (NP
+      (NP
+        (NP (JJ American) (NN depositary) (NNS shares))
+        (PP (IN for)
+          (NP (NNP Reuters))))
+      (, ,)
+      (NP
+        (NP (DT each))
+        (VP (VBG representing)
+          (NP
+            (NP (CD three) (NNS shares))
+            (PP (IN in)
+              (NP (DT the) (NNP London) (NN market))))))
+      (, ,))
+    (VP (VBD closed)
+      (ADJP (JJ unchanged))
+      (PP (IN at)
+        (NP ($ $) (CD 43.875))))
+    (. .)))
+

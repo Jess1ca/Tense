@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (ADVP (RB Meanwhile))
+    (, ,)
+    (SBAR (IN as)
+      (S
+        (NP (NNP VOA) (NNP West) (NNP Africa) (NNP Correspondent) (NNP Purnell) (NNP Murdock))
+        (VP (VBZ reports))))
+    (, ,)
+    (NP
+      (NP (NNP General) (NNP Abacha) (POS 's))
+      (NNS supporters))
+    (VP (VBD began)
+      (NP
+        (NP (DT a) (CD two) (NN day) (NN rally))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN capital))
+            (, ,)
+            (NP (NNP Abuja)))))
+      (, ,)
+      (S
+        (VP (TO to)
+          (VP (VB urge)
+            (S
+              (NP (PRP him))
+              (VP (TO to)
+                (VP (VB compete)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT this) (NN year) (POS 's))
+                      (NN election))))))))))
+    (. .)))
+

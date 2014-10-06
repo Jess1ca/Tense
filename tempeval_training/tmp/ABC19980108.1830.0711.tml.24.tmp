@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD can)
+      (VP (VB get)
+        (NP (JJ seventy) (NN percent) (NNS discounts))
+        (PP (IN at)
+          (NP (DT the) (NN shopping) (NNS malls)))))
+    (. .)))
+

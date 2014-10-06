@@ -1,0 +1,17 @@
+1	Assets	_	NNS	NNS	_	6	nsubj	_	_
+2	as	_	RB	RB	_	3	advmod	_	_
+3	of	_	IN	IN	_	1	prep	_	_
+4	Sept.	_	NNP	NNP	_	3	pobj	_	_
+5	30	_	CD	CD	_	4	num	_	_
+6	fell	_	VBD	VBD	_	0	root	_	_
+7	to	_	TO	TO	_	6	prep	_	_
+8	$	_	$	$	_	7	pobj	_	_
+9	2.46	_	CD	CD	_	10	number	_	_
+10	billion	_	CD	CD	_	8	num	_	_
+11	from	_	IN	IN	_	6	prep	_	_
+12	about	_	RB	RB	_	13	quantmod	_	_
+13	$	_	$	$	_	11	pobj	_	_
+14	2.77	_	CD	CD	_	13	number	_	_
+15	billion	_	CD	CD	_	13	number	_	_
+16	.	_	.	.	_	6	punct	_	_
+

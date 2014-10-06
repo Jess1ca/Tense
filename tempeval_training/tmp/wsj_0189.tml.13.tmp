@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP Ralston) (NNS shares))
+    (VP (VBD closed)
+      (NP (NN yesterday))
+      (PP (IN at)
+        (NP ($ $) (CD 80.50)))
+      (, ,)
+      (ADVP (RB off)
+        (NP ($ $) (CD 1)))
+      (, ,)
+      (PP (IN in)
+        (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading))))
+    (. .)))
+

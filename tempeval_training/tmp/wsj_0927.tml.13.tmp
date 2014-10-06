@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ new) (NNS services))
+      (VP (VBP allow)
+        (S
+          (NP (NNP U.S.) (NNP Trust))
+          (VP (TO to)
+            (VP (VB cater)
+              (PP (TO to)
+                (NP (DT the) (`` ``) (JJ new) (NN wealth))))))))
+    (, ,) ('' '')
+    (NP (NNP Mr.) (NNP Schwarz))
+    (VP (VBZ says))
+    (. .)))
+

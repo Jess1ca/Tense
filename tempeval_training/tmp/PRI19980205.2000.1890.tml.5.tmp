@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP Washington)
+      (CC and)
+      (NNP London))
+    (VP (VBP are)
+      (ADVP (RB virtually))
+      (ADVP (RB alone))
+      (PP (IN in)
+        (S
+          (VP (VBG warning)
+            (NP
+              (NP (NNP Iraq))
+              (PP (IN of)
+                (NP (JJ military) (NNS strikes))))
+            (SBAR (IN if)
+              (S
+                (NP (PRP it))
+                (VP (VBZ does) (RB n't)
+                  (VP (VB back)
+                    (PRT (RP down))
+                    (PP (IN on)
+                      (NP (DT the) (NNS weapons) (NN inspection) (NN issue)))))))))))
+    (. .)))
+

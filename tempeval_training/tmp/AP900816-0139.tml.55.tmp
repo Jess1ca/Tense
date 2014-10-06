@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD was)
+      (NP
+        (NP (DT no) (NN decision))
+        (PP (IN on)
+          (NP (DT a) (NN meeting)))))
+    (. .)))
+

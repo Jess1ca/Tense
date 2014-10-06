@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (DT These) (NNS problems))
+    (ADVP (RB also))
+    (VP (VBD resulted)
+      (PP (IN in)
+        (NP (NNP Sun)))
+      (S
+        (VP (VBG reporting)
+          (NP
+            (NP (DT a)
+              (ADJP
+                (QP ($ $) (CD 20.3) (CD million)))
+              (NN loss))
+            (PP (IN for)
+              (NP
+                (NP (PRP$ its) (JJ fourth) (NN quarter))
+                (VP (VBN ended)
+                  (NP (NNP June) (CD 30)))))))))
+    (. .)))
+

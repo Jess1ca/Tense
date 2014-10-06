@@ -1,0 +1,34 @@
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (NNS problems))
+      (PP (IN in)
+        (S
+          (VP
+            (VP (VBG manufacturing))
+            (, ,)
+            (VP (VBG forecasting)
+              (NP (NN demand)))
+            (CC and)
+            (VP (VBG getting)
+              (NP (DT the) (NNS bugs))
+              (PRT (RP out))))))
+      (PP (IN of)
+        (NP (DT a) (JJ new) (NN management) (NN information) (NN system))))
+    (VP (VBD made)
+      (S
+        (NP (PRP it))
+        (ADJP (RB extremely) (JJ difficult)
+          (PP (IN for)
+            (NP (NNP Sun))))
+        (S
+          (VP (TO to)
+            (VP (VB meet)
+              (NP
+                (NP (NN demand))
+                (PP (IN for)
+                  (NP (PRP$ its) (JJS newest) (NNS computers))))
+              (PP (RB well) (IN into)
+                (NP (DT the) (NN summer))))))))
+    (. .)))
+

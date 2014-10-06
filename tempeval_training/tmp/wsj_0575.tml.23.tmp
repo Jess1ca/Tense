@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (ADVP (RB Partly))
+    (PRN (, ,)
+      (S
+        (NP (NNS costs))
+        (VP (MD will)
+          (VP (VB be)
+            (VP (VBN held)
+              (PRT (RP down))
+              (PP (IN through)
+                (NP (JJ strategic) (NN technology) (NNS alliances)))))))
+      (, ,))
+    (NP (NN management))
+    (VP (VBD said))
+    (. .)))
+

@@ -1,0 +1,18 @@
+1	``	_	``	``	_	4	punct	_	_
+2	People	_	NNS	NNS	_	4	nsubj	_	_
+3	are	_	VBP	VBP	_	4	aux	_	_
+4	questioning	_	VBG	VBG	_	0	root	_	_
+5	corporate	_	JJ	JJ	_	6	amod	_	_
+6	profits	_	NNS	NNS	_	4	dobj	_	_
+7	as	_	IN	IN	_	4	prep	_	_
+8	a	_	DT	DT	_	9	det	_	_
+9	pillar	_	NN	NN	_	7	pobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	support	_	NN	NN	_	10	pobj	_	_
+12	for	_	IN	IN	_	11	prep	_	_
+13	the	_	DT	DT	_	15	det	_	_
+14	equity	_	NN	NN	_	15	nn	_	_
+15	market	_	NN	NN	_	12	pobj	_	_
+16	.	_	.	.	_	4	punct	_	_
+17	''	_	''	''	_	4	punct	_	_
+

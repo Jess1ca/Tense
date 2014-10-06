@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ Iraqi) (JJ military) (NNS authorities))
+      (VP (VBD ordered)
+        (NP
+          (NP (DT all) (NNPS Americans)
+            (CC and)
+            (NNPS Britons))
+          (PP (IN in)
+            (NP (NNP Kuwait))))
+        (S
+          (VP (TO to)
+            (VP (VB assemble)
+              (PP (IN at)
+                (NP (DT a) (NN hotel))))))))
+    (, ,)
+    (NP (NNS officials))
+    (VP (VBD said))
+    (. .)))
+

@@ -1,0 +1,19 @@
+1	A	_	DT	DT	_	3	det	_	_
+2	reinsurance	_	NN	NN	_	3	nn	_	_
+3	company	_	NN	NN	_	5	nsubj	_	_
+4	effectively	_	RB	RB	_	5	advmod	_	_
+5	insures	_	VBZ	VBZ	_	0	root	_	_
+6	insurance	_	NN	NN	_	7	nn	_	_
+7	companies	_	NNS	NNS	_	5	dobj	_	_
+8	that	_	WDT	WDT	_	9	nsubj	_	_
+9	wish	_	VBP	VBP	_	7	rcmod	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	spread	_	VB	VB	_	9	xcomp	_	_
+12	the	_	DT	DT	_	13	det	_	_
+13	risk	_	NN	NN	_	11	dobj	_	_
+14	of	_	IN	IN	_	13	prep	_	_
+15	a	_	DT	DT	_	17	det	_	_
+16	particular	_	JJ	JJ	_	17	amod	_	_
+17	policy	_	NN	NN	_	14	pobj	_	_
+18	.	_	.	.	_	5	punct	_	_
+

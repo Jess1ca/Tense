@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS changes))
+    (VP (VBP are)
+      (NP
+        (NP (NN part))
+        (PP (IN of)
+          (NP (DT a) (CD one) (NN point)))
+        (ADJP
+          (QP (CD six) (CD billion))
+          (NN dollar))
+        (VP (VBN cost)
+          (S
+            (VP (VBG cutting)
+              (NP (NN initiative))
+              (S
+                (VP (TO to)
+                  (VP (VB revitalize)
+                    (NP (PRP$ its) (NN position))
+                    (PP (IN in)
+                      (NP (DT the) (NN telecommunications) (NN business)))))))))))
+    (. .)))
+

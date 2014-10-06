@@ -1,0 +1,18 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	spokesman	_	NN	NN	_	3	nsubj	_	_
+3	said	_	VBD	VBD	_	0	root	_	_
+4	it	_	PRP	PRP	_	5	nsubj	_	_
+5	is	_	VBZ	VBZ	_	3	ccomp	_	_
+6	the	_	DT	DT	_	10	det	_	_
+7	first	_	JJ	JJ	_	10	amod	_	_
+8	early	_	JJ	JJ	_	10	amod	_	_
+9	retirement	_	NN	NN	_	10	nn	_	_
+10	plan	_	NN	NN	_	5	xcomp	_	_
+11	offered	_	VBN	VBN	_	10	vmod	_	_
+12	under	_	IN	IN	_	11	prep	_	_
+13	its	_	PRP$	PRP$	_	16	poss	_	_
+14	two-year	_	JJ	JJ	_	16	amod	_	_
+15	cost-control	_	JJ	JJ	_	16	amod	_	_
+16	strategy	_	NN	NN	_	12	pobj	_	_
+17	.	_	.	.	_	3	punct	_	_
+

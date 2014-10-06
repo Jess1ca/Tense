@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP (IN With)
+      (NP
+        (NP (DT the) (NN convergence))
+        (PP (IN of)
+          (NP
+            (NP (NNS communications)
+              (CC and)
+              (NN information) (NNS technologies))
+            (PRN (-LRB- -LRB-)
+              (NP (PRP IT))
+              (-RRB- -RRB-))
+            (VP (VBN coupled)
+              (PP (IN with)
+                (NP
+                  (NP (DT the) (VBG coming))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN age))
+                      (PP (IN for)
+                        (NP
+                          (NP (DT the) (NN Internet))
+                          (CC and)
+                          (NP (PRP$ its) (JJ related) (NNS technologies)))))))))))))
+    (, ,)
+    (NP (DT the) (NN stage))
+    (VP (VBZ is)
+      (VP (VBN set)
+        (PP (IN for)
+          (NP (NNP Malaysians)))
+        (S
+          (VP (TO to)
+            (VP (VB seize)
+              (NP (DT the) (NN chance)
+                (S
+                  (VP (TO to)
+                    (VP
+                      (VP (VB transform)
+                        (PP (IN into)
+                          (NP (DT a) (NN knowledge) (NN society))))
+                      (CC and)
+                      (VP (VB become)
+                        (NP (JJ worthy) (NNS opponents/players))
+                        (PP (IN in)
+                          (NP (DT the) (JJ global) (NN market) (NN space)))))))))))))
+    (. .)))
+

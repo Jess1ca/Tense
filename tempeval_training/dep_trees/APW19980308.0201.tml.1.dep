@@ -1,0 +1,24 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	police	_	NN	NN	_	3	nsubj	_	_
+3	barred	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	crowd	_	NN	NN	_	3	dobj	_	_
+6	from	_	IN	IN	_	3	prep	_	_
+7	reaching	_	VBG	VBG	_	6	pcomp	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	Yugoslavian	_	NNP	NNP	_	10	nn	_	_
+10	consulate	_	NN	NN	_	7	dobj	_	_
+11	in	_	IN	IN	_	7	prep	_	_
+12	downtown	_	JJ	JJ	_	13	amod	_	_
+13	Istanbul	_	NNP	NNP	_	11	pobj	_	_
+14	,	_	,	,	_	3	punct	_	_
+15	but	_	CC	CC	_	3	cc	_	_
+16	allowed	_	VBD	VBD	_	3	conj	_	_
+17	them	_	PRP	PRP	_	19	nsubj	_	_
+18	to	_	TO	TO	_	19	aux	_	_
+19	demonstrate	_	VB	VB	_	16	xcomp	_	_
+20	on	_	IN	IN	_	19	prep	_	_
+21	nearby	_	JJ	JJ	_	22	amod	_	_
+22	streets	_	NNS	NNS	_	20	pobj	_	_
+23	.	_	.	.	_	3	punct	_	_
+

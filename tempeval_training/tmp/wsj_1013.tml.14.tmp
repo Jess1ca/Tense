@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ quarterly) (NNS results))
+    (ADVP (RB also))
+    (VP (VBD reflected)
+      (NP
+        (QP ($ $) (CD 21.4) (CD million)))
+      (PP (IN in)
+        (NP (JJ non-recurring) (NNS losses)))
+      (PP (IN from)
+        (NP
+          (NP (JJ commercial) (NN real-estate) (NNS activities))
+          (PP (IN in)
+            (NP (NNP California))))))
+    (. .)))
+

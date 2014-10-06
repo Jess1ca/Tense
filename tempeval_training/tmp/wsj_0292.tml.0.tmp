@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN Despite)
+      (NP
+        (NP (VBG continuing) (NNS problems))
+        (PP (IN in)
+          (NP (PRP$ its) (NN newsprint) (NN business)))))
+    (, ,)
+    (NP (NNP Kimberly-Clark) (NNP Corp.))
+    (VP (VBD posted)
+      (NP
+        (NP (DT a)
+          (ADJP (CD 20) (NN %))
+          (NN gain))
+        (PP (IN in)
+          (NP (JJ third-quarter) (JJ net) (NN income)))))
+    (. .)))
+

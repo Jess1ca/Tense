@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN job) (NNS figures))
+      (PP (IN for)
+        (NP (NNP January))))
+    (VP (VBD extended)
+      (NP
+        (NP (DT a) (NN surge))
+        (PP (IN in)
+          (NP (NN employment) (NNS gains)))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD began)
+              (NP (JJ last) (NN fall))
+              (, ,)
+              (SBAR
+                (WHADVP (RB just) (WRB when))
+                (S
+                  (NP (DT the) (NN labor) (NN market))
+                  (VP (VBD had)
+                    (VP (VBN showed)
+                      (NP
+                        (NP (NNS signs))
+                        (PP (IN of)
+                          (NP (VBG cooling)))))))))))))
+    (. .)))
+

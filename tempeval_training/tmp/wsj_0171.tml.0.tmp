@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP Valley) (NNP Federal) (NNPS Savings) (NN amp) (NNP Loan) (NNP Association))
+    (VP (VBD took)
+      (NP (DT an)
+        (ADJP
+          (QP ($ $) (CD 89.9) (CD million)))
+        (NN charge))
+      (SBAR (IN as)
+        (S
+          (NP (PRP it))
+          (VP (VBD reported)
+            (NP
+              (NP (DT a) (JJ third-quarter) (NN loss))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (QP ($ $) (CD 70.7) (CD million)))
+                  (, ,)
+                  (CC or)
+                  (NP
+                    (NP ($ $) (CD 12.09))
+                    (NP (DT a) (NN share))))))))))
+    (. .)))
+

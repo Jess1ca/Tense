@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (NNP Armco) (NNS shares))
+    (VP (VBD closed)
+      (ADJP (JJ unchanged)
+        (PP (IN at)
+          (NP
+            (NP ($ $) (CD 10.625))
+            (PP (IN in)
+              (NP (JJ composite) (NN trading))))))
+      (PP (IN on)
+        (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))))
+    (. .)))
+

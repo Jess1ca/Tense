@@ -1,0 +1,11 @@
+1	For	_	IN	IN	_	7	prep	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	week	_	NN	NN	_	1	pobj	_	_
+4	,	_	,	,	_	7	punct	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	index	_	NN	NN	_	7	nsubj	_	_
+7	dropped	_	VBD	VBD	_	0	root	_	_
+8	3.8	_	CD	CD	_	9	num	_	_
+9	%	_	NN	NN	_	7	dobj	_	_
+10	.	_	.	.	_	7	punct	_	_
+

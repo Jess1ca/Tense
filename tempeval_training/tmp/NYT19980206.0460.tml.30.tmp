@@ -1,0 +1,19 @@
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (DT the) (NN weakness))
+      (PP (IN of)
+        (NP (DT the) (JJ Asian) (NNS economies))))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (ADJP (JJ likely)
+        (S
+          (VP (TO to)
+            (VP (VB lead)
+              (PP (TO to)
+                (NP
+                  (NP (VBN decreased) (NN demand))
+                  (PP (IN for)
+                    (NP (JJ American) (NNS exports))))))))))
+    (. .)))
+

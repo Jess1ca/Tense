@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (DT The) (NN write-off))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN reported)
+          (PP (IN as)
+            (NP
+              (NP (DT an) (JJ extraordinary) (NN item))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN company) (POS 's))
+                  (CD 1989) (NN operating) (NNS results))))))))
+    (. .)))
+

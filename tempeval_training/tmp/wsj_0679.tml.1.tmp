@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT a) (NNPS Securities)
+        (CC and)
+        (NNP Exchange) (NNP Commission) (NN filing)))
+    (, ,)
+    (NP (NNP Hewlett-Packard))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (ADVP (RB now))
+          (VP (VBZ holds)
+            (NP
+              (NP (CD 1,384,119) (NNP Octel) (JJ common) (NNS shares))
+              (, ,)
+              (PP (VBG including)
+                (NP
+                  (NP (CD 100,000) (NNS shares))
+                  (VP (VBN bought)
+                    (PP (IN from)
+                      (NP
+                        (NP (NNP Aug.) (CD 26))
+                        (PP (TO to)
+                          (NP
+                            (NP (NNP Oct.) (CD 20))
+                            (PP (IN for)
+                              (NP
+                                (NP
+                                  (QP ($ $) (CD 23.31) (TO to) ($ $) (CD 24.25)))
+                                (NP (DT a) (NN share))))))))))))))))
+    (. .)))
+

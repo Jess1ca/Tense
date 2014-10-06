@@ -1,0 +1,23 @@
+(ROOT
+  (S (`` ``)
+    (NP (PRP We))
+    (VP (VBP 're)
+      (PP (IN in)
+        (NP
+          (NP (NNS environments))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP are)
+                (VP (VBG going)
+                  (S
+                    (VP (TO to)
+                      (VP (VB spend)
+                        (NP
+                          (NP (DT a) (NN lot))
+                          (PP (IN of)
+                            (NP (NN money))))
+                        (PP (IN on)
+                          (NP (DT that)))))))))))))
+    (. .) ('' '')))
+

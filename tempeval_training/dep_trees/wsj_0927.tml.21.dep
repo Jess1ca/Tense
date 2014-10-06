@@ -1,0 +1,16 @@
+1	U.S.	_	NNP	NNP	_	2	nn	_	_
+2	Trust	_	NNP	NNP	_	4	nsubj	_	_
+3	also	_	RB	RB	_	4	advmod	_	_
+4	created	_	VBD	VBD	_	0	root	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	four-member	_	JJ	JJ	_	7	amod	_	_
+7	office	_	NN	NN	_	4	dobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	chairman	_	NN	NN	_	8	pobj	_	_
+11	,	_	,	,	_	7	punct	_	_
+12	effective	_	JJ	JJ	_	7	amod	_	_
+13	Feb.	_	NNP	NNP	_	12	tmod	_	_
+14	1	_	CD	CD	_	13	num	_	_
+15	.	_	.	.	_	4	punct	_	_
+

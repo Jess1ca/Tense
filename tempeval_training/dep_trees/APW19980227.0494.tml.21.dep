@@ -1,0 +1,17 @@
+1	A	_	DT	DT	_	3	det	_	_
+2	major	_	JJ	JJ	_	3	amod	_	_
+3	project	_	NN	NN	_	4	nsubj	_	_
+4	is	_	VBZ	VBZ	_	15	ccomp	_	_
+5	joint	_	JJ	JJ	_	6	amod	_	_
+6	manufacturing	_	NN	NN	_	4	xcomp	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	An-70	_	NN	NN	_	10	nn	_	_
+9	cargo	_	NN	NN	_	10	nn	_	_
+10	planes	_	NNS	NNS	_	7	pobj	_	_
+11	,	_	,	,	_	15	punct	_	_
+12	the	_	DT	DT	_	14	det	_	_
+13	Kremlin	_	NNP	NNP	_	14	nn	_	_
+14	statement	_	NN	NN	_	15	nsubj	_	_
+15	said	_	VBD	VBD	_	0	root	_	_
+16	.	_	.	.	_	15	punct	_	_
+

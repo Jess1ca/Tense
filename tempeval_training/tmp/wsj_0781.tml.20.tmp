@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ real) (NNS culprits))
+    (PRN (, ,)
+      (S
+        (NP (PRP they))
+        (VP (VBD said)))
+      (, ,))
+    (VP (VBP are)
+      (NP
+        (NP (NN computer) (NNS makers))
+        (PP (JJ such) (IN as)
+          (NP
+            (NP (NNP IBM))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP have)
+                  (VP (VBN jumped)
+                    (NP (DT the) (NN gun)
+                      (S
+                        (VP (TO to)
+                          (VP (VB unveil)
+                            (NP (JJ 486-based) (NNS products))))))))))))))
+    (. .)))
+

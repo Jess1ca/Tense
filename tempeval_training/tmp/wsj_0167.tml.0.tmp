@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP RMS) (NNP International) (NNP Inc.))
+      (, ,)
+      (NP
+        (NP (NNP Hasbrouk) (NNPS Heights) (, ,) (NNP N.J.) (, ,))
+        (VP (VBG facing)
+          (NP (DT a) (JJ cash-flow) (NN squeeze))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (VP (VBG seeking)
+              (NP
+                (NP (JJ other) (NN financing) (NNS sources)
+                  (CC and)
+                  (NNS waivers))
+                (PP (IN from)
+                  (NP (NN debenture) (NNS holders)))))))))
+    (. .)))
+

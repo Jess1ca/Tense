@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS bonds))
+    (VP (VBD became)
+      (ADJP (JJ worthless))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (DT the) (JJ bankrupt) (NN thrift))
+          (VP (VBD was)
+            (VP (VBN seized)
+              (PP (IN by)
+                (NP (NN government) (NNS regulators))))))))
+    (. .)))
+

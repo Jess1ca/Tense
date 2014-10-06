@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP ISTANBUL) (, ,) (NNP Turkey))
+      (PRN (-LRB- -LRB-)
+        (NP (NNP AP))
+        (-RRB- -RRB-)))
+    (VP (VBD _)
+      (SBAR
+        (S
+          (NP (DT Some) (CD 1,500) (JJ ethnic) (NNS Albanians))
+          (VP (VBD marched)
+            (NP (NNP Sunday))
+            (PP (IN in)
+              (NP (JJ downtown) (NNP Istanbul)))
+            (, ,)
+            (S
+              (VP (VBG burning)
+                (S
+                  (NP (NNP Serbian) (NNS flags))
+                  (VP (TO to)
+                    (VP (VB protest)
+                      (NP
+                        (NP (DT the) (NNS killings))
+                        (PP (IN of)
+                          (NP (JJ ethnic) (NNS Albanians))))
+                      (PP (IN by)
+                        (NP (NNP Serb) (NNS police)))
+                      (PP (IN in)
+                        (NP (JJ southern) (NNP Serb) (NNP Kosovo) (NN province))))))))))))
+    (. .)))
+

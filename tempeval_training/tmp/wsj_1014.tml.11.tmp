@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (DT The) (NN stock))
+    (VP (VBD closed)
+      (PP (IN at)
+        (NP ($ $) (CD 38.50)))
+      (PP (IN on)
+        (NP
+          (NP (JJ heavy) (NN volume))
+          (PP (IN of)
+            (NP
+              (QP (RB about) (CD 3.5) (CD million))
+              (NNS shares))))))
+    (. .)))
+

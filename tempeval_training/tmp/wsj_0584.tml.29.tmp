@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP BellSouth) (POS 's))
+      (`` ``) (JJ back-end) (NN protection))
+    (VP (VBD was)
+      (VP (VBN flawed)
+        (ADVP (RB previously))))
+    (. .)))
+

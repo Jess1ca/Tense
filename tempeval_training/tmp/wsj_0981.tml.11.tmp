@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT The) (NN resort))
+    (VP (MD will)
+      (VP (VB include)
+        (NP
+          (NP (DT the) (NNP MGM) (NNP Grand) (NNP Hotel))
+          (, ,)
+          (NP
+            (NP (DT a) (JJ multi-spired) (, ,) (JJ castle-like) (NN facility))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (MD will)
+                  (VP (VB include)
+                    (NP
+                      (NP (CD 5,000) (NNS rooms))
+                      (CC and)
+                      (NP
+                        (NP (CD 85,000) (JJ square) (NNS feet))
+                        (PP (IN of)
+                          (NP (NN casino) (NN space)))))))))))))
+    (. .)))
+

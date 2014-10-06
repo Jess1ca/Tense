@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (PP (IN Over)
+      (NP (DT the) (NN summer)))
+    (, ,)
+    (NP (NNP Anheuser) (NNS competitors))
+    (VP (VBD offered)
+      (NP
+        (ADJP (JJR more)
+          (CC and)
+          (JJR deeper))
+        (NNS discounts))
+      (SBAR (IN than)
+        (S
+          (NP (NN industry) (NNS observers))
+          (VP (VBP have)
+            (VP (VBN seen)
+              (PP (IN for)
+                (NP (DT a) (JJ long) (NN time))))))))
+    (. .)))
+

@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (MD will)
+      (VP (VB add)
+        (NP
+          (QP (RB nearly) (CD 700))
+          (NNS seats))
+        (NP (DT a) (NN week))
+        (PP (IN on)
+          (NP (DT the) (NN route)))))
+    (. .)))
+

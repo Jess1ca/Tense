@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP James) (NNP Fallon))
+      (, ,)
+      (NP
+        (NP (DT a)
+          (NAC (NNP New) (NNP Providence) (, ,) (NNP N.J.) (, ,))
+          (NN marketing) (NN consultant))
+        (PP (TO to)
+          (NP (DT the) (NNS chemicals) (NN industry))))
+      (, ,))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (NNP Du) (NNP Pont))
+          (ADVP (RB still))
+          (VP (VBZ holds)
+            (NP (DT an) (NN edge))
+            (PP (IN in)
+              (S
+                (VP (VBG making)
+                  (NP (DT the) (NN pigment))
+                  (SBAR (IN because)
+                    (S
+                      (NP (DT the) (NN company))
+                      (VP (VBD was) (`` ``)
+                        (ADJP (JJ first)
+                          (PP (IN in)
+                            (PP (IN with)
+                              (NP (DT the) (NN technology)))))
+                        ('' '')
+                        (PP (TO to)
+                          (NP (JJR lower) (NNS costs)))))))))))))
+    (. .)))
+

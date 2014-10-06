@@ -1,0 +1,35 @@
+(ROOT
+  (SINV
+    (VP (VBD Replied))
+    (NP (NNP State) (NNP Department) (NN deputy) (NN spokesman) (NNP Richard) (NNP Boucher))
+    (, ,) (`` ``)
+    (S
+      (S
+        (NP (PRP We))
+        (VP (VBP have) (RB n't)
+          (ADVP (RB really))
+          (VP (VBN analyzed)
+            (NP
+              (NP (DT the) (NN statement))
+              (PP (IN in)
+                (NP (NN detail)))))))
+      (CC but)
+      (S
+        (NP (PRP it))
+        (VP (VBZ appears)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (NP
+                  (NP (RB just) (DT another) (NN example))
+                  (PP (IN of)
+                    (NP
+                      (NP (PRP$ his) (JJ outlandish) (NN rhetoric))
+                      (CC and)
+                      (NP (PRP$ his) (NNS attempts))))
+                  (S
+                    (VP (TO to)
+                      (VP (VB distort)
+                        (NP (DT the) (NN truth))))))))))))
+    (. .)))
+

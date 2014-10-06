@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBZ estimates)
+      (SBAR
+        (S
+          (NP
+            (NP (PRP$ her) (NNS properties))
+            (, ,)
+            (ADJP (IN worth)
+              (NP
+                (NP (DT a) (CD hundred)
+                  (ADJP (CD thirty) (CD million))
+                  (NNS dollars))
+                (PP (IN in)
+                  (NP (NNP October)))))
+            (, ,))
+          (VP (VBP are)
+            (ADJP (IN worth)
+              (NP
+                (NP
+                  (QP (RB only) (PDT half)))
+                (PP (IN that)
+                  (NP (RB now)))))))))
+    (. .)))
+

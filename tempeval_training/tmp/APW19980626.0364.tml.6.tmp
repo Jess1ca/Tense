@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP Party) (NN spokesman) (NNP Bernd) (NNP Droese))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NNS People) (POS 's))
+            (NNP Union))
+          (VP (MD would)
+            (VP (VB challenge)
+              (NP
+                (NP (DT the) (NN fine))
+                (PP (IN in)
+                  (NP (NN court)))))))))
+    (. .)))
+

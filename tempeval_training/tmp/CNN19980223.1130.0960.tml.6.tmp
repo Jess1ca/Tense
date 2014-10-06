@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (NNP Gas) (NNS prices))
+    (VP (VBD fell)
+      (PP
+        (NP
+          (NP
+            (QP (RB nearly) (CD two))
+            (NNS cents))
+          (NP (DT a) (NN gallon)))
+        (IN over)
+        (NP (DT the) (JJ last) (CD two) (NNS weeks))))
+    (. .)))
+

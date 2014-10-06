@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NNP Anheuser-Busch))
+    (VP (VBD announced)
+      (NP (PRP$ its) (NN plan))
+      (PP (IN at)
+        (NP
+          (NP (DT the) (JJ same) (NN time))
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBD reported)
+                (SBAR
+                  (S
+                    (NP (JJ third-quarter) (JJ net) (NN income))
+                    (VP (VBD rose)
+                      (NP (DT a) (JJ lower-than-anticipated) (CD 5.2) (NN %))
+                      (PP (TO to)
+                        (NP
+                          (NP
+                            (QP ($ $) (CD 238.3) (CD million)))
+                          (, ,)
+                          (CC or)
+                          (NP
+                            (NP (CD 83) (NNS cents))
+                            (NP (DT a) (NN share)))
+                          (, ,)))
+                      (PP (IN from)
+                        (NP
+                          (NP
+                            (QP ($ $) (CD 226.5) (CD million)))
+                          (, ,)
+                          (CC or)
+                          (NP (CD 78) (NNS cents)))))))))))))
+    (. .)))
+

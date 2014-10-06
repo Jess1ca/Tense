@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (DT Some) (NNS experts))
+    (ADVP (RB now))
+    (VP (VBP predict)
+      (SBAR
+        (S
+          (NP
+            (NP
+              (NP (NNP Anheuser) (POS 's))
+              (NN entry))
+            (PP (IN into)
+              (NP (DT the) (NN fray))))
+          (VP (VBZ means)
+            (NP
+              (NP (JJ near-term) (NNS earnings) (NN trouble))
+              (PP (IN for)
+                (NP (PDT all) (DT the) (NN industry) (NNS players))))))))
+    (. .)))
+

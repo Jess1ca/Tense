@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Fabi))
+    (VP (MD would) (RB n't)
+      (VP (VB say)
+        (ADVP (RB directly))
+        (SBAR (IN whether)
+          (S
+            (NP (NNP Mr.) (NNP Pattison))
+            (VP (VBZ has)
+              (VP (VBN disclosed)
+                (NP (JJ potential) (NNS terms))
+                (PP (IN for)
+                  (NP
+                    (NP (PRP$ his) (VBN planned) (NN bid))
+                    (PP (IN for)
+                      (NP (NN control)))))))))))
+    (. .)))
+

@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP (DT The) (NN facility))
+        (VP (MD will)
+          (VP (VB be)
+            (VP (VBN marketed)
+              (PP (IN toward)
+                (NP (NNS families)))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (NN room) (NNS rates))
+        (VP (MD will)
+          (VP (VB be)
+            (NP
+              (NP
+                (QP (IN between) ($ $) (CD 35)
+                  (CC and)
+                  ($ $) (CD 55)))
+              (NP (DT a) (NN night)))))))
+    (, ,)
+    (NP (NNP MGM) (NNP Grand))
+    (VP (VBD said))
+    (. .)))
+

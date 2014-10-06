@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (NNS competitors))
+        (VP (VBD moved)
+          (NP (NN production))
+          (PP
+            (ADVP (RB offshore))
+            (IN in)
+            (NP (NN response)))
+          (PP (TO to)
+            (NP
+              (NP (DT the) (VBG sagging) (NN competitiveness))
+              (PP (IN of)
+                (NP (JJ Japanese) (NNS factories))))))))
+    (, ,)
+    (NP (NNP Sansui))
+    (VP (VBD lacked)
+      (NP (DT the) (NN money)
+        (S
+          (VP (TO to)
+            (VP (VB build)
+              (NP (JJ new) (NNS plants))
+              (PP (IN in)
+                (NP (NNP Southeast) (NNP Asia))))))))
+    (. .)))
+

@@ -1,0 +1,18 @@
+(ROOT
+  (S (CC So)
+    (NP
+      (NP (DT the) (NN impact))
+      (PP (IN on)
+        (NP
+          (NP (DT the)
+            (ADJP
+              (QP ($ $) (CD 950) (CD billion)))
+            (JJ mutual) (NN fund) (NN industry))
+          (PP (IN as)
+            (NP (DT a) (NN whole))))))
+    (ADVP (RB probably))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (JJ slight))))
+    (. .)))
+

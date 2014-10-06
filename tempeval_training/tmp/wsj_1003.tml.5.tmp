@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Bethlehem))
+      (, ,)
+      (NP
+        (NP (DT the) (NN nation) (POS 's))
+        (JJ second) (JJS largest) (NN steelmaker))
+      (, ,))
+    (VP (VBD earned)
+      (NP
+        (NP
+          (QP ($ $) (CD 46.9) (CD million)))
+        (, ,)
+        (CC or)
+        (NP
+          (NP (CD 54) (NNS cents))
+          (NP (DT a) (NN share)))))
+    (. .)))
+

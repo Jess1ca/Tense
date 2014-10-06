@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT a) (JJ joint) (NN statement))
+        (PP (IN with)
+          (NP (NNP Tourism) (NNP Minister) (NNP Andrew) (NNP Thomson)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (CD two) (JJ new) (NNS flights))
+          (VP (MD would)
+            (VP (VB leave)
+              (NP
+                (NP (NNP Bombay))
+                (PP (IN on)
+                  (NP (NNP Monday)
+                    (CC and)
+                    (NNP Tuesday) (NNS nights))))
+              (PP (IN from)
+                (NP (NNP March) (CD 30)))
+              (, ,)
+              (PP (IN with)
+                (NP
+                  (NP (DT the) (JJ third) (NN departing))
+                  (NP (DT each))))
+              (NP (NNP Thursday))
+              (PP (IN from)
+                (NP (NNP August) (CD 6))))))))
+    (. .)))
+

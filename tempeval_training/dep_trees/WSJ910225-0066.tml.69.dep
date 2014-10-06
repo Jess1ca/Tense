@@ -1,0 +1,9 @@
+1	``	_	``	``	_	4	punct	_	_
+2	Now	_	RB	RB	_	4	advmod	_	_
+3	we	_	PRP	PRP	_	4	nsubj	_	_
+4	see	_	VBP	VBP	_	0	root	_	_
+5	that	_	IN	IN	_	7	mark	_	_
+6	edge	_	NN	NN	_	7	nsubj	_	_
+7	eroded	_	VBD	VBD	_	4	ccomp	_	_
+8	.	_	.	.	_	4	punct	_	_
+

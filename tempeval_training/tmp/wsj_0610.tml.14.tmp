@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP Kellogg))
+    (VP (VBZ is)
+      (VP (VBN based)
+        (PP (IN in)
+          (NP
+            (NP (NNP Battle) (NNP Creek))
+            (, ,)
+            (NP
+              (NP (NNP Mich.))
+              (, ,)
+              (NP
+                (NP (DT a) (NN city))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ calls)
+                      (S
+                        (NP (PRP itself))
+                        (NP
+                          (NP (DT the) (NN breakfast) (NN capital))
+                          (PP (IN of)
+                            (NP (DT the) (NN world))))))))))))))
+    (. .)))
+

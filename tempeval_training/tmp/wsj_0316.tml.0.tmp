@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (NNP First) (NNP Security) (NNP Corp.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (ADVP (RB tentatively))
+          (VP (VBD agreed)
+            (S
+              (VP (TO to)
+                (VP (VB acquire)
+                  (NP
+                    (NP (NNP Deseret) (NNP Bancorp.))
+                    (PP (IN for)
+                      (NP
+                        (NP (NN stock))
+                        (VP (VBN valued)
+                          (PP (IN at)
+                            (NP
+                              (QP (RB about) ($ $) (CD 18) (CD million)))))))))))))))
+    (. .)))
+

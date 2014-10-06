@@ -1,0 +1,14 @@
+1	``	_	``	``	_	3	punct	_	_
+2	We	_	PRP	PRP	_	3	nsubj	_	_
+3	're	_	VBP	VBP	_	0	root	_	_
+4	there	_	RB	RB	_	3	advmod	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	stay	_	VB	VB	_	3	xcomp	_	_
+7	for	_	IN	IN	_	6	prep	_	_
+8	a	_	DT	DT	_	11	det	_	_
+9	fairly	_	RB	RB	_	10	advmod	_	_
+10	lengthy	_	JJ	JJ	_	11	amod	_	_
+11	period	_	NN	NN	_	7	pobj	_	_
+12	.	_	.	.	_	3	punct	_	_
+13	''	_	''	''	_	3	punct	_	_
+

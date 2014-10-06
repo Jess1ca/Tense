@@ -1,0 +1,17 @@
+(ROOT
+  (NP
+    (NP (NN Dollar))
+    (: :)
+    (NP
+      (NP (CD 141.65) (NNS yen))
+      (, ,)
+      (ADVP (IN off)
+        (NP (CD 0.45))))
+    (: ;)
+    (NP
+      (NP (CD 1.8300) (NNS marks))
+      (, ,)
+      (ADVP (IN off)
+        (NP (CD 0.0100))))
+    (. .)))
+

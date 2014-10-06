@@ -1,0 +1,24 @@
+1	Du	_	NNP	NNP	_	2	nn	_	_
+2	Pont	_	NNP	NNP	_	4	nsubj	_	_
+3	also	_	RB	RB	_	4	advmod	_	_
+4	announced	_	VBD	VBD	_	0	root	_	_
+5	plans	_	NNS	NNS	_	4	dobj	_	_
+6	for	_	IN	IN	_	4	prep	_	_
+7	a	_	DT	DT	_	10	det	_	_
+8	3-for-1	_	JJ	JJ	_	10	amod	_	_
+9	stock	_	NN	NN	_	10	nn	_	_
+10	split	_	NN	NN	_	6	pobj	_	_
+11	,	_	,	,	_	4	punct	_	_
+12	although	_	IN	IN	_	19	mark	_	_
+13	the	_	DT	DT	_	16	det	_	_
+14	initial	_	JJ	JJ	_	16	amod	_	_
+15	higher	_	JJR	JJR	_	16	amod	_	_
+16	dividend	_	NN	NN	_	19	nsubjpass	_	_
+17	will	_	MD	MD	_	19	aux	_	_
+18	be	_	VB	VB	_	19	auxpass	_	_
+19	paid	_	VBN	VBN	_	4	advcl	_	_
+20	on	_	IN	IN	_	19	prep	_	_
+21	pre-split	_	JJ	JJ	_	22	amod	_	_
+22	shares	_	NNS	NNS	_	20	pobj	_	_
+23	.	_	.	.	_	4	punct	_	_
+

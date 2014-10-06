@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NNP Police))
+    (VP (VBD confirmed)
+      (NP (NNP Friday))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN body))
+          (VP (VBD found)
+            (PRT (RP along))
+            (NP
+              (NP (DT a) (NN highway))
+              (PP (IN in)
+                (NP
+                  (NP (DT this) (NN municipality))
+                  (PP
+                    (ADVP
+                      (NP (CD 15) (NNS miles))
+                      (RB south))
+                    (IN of)
+                    (NP
+                      (NP (NNP San) (NNP Juan))
+                      (VP (VBN belonged)
+                        (PP (TO to)
+                          (NP (NNP Jorge) (CD Hernandez) (, ,) (CD 49)))))))))))))
+    (. .)))
+

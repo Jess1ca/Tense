@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP do)
+          (S
+            (NP (DT the) (JJ uh) (NN alternative))
+            (ADJP (JJ extreme))))))
+    (, ,)
+    (NP (PRP you))
+    (VP (VBP do) (RB n't)
+      (VP (VB save)
+        (PP (IN as)
+          (NP
+            (NP (JJ many) (NNS lives))
+            (PP (IN in)
+              (NP (DT the) (JJ early) (NNS years)))))
+        (, ,)
+        (PP (IN by)
+          (NP (DT a) (JJ small) (NN fraction)))))
+    (. .)))
+

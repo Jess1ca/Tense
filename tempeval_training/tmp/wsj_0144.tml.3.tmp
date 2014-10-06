@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Travelers))
+    (VP (VBD estimated)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNP California) (NN earthquake))
+          (NP (JJ last) (NN month))
+          (VP (MD will)
+            (VP (VB result)
+              (PP (IN in)
+                (NP
+                  (NP (DT a) (JJ fourth-quarter) (JJ pre-tax) (NN charge))
+                  (PP (IN of)
+                    (NP
+                      (QP (JJR less) (IN than) ($ $) (CD 10) (CD million)))))))))))
+    (. .)))
+

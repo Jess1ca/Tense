@@ -1,0 +1,18 @@
+1	Third-quarter	_	JJ	JJ	_	2	amod	_	_
+2	sales	_	NNS	NNS	_	3	nsubj	_	_
+3	dropped	_	VBD	VBD	_	0	root	_	_
+4	11	_	CD	CD	_	5	num	_	_
+5	%	_	NN	NN	_	3	dobj	_	_
+6	to	_	TO	TO	_	3	prep	_	_
+7	$	_	$	$	_	6	pobj	_	_
+8	1.27	_	CD	CD	_	9	number	_	_
+9	billion	_	CD	CD	_	7	num	_	_
+10	from	_	IN	IN	_	3	prep	_	_
+11	$	_	$	$	_	10	pobj	_	_
+12	1.43	_	CD	CD	_	13	number	_	_
+13	billion	_	CD	CD	_	11	num	_	_
+14	a	_	DT	DT	_	15	det	_	_
+15	year	_	NN	NN	_	10	tmod	_	_
+16	ago	_	IN	IN	_	15	amod	_	_
+17	.	_	.	.	_	3	punct	_	_
+

@@ -1,0 +1,24 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	plan	_	NN	NN	_	4	nsubj	_	_
+3	still	_	RB	RB	_	4	advmod	_	_
+4	calls	_	VBZ	VBZ	_	0	root	_	_
+5	for	_	IN	IN	_	4	prep	_	_
+6	LIN	_	NNP	NNP	_	5	pobj	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	combine	_	VB	VB	_	4	ccomp	_	_
+9	its	_	PRP$	PRP$	_	12	poss	_	_
+10	cellular	_	JJ	JJ	_	12	amod	_	_
+11	telephone	_	NN	NN	_	12	nn	_	_
+12	properties	_	NNS	NNS	_	8	dobj	_	_
+13	with	_	IN	IN	_	8	prep	_	_
+14	BellSouth	_	NNP	NNP	_	13	pobj	_	_
+15	's	_	POS	POS	_	14	possessive	_	_
+16	and	_	CC	CC	_	8	cc	_	_
+17	to	_	TO	TO	_	18	aux	_	_
+18	spin	_	VB	VB	_	8	conj	_	_
+19	off	_	RP	RP	_	18	prt	_	_
+20	its	_	PRP$	PRP$	_	22	poss	_	_
+21	broadcasting	_	VBG	VBG	_	22	amod	_	_
+22	operations	_	NNS	NNS	_	18	dobj	_	_
+23	.	_	.	.	_	4	punct	_	_
+

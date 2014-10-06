@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (ADVP (RB Previously))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD offered)
+      (NP
+        (NP
+          (NP
+            (NP ($ $) (CD 13.65))
+            (NP (DT a) (NN share)))
+          (PP (IN in)
+            (NP (NN cash))))
+        (, ,)
+        (CC or)
+        (NP
+          (QP ($ $) (CD 29) (CD million)))))
+    (. .)))
+

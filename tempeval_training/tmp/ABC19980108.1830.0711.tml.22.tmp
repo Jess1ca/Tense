@@ -1,0 +1,29 @@
+(ROOT
+  (S (CC But)
+    (PP (IN in)
+      (NP (DT the) (JJ past) (CD three) (NNS months)))
+    (, ,)
+    (S
+      (NP (NNS stocks))
+      (VP (VBP have)
+        (VP (VBN plunged))))
+    (, ,)
+    (S
+      (NP (NN interest) (NNS rates))
+      (VP (VBP have)
+        (VP (VBN soared))))
+    (CC and)
+    (S
+      (NP (DT the) (NN downturn))
+      (ADVP (DT all)
+        (PP (IN across)
+          (NP (NNP Asia))))
+      (VP (VBZ means)
+        (SBAR (IN that)
+          (S
+            (NP (NNS people))
+            (VP (VBP are) (RB not)
+              (VP (VBG spending)
+                (ADVP (RB here))))))))
+    (. .)))
+

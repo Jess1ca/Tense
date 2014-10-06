@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP McCaw) (POS 's))
+      (NN bid))
+    (ADVP (RB also))
+    (VP (VBZ has)
+      (NP (DT a) (JJ similar) (NN clause)))
+    (. .)))
+

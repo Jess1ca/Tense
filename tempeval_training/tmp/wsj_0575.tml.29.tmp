@@ -1,0 +1,26 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (VBP think)
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBP 're)
+              (VP (VBG getting)
+                (NP
+                  (NP
+                    (QP (RB only) (CD 10))
+                    (NN %))
+                  (PP (IN of)
+                    (NP (DT the) (NN integration) (NNS dollars)))
+                  (SBAR
+                    (S
+                      (NP (PRP$ our) (NNS customers))
+                      (VP (VBP are)
+                        (VP (VBG spending))))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+

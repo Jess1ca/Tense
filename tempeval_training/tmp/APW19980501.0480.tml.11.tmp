@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (PP (IN With)
+      (NP
+        (NP (NNS intranets))
+        (PP (IN in)
+          (NP (NN place)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADVP (RB only))
+      (ADJP (JJ logical)
+        (PP (IN for)
+          (NP (NNS organisations))))
+      (S
+        (VP (TO to)
+          (VP
+            (ADVP (RB respectively))
+            (VB link)
+            (NP (DT the) (NN network))
+            (PP (TO to)
+              (NP
+                (NP (JJ other) (NNS companies))
+                ('' ')
+                (PP (IN for)
+                  (NP (JJ extended) (NN business) (NNS purposes)))))
+            (PP (IN through)
+              (NP (NNS extranets)))))))
+    (. .)))
+

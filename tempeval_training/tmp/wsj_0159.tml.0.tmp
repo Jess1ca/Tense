@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP DD) (NNP Acquisition) (NNP Corp.))
+      (, ,)
+      (NP
+        (NP (DT a) (NN partnership))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP (NNP Unicorp) (NNP Canada) (NNP Corp.) (POS 's))
+              (NNP Kingsbridge) (NNP Capital) (NNP Group))
+            (CC and)
+            (NP (NNP Cara) (NNPS Operations) (NNP Ltd.)))))
+      (, ,))
+    (VP (VBD extended)
+      (PP (TO to)
+        (NP
+          (NP (NNP Nov.) (CD 20))
+          (SBAR
+            (S
+              (NP
+                (NP (PRP$ its)
+                  (ADJP ($ $) (JJ 45-a-share))
+                  (NN offer))
+                (PP (IN for)
+                  (NP (DT all) (NNP Dunkin') (NNP Donuts) (NNP Inc.))))
+              (VP (VBZ shares)
+                (ADJP (JJ outstanding))))))))
+    (. .)))
+

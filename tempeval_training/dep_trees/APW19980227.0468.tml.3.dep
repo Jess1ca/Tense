@@ -1,0 +1,27 @@
+1	Seventy-five	_	CD	CD	_	2	number	_	_
+2	million	_	CD	CD	_	3	num	_	_
+3	copies	_	NNS	NNS	_	9	nsubjpass	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	rifle	_	NN	NN	_	4	pobj	_	_
+7	have	_	VBP	VBP	_	9	aux	_	_
+8	been	_	VBN	VBN	_	9	auxpass	_	_
+9	built	_	VBN	VBN	_	0	root	_	_
+10	since	_	IN	IN	_	12	mark	_	_
+11	it	_	PRP	PRP	_	12	nsubj	_	_
+12	entered	_	VBD	VBD	_	9	advcl	_	_
+13	production	_	NN	NN	_	12	dobj	_	_
+14	in	_	IN	IN	_	12	prep	_	_
+15	February	_	NNP	NNP	_	14	pobj	_	_
+16	1947	_	CD	CD	_	15	num	_	_
+17	,	_	,	,	_	12	punct	_	_
+18	making	_	VBG	VBG	_	12	vmod	_	_
+19	it	_	PRP	PRP	_	25	nsubj	_	_
+20	history	_	NN	NN	_	25	poss	_	_
+21	's	_	POS	POS	_	20	possessive	_	_
+22	most	_	RBS	RBS	_	24	advmod	_	_
+23	widely	_	RB	RB	_	24	advmod	_	_
+24	distributed	_	JJ	JJ	_	25	amod	_	_
+25	weapon	_	NN	NN	_	18	xcomp	_	_
+26	.	_	.	.	_	9	punct	_	_
+

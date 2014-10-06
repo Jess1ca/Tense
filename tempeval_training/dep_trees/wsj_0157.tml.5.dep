@@ -1,0 +1,23 @@
+1	Neither	_	CC	CC	_	2	preconj	_	_
+2	Equus	_	NNP	NNP	_	6	nsubj	_	_
+3	nor	_	CC	CC	_	2	cc	_	_
+4	Tony	_	NNP	NNP	_	5	nn	_	_
+5	Lama	_	NNP	NNP	_	2	conj	_	_
+6	gave	_	VBD	VBD	_	0	root	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	reason	_	NN	NN	_	6	dobj	_	_
+9	for	_	IN	IN	_	8	prep	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	changed	_	VBN	VBN	_	12	amod	_	_
+12	offer	_	NN	NN	_	9	pobj	_	_
+13	and	_	CC	CC	_	6	cc	_	_
+14	Tony	_	NNP	NNP	_	15	nn	_	_
+15	Lama	_	NNP	NNP	_	19	nsubjpass	_	_
+16	could	_	MD	MD	_	19	aux	_	_
+17	n't	_	RB	RB	_	19	neg	_	_
+18	be	_	VB	VB	_	19	auxpass	_	_
+19	reached	_	VBN	VBN	_	6	conj	_	_
+20	for	_	IN	IN	_	19	prep	_	_
+21	comment	_	NN	NN	_	20	pobj	_	_
+22	.	_	.	.	_	6	punct	_	_
+

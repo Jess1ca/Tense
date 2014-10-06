@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Foreign) (NNS ministers))
+      (PP (IN of)
+        (NP
+          (NP (JJ member-states) (NN meeting))
+          (PP (IN in)
+            (NP (DT the) (JJ Ethiopian) (NN capital))))))
+    (VP (VBD agreed)
+      (S
+        (VP (TO to)
+          (VP (VB set)
+            (PRT (RP up))
+            (NP (DT a) (JJ seven-member) (NN panel)
+              (S
+                (VP (TO to)
+                  (VP (VB investigate)
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBD shot)
+                          (PRT (RP down))
+                          (NP
+                            (NP
+                              (NP (NNP Rwandan) (NNP President) (NNP Juvenal) (NNP Habyarimana) (POS 's))
+                              (NN plane))
+                            (PP (IN on)
+                              (NP (NNP April) (CD 6) (, ,) (CD 1994)))))))))))))))
+    (. .)))
+

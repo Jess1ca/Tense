@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT The) (NN following))
+    (VP (VBD were)
+      (PP (IN among)
+        (NP
+          (NP
+            (NP (NNP Friday) (POS 's))
+            (NNS offerings)
+            (CC and)
+            (NNS pricings))
+          (PP (IN in)
+            (NP (DT the) (NNP U.S.)
+              (CC and)
+              (NNP non-U.S.))))))))
+

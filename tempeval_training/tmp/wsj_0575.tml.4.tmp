@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (PP (IN During)
+      (NP (DT that) (NN time)))
+    (, ,)
+    (NP (NNP Control) (NNP Data))
+    (VP (VBD had)
+      (NP
+        (NP (NNS losses))
+        (PP (IN of)
+          (NP
+            (QP (JJR more) (IN than) ($ $) (CD 1) (CD billion))))))
+    (. .)))
+

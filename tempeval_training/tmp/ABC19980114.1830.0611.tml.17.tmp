@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR (IN that)
+        (S
+          (VP (VBD was)
+            (NP (PRP him))))))
+    (. .)))
+

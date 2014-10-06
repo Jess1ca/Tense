@@ -1,0 +1,23 @@
+1	``	_	``	``	_	11	punct	_	_
+2	Mr.	_	NNP	NNP	_	3	nn	_	_
+3	Lortie	_	NNP	NNP	_	4	nsubj	_	_
+4	felt	_	VBD	VBD	_	11	ccomp	_	_
+5	less	_	RBR	RBR	_	6	advmod	_	_
+6	pertinent	_	JJ	JJ	_	4	acomp	_	_
+7	,	_	,	,	_	11	punct	_	_
+8	''	_	''	''	_	11	punct	_	_
+9	Mr.	_	NNP	NNP	_	10	nn	_	_
+10	Nadeau	_	NNP	NNP	_	11	nsubj	_	_
+11	said	_	VBD	VBD	_	0	root	_	_
+12	,	_	,	,	_	11	punct	_	_
+13	given	_	VBN	VBN	_	11	prep	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	decision	_	NN	NN	_	13	dep	_	_
+16	to	_	TO	TO	_	17	aux	_	_
+17	dump	_	VB	VB	_	15	vmod	_	_
+18	Provigo	_	NNP	NNP	_	21	poss	_	_
+19	's	_	POS	POS	_	18	possessive	_	_
+20	non-food	_	JJ	JJ	_	21	amod	_	_
+21	operations	_	NNS	NNS	_	17	dobj	_	_
+22	.	_	.	.	_	11	punct	_	_
+

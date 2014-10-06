@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ small) (NN hardcore) (NN group))
+      (PP (IN under)
+        (NP (NNP Pol) (NNP Pot))))
+    (VP (VBD continued)
+      (S
+        (VP (TO to)
+          (VP (VB hold)
+            (PRT (RP out))
+            (PP (IN at)
+              (NP (PRP$ their) (NN headquarters)))
+            (PP (IN at)
+              (NP
+                (NP (NNP Anlong) (NNP Veng))
+                (PP (IN in)
+                  (NP (JJ northern) (NNP Cambodia)))
+                (PP (IN near)
+                  (NP (DT the) (NNP Thai) (NN border)))))))))
+    (. .)))
+

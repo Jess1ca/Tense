@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP Automatic) (NNP Data) (NNP Processing) (NNP Inc.))
+    (VP (VBZ plans)
+      (S
+        (VP (TO to)
+          (VP (VB redeem)
+            (PP (IN on)
+              (NP (NNP Nov.) (CD 16)))
+            (NP
+              (NP (PRP$ its)
+                (QP ($ $) (CD 150) (CD million)))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (ADJP (CD 6.5) (NN %))
+                    (JJ convertible) (VBN subordinated) (NNS debentures))
+                  (ADJP (JJ due)
+                    (NP (NNP March) (CD 1) (, ,) (CD 2011))))))))))
+    (. .)))
+

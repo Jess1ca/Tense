@@ -1,0 +1,7 @@
+(ROOT
+  (S
+    (NP (NNP Kyle))
+    (VP (VBZ manufactures)
+      (NP (JJ electronic) (NNS components)))
+    (. .)))
+

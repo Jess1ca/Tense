@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP RJR) (POS 's))
+      (NNS executives))
+    (VP (VBP have)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (MD will)
+              (VP (VB dispense)
+                (PP (IN with)
+                  (NP (JJ certain) (NNS brands)))
+                (, ,)
+                (PP (IN in)
+                  (NP
+                    (NP (JJ particular))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBP are) (RB n't)
+                          (NP
+                            (NP (NNS leaders))
+                            (PP (IN in)
+                              (NP (PRP$ their) (NNS markets)))))))))))))))
+    (. .)))
+

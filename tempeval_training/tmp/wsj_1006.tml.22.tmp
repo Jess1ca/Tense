@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Nadeau))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNS discussions))
+          (VP (VBP are)
+            (PP (IN under)
+              (NP
+                (NP (NN way))
+                (PP (IN with)
+                  (NP
+                    (NP (JJ potential) (NNS purchasers))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT each))
+                        (PP (IN of)
+                          (NP (DT the) (NNS units)))))))))))))
+    (. .)))
+

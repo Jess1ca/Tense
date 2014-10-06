@@ -1,0 +1,20 @@
+(ROOT
+  (S (CC And)
+    (NP (NN today))
+    (, ,)
+    (NP (DT the) (NN right)
+      (S
+        (VP (TO to)
+          (VP (VB work)))))
+    (VP (VBZ is)
+      (ADJP (JJ equal)
+        (PP (TO to)
+          (NP
+            (NP (SYM r))
+            (: -)
+            (NP
+              (NP (DT the) (NN right))
+              (PP (TO to)
+                (NP (NN survival))))))))
+    (. .)))
+

@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP Ms.) (NNP Sanders))
+    (VP
+      (VP (VBD was)
+        (VP (VBN hit)
+          (NP (JJ several) (NNS times))))
+      (CC and)
+      (VP (VBD was)
+        (VP (VBN pronounced)
+          (ADJP (JJ dead))
+          (PP (IN at)
+            (NP (DT the) (NN scene))))))
+    (. .)))
+

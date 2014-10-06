@@ -1,0 +1,20 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	company	_	NN	NN	_	3	nsubj	_	_
+3	said	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	restructuring	_	NN	NN	_	8	poss	_	_
+6	's	_	POS	POS	_	5	possessive	_	_
+7	initial	_	JJ	JJ	_	8	amod	_	_
+8	phase	_	NN	NN	_	10	nsubj	_	_
+9	will	_	MD	MD	_	10	aux	_	_
+10	feature	_	VB	VB	_	3	ccomp	_	_
+11	a	_	DT	DT	_	13	det	_	_
+12	gradual	_	JJ	JJ	_	13	amod	_	_
+13	reduction	_	NN	NN	_	10	dobj	_	_
+14	in	_	IN	IN	_	10	prep	_	_
+15	assets	_	NNS	NNS	_	14	pobj	_	_
+16	and	_	CC	CC	_	15	cc	_	_
+17	staff	_	NN	NN	_	18	nn	_	_
+18	positions	_	NNS	NNS	_	15	conj	_	_
+19	.	_	.	.	_	3	punct	_	_
+

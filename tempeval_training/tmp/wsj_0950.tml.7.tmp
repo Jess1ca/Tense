@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS earnings) (NN drop))
+      (PP (IN at)
+        (NP (NNP GM) (NNP Hughes) (NNP Electronics))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN sign))
+        (PP (IN of)
+          (NP (JJ tough) (NNS times))))
+      (PP (IN at)
+        (NP
+          (NP (PDT both) (DT the) (NN defense) (NNS operations))
+          (PP (IN of)
+            (NP
+              (NP (NNP Hughes) (NNP Aircraft) (NNP Co.))
+              (CC and)
+              (NP
+                (NP (NNP GM) (POS 's))
+                (NNP North) (NNP American))))))
+      (NP
+        (NP (JJ automotive) (NNS operations))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBP are)
+              (NP
+                (NP (DT a) (JJ primary) (NN customer))
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (NNP Delco) (NNP Electronics) (NNP Corp.) (NN side))
+                    (PP (IN of)
+                      (NP (DT the) (NNP GM) (NNP Hughes) (NN unit)))))))))))
+    (. .)))
+

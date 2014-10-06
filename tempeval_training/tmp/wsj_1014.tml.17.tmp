@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Jerry) (NNP Steinman))
+      (, ,)
+      (NP
+        (NP (NN publisher))
+        (PP (IN of)
+          (NP
+            (NP (NNP Beer) (NNPS Marketers) (NNPS Insights))
+            (, ,)
+            (NP (DT a) (NN trade) (NN newsletter)))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Anheuser) (POS 's))
+            (NN announcement))
+          (VP (VBZ means)
+            (S (`` ``)
+              (NP
+                (NP (NN everybody) (RB else))
+                (PP (IN in)
+                  (NP (DT the) (NN industry))))
+              (VP (VBZ is)
+                (VP (VBG going)
+                  (S
+                    (VP (TO to)
+                      (VP (VB have)
+                        (NP
+                          (NP (DT a) (JJ difficult) (NN time))
+                          (VP (VBG reaching)
+                            (NP (PRP$ their) (NN profit) (NNS objectives))))))))))))))
+    (. .) ('' '')))
+

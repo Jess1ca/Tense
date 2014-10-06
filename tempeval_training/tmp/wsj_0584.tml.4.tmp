@@ -1,0 +1,34 @@
+(ROOT
+  (S (CC But)
+    (PP (IN under)
+      (NP
+        (NP (JJ new) (NNS terms))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN agreement))
+            (, ,)
+            (VP (VBN announced)
+              (NP (NNP Friday)))))))
+    (, ,)
+    (NP (NNP LIN) (NNS holders))
+    (VP (MD would)
+      (VP (VB receive)
+        (NP
+          (NP (DT a) (JJ special) (NN cash) (NN dividend))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP ($ $) (CD 42))
+                (NP (DT a) (NN share)))
+              (, ,)
+              (VP (VBG representing)
+                (NP
+                  (NP (DT a) (NN payout))
+                  (PP (IN of)
+                    (NP
+                      (QP (RB about) ($ $) (CD 2.23) (CD billion)))))
+                (, ,)
+                (PP (RB shortly) (IN before)
+                  (NP (DT the) (VBN proposed) (NN merger)))))))))
+    (. .)))
+

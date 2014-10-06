@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (NNP May) (CD 22) (, ,) (CD 1995)))
+    (, ,)
+    (S
+      (NP (NNP Farkas))
+      (VP (VBD was)
+        (VP (VBN made)
+          (NP (DT a) (NN brigadier) (NN general)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ following) (NN year))
+      (NP (PRP he))
+      (VP (VBD was)
+        (VP (VBN appointed)
+          (NP (JJ military) (NN attache))
+          (PP (IN at)
+            (NP
+              (NP (DT the) (JJ Hungarian) (NN embassy))
+              (PP (IN in)
+                (NP (NNP Washington))))))))
+    (. .)))
+

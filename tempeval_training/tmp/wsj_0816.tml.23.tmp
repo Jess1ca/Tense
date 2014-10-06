@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ late) (NNP New) (NNP York) (NN trading)))
+    (NP (DT the) (NN dollar))
+    (VP (VBD was)
+      (PP (IN at)
+        (NP
+          (NP (CD 1.8400) (NNS marks))
+          (CC and)
+          (NP (CD 142.10) (NNS yen))))
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP
+            (NP (CD 1.8353) (NNS marks))
+            (CC and)
+            (NP (CD 141.52) (NNS yen)))
+          (NP (NNP Wednesday)))))
+    (. .)))
+

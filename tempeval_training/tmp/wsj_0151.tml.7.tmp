@@ -1,0 +1,23 @@
+(ROOT
+  (S (CC But)
+    (NP (NNP Mr.) (NNP Ackerman))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN buy-back))
+            (, ,)
+            (CC and)
+            (NP
+              (NP (DT the) (JJ above-market) (NN price))
+              (VP (VBN paid)))
+            (, ,))
+          (VP (VBP prove)
+            (SBAR (IN that)
+              (S
+                (NP (NNP Mr.) (NNP Edelman))
+                (VP (VBZ is)
+                  (VP (VBG running)
+                    (ADVP (VBN scared))))))))))
+    (. .)))
+

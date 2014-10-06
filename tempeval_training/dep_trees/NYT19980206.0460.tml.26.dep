@@ -1,0 +1,20 @@
+1	Some	_	DT	DT	_	7	nsubj	_	_
+2	of	_	IN	IN	_	1	prep	_	_
+3	the	_	DT	DT	_	6	det	_	_
+4	biggest	_	JJS	JJS	_	6	amod	_	_
+5	employment	_	NN	NN	_	6	nn	_	_
+6	gains	_	NNS	NNS	_	2	pobj	_	_
+7	came	_	VBD	VBD	_	0	root	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	construction	_	NN	NN	_	11	nn	_	_
+11	industry	_	NN	NN	_	8	pobj	_	_
+12	,	_	,	,	_	11	punct	_	_
+13	which	_	WDT	WDT	_	14	nsubj	_	_
+14	added	_	VBD	VBD	_	11	rcmod	_	_
+15	92,000	_	CD	CD	_	16	num	_	_
+16	jobs	_	NNS	NNS	_	14	dobj	_	_
+17	in	_	IN	IN	_	14	prep	_	_
+18	January	_	NNP	NNP	_	17	pobj	_	_
+19	.	_	.	.	_	7	punct	_	_
+

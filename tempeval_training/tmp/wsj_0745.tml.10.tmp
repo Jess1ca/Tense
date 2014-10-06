@@ -1,0 +1,28 @@
+(ROOT
+  (S (CC And)
+    (NP (JJ powerful) (JJ political) (NNS pressures))
+    (VP (MD may)
+      (VP (VB convince)
+        (NP (DT the) (JJ Conservative) (NN government))
+        (S
+          (VP (TO to)
+            (VP (VB keep)
+              (NP
+                (NP (PRP$ its) (JJ so-called) (JJ golden) (NN share))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBZ limits)
+                      (NP (DT any) (JJ individual) (NN holding))
+                      (PP (TO to)
+                        (NP (CD 15) (NN %)))
+                      (, ,)
+                      (SBAR (IN until)
+                        (S
+                          (NP (DT the) (NN restriction))
+                          (VP (VBZ expires)
+                            (PRT (RP on))
+                            (NP (NNP Dec.) (CD 31) (, ,) (CD 1990))))))))))))))
+    (. .)))
+

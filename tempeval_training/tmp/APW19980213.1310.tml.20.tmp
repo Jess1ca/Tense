@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN model))
+      (PP (IN for)
+        (NP (DT a) (NN republic)))
+      (, ,)
+      (VP (VBN adopted)
+        (PP (IN over)
+          (NP (JJ bitter) (NNS objections)))
+        (PP (IN from)
+          (S
+            (NP (DT those))
+            (VP (VBG advocating)
+              (NP
+                (NP (JJ direct) (NN election))
+                (PP (IN of)
+                  (NP (DT a) (NN president))))))))
+      (, ,))
+    (VP (VBZ is)
+      (PP (IN for)
+        (NP (JJ presidential) (NNS nominations)))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN made)
+              (PP (IN with)
+                (NP
+                  (NP (JJ public) (NN input))
+                  (CC and)
+                  (NP
+                    (NP (DT the) (VBG winning) (NN candidate))
+                    (VP (VBN decided)
+                      (PP (IN by)
+                        (NP
+                          (NP (DT a) (JJ two-thirds) (NN majority))
+                          (PP (IN of)
+                            (NP (NNP Parliament))))))))))))))
+    (. .)))
+

@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (JJ Last) (NNP April))
+    (, ,)
+    (NP
+      (NP (NNP Mr.) (NNP Drabinsky))
+      (CC and)
+      (NP
+        (NP (DT a) (NN group))
+        (PP (IN of)
+          (NP (JJ financial) (NNS backers)))))
+    (VP (VBD planned)
+      (S
+        (VP (TO to)
+          (VP (VB acquire)
+            (NP
+              (NP
+                (QP (IN up) (TO to) (CD 30.2))
+                (NN %))
+              (PP (IN of)
+                (NP (NNP Cineplex))))
+            (PP (IN for)
+              (NP
+                (NP ($ C$) (CD 17.50))
+                (NP (DT a) (NN share))))
+            (PP (IN from)
+              (NP (NNP Bronfman) (NNS associates)))))))
+    (. .)))
+

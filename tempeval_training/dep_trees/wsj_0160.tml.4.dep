@@ -1,0 +1,23 @@
+1	Savin	_	NNP	NNP	_	2	nsubj	_	_
+2	cited	_	VBD	VBD	_	0	root	_	_
+3	``	_	``	``	_	2	punct	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	general	_	JJ	JJ	_	6	amod	_	_
+6	softening	_	NN	NN	_	2	dobj	_	_
+7	in	_	IN	IN	_	2	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	demand	_	NN	NN	_	7	pobj	_	_
+10	for	_	IN	IN	_	9	prep	_	_
+11	office	_	NN	NN	_	12	nn	_	_
+12	products	_	NNS	NNS	_	10	pobj	_	_
+13	in	_	IN	IN	_	2	prep	_	_
+14	the	_	DT	DT	_	16	det	_	_
+15	market	_	NN	NN	_	16	nn	_	_
+16	segments	_	NNS	NNS	_	13	pobj	_	_
+17	in	_	IN	IN	_	20	prep	_	_
+18	which	_	WDT	WDT	_	17	pobj	_	_
+19	Savin	_	NNP	NNP	_	20	nsubj	_	_
+20	competes	_	VBZ	VBZ	_	16	rcmod	_	_
+21	.	_	.	.	_	2	punct	_	_
+22	''	_	''	''	_	2	punct	_	_
+

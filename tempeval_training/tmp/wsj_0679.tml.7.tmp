@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP (NNP Hewlett-Packard))
+    (VP (VBD acquired)
+      (NP (DT a) (JJ two-year) (NN option))
+      (S
+        (VP (TO to)
+          (VP (VB buy)
+            (NP
+              (NP (DT an) (JJ extra) (CD 10) (NN %))
+              (, ,)
+              (SBAR
+                (WHPP (IN of)
+                  (WHNP (WDT which)))
+                (S
+                  (NP (DT half))
+                  (VP (MD may)
+                    (VP (VB be)
+                      (VP (VBN sold)
+                        (ADVP (RB directly))
+                        (PP (TO to)
+                          (NP (NNP Hewlett-Packard)))
+                        (PP (IN by)
+                          (NP (NNP Octel)))))))))))))
+    (. .)))
+

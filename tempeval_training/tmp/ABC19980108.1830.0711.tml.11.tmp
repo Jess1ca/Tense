@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD sold)
+        (NP (DT the) (NN property))
+        (PP (TO to)
+          (NP (CD five) (NNS buyers))))
+      (CC and)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (MD 'd)
+              (VP (VB double)
+                (NP (PRP$ his) (NN money))))))))
+    (. .)))
+

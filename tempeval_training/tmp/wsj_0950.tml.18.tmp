@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ first) (CD nine) (NNS months)))
+    (, ,)
+    (NP
+      (NP (NNP GMAC) (POS 's))
+      (NNS earnings))
+    (VP (VBD fell)
+      (NP (CD 8) (NN %))
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 859.5) (CD million))))
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 930.2) (CD million)))))
+    (. .)))
+

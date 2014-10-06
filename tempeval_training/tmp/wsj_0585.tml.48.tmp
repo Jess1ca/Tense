@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT The) (VBN revised) (NNP LIN-BellSouth) (NN agreement))
+    (VP (VBZ boosts)
+      (NP
+        (NP (DT the) (NN dollar) (NN amount))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ special) (NN dividend))
+            (SBAR
+              (S
+                (NP (NNP LIN))
+                (VP (VBZ promises)
+                  (S
+                    (VP (TO to)
+                      (VP (VB pay)
+                        (NP (NNS shareholders))))))))))))
+    (. .)))
+

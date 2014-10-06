@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP Upjohn))
+    (ADVP (RB further))
+    (VP (VBD estimated)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP
+              (QP (RB about) (CD 50))
+              (NN %))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NNS employees))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBP leave)
+                      (PP (IN for)
+                        (NP (JJ early) (NN retirement)))))))))
+          (VP (MD may)
+            (VP (VB be)
+              (VP (VBN replaced)))))))
+    (. .)))
+

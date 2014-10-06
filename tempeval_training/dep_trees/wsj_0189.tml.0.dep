@@ -1,0 +1,26 @@
+1	Ralston	_	NNP	NNP	_	3	nn	_	_
+2	Purina	_	NNP	NNP	_	3	nn	_	_
+3	Co.	_	NNP	NNP	_	4	nsubj	_	_
+4	reported	_	VBD	VBD	_	0	root	_	_
+5	a	_	DT	DT	_	8	det	_	_
+6	47	_	CD	CD	_	7	number	_	_
+7	%	_	NN	NN	_	8	amod	_	_
+8	decline	_	NN	NN	_	4	dobj	_	_
+9	in	_	IN	IN	_	4	prep	_	_
+10	fourth-quarter	_	JJ	JJ	_	11	amod	_	_
+11	earnings	_	NNS	NNS	_	9	pobj	_	_
+12	,	_	,	,	_	4	punct	_	_
+13	reflecting	_	VBG	VBG	_	4	vmod	_	_
+14	restructuring	_	NN	NN	_	15	nn	_	_
+15	costs	_	NNS	NNS	_	13	dobj	_	_
+16	as	_	RB	RB	_	17	advmod	_	_
+17	well	_	RB	RB	_	15	cc	_	_
+18	as	_	IN	IN	_	17	mwe	_	_
+19	a	_	DT	DT	_	24	det	_	_
+20	more	_	RBR	RBR	_	21	advmod	_	_
+21	difficult	_	JJ	JJ	_	24	amod	_	_
+22	pet	_	JJ	JJ	_	24	amod	_	_
+23	food	_	NN	NN	_	24	nn	_	_
+24	market	_	NN	NN	_	15	conj	_	_
+25	.	_	.	.	_	4	punct	_	_
+

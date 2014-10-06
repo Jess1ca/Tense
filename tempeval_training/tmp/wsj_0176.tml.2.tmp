@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN move))
+          (VP (MD would)
+            (VP (VB result)
+              (PP (IN in)
+                (NP
+                  (NP (DT a) (JJ after-tax) (NN charge))
+                  (PP (IN of)
+                    (NP
+                      (QP (JJR less) (IN than) ($ $) (CD 4) (CD million))))))
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (VP (VBN spread)
+                      (PP (IN over)
+                        (NP (DT the) (JJ next) (CD three) (NNS quarters))))))))))))
+    (. .)))
+

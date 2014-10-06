@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (NN past)))
+    (, ,)
+    (NP (NNP Russia))
+    (VP (VBZ has)
+      (ADVP (RB often))
+      (VP (VBN claimed)
+        (SBAR (IN that)
+          (S
+            (NP (NNP Ukraine))
+            (VP (VBD was)
+              (VP (VBG undermining)
+                (NP (NNS efforts))
+                (PP (IN at)
+                  (NP
+                    (NP (JJR closer) (NN cooperation))
+                    (PP (IN within)
+                      (NP (DT the) (NNP CIS)))))))))))
+    (. .)))
+

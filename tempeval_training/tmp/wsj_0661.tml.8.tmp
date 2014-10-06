@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (RBR Earlier) (DT this) (NN year))
+    (, ,)
+    (NP (NNP DPC) (NNP Acquisition))
+    (VP (VBD made)
+      (NP (DT a)
+        (ADJP ($ $) (JJ 15-a-share))
+        (NN offer))
+      (PP (IN for)
+        (NP (NNP Dataproducts)))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (DT the) (NNP Dataproducts) (NN board))
+          (VP (VBD said)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (VBD rejected)
+                  (SBAR (IN because)
+                    (S
+                      (NP (DT the)
+                        (ADJP
+                          (QP ($ $) (CD 283.7) (CD million)))
+                        (NN offer))
+                      (VP (VBD was) (RB not)
+                        (VP
+                          (ADVP (RB fully))
+                          (VBN financed))))))))))))
+    (. .)))
+

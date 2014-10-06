@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ average) (JJ daily) (NN share) (NN turnover))
+      (PP (IN for)
+        (NP (NNP October))))
+    (VP (VBZ is)
+      (NP
+        (QP (RB almost) (CD 148) (CD million))
+        (NNS shares)))
+    (. .)))
+

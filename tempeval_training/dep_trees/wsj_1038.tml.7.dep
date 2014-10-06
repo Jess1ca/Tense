@@ -1,0 +1,26 @@
+1	Details	_	NNS	NNS	_	8	nsubjpass	_	_
+2	of	_	IN	IN	_	1	prep	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	restructuring	_	NN	NN	_	2	pobj	_	_
+5	wo	_	MD	MD	_	8	aux	_	_
+6	n't	_	RB	RB	_	8	neg	_	_
+7	be	_	VB	VB	_	8	auxpass	_	_
+8	made	_	VBN	VBN	_	24	ccomp	_	_
+9	final	_	JJ	JJ	_	8	acomp	_	_
+10	until	_	IN	IN	_	12	mark	_	_
+11	regulators	_	NNS	NNS	_	12	nsubj	_	_
+12	approve	_	VBP	VBP	_	8	advcl	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	regulations	_	NNS	NNS	_	15	nsubj	_	_
+15	mandated	_	VBN	VBN	_	12	xcomp	_	_
+16	by	_	IN	IN	_	15	prep	_	_
+17	the	_	DT	DT	_	20	det	_	_
+18	new	_	JJ	JJ	_	20	amod	_	_
+19	federal	_	JJ	JJ	_	20	amod	_	_
+20	act	_	NN	NN	_	16	pobj	_	_
+21	,	_	,	,	_	24	punct	_	_
+22	the	_	DT	DT	_	23	det	_	_
+23	company	_	NN	NN	_	24	nsubj	_	_
+24	said	_	VBD	VBD	_	0	root	_	_
+25	.	_	.	.	_	24	punct	_	_
+

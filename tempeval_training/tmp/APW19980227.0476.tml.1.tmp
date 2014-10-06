@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Libya))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD brought)
+            (NP (DT the) (NN case))
+            (PP (TO to)
+              (NP
+                (NP
+                  (NP (DT the) (NNP United) (NNPS Nations) (POS '))
+                  (JJS highest) (JJ judicial) (NN body))
+                (PP (IN in)
+                  (NP (PRP$ its) (NN dispute)))))
+            (PP (IN with)
+              (NP (DT the) (NNP United) (NNPS States)
+                (CC and)
+                (NNP Britain))))))
+      (, ,))
+    (VP
+      (VP (VBD hailed)
+        (NP (DT the) (NN ruling)))
+      (CC and)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (MD would)
+              (VP (VB press)
+                (ADVP (RB anew))
+                (PP (IN for)
+                  (NP
+                    (NP (DT a) (NN trial))
+                    (PP (IN in)
+                      (NP (DT a) (JJ third) (JJ neutral) (NN country)))))))))))
+    (. .)))
+

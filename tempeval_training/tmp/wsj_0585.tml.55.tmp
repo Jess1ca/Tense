@@ -1,0 +1,22 @@
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Starpointe) (NNPS Savings) (NNP Bank))
+      (VP (VBD rose)
+        (NP
+          (QP (CD 3) (TO to) (CD 20)))
+        (PP (IN after)
+          (NP (DT the) (NNP Federal) (NNP Deposit) (NNP Insurance) (NNP Corp.)))))
+    (VP (VBD approved))
+    (NP
+      (NP (NNP Dime) (NNPS Savings) (NNP Bank))
+      (PP (IN of)
+        (NP
+          (NP
+            (NP (NNP New) (NNP York) (POS 's))
+            (ADJP ($ $) (JJ 21-a-share))
+            (NN acquisition))
+          (PP (IN of)
+            (NP (NNP Starpointe))))))
+    (. .)))
+

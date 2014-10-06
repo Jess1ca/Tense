@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (JJ Major) (NN job))
+    (VP (VBZ cuts)
+      (PP (IN at)
+        (NP (NNP AT)
+          (CC and)
+          (NNP T))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT The) (JJ long) (NN distance) (NN giant))
+    (VP
+      (VP (VBG slashing)
+        (PRT (RP up))
+        (S
+          (VP (TO to)
+            (VP (VB eighteen)
+              (NP
+                (NP (CD thousand) (NNS jobs))
+                (, ,)
+                (NP (JJ freezing) (JJ executive) (NNS salaries)))))))
+      (CC and)
+      (VP (VBG shaking)
+        (PRT (RP up))
+        (NP (NN management))))
+    (. .)))
+

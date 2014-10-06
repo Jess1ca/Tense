@@ -1,0 +1,13 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT These) (NNS bugs))
+      (VP (VBP do) (RB n't)
+        (VP (VB affect)
+          (NP (PRP$ our) (NN schedule))
+          (ADVP (IN at) (DT all)))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+

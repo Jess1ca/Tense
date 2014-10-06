@@ -1,0 +1,8 @@
+(ROOT
+  (S (`` ``)
+    (NP (PRP We))
+    (VP (VBP do) (RB n't)
+      (VP (VB need)
+        (NP (DT the) (NN cash))))
+    (. .) ('' '')))
+

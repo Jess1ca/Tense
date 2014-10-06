@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS men))
+      (VP (VBD appeared)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN store))
+            (PP (IN at)
+              (NP
+                (NP (NNP 469) (NNP Vermont) (NNP St.))
+                (PP (IN in)
+                  (NP (NNP Brownsville)))))))
+        (PP (IN around)
+          (NP (CD 7:15) (RB p.m.)))
+        (, ,)
+        (SBAR (IN after)
+          (S
+            (NP
+              (NP (DT the) (NN victim))
+              (, ,)
+              (NP
+                (NP (NNP Linda) (NNP Sanders))
+                (, ,)
+                (NP (CD 35)))
+              (, ,))
+            (VP
+              (VP (VBD had)
+                (VP (VBN finished)
+                  (NP (PRP$ her) (NN cleaning))))
+              (CC and)
+              (VP (VBD was)
+                (VP (VBG waiting)
+                  (PP (IN for)
+                    (NP (PRP$ her) (NNS clothes)))
+                  (S
+                    (VP (TO to)
+                      (VP (VB dry)))))))))))
+    (, ,)
+    (NP (NNS detectives))
+    (VP (VBD said))
+    (. .)))
+

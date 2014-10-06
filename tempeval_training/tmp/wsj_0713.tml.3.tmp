@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NNP Dresdner) (NNP Bank))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (ADVP (RB also))
+            (VP (VB buy)
+              (S
+                (NP (DT all) (NNS shares))
+                (VP (VBN tendered)
+                  (PP (IN by)
+                    (NP
+                      (NP (NNS shareholders))
+                      (PP (IN on)
+                        (NP (DT the) (NNP Paris) (NNP Stock) (NNP Exchange)))))
+                  (PP (IN at)
+                    (NP
+                      (NP (DT the) (JJ same) (NN price))
+                      (PP (IN from)
+                        (NP (NN today)))))
+                  (PP (IN through)
+                    (NP (NNP Nov.) (CD 17))))))))))
+    (. .)))
+

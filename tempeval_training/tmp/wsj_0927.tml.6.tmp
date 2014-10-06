@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Schwarz))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (DT the) (NN competition))
+          (`` ``)
+          (VP (VBZ broadens)
+            (NP
+              (NP (DT the) (NN base))
+              (PP (IN of)
+                (NP
+                  (NP (NN opportunity))
+                  (PP (IN for)
+                    (NP (PRP us))))))))))
+    (. .) ('' '')))
+

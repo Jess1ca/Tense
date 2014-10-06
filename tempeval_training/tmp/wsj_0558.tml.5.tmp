@@ -1,0 +1,32 @@
+(ROOT
+  (S (CC But)
+    (SBAR (IN because)
+      (S
+        (NP (DT these) (NNS claims))
+        (VP (VBP are)
+          (ADJP (RBR more) (JJ difficult)
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB evaluate))
+                  (CC and)
+                  (VP (VB have)
+                    (VP (VBN been)
+                      (VP (VBG coming)
+                        (PRT (RP in))
+                        (ADVP (RBR more) (RB slowly))))))))))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBZ has)
+      (NP
+        (NP (DT no) (NN estimate))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN impact))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN earthquake))
+                (PP (IN on)
+                  (NP (JJ fourth-quarter) (NNS results)))))))))
+    (. .)))
+

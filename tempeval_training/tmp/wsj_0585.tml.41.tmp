@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT the) (NN week)))
+    (, ,)
+    (NP (DT the) (NN index))
+    (VP (VBD dropped)
+      (NP (CD 3.8) (NN %)))
+    (. .)))
+

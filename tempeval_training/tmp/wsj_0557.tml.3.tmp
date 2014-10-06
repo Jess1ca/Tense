@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Nestle) (NN acquisition))
+    (VP (VBZ includes)
+      (NP (DT a) (NN candy) (NN plant))
+      (PP (IN in)
+        (NP
+          (NP (NNP Franklin) (NNP Park))
+          (, ,)
+          (NP (NNP Ill.))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ employs)
+                (NP
+                  (QP (RB about) (CD 800))
+                  (NNS workers))))))))
+    (. .)))
+

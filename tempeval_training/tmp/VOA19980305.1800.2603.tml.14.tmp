@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (ADVP (RB Yet))
+    (, ,)
+    (NP (DT the) (NNP Taliban))
+    (VP (VBP have)
+      (VP (VBN forbidden)
+        (S
+          (NP (PRP them))
+          (VP (TO to)
+            (VP (VB work))))))
+    (. .)))
+

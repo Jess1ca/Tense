@@ -1,0 +1,10 @@
+1	They	_	PRP	PRP	_	3	nsubj	_	_
+2	also	_	RB	RB	_	3	advmod	_	_
+3	share	_	VBP	VBP	_	0	root	_	_
+4	Islam	_	NNP	NNP	_	3	dobj	_	_
+5	with	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	ethnic	_	JJ	JJ	_	8	amod	_	_
+8	Albanians	_	NNS	NNS	_	5	pobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+

@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Vaux))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (SBAR (IN if)
+            (S
+              (NP (DT no) (NN agreement))
+              (VP (VBZ is)
+                (VP (VBN reached)))))
+          (, ,)
+          (NP (JJ other) (NNS buyers))
+          (VP (MD will)
+            (VP (VB be)
+              (VP (VBN sought)
+                (PP (IN by)
+                  (NP (NN bid)
+                    (CC or)
+                    (NN auction)))))))))
+    (. .)))
+

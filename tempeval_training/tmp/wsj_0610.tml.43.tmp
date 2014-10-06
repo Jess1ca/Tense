@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (MD would) (RB n't)
+      (VP (VB elaborate) (, ,)
+        (S
+          (VP (VBG citing)
+            (NP (JJ competitive) (NNS reasons))))))
+    (. .)))
+

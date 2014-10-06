@@ -1,0 +1,27 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	loan	_	NN	NN	_	5	nsubjpass	_	_
+3	may	_	MD	MD	_	5	aux	_	_
+4	be	_	VB	VB	_	5	auxpass	_	_
+5	extended	_	VBN	VBN	_	0	root	_	_
+6	by	_	IN	IN	_	5	prep	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	McAlpine	_	NNP	NNP	_	9	nn	_	_
+9	group	_	NN	NN	_	6	pobj	_	_
+10	for	_	IN	IN	_	9	prep	_	_
+11	an	_	DT	DT	_	13	det	_	_
+12	additional	_	JJ	JJ	_	13	amod	_	_
+13	year	_	NN	NN	_	10	pobj	_	_
+14	with	_	IN	IN	_	5	prep	_	_
+15	an	_	DT	DT	_	16	det	_	_
+16	increase	_	NN	NN	_	14	pobj	_	_
+17	in	_	IN	IN	_	16	prep	_	_
+18	the	_	DT	DT	_	20	det	_	_
+19	conversion	_	NN	NN	_	20	nn	_	_
+20	price	_	NN	NN	_	17	pobj	_	_
+21	to	_	TO	TO	_	5	prep	_	_
+22	$	_	$	$	_	21	pobj	_	_
+23	2.50	_	CD	CD	_	22	num	_	_
+24	a	_	DT	DT	_	25	det	_	_
+25	share	_	NN	NN	_	22	dep	_	_
+26	.	_	.	.	_	5	punct	_	_
+

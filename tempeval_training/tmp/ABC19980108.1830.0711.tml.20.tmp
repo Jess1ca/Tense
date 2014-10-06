@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (NN Nobody))
+    (VP (VBP believe)
+      (NP (DT this))
+      (ADVP (DT any) (RBR more)))
+    (. .)))
+

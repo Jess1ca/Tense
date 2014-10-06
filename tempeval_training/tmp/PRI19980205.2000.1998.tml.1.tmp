@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (JJS Latest) (NNS figures))
+    (VP (VBP show)
+      (NP (DT a) (JJ sharp) (NN rise))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP
+            (QP (RB nearly) (CD five) (CD million))
+            (NNS Germans))
+          (PP (RB out) (IN of)
+            (NP (NN work))))))
+    (. .)))
+

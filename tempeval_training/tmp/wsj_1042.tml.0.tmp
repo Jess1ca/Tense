@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNP AVON) (NNP RENT-A-CAR) (NN amp) (NNP TRUCK) (NNP Corp.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD declared)
+            (NP
+              (NP (DT a) (NN dividend))
+              (PP (IN of)
+                (NP (CD one) (NN warrant))))
+            (PP (IN for)
+              (NP
+                (NP (DT each) (CD three) (NNS shares))
+                (PP (IN of)
+                  (NP (JJ common) (NN stock)))))))))
+    (. .)))
+

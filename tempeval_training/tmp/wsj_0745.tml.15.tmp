@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (NNP Ford))
+    (VP (VBZ is)
+      (ADJP (JJ willing)
+        (S
+          (VP (TO to)
+            (VP (VB bid)
+              (PP (IN for)
+                (NP
+                  (NP (CD 100) (NN %))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNP Jaguar) (POS 's))
+                      (NNS shares)))))
+              (SBAR (IN if)
+                (S
+                  (NP (CC both)
+                    (NP (DT the) (NN government))
+                    (CC and)
+                    (NP (NNP Jaguar) (NNS shareholders)))
+                  (VP (VBP agree)
+                    (S
+                      (VP (TO to)
+                        (VP (VB relax)
+                          (NP (DT the) (JJ anti-takeover) (NN barrier))
+                          (ADVP (RB prematurely)))))))))))))
+    (. .)))
+

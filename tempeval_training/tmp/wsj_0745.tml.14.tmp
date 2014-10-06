@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (DT The)
+      (ADJP (CD 15) (NN %))
+      (NN restriction))
+    (VP (VBZ covers)
+      (NP
+        (NP (DT any) (JJ would-be) (NN suitor))
+        (, ,)
+        (UCP (JJ British)
+          (CC or)
+          (JJ foreign))))
+    (. .)))
+

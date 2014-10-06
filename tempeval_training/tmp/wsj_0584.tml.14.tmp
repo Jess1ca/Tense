@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ previous) (NNP BellSouth) (NN pact))
+    (VP (VBD was)
+      (VP (VBN valued)
+        (PP (IN at)
+          (NP
+            (NP
+              (QP (RB about) ($ $) (CD 98) (TO to) ($ $) (CD 110)))
+            (NP (DT a) (NN share))))))
+    (. .)))
+

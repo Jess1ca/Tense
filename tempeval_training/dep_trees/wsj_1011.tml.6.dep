@@ -1,0 +1,18 @@
+1	Passenger	_	NN	NN	_	2	nn	_	_
+2	traffic	_	NN	NN	_	3	nsubj	_	_
+3	jumped	_	VBD	VBD	_	0	root	_	_
+4	14	_	CD	CD	_	5	num	_	_
+5	%	_	NN	NN	_	3	dobj	_	_
+6	in	_	IN	IN	_	3	prep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	quarter	_	NN	NN	_	6	pobj	_	_
+9	,	_	,	,	_	3	punct	_	_
+10	while	_	IN	IN	_	14	mark	_	_
+11	profit	_	NN	NN	_	14	nsubj	_	_
+12	per	_	IN	IN	_	11	prep	_	_
+13	passenger	_	NN	NN	_	12	pobj	_	_
+14	grew	_	VBD	VBD	_	3	advcl	_	_
+15	2	_	CD	CD	_	16	num	_	_
+16	%	_	NN	NN	_	14	dobj	_	_
+17	.	_	.	.	_	3	punct	_	_
+

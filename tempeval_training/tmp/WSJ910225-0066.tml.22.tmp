@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (NNP Gen.) (NNP Schwarzkopf))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT some) (JJ early) (NNS reports))
+            (SBAR (IN that)
+              (S
+                (NP (NN chemical) (NNS weapons))
+                (VP (VBD were)
+                  (VP (VBN used)
+                    (PP (IN against)
+                      (NP (JJ allied) (NNS troops))))))))
+          (VP (VBD turned)
+            (PRT (RP out))
+            (S
+              (VP (TO to)
+                (VP (VB be) (`` ``)
+                  (ADJP (JJ bogus)))))))))
+    (. .) ('' '')))
+

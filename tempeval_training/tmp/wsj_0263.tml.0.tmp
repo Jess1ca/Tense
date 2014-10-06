@@ -1,0 +1,7 @@
+(ROOT
+  (S
+    (NP (NNP UNIFIRST) (NNP Corp.))
+    (VP (VBD declared)
+      (NP (DT a) (JJ 2-for-1) (NN stock) (NN split)))
+    (. .)))
+

@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (JJ Year-earlier) (NNS results))
+    (VP (VBD included)
+      (NP
+        (NP (DT an) (JJ extraordinary) (NN gain))
+        (PP (IN of)
+          (NP
+            (QP ($ $) (CD 1.6) (CD million)))))
+      (PP (IN from)
+        (NP
+          (NP (DT a) (NN buy-back))
+          (PP (IN of)
+            (NP (JJ convertible) (VBN subordinated) (NNS debentures))))))
+    (. .)))
+

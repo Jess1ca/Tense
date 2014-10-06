@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ has) (RB n't)
+      (VP (VBN made)
+        (NP (NN merger) (NNS overtures))
+        (PP (TO to)
+          (NP (DT the) (NN board)))))
+    (. .)))
+

@@ -1,0 +1,23 @@
+1	With	_	IN	IN	_	8	prep	_	_
+2	American	_	JJ	JJ	_	5	amod	_	_
+3	astronaut	_	NN	NN	_	5	nn	_	_
+4	Jon	_	NNP	NNP	_	5	nn	_	_
+5	McBride	_	NNP	NNP	_	1	pobj	_	_
+6	,	_	,	,	_	8	punct	_	_
+7	Farkas	_	NNP	NNP	_	8	nsubj	_	_
+8	set	_	VBD	VBD	_	0	root	_	_
+9	up	_	RP	RP	_	8	prt	_	_
+10	an	_	DT	DT	_	13	det	_	_
+11	American-Hungarian	_	JJ	JJ	_	13	amod	_	_
+12	joint	_	JJ	JJ	_	13	amod	_	_
+13	venture	_	NN	NN	_	8	dobj	_	_
+14	called	_	VBN	VBN	_	13	vmod	_	_
+15	Orion	_	NNP	NNP	_	14	dobj	_	_
+16	1980	_	CD	CD	_	15	num	_	_
+17	,	_	,	,	_	8	punct	_	_
+18	manufacturing	_	VBG	VBG	_	8	vmod	_	_
+19	space-travel	_	JJ	JJ	_	21	amod	_	_
+20	related	_	JJ	JJ	_	21	amod	_	_
+21	technology	_	NN	NN	_	18	dobj	_	_
+22	.	_	.	.	_	8	punct	_	_
+

@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT A) (NN spokesman))
+        (PP (IN for)
+          (NP (DT the)
+            (ADJP (NNP Stamford) (, ,) (JJ Conn.based))
+            (NN company))))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (NNS operations))
+            (VP (VBD had)
+              (NP
+                (NP (DT a) (NN loss))
+                (PP (IN of)
+                  (NP
+                    (QP ($ $) (CD 5.5) (CD million)))))
+              (PP (IN for)
+                (NP (DT the) (NN quarter))))))))
+    (: ;)
+    (S
+      (PP (IN in)
+        (NP (NN addition)))
+      (, ,)
+      (NP (DT the) (NN loss))
+      (VP (VBD was)
+        (VP (VBN magnified)
+          (PP (IN by)
+            (NP
+              (NP (VBG nonrecurring) (NNS charges))
+              (VP (VBG totaling)
+                (NP
+                  (NP
+                    (QP ($ $) (CD 23.5) (CD million)
+                      (CC and)
+                      ($ $) (CD 8.2) (CD million)))
+                  (PP (IN in)
+                    (NP (NN asset-valuation) (NNS adjustments))))
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP he))
+                    (VP (VBD described)
+                      (PP (IN as) (`` ``)
+                        (ADJP (JJ unusual))))))))))))
+    (. .) ('' '')))
+

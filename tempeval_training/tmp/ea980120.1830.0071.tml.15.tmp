@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (NN Today))
+    (, ,)
+    (NP
+      (NP (NNS hundreds))
+      (PP (IN of)
+        (NP
+          (NP (NNS people))
+          (PP (IN from)
+            (NP (DT the) (NNP US))))))
+    (VP (VBD began)
+      (S
+        (VP (TO to)
+          (VP (VB arrive))))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP (DT some) (JJ Cuban) (NNS Americans))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD left)
+                (ADVP (RB here))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (NNP Castro))
+                    (VP
+                      (VP (VBD came)
+                        (PP (TO to)
+                          (NP (NN power))))
+                      (CC and)
+                      (VP (VBP are)
+                        (VP (VBG returning)
+                          (PP (TO to)
+                            (NP
+                              (NP (NNP Havana))
+                              (PP (IN for)
+                                (NP (DT the) (JJ first) (NN time))))))))))))))))
+    (. .)))
+

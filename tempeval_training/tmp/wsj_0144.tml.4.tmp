@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT The) (NN insurer) (POS 's))
+        (NNS earnings))
+      (PP (IN from)
+        (NP (JJ commercial) (JJ property/casualty) (NNS lines))))
+    (VP (VBD fell)
+      (NP (CD 59) (NN %))
+      (PP (IN in)
+        (NP (DT the) (JJS latest) (NN quarter)))
+      (, ,)
+      (SBAR (IN while)
+        (S
+          (NP (PRP it))
+          (VP (VBD lost)
+            (NP
+              (QP ($ $) (CD 7.2) (CD million)))
+            (PP (IN in)
+              (NP (PRP$ its) (JJ personal) (JJ property/casualty) (NN business)))
+            (, ,)
+            (PP (VBN compared)
+              (PP (IN with)
+                (NP
+                  (NP (NNS earnings))
+                  (PP (IN of)
+                    (NP
+                      (QP ($ $) (CD 6.1) (CD million)))))
+                (NP (DT a) (NN year) (IN ago))))))))
+    (. .)))
+

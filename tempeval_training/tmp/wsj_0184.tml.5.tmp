@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNP Chairman) (NNP Theodore) (NNP Cooper))
+    (VP (VBD called)
+      (NP
+        (NP (DT the) (NN program) (NN part))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN company) (POS 's))
+            (JJ two-year) (NN strategy))))
+      (S
+        (VP (TO to)
+          (VP (VB implement)
+            (NP
+              (NP (NN budget) (NNS constraints))
+              (CC and)
+              (NP (`` ``) (DT an) (JJ effective) (NN headcount-control) (NN program)))))))
+    (. .) ('' '')))
+

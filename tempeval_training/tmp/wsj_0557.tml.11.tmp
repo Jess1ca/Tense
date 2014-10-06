@@ -1,0 +1,18 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP
+        (NP (NNP RJR) (NNP Nabisco))
+        (CC and)
+        (NP (NNP Planters) (NNPS LifeSavers)))
+      (VP (MD will)
+        (VP (VB concentrate)
+          (NP (JJR more))
+          (PP (IN on)
+            (NP (PRP$ our) (JJ own) (NN core) (NNS businesses))))))
+    (, ,) ('' '')
+    (NP (NNP Mr.) (NNP Gerstner))
+    (VP (VBD said)
+      (NP (NNP Friday)))
+    (. .)))
+

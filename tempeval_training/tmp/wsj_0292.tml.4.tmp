@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (S
+      (NP (DT Those) (NNS gains))
+      (VP (VBD came)
+        (PP (IN from)
+          (NP (JJR higher) (NNS prices)))
+        (, ,)
+        (ADVP (RB particularly))
+        (PP
+          (PP (IN for)
+            (NP (JJ disposable) (NNS diapers)
+              (CC and)
+              (NN tissue) (NNS products)))
+          (, ,)
+          (CC and)
+          (PP (IN from)
+            (NP (JJ increased) (NNS sales)))
+          (, ,) (RB primarily)
+          (PP (IN for)
+            (NP (JJ feminine-care) (NNS products))))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said))
+    (. .)))
+

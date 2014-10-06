@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Hong) (NNP Kong)))
+    (, ,)
+    (S
+      (VP (VBZ is)
+        (ADVP (RB always))))
+    (VP (VBZ belongs)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN seller) (POS 's))
+          (NN market))))
+    (. .)))
+

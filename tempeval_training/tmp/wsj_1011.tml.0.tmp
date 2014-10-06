@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNP Delta) (NNP Air) (NNPS Lines) (NNS earnings))
+    (VP (VBD soared)
+      (NP (CD 33) (NN %))
+      (PP (TO to)
+        (NP
+          (NP (DT a) (NN record))
+          (PP (IN in)
+            (NP (DT the) (JJ fiscal) (JJ first) (NN quarter)))))
+      (, ,)
+      (S
+        (VP (VBG bucking)
+          (NP
+            (NP (DT the) (NN industry) (NN trend))
+            (PP (IN toward)
+              (NP (VBG declining) (NNS profits)))))))
+    (. .)))
+

@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP Dow) (NNP Jones) (NNS shares))
+    (ADVP (RB also))
+    (VP (VBD fell)
+      (NP (CD 50) (NNS cents))
+      (S
+        (VP (TO to)
+          (VP (VB close)
+            (PP (IN at)
+              (NP
+                (NP ($ $) (CD 36.125))
+                (PP (IN in)
+                  (NP (NNP Big) (NNP Board) (JJ composite) (NN trading)))))))))
+    (. .)))
+

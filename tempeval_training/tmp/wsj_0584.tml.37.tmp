@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP William) (NNP O.) (NNP McCoy))
+      (, ,)
+      (NP
+        (NP (NN president))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN company) (POS 's))
+            (NNP BellSouth) (NNPS Enterprises) (NNP Inc.) (NN unit))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (VBN revised) (NN agreement))
+            (PP (IN with)
+              (NP (NNP LIN))))
+          (VP (MD would)
+            (VP
+              (VP (VB dilute)
+                (NP (NNP BellSouth) (NNS earnings))
+                (PP (IN by)
+                  (NP
+                    (NP
+                      (QP (RB about) (CD 9))
+                      (NN %))
+                    (PP (IN in)
+                      (NP (DT both) (CD 1990)
+                        (CC and)
+                        (CD 1991))))))
+              (CC and)
+              (VP
+                (PP (IN by)
+                  (ADJP (RB significantly) (JJR less)))
+                (ADVP (RB thereafter))))))))
+    (. .)))
+

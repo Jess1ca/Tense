@@ -1,0 +1,24 @@
+1	U.S.	_	NNP	NNP	_	2	nn	_	_
+2	allies	_	NNS	NNS	_	8	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	other	_	JJ	JJ	_	6	amod	_	_
+5	U.N.	_	NNP	NNP	_	6	nn	_	_
+6	members	_	NNS	NNS	_	2	conj	_	_
+7	have	_	VBP	VBP	_	8	aux	_	_
+8	objected	_	VBD	VBD	_	0	root	_	_
+9	that	_	IN	IN	_	18	mark	_	_
+10	the	_	DT	DT	_	14	det	_	_
+11	Security	_	NNP	NNP	_	14	nn	_	_
+12	Council	_	NNP	NNP	_	14	nn	_	_
+13	embargo	_	NN	NN	_	14	nn	_	_
+14	resolution	_	NN	NN	_	18	nsubj	_	_
+15	did	_	VBD	VBD	_	18	aux	_	_
+16	not	_	RB	RB	_	18	neg	_	_
+17	specifically	_	RB	RB	_	18	advmod	_	_
+18	authorize	_	VB	VB	_	8	ccomp	_	_
+19	such	_	PDT	PDT	_	22	predet	_	_
+20	a	_	DT	DT	_	22	det	_	_
+21	naval	_	JJ	JJ	_	22	amod	_	_
+22	operation	_	NN	NN	_	18	dobj	_	_
+23	.	_	.	.	_	8	punct	_	_
+

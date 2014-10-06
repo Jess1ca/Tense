@@ -1,0 +1,41 @@
+(ROOT
+  (S (CC But)
+    (NP (PRP it))
+    (VP (VBZ has)
+      (VP (VBN offended)
+        (NP (DT some))
+        (, ,)
+        (ADVP (RB especially))
+        (PP (IN in)
+          (NP
+            (NP (JJ Arab) (NNS countries))
+            (, ,)
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (ADVP (RB now))
+                (VP (VBP believe)
+                  (SBAR (IN that)
+                    (S
+                      (NP
+                        (NP (NNP Mr.) (NNP Bush) (POS 's))
+                        (JJ real) (NNS objectives))
+                      (VP (VBP are)
+                        (NP
+                          (NP
+                            (NP (DT the) (NN demise))
+                            (PP (IN of)
+                              (NP (NNP Saddam) (NNP Hussein))))
+                          (CC and)
+                          (NP
+                            (NP (DT the) (NN destruction))
+                            (PP (IN of)
+                              (NP (DT the) (JJ Iraqi) (NN military))))
+                          (, ,)
+                          (CONJP (RB not) (RB just))
+                          (NP
+                            (NP (DT the) (NN liberation))
+                            (PP (IN of)
+                              (NP (NNP Kuwait)))))))))))))))
+    (. .)))
+

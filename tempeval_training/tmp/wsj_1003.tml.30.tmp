@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (NNP National) (NNP Intergroup))
+    (VP (VBZ is)
+      (VP (VBG negotiating)
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN sale))
+            (PP (IN of)
+              (NP
+                (NP (PRP$ its)
+                  (ADJP (CD 50) (NN %))
+                  (NN interest))
+                (PP (IN in)
+                  (NP (NNP National) (NNP Steel)))))))
+        (S
+          (VP (TO to)
+            (VP (VB concentrate)
+              (ADVP (RBR more) (RB fully))
+              (PP (IN on)
+                (NP (NN drug) (NN distribution) (NNS operations))))))))
+    (. .)))
+

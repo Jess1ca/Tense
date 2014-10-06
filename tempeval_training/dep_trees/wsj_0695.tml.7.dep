@@ -1,0 +1,11 @@
+1	Rally	_	NNP	NNP	_	2	nn	_	_
+2	officials	_	NNS	NNS	_	3	nsubj	_	_
+3	were	_	VBD	VBD	_	0	root	_	_
+4	n't	_	RB	RB	_	3	neg	_	_
+5	available	_	JJ	JJ	_	3	acomp	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	comment	_	VB	VB	_	5	xcomp	_	_
+8	late	_	JJ	JJ	_	9	amod	_	_
+9	yesterday	_	NN	NN	_	7	tmod	_	_
+10	.	_	.	.	_	3	punct	_	_
+

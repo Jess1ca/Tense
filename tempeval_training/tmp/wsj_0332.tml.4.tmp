@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT The) (NN takeover))
+    (VP (MD would)
+      (VP (VB be)
+        (VP (VBN followed)
+          (PP (IN by)
+            (NP
+              (NP (DT a) (NN restructuring))
+              (PP (IN of)
+                (NP
+                  (NP (NNP Orkem) (POS 's))
+                  (NNP U.K.) (NN unit)))
+              (, ,)
+              (PP (VBG including)
+                (NP
+                  (NP (DT the) (NN addition))
+                  (PP (IN of)
+                    (NP
+                      (NP (JJ related) (NNP Orkem) (NNS businesses))
+                      (CC and)
+                      (NP (RB possibly) (JJ further) (NNS acquisitions)))))))))))
+    (. .)))
+

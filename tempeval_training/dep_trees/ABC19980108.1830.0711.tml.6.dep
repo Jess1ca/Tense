@@ -1,0 +1,11 @@
+1	And	_	CC	CC	_	9	cc	_	_
+2	in	_	IN	IN	_	9	prep	_	_
+3	Hong	_	NNP	NNP	_	4	nn	_	_
+4	Kong	_	NNP	NNP	_	2	pobj	_	_
+5	,	_	,	,	_	9	punct	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	three	_	CD	CD	_	8	num	_	_
+8	percent	_	NN	NN	_	9	nsubj	_	_
+9	drop	_	VBP	VBP	_	0	root	_	_
+10	.	_	.	.	_	9	punct	_	_
+

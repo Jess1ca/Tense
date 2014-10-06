@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (NNS holders))
+          (VP (VBP avoid)
+            (S
+              (VP (VBG tendering)
+                (PP (TO to)
+                  (NP (NNP Paribas))))))))
+      (, ,)
+      (NP (PRP he))
+      (VP (VBD added)))
+    (, ,)
+    (NP (PRP they))
+    (VP (MD can)
+      (VP (VB expect)
+        (NP (JJ strong) (NNS dividends))
+        (ADVP (RB again))
+        (NP (JJ next) (NN year))))
+    (. .)))
+

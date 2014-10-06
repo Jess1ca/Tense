@@ -1,0 +1,23 @@
+1	Kalamazoo	_	NNP	NNP	_	3	amod	_	_
+2	,	_	,	,	_	3	punct	_	_
+3	Mich.-based	_	JJ	JJ	_	4	amod	_	_
+4	First	_	NNP	NNP	_	7	nsubj	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	America	_	NNP	NNP	_	5	pobj	_	_
+7	said	_	VBD	VBD	_	0	root	_	_
+8	it	_	PRP	PRP	_	10	nsubj	_	_
+9	will	_	MD	MD	_	10	aux	_	_
+10	eliminate	_	VB	VB	_	7	ccomp	_	_
+11	the	_	DT	DT	_	14	det	_	_
+12	13	_	CD	CD	_	14	num	_	_
+13	management	_	NN	NN	_	14	nn	_	_
+14	positions	_	NNS	NNS	_	10	dobj	_	_
+15	of	_	IN	IN	_	14	prep	_	_
+16	the	_	DT	DT	_	21	det	_	_
+17	former	_	JJ	JJ	_	21	amod	_	_
+18	Midwest	_	NNP	NNP	_	21	nn	_	_
+19	Financial	_	NNP	NNP	_	21	nn	_	_
+20	parent	_	NN	NN	_	21	nn	_	_
+21	company	_	NN	NN	_	15	pobj	_	_
+22	.	_	.	.	_	7	punct	_	_
+

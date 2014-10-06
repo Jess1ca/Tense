@@ -1,0 +1,10 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	thrift	_	NN	NN	_	3	nsubj	_	_
+3	has	_	VBZ	VBZ	_	0	root	_	_
+4	assets	_	NNS	NNS	_	3	dobj	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	$	_	$	$	_	5	pobj	_	_
+7	3.2	_	CD	CD	_	8	number	_	_
+8	billion	_	CD	CD	_	6	num	_	_
+9	.	_	.	.	_	3	punct	_	_
+

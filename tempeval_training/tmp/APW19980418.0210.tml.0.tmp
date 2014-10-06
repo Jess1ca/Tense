@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP BUDAPEST) (, ,) (NNP Hungary) (-LRB- -LRB-) (NNP AP) (-RRB- -RRB-))
+      (VP (VBZ _)
+        (NP
+          (NP (NNP Tired))
+          (PP (IN of)
+            (S
+              (VP (VBG being)
+                (VP (VBN sidelined))))))))
+    (, ,)
+    (S
+      (NP (JJ Hungarian) (NN astronaut) (NNP Bertalan) (NNP Farkas))
+      (VP (VBZ is)
+        (VP (VBG leaving)
+          (PP (IN for)
+            (NP (DT the) (NNP United) (NNPS States)))
+          (S
+            (VP (TO to)
+              (VP (VB start)
+                (NP (DT a) (JJ new) (NN career))))))))
+    (, ,)
+    (S
+      (NP (PRP he))
+      (VP (VBD said)
+        (NP (NNP Saturday))))
+    (. .)))
+

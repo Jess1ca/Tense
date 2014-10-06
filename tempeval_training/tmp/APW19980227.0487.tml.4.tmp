@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP Newspaper) (NNS reports))
+    (VP (VBP have)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (NNP Amir))
+            (VP
+              (VP (VBD was)
+                (VP (VBN infatuated)
+                  (PP (IN with)
+                    (NP (NNP Har-Shefi)))))
+              (CC and)
+              (VP (MD may)
+                (VP (VB have)
+                  (VP (VBN been)
+                    (VP (VBG trying)
+                      (S
+                        (VP (TO to)
+                          (VP (VB impress)
+                            (NP (PRP her))
+                            (PP (IN by)
+                              (S
+                                (VP (VBG killing)
+                                  (NP (DT the) (JJ prime) (NN minister)))))))))))))))))
+    (. .)))
+

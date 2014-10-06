@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP (NNP Courtaulds))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNS moves))
+          (VP (VBP are)
+            (ADJP (JJ logical)
+              (SBAR (IN because)
+                (S
+                  (NP (PRP they))
+                  (VP (MD will)
+                    (VP (VB allow)
+                      (S
+                        (NP (PDT both) (DT the) (NNS chemicals)
+                          (CC and)
+                          (NN textile) (NNS businesses))
+                        (VP (TO to)
+                          (VP (VB focus)
+                            (ADVP (RBR more) (RB closely))
+                            (PP (IN on)
+                              (NP (JJ core) (NNS activities)))))))))))))))
+    (. .)))
+

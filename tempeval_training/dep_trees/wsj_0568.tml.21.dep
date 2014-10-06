@@ -1,0 +1,23 @@
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	said	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	strength	_	NN	NN	_	9	nsubj	_	_
+5	of	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	world-wide	_	JJ	JJ	_	8	amod	_	_
+8	economy	_	NN	NN	_	5	pobj	_	_
+9	is	_	VBZ	VBZ	_	2	ccomp	_	_
+10	suspect	_	JJ	JJ	_	9	acomp	_	_
+11	,	_	,	,	_	2	punct	_	_
+12	and	_	CC	CC	_	2	cc	_	_
+13	does	_	VBZ	VBZ	_	15	aux	_	_
+14	n't	_	RB	RB	_	15	neg	_	_
+15	see	_	VB	VB	_	2	conj	_	_
+16	much	_	JJ	JJ	_	18	amod	_	_
+17	revenue	_	NN	NN	_	18	nn	_	_
+18	growth	_	NN	NN	_	15	dobj	_	_
+19	in	_	IN	IN	_	18	prep	_	_
+20	the	_	DT	DT	_	21	det	_	_
+21	cards	_	NNS	NNS	_	19	pobj	_	_
+22	.	_	.	.	_	2	punct	_	_
+

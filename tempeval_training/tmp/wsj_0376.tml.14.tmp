@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJR sharper) (NN definition))
+      (CC and)
+      (NP
+        (NP (DT the) (NN autonomy))
+        (SBAR
+          (WHNP (WDT which))
+          (S (DT each)
+            (VP (MD will)
+              (ADVP (RB thereby))
+              (VP (VB gain)))))))
+    (VP (MD will)
+      (VP (VB benefit)
+        (NP (NNS shareholders) (, ,) (NNS customers)
+          (CC and)
+          (NNS employees))))
+    (. .) ('' '')))
+

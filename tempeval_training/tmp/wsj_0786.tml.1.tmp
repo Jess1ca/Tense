@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (DT The) (NN price))
+    (ADVP (RB also))
+    (VP (VBZ includes)
+      (NP
+        (NP (NN assumption))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP (RB about) ($ $) (CD 1.4) (CD billion)))
+            (PP (IN in)
+              (NP (NN debt)))))))
+    (. .)))
+

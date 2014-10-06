@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP Police))
+    (VP (VBD gave)
+      (NP (DT no) (NNS details))
+      (PP (IN about)
+        (NP (DT the) (NNS negotiations)))
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NNS kidnappers))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NN return))
+              (PP (IN of)
+                (NP (NNP Hernandez))))))))
+    (. .)))
+

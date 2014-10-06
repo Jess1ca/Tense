@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP U.S.) (NNP Trust))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ 136-year-old) (NN institution))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ is)
+              (NP
+                (NP (CD one))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (JJS earliest) (NN high-net) (NN worth) (NNS banks))
+                    (PP (IN in)
+                      (NP (DT the) (NNP U.S.))))))))))
+      (, ,))
+    (VP (VBZ has)
+      (VP (VBN faced)
+        (NP
+          (NP (VBG intensifying) (NN competition))
+          (PP (IN from)
+            (NP (JJ other) (NNS firms)))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBP have)
+                (VP
+                  (VP (VBN established))
+                  (, ,)
+                  (CC and)
+                  (VP
+                    (ADVP (RB heavily))
+                    (VBN promoted))
+                  (, ,)
+                  (NP
+                    (NP (JJ private-banking) (NNS businesses))
+                    (PP (IN of)
+                      (NP (PRP$ their) (JJ own)))))))))))
+    (. .)))
+

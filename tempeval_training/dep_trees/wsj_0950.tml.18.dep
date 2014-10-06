@@ -1,0 +1,22 @@
+1	In	_	IN	IN	_	10	prep	_	_
+2	the	_	DT	DT	_	5	det	_	_
+3	first	_	JJ	JJ	_	5	amod	_	_
+4	nine	_	CD	CD	_	5	num	_	_
+5	months	_	NNS	NNS	_	1	pobj	_	_
+6	,	_	,	,	_	10	punct	_	_
+7	GMAC	_	NNP	NNP	_	9	poss	_	_
+8	's	_	POS	POS	_	7	possessive	_	_
+9	earnings	_	NNS	NNS	_	10	nsubj	_	_
+10	fell	_	VBD	VBD	_	0	root	_	_
+11	8	_	CD	CD	_	12	num	_	_
+12	%	_	NN	NN	_	10	dobj	_	_
+13	to	_	TO	TO	_	10	prep	_	_
+14	$	_	$	$	_	13	pobj	_	_
+15	859.5	_	CD	CD	_	16	number	_	_
+16	million	_	CD	CD	_	14	num	_	_
+17	from	_	IN	IN	_	10	prep	_	_
+18	$	_	$	$	_	17	pobj	_	_
+19	930.2	_	CD	CD	_	20	number	_	_
+20	million	_	CD	CD	_	18	num	_	_
+21	.	_	.	.	_	10	punct	_	_
+

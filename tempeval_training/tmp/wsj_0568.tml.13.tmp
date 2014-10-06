@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP (NNP Unisys))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD reduced)
+            (NP (NN computer) (NNS inventories))
+            (NP (DT a) (JJ further)
+              (QP ($ $) (CD 100) (CD million)))
+            (PP (IN during)
+              (NP (DT the) (NN quarter)))
+            (, ,)
+            (S
+              (VP (VBG leaving)
+                (NP (PRP it))
+                (PP (IN within)
+                  (NP
+                    (NP
+                      (QP ($ $) (CD 100) (CD million)))
+                    (PP (IN of)
+                      (NP
+                        (NP (PRP$ its) (NN goal))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT a) (NN reduction))
+                            (PP (IN of)
+                              (NP
+                                (QP ($ $) (CD 500) (CD million))))))))))
+                (PP (IN by)
+                  (NP
+                    (NP (DT the) (NN end))
+                    (PP (IN of)
+                      (NP (DT the) (NN year)))))))))))
+    (. .)))
+

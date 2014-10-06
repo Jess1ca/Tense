@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP U.S.))
+    (VP (VBZ hopes)
+      (SBAR
+        (S
+          (NP (PRP$ its) (NNS troops))
+          (VP (MD will)
+            (VP (VB drive)
+              (NP (JJ Iraqi) (NNS forces))
+              (PRT (RP out))
+              (PP (IN of)
+                (NP (NNP Kuwait)))
+              (ADVP (RB quickly))))))
+      (, ,)
+      (S
+        (VP (VBG leaving)
+          (NP
+            (NP (RB much))
+            (PP (IN of)
+              (NP
+                (NP
+                  (NP (NNP Iraq) (POS 's))
+                  (JJ offensive) (JJ military) (NN equipment))
+                (VP (VBN destroyed)
+                  (CC or)
+                  (VBN abandoned)
+                  (PP (IN in)
+                    (NP (NNP Kuwait))))))))))
+    (. .)))
+

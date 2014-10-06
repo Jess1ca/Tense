@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNP Suessmuth))
+    (VP (VBD said) (, ,)
+      (ADVP (RB however))
+      (, ,)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN law))
+          (VP (VBZ does) (RB not)
+            (VP (VB allow)
+              (PP (IN for)
+                (S
+                  (VP (VBG providing)
+                    (NP (DT a) (JJ false) (NN address))
+                    (PP (IN for)
+                      (NP (DT any) (NN reason)))))))))))
+    (. .)))
+

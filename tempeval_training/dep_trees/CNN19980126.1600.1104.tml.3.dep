@@ -1,0 +1,11 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	company	_	NN	NN	_	5	poss	_	_
+3	's	_	POS	POS	_	2	possessive	_	_
+4	sales	_	NNS	NNS	_	5	nn	_	_
+5	force	_	NN	NN	_	6	nsubj	_	_
+6	applauded	_	VBD	VBD	_	0	root	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	shake	_	NN	NN	_	6	dobj	_	_
+9	up	_	RP	RP	_	6	prt	_	_
+10	.	_	.	.	_	6	punct	_	_
+

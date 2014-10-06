@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Bush) (NN administration))
+    (VP (VBZ considers)
+      (S
+        (NP (DT the) (NNS sanctions))
+        (ADJP (JJ essential)
+          (PP (TO to)
+            (S
+              (VP (VBG keeping)
+                (NP (NNP Saddam) (NNP Hussein))
+                (PP (IN under)
+                  (NP (NN control)))
+                (SBAR (MD should)
+                  (S
+                    (NP (PRP he))
+                    (VP (VBP survive)
+                      (NP (DT the) (NN war)))))))))))
+    (. .)))
+

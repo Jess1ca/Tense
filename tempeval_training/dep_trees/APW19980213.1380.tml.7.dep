@@ -1,0 +1,19 @@
+1	Puerto	_	NNP	NNP	_	6	nn	_	_
+2	Rico	_	NNP	NNP	_	6	nn	_	_
+3	Police	_	NNP	NNP	_	6	nn	_	_
+4	Superintendent	_	NNP	NNP	_	6	nn	_	_
+5	Pedro	_	NNP	NNP	_	6	nn	_	_
+6	Toledo	_	NNP	NNP	_	7	nsubj	_	_
+7	urged	_	VBD	VBD	_	0	root	_	_
+8	people	_	NNS	NNS	_	7	dobj	_	_
+9	who	_	WP	WP	_	12	nsubjpass	_	_
+10	might	_	MD	MD	_	12	aux	_	_
+11	be	_	VB	VB	_	12	auxpass	_	_
+12	targeted	_	VBN	VBN	_	8	rcmod	_	_
+13	by	_	IN	IN	_	12	prep	_	_
+14	kidnappers	_	NNS	NNS	_	13	pobj	_	_
+15	to	_	TO	TO	_	16	aux	_	_
+16	be	_	VB	VB	_	12	xcomp	_	_
+17	alert	_	JJ	JJ	_	16	acomp	_	_
+18	.	_	.	.	_	7	punct	_	_
+

@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP (NNP Bush))
+    (, ,)
+    (S
+      (VP (VBG commenting)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (JJ two-week-old) (NN gulf) (NN crisis))
+            (PP (IN from)
+              (NP (PRP$ his) (NN vacation) (NN home)))))
+        (PP (IN in)
+          (NP (NNP Maine)))))
+    (, ,)
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD saw)
+            (NP (JJ little) (NN reason))
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (ADJP (JJ optimistic)
+                    (PP (IN about)
+                      (NP
+                        (NP (DT a) (NN settlement))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT the) (NN dispute))
+                            (, ,)
+                            (SBAR
+                              (WHNP (WDT which))
+                              (S
+                                (VP (VBZ stems)
+                                  (PP (IN from)
+                                    (NP
+                                      (NP
+                                        (NP
+                                          (NP (NNP Iraq) (POS 's))
+                                          (NN invasion))
+                                        (PP (IN of)
+                                          (NP (JJ oil-wealthy) (NNP Kuwait))))
+                                      (CC and)
+                                      (NP
+                                        (NP (PRP$ its) (JJ subsequent) (JJ military) (NN buildup))
+                                        (PP (IN on)
+                                          (NP
+                                            (NP (DT the) (NN border))
+                                            (PP (IN of)
+                                              (NP (NNP Saudi) (NNP Arabia)))))))))))))))))))))))
+    (. .)))
+

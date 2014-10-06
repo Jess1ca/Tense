@@ -1,0 +1,34 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBP 'm) (RB not)
+          (VP (VBG saying)
+            (NP
+              (NP (NN everything))
+              (SBAR
+                (S
+                  (VP (VBZ is)
+                    (ADJP (JJ hunky-dory)))))))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (PRP we))
+        (VP (VBP have)
+          (VP (VBN completed)
+            (NP (DT the) (NN transition))))))
+    (, ,) ('' '')
+    (NP
+      (NP (NNP Robert) (NNP M.) (NNP Price))
+      (, ,)
+      (NP
+        (NP (NN chairman))
+        (CC and)
+        (NP (JJ chief) (NN executive)))
+      (, ,))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP (DT an) (NN interview))))
+    (. .)))
+

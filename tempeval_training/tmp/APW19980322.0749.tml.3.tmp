@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (NNS Extremists))
+    (VP (VBP have)
+      (VP
+        (VP (VBN bombed)
+          (NP (CD two) (JJ predominantly) (JJ pro-British) (JJ Protestant) (NNS towns)))
+        (CC and)
+        (VP (VBN fired)
+          (NP (NN mortar) (NNS shells))
+          (PP (IN at)
+            (NP (DT a) (NN police) (NN station)))
+          (SBAR (IN since)
+            (S
+              (NP (NNP Sinn) (NNP Fein))
+              (VP (VBD was)
+                (VP (VBN expelled)
+                  (PP (IN from)
+                    (NP (NN peace) (NNS talks)))
+                  (PP (IN on)
+                    (NP
+                      (NP (NNP Feb.) (CD 20))
+                      (PP (IN in)
+                        (NP (NN punishment))))))))))
+        (PP (IN for)
+          (NP
+            (NP (CD two) (NNS killings))
+            (VP (VBN blamed)
+              (PP (IN on)
+                (NP (DT the) (JJ Irish) (NNP Republican) (NNP Army))))))))
+    (. .)))
+

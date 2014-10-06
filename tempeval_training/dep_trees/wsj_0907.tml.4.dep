@@ -1,0 +1,26 @@
+1	Mr.	_	NNP	NNP	_	2	nn	_	_
+2	LeGere	_	NNP	NNP	_	3	nsubj	_	_
+3	attributed	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	earnings	_	NNS	NNS	_	6	nn	_	_
+6	increase	_	NN	NN	_	3	dobj	_	_
+7	to	_	TO	TO	_	3	prep	_	_
+8	growth	_	NN	NN	_	7	pobj	_	_
+9	in	_	IN	IN	_	8	prep	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	company	_	NN	NN	_	16	poss	_	_
+12	's	_	POS	POS	_	11	possessive	_	_
+13	longhaul	_	NN	NN	_	16	nn	_	_
+14	trucking	_	NN	NN	_	16	nn	_	_
+15	insurance	_	NN	NN	_	16	nn	_	_
+16	lines	_	NNS	NNS	_	9	pobj	_	_
+17	and	_	CC	CC	_	8	cc	_	_
+18	the	_	DT	DT	_	19	det	_	_
+19	ability	_	NN	NN	_	8	conj	_	_
+20	to	_	TO	TO	_	21	aux	_	_
+21	keep	_	VB	VB	_	19	vmod	_	_
+22	premium	_	NN	NN	_	24	nn	_	_
+23	rates	_	NNS	NNS	_	24	nn	_	_
+24	firm	_	NN	NN	_	21	dobj	_	_
+25	.	_	.	.	_	3	punct	_	_
+

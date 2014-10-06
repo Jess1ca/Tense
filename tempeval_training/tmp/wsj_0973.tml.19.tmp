@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (NN Company) (NNS officials))
+    (ADVP (RB also))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT any) (NN gain))
+            (PP (IN from)
+              (NP
+                (NP (DT the) (NN sale))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (NP (NNP Westinghouse) (POS 's))
+                      (ADJP (CD 55) (NN %))
+                      (NN stake))
+                    (PP (IN in)
+                      (NP
+                        (NP (PRP$ its) (NN transmission)
+                          (CC and)
+                          (NN distribution) (NN venture))
+                        (PP (IN with)
+                          (NP
+                            (NP (DT the) (JJ Swiss) (NN firm))
+                            (PP (IN of)
+                              (NP (NNP Asea) (NNP Brown) (NNP Boveri))))))))))))
+          (VP (MD will)
+            (VP (VB be)
+              (VP (VBN offset)
+                (PP (IN by)
+                  (NP
+                    (NP (DT a) (VBG restructuring) (NN charge))
+                    (PP (IN in)
+                      (NP (DT the) (JJ fourth) (NN quarter)))))))))))
+    (. .)))
+

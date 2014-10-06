@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN sale))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBN expected))))))
+      (, ,))
+    (VP (VBZ is)
+      (NP
+        (NP (NN part))
+        (PP (IN of)
+          (NP
+            (NP (NNP KKR) (POS 's))
+            (NN program)
+            (S
+              (VP (TO to)
+                (VP (VB pay)
+                  (PRT (RP down))
+                  (NP
+                    (NP
+                      (QP ($ $) (CD 5) (CD billion)))
+                    (PP (IN of)
+                      (NP (DT a)
+                        (ADJP
+                          (QP ($ $) (CD 6) (CD billion)))
+                        (NN bridge) (NN loan))))
+                  (PP (IN by)
+                    (NP (NNP February))))))))))
+    (. .)))
+

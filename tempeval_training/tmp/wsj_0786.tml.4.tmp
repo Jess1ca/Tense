@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN completion))
+      (PP (IN of)
+        (NP (DT the) (NN merger) (NN agreement))))
+    (VP
+      (VP (VBZ follows)
+        (NP
+          (NP (NNS months))
+          (PP (IN of)
+            (NP (NNS twists)))))
+      (CC and)
+      (VP (VBZ turns)))
+    (. .)))
+

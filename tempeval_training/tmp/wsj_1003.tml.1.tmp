@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (ADVP (RB Separately))
+    (, ,)
+    (NP
+      (NP (CD two) (JJR more))
+      (PP (IN of)
+        (NP
+          (NP
+            (NP (DT the) (NN nation) (POS 's))
+            (JJ top) (NNS steelmakers))
+          (PRN (: --)
+            (NP
+              (NP (NNP Armco) (NNP Inc.))
+              (CC and)
+              (NP (NNP National) (NNP Intergroup) (NNP Inc.)))
+            (: --)))))
+    (VP (VBD reported)
+      (NP (JJR lower) (NN operating) (NNS earnings))
+      (PP (IN in)
+        (NP (PRP$ their) (NN steel) (NNS businesses)))
+      (, ,)
+      (S
+        (VP (VBG marking)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (VBZ is)
+                (ADVP (RB generally))
+                (VP (VBN believed)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (NP
+                          (NP (DT the) (NN end))
+                          (PP (IN of)
+                            (NP
+                              (NP (DT a) (JJ two-year) (NN boom))
+                              (PP (IN in)
+                                (NP (DT the) (NN industry))))))))))))))))
+    (. .)))
+

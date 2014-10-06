@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (PP (RB Even) (VBG excluding)
+      (NP
+        (NP (DT the) (NN charge))
+        (, ,)
+        (ADVP (RB however))))
+    (, ,)
+    (NP (NN net))
+    (VP (VBD fell)
+      (NP (CD 5) (NN %)))
+    (. .)))
+

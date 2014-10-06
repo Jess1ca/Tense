@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (NNP Bush))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ sees)
+            (NP (DT no) (JJ short-term) (NN hope))
+            (PP (IN for)
+              (NP
+                (NP (DT a) (JJ diplomatic) (NN solution))
+                (PP (TO to)
+                  (NP (DT the) (NN gulf) (NN crisis) (NN _)))))
+            (SBAR
+              (ADVP (IN at) (JJS least))
+              (IN until)
+              (S
+                (NP (JJ economic) (NNS sanctions))
+                (VP (VBP force)
+                  (S
+                    (NP (NNP Saddam))
+                    (VP (TO to)
+                      (VP (VB withdraw)
+                        (NP (PRP$ his) (NN army))))))))))))
+    (. .)))
+

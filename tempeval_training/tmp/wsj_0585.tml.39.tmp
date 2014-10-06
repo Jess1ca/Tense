@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ Such) (NNS investors))
+      (VP (VBP tend)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP
+                (ADJP (RBR more) (JJ cautious))
+                (SBAR (IN than)
+                  (S
+                    (NP (JJ institutional) (NNS investors))
+                    (VP (VBP are)
+                      (VP (IN about)
+                        (S
+                          (VP (VBG re-entering)
+                            (NP (DT the) (NN market))
+                            (PP (IN after)
+                              (NP (JJ massive) (NNS selloffs)))))))))))))))
+    (, ,)
+    (NP (NN market) (NNS makers))
+    (VP (VBP say))
+    (. .)))
+

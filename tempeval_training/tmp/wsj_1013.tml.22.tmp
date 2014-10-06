@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NNP Columbia) (NNS officials))
+    (ADVP (RB also))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN thrift))
+          (VP (MD should) (RB n't)
+            (VP (VB face)
+              (NP (NNS problems))
+              (S
+                (VP (VBG meeting)
+                  (NP (JJ regulatory) (NN capital) (NNS requirements))))
+              (, ,)
+              (PP (IN despite)
+                (NP
+                  (NP (DT the) (JJ large) (NNS reserves)
+                    (CC and)
+                    (NNS write-downs))
+                  (CC and)
+                  (NP
+                    (NP (JJR stiffer) (JJ regulatory) (NNS requirements))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (MD should)
+                          (VP (VB be)
+                            (PP (IN in)
+                              (NP (NN place)))
+                            (PP (IN by)
+                              (NP
+                                (NP (NN year) (POS 's))
+                                (NN end)))))))))))))))
+    (. .)))
+

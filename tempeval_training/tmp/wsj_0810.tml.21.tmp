@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (NNP Paribas))
+    (VP (VBZ is)
+      (NP
+        (NP (NNP Allianz) (POS 's))
+        (JJ lead) (JJ French) (NN bank)))
+    (. .)))
+

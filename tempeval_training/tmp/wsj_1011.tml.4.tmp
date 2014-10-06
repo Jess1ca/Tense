@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN During)
+      (NP (DT the) (NN quarter)))
+    (, ,)
+    (NP (NNP Delta))
+    (VP
+      (VP (VBD issued)
+        (NP
+          (NP
+            (QP (CD 2.5) (CD million))
+            (NNS shares))
+          (PP (IN of)
+            (NP (JJ common) (NN stock))))
+        (PP (TO to)
+          (NP (NNP Swissair))))
+      (, ,)
+      (CC and)
+      (VP (VBD repurchased)
+        (NP
+          (QP (CD 1.1) (CD million))
+          (NNS shares))
+        (PP (IN for)
+          (NP (NN use)))
+        (PP (IN in)
+          (NP (DT a) (NN company) (NN employee) (NN stock) (NN ownership) (NN plan)))))
+    (. .)))
+

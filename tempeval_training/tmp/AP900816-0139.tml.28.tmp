@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP U.S.) (NNP Navy))
+    (VP (VBZ has)
+      (NP
+        (NP (CD 27) (NNS ships))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (JJ maritime) (NN barricade))
+            (PP (IN of)
+              (NP (NNP Iraq)))))))
+    (. .)))
+

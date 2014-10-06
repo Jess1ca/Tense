@@ -1,0 +1,20 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	warning	_	NN	NN	_	9	nsubj	_	_
+3	by	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	U.S.	_	NNP	NNP	_	6	nn	_	_
+6	attorney	_	NN	NN	_	8	poss	_	_
+7	's	_	POS	POS	_	6	possessive	_	_
+8	office	_	NN	NN	_	3	pobj	_	_
+9	follows	_	VBZ	VBZ	_	0	root	_	_
+10	two	_	CD	CD	_	11	num	_	_
+11	decisions	_	NNS	NNS	_	9	dobj	_	_
+12	by	_	IN	IN	_	11	prep	_	_
+13	the	_	DT	DT	_	16	det	_	_
+14	U.S.	_	NNP	NNP	_	16	nn	_	_
+15	Supreme	_	NNP	NNP	_	16	nn	_	_
+16	Court	_	NNP	NNP	_	12	pobj	_	_
+17	last	_	JJ	JJ	_	18	amod	_	_
+18	June	_	NNP	NNP	_	9	tmod	_	_
+19	.	_	.	.	_	9	punct	_	_
+

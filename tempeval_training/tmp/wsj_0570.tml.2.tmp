@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (NN filing)))
+    (, ,)
+    (NP (NNP Crane))
+    (VP (VBD said)
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (PP (IN in)
+              (NP (DT the) (NN past)))
+            (NP (PRP it))
+            (VP (VBD considered)
+              (S
+                (VP (VBG seeking)
+                  (NP
+                    (NP (NN control))
+                    (PP (IN of)
+                      (NP (NNP Milton) (NNP Roy)))
+                    (, ,)
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP St.) (NNP Petersburg))
+                        (, ,)
+                        (NP (NNP Fla.))
+                        (, ,))))
+                  (PP (IN through)
+                    (NP (DT a) (NN merger)
+                      (CC or)
+                      (NN tender) (NN offer))))))))
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBZ expects)
+              (S
+                (VP (TO to)
+                  (VP (VB continue)
+                    (S
+                      (VP (TO to)
+                        (VP (VB evaluate)
+                          (NP (DT an) (NN acquisition))
+                          (PP (IN from)
+                            (NP (NN time)))
+                          (PP (TO to)
+                            (NP (NN time))))))))))))))
+    (. .)))
+

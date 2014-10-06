@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (DT Some) (NNS analysts))
+    (VP (VBP have)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP
+              (NP (NNP Courtaulds) (POS '))
+              (NNS moves))
+            (VP (MD could)
+              (VP (VB boost)
+                (NP
+                  (NP (DT the) (NN company) (POS 's))
+                  (NN value))
+                (PP (IN by)
+                  (NP
+                    (QP (CD 5) (NN %) (TO to) (CD 10) (NN %))))
+                (, ,)
+                (SBAR (IN because)
+                  (S
+                    (NP (DT the) (CD two) (NNS entities))
+                    (ADVP (RB separately))
+                    (VP (MD will)
+                      (VP (VB carry)
+                        (NP
+                          (NP (DT a) (JJR higher) (NN price) (NNS earnings) (NN multiple))
+                          (SBAR (IN than)
+                            (S
+                              (NP (PRP they))
+                              (VP (VBD did)
+                                (ADJP (JJ combined))))))))))))))))
+    (. .)))
+

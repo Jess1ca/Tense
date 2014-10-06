@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (CD 80) (NN %))
+            (PP (IN of)
+              (NP (PRP$ its) (NN auction) (NN business))))
+          (VP (VBZ is)
+            (ADVP (RB usually))
+            (VP (VBN conducted)
+              (PP (IN in)
+                (NP (DT the) (JJ second)
+                  (CC and)
+                  (JJ fourth) (NNS quarters)))
+              (, ,)
+              (PP (IN with)
+                (S
+                  (NP (DT the) (JJ current) (NN quarter))
+                  (VP (VBG having)
+                    (VP (VBN begun) ('' '')
+                      (NP (RB extremely) (RB well)))))))))))
+    (. .) ('' '')))
+

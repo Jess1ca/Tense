@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP Kirschner))
+    (VP (VBD earned)
+      (NP ($ $) (CD 376,000))
+      (PP (IN on)
+        (NP
+          (NP (NN revenue))
+          (PP (IN of)
+            (NP
+              (QP ($ $) (CD 14.5) (CD million))))))
+      (PP (IN in)
+        (NP (DT the) (CD 1988) (NN quarter))))
+    (. .)))
+

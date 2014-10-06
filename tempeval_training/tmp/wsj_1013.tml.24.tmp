@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (DT The) (NN thrift))
+    (VP (VBD emphasized)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ has)
+            (NP
+              (NP (DT a) (JJ large) (NN portfolio))
+              (PP (IN of)
+                (NP
+                  (NP (NN equity) (NNS securities))
+                  (VP (VBN issued)
+                    (PP (IN in)
+                      (NP (NN connection)))
+                    (PP (IN with)
+                      (NP
+                        (NP (JJ corporate) (NNS restructurings))
+                        (CC and)
+                        (NP (JJ leveraged) (NNS buy-outs)))))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBZ has)
+                        (NP
+                          (NP (DT a) (NN book) (NN value))
+                          (PP (IN of)
+                            (NP
+                              (QP ($ $) (CD 90) (CD million)))))))))))))))
+    (. .)))
+

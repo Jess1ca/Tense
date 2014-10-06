@@ -1,0 +1,26 @@
+1	In	_	IN	IN	_	7	prep	_	_
+2	the	_	DT	DT	_	4	det	_	_
+3	United	_	NNP	NNP	_	4	nn	_	_
+4	Nations	_	NNPS	NNPS	_	1	pobj	_	_
+5	,	_	,	,	_	7	punct	_	_
+6	Libya	_	NNP	NNP	_	7	nsubj	_	_
+7	called	_	VBD	VBD	_	0	root	_	_
+8	for	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	replacement	_	NN	NN	_	8	pobj	_	_
+11	of	_	IN	IN	_	10	prep	_	_
+12	U.S.	_	NNP	NNP	_	13	nn	_	_
+13	forces	_	NNS	NNS	_	11	pobj	_	_
+14	in	_	IN	IN	_	7	prep	_	_
+15	the	_	DT	DT	_	17	det	_	_
+16	Persian	_	NNP	NNP	_	17	nn	_	_
+17	Gulf	_	NNP	NNP	_	14	pobj	_	_
+18	with	_	IN	IN	_	7	prep	_	_
+19	Arab	_	NNP	NNP	_	21	nn	_	_
+20	League	_	NNP	NNP	_	21	nn	_	_
+21	forces	_	NNS	NNS	_	18	pobj	_	_
+22	and	_	CC	CC	_	21	cc	_	_
+23	U.N.	_	NNP	NNP	_	24	nn	_	_
+24	soldiers	_	NNS	NNS	_	21	conj	_	_
+25	.	_	.	.	_	7	punct	_	_
+

@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (S
+      (NP (DT That))
+      (VP (VBZ is)
+        (NP
+          (NP (DT another) (JJ small) (NN encouragement))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NNP Federal) (NNP Reserve))
+              (PP (TO to)
+                (NP
+                  (NP (JJR lower) (NN interest) (NNS rates))
+                  (PP (IN in)
+                    (NP (VBG coming) (NNS weeks))))))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD reasoned))
+    (. .)))
+

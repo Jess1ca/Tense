@@ -1,0 +1,39 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (SBAR
+        (WHNP (WDT Whatever) (NN capital))
+        (S
+          (NP (PRP it)
+            (PRN (-LRB- -LRB-)
+              (NP (NNP Sansui))
+              (-RRB- -RRB-)))
+          (VP (VBZ needs)
+            (SBAR (IN so)
+              (S
+                (NP (PRP it))
+                (VP (MD can)
+                  (VP (VB compete)
+                    (CC and)
+                    (VB become)
+                    (NP
+                      (NP (DT a) (RB totally) (JJ global) (NN entity))
+                      (ADJP (JJ capable)
+                        (PP (IN of)
+                          (S
+                            (VP (VBG competing)
+                              (PP (IN with)
+                                (NP
+                                  (NP (DT the) (JJS best))
+                                  (PP (IN in)
+                                    (NP (DT the) (NN world)))))))))))))))))
+      (, ,)
+      (NP (DT that) (NN capital))
+      (VP (MD will)
+        (VP (VB be)
+          (VP (VBN injected)))))
+    (, ,) ('' '')
+    (NP (NNP Mr.) (NNP Nadir))
+    (VP (VBD said))
+    (. .)))
+

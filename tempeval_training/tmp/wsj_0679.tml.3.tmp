@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (NNP Octel))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN purchase))
+          (VP (VBD was)
+            (VP (VBN expected))))))
+    (. .)))
+

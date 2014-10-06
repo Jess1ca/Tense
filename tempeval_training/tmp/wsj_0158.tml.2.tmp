@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ His) (NN appointment))
+      (PP (TO to)
+        (NP (DT that) (NN post)))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ has)
+            (NP (JJ senior)
+              (UCP (JJ administrative) (, ,) (NN staff)
+                (CC and)
+                (NN policy))
+              (NNS responsibilities)))))
+      (, ,))
+    (VP (VBD followed)
+      (NP (DT a) (JJ several-year) (NN tenure))
+      (PP (IN as)
+        (NP
+          (NP (NNP Reuters) (POS 's))
+          (NN editor)))
+      (PP (IN in)
+        (NP (NN chief))))
+    (. .)))
+

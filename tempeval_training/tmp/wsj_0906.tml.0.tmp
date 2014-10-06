@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (NNP Diversified) (NNP Investment) (NNP Group) (NNP Inc.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD agreed)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBN acquired)
+                    (PP (IN by)
+                      (NP
+                        (NP (NNP Star) (NNPS States) (NNP Corp.))
+                        (PP (IN for)
+                          (NP
+                            (NP (NN stock))
+                            (VP (VBN valued)
+                              (PP (IN at)
+                                (NP
+                                  (NP
+                                    (NP ($ $) (CD 13.75))
+                                    (NP (DT a) (NN share)))
+                                  (, ,)
+                                  (CC or)
+                                  (NP
+                                    (QP (RB about) ($ $) (CD 24.4) (CD million))))))))))))))))))
+    (. .)))
+

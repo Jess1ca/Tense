@@ -1,0 +1,19 @@
+1	Now	_	RB	RB	_	8	advmod	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	he	_	PRP	PRP	_	4	nsubj	_	_
+4	says	_	VBZ	VBZ	_	8	parataxis	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	``	_	``	``	_	8	punct	_	_
+7	it	_	PRP	PRP	_	8	nsubj	_	_
+8	looks	_	VBZ	VBZ	_	0	root	_	_
+9	like	_	IN	IN	_	13	mark	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	West	_	NNP	NNP	_	13	nsubj	_	_
+12	just	_	RB	RB	_	13	advmod	_	_
+13	wants	_	VBZ	VBZ	_	8	advcl	_	_
+14	to	_	TO	TO	_	15	aux	_	_
+15	destroy	_	VB	VB	_	13	xcomp	_	_
+16	Iraq	_	NNP	NNP	_	15	dobj	_	_
+17	.	_	.	.	_	8	punct	_	_
+18	''	_	''	''	_	8	punct	_	_
+

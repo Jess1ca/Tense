@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP American) (NNP Medical))
+    (VP (VBD accepted)
+      (NP (DT the) (NN offer))
+      (, ,)
+      (S
+        (ADVP (RB meanwhile))
+        (VP (VBG indicating)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBD had)
+                (VP (VBN heard)
+                  (PP (IN from)
+                    (NP (CD two) (JJ other) (NNS suitors))))))))))
+    (. .)))
+

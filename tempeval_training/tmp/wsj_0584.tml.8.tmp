@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (DT That) (NN money))
+    (ADVP (RB also))
+    (VP (MD would)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN borrowed)))))))
+    (. .)))
+

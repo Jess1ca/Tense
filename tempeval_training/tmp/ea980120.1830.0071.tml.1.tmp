@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP are)
+      (ADVP (RB here))
+      (NP (DT this) (NN week)
+        (S
+          (VP (TO to)
+            (VP (VB witness)
+              (NP (DT the) (NN rendezvous))
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (NNP Fidel) (NNP Castro))
+                    (CC and)
+                    (NP (DT the) (NNP Pope)))
+                  (VP (VBP are)
+                    (VP (VBG having)
+                      (NP
+                        (ADVP (RP with))
+                        (NN history)))))))))))
+    (. .)))
+

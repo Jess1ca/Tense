@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (NNP Poughkeepsie))
+    (ADVP (RB also))
+    (VP (VBZ expects)
+      (S
+        (VP (TO to)
+          (VP (VB post)
+            (NP
+              (NP (DT a) (JJ one-time) (NN charge))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (QP ($ $) (CD 8.3) (CD million)))
+                  (, ,)
+                  (VP (VBG resulting)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT a) (JJ net) (NN loss))
+                        (PP (IN for)
+                          (NP (DT the) (JJ third) (NN quarter)))))))))))))
+    (. .)))
+

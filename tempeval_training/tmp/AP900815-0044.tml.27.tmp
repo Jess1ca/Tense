@@ -1,0 +1,7 @@
+(ROOT
+  (S
+    (NP (NNS Banks))
+    (VP (VBD remained)
+      (ADJP (JJ closed)))
+    (. .)))
+

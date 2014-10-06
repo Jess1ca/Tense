@@ -1,0 +1,15 @@
+1	Kalashnikov	_	NNP	NNP	_	2	nsubj	_	_
+2	designed	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	6	det	_	_
+4	AK-47	_	NNP	NNP	_	6	nn	_	_
+5	automatic	_	JJ	JJ	_	6	amod	_	_
+6	rifle	_	NN	NN	_	2	dobj	_	_
+7	,	_	,	,	_	6	punct	_	_
+8	famed	_	VBN	VBN	_	6	vmod	_	_
+9	for	_	IN	IN	_	8	prep	_	_
+10	its	_	PRP$	PRP$	_	11	poss	_	_
+11	reliability	_	NN	NN	_	9	pobj	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	effectiveness	_	NN	NN	_	11	conj	_	_
+14	.	_	.	.	_	2	punct	_	_
+

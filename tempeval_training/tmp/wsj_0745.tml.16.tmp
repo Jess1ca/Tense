@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (PP (IN As)
+      (NP
+        (NP
+          (NP (NNP Jaguar) (POS 's))
+          (JJS biggest) (NN holder))
+        (CC and)
+        (NP
+          (NP (NNP Britain) (POS 's))
+          (JJS biggest) (NN car) (NN maker))))
+    (, ,)
+    (NP (NNP Ford))
+    (VP (MD could)
+      (VP (VB turn)
+        (PRT (RP up))
+        (NP (DT the) (NN heat))
+        (PP (IN by)
+          (S
+            (VP
+              (VP (VBG convening)
+                (NP
+                  (NP (DT a) (JJ special) (NNS shareholders) (POS '))
+                  (NN meeting)))
+              (CC and)
+              (VP (VBG urging)
+                (NP (NNS holders))
+                (S
+                  (VP (TO to)
+                    (VP (VB drop)
+                      (NP (DT the) (NNS limits))
+                      (ADVP (RB early)))))))))))
+    (. .)))
+

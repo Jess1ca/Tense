@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (DT The) (NN move))
+    (VP
+      (VP (VBD seemed)
+        (VP (VBN aimed)
+          (PP (IN at)
+            (S
+              (VP (VBG heading)
+                (PRT (RP off))
+                (NP
+                  (NP (JJR more) (NN trouble))
+                  (PP (IN with)
+                    (NP
+                      (NP (NNP Iran))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBD had)
+                            (VP (VBN condemned)
+                              (NP
+                                (NP
+                                  (NP (NNP Iraq) (POS 's))
+                                  (NN invasion))
+                                (PP (IN of)
+                                  (NP (NNP Kuwait))))
+                              (PP (IN on)
+                                (NP (NNP Aug.) (CD 2)))))))))))))))
+      (CC but)
+      (VP
+        (ADVP (RB also))
+        (VBD criticized)
+        (NP
+          (NP (DT the) (JJ multinational) (NN force))
+          (VP (VBN dispatched)
+            (PP (TO to)
+              (NP (NNP Saudi) (NNP Arabia)))))))
+    (. .)))
+

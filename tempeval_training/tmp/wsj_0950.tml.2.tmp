@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (PP (IN By)
+      (NP (NN contrast)))
+    (, ,)
+    (NP
+      (NP (NNP Electronic) (NNP Data) (NNPS Systems) (NNP Corp.))
+      (, ,)
+      (NP
+        (NP (NNP GM) (POS 's))
+        (NN data) (NN processing) (NN subsidiary))
+      (, ,))
+    (VP (VBD boosted)
+      (NP (NN net))
+      (NP (CD 16) (NN %)))
+    (. .)))
+

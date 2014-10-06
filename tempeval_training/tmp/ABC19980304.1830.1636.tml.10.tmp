@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ means)
+      (S
+        (VP
+          (VP (VBG supervising)
+            (NP
+              (NP (DT the) (NN rest))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN crew))
+                  (PP (IN in)
+                    (NP (NN training)))))))
+          (CC and)
+          (VP (VBG leading)
+            (NP (PRP them))
+            (PP (IN in)
+              (NP (NN flight)))))))
+    (. .)))
+

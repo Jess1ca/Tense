@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT The) (VBN united) (NNS states))
+    (VP (VBZ is) (RB not)
+      (VP (VBN authorized)
+        (S
+          (VP (TO to)
+            (VP (VB use)
+              (NP (NN force))
+              (PP (IN before)
+                (S
+                  (VP (VBG going)
+                    (PP (TO to)
+                      (NP (DT the) (NN council)))))))))))
+    (. .)))
+

@@ -1,0 +1,11 @@
+1	Yet	_	RB	RB	_	6	advmod	_	_
+2	,	_	,	,	_	6	punct	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	Taliban	_	NNP	NNP	_	6	nsubj	_	_
+5	have	_	VBP	VBP	_	6	aux	_	_
+6	forbidden	_	VBN	VBN	_	0	root	_	_
+7	them	_	PRP	PRP	_	9	nsubj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	work	_	VB	VB	_	6	xcomp	_	_
+10	.	_	.	.	_	6	punct	_	_
+

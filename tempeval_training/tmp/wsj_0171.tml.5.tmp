@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (DT The) (NN thrift))
+    (VP (VBD said)
+      (SBAR (IN that) (`` ``)
+        (S
+          (UCP
+            (PP (IN after)
+              (NP (DT these) (NNS charges)))
+            (CC and)
+            (S
+              (VP (VBG assuming)
+                (NP (DT no) (JJ dramatic) (NN fluctuation))
+                (PP (IN in)
+                  (NP (NN interest) (NNS rates))))))
+          (, ,)
+          (NP (DT the) (NN association))
+          (VP (VBZ expects)
+            (S
+              (VP (TO to)
+                (VP (VB achieve)
+                  (NP (JJ near) (NN record) (NNS earnings))
+                  (PP (IN in)
+                    (NP (CD 1990))))))))))
+    (. .) ('' '')))
+

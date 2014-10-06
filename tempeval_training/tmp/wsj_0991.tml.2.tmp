@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (NN Revenue))
+    (VP (VBD was)
+      (NP
+        (QP (RB about) ($ $) (CD 4.5) (CD million))))
+    (. .)))
+

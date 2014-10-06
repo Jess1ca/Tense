@@ -1,0 +1,10 @@
+(ROOT
+  (S (CC And)
+    (, ,)
+    (ADVP (RB therefore))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ works)
+      (ADVP (RB very) (RB well)))
+    (. .)))
+

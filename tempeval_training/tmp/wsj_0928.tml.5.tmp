@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT a) (NN statement)))
+    (, ,)
+    (NP
+      (NP (NNP Scott) (NNP McNealy))
+      (, ,)
+      (NP
+        (NP (NNP Sun) (POS 's))
+        (NX (JJ chief) (JJ executive) (NN officer)))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN company) (POS 's))
+            (NN performance))
+          (VP (VBD was)
+            (VP (VBN hampered)
+              (PP (IN by)
+                (NP
+                  (NP (NNS problems))
+                  (VP (VBN tied)
+                    (PP (TO to)
+                      (NP
+                        (NP (DT the) (NN introduction))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT a) (JJ major) (JJ new) (NN family))
+                            (PP (IN of)
+                              (NP
+                                (NP (NNS computers))
+                                (PP (IN in)
+                                  (NP (NNP April)))))))))))))))))
+    (. .)))
+

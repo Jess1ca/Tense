@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNS Earnings))
+        (PP (IN at)
+          (NP
+            (NP (NNP Xerox) (POS 's))
+            (JJ financial-services) (NNS operations))))
+      (ADVP (RB actually))
+      (VP (VBD rose)
+        (ADVP (RB slightly))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (NP (DT that))
+        (VP (VBD was)
+          (ADVP (RB largely))
+          (PP (IN because)
+            (NP (NN capital) (NNS gains)))
+          (PP (IN at)
+            (NP
+              (NP (NNP Crum) (NNP amp) (NNP Forster))
+              (VP (VBN offset)
+                (NP (NNP Hurricane) (NNP Hugo) (NNS payments)))))))
+      (CC and)
+      (S
+        (NP (DT the) (NNS reserves))
+        (VP (VBD set)
+          (PRT (RP up))
+          (S
+            (VP (TO to)
+              (VP (VB cover)
+                (NP (JJ future) (NNS payments))))))))
+    (. .)))
+

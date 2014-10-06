@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP James) (NNP E.) (NNP Ousley))
+      (, ,)
+      (NP (NN computer) (NNS products) (NN group) (NN president))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (JJ such) (NNS arrangements))
+          (VP (MD could)
+            (VP (VB help)
+              (VP (VB slash)
+                (NP
+                  (NP (NNP Control) (NNP Data) (POS 's))
+                  (NN computer) (NN research)
+                  (CC and)
+                  (NN development) (NNS costs))
+                (PP (IN in)
+                  (NP (NN half)))
+                (PP (IN by)
+                  (NP
+                    (NP (DT the) (NN end))
+                    (PP (IN of)
+                      (NP (CD 1990)))))))))))
+    (. .)))
+

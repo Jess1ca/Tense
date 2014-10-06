@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (DT this))
+          (VP (VBZ puts)
+            (NP
+              (NP (DT the) (JJ very) (NN existence))
+              (PP (IN of)
+                (NP
+                  (NP (NNS women) (POS 's))
+                  (NNS families))))
+            (PP (IN at)
+              (NP (NN risk)))))))
+    (. .)))
+

@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Michael) (NNP Swavely))
+      (, ,)
+      (NP
+        (NP (NN president))
+        (PP (IN of)
+          (NP
+            (NP (NNP Compaq) (POS 's))
+            (NNP North) (NNP America) (NN division))))
+      (, ,))
+    (VP (VBD attributed)
+      (NP
+        (NP (DT the) (NN company) (POS 's))
+        (JJ third-quarter) (NN performance))
+      (PP (TO to)
+        (NP
+          (NP (VBN continued) (NNS increases))
+          (PP (IN in)
+            (NP
+              (NP (JJ international) (NNS sales))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBD accounted)
+                    (PP (IN for)
+                      (NP
+                        (NP (CD 43) (NN %))
+                        (PP (IN of)
+                          (NP
+                            (NP
+                              (NP (DT the) (NN company) (POS 's))
+                              (NNS sales))
+                            (, ,)
+                            (NP (DT a)
+                              (ADJP (CD 74) (NN %))
+                              (NN increase))))))
+                    (PP (IN from)
+                      (NP (DT a) (NN year) (RBR earlier)))))))))))
+    (. .)))
+

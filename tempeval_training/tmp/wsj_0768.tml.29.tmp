@@ -1,0 +1,15 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (DT The) (JJ last) (CD two) (NNS months))
+      (VP (VBP have)
+        (VP (VBN been)
+          (NP (DT the) (JJ whole) (NN ball) (NN game)))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP
+      (NP (NNP Steven) (NNP Norwitz))
+      (, ,)
+      (NP (DT a) (NN vice) (NN president)))
+    (. .)))
+

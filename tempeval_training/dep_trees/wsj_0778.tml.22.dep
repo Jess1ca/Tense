@@ -1,0 +1,18 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	Justice	_	NNP	NNP	_	3	nn	_	_
+3	Department	_	NNP	NNP	_	5	nsubj	_	_
+4	has	_	VBZ	VBZ	_	5	aux	_	_
+5	emphasized	_	VBN	VBN	_	0	root	_	_
+6	that	_	IN	IN	_	12	mark	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	government	_	NN	NN	_	11	poss	_	_
+9	's	_	POS	POS	_	8	possessive	_	_
+10	fee-forfeiture	_	NN	NN	_	11	nn	_	_
+11	power	_	NN	NN	_	12	nsubj	_	_
+12	is	_	VBZ	VBZ	_	5	ccomp	_	_
+13	to	_	TO	TO	_	15	aux	_	_
+14	be	_	VB	VB	_	15	auxpass	_	_
+15	used	_	VBN	VBN	_	12	xcomp	_	_
+16	sparingly	_	RB	RB	_	15	advmod	_	_
+17	.	_	.	.	_	5	punct	_	_
+

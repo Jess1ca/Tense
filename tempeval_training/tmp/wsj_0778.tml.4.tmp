@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT those) (NNS cases)))
+    (, ,)
+    (NP (DT the) (JJ high) (NN court))
+    (VP (VBD ruled)
+      (SBAR (IN that)
+        (S
+          (NP (JJ federal) (NN law))
+          (VP (VBZ gives)
+            (NP (NNS prosecutors))
+            (NP (JJ broad) (NN authority)
+              (S
+                (VP (TO to)
+                  (VP (VB seize)
+                    (NP
+                      (NP (NNS assets))
+                      (PP (IN of)
+                        (NP
+                          (NP (NNS people))
+                          (VP (VBN accused)
+                            (PP (IN of)
+                              (NP (NN racketeering)
+                                (CC and)
+                                (JJ drug-related) (NNS crimes)))
+                            (, ,)
+                            (PP (VBG including)
+                              (NP
+                                (NP (NNS fees))
+                                (VP (VBN paid)
+                                  (PP (TO to)
+                                    (NP (NNS lawyers)))
+                                  (PP (IN before)
+                                    (NP (DT an) (NN indictment))))))))))))))))))
+    (. .)))
+

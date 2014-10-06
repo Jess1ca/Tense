@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (PRP$ Its) (NN ratio))
+        (PP (IN of)
+          (NP
+            (NP (JJ tangible) (NN equity))
+            (PP (TO to)
+              (NP
+                (NP (JJ total) (NNS assets))
+                (PP (RB as) (IN of)
+                  (NP (NNP Sept.) (CD 30))))))))
+      (VP (VBD was)
+        (NP (CD 3.6) (NN %))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (JJ total) (NN equity))
+      (VP (VBD was)
+        (NP
+          (QP ($ $) (CD 457.9) (CD million)))))
+    (. .)))
+

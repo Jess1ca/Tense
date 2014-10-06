@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP McCaw))
+      (, ,)
+      (NP
+        (NP (DT the) (JJS largest) (NN provider))
+        (PP (IN of)
+          (NP
+            (NP (JJ cellular) (NN telephone) (NN service))
+            (PP (IN in)
+              (NP (DT the) (NNP U.S.))))))
+      (, ,))
+    (ADVP (RB already))
+    (VP (VBZ owns)
+      (NP
+        (NP
+          (QP (RB about) (CD 9.4))
+          (NN %))
+        (PP (IN of)
+          (NP
+            (NP (NNP LIN) (POS 's))
+            (NN stock)))))
+    (. .)))
+

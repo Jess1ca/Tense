@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Volume))
+      (PP (IN on)
+        (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))))
+    (VP (VBD totaled)
+      (NP
+        (QP (CD 175.2) (CD million))
+        (NNS shares)))
+    (. .)))
+

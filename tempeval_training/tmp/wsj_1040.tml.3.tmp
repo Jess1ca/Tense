@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN move))
+      (VP
+        (VP (VBZ rewards)
+          (NP (NNS shareholders)))
+        (CC and)
+        (VP (MD should)
+          (VP (VB improve)
+            (NP
+              (NP (DT the) (NN stock) (POS 's))
+              (NN liquidity))))))
+    (, ,)
+    (NP (NNP Oneida))
+    (VP (VBD said))
+    (. .)))
+

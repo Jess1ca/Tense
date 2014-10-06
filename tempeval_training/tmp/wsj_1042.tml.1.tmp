@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (ADVP (RB Currently))
+    (, ,)
+    (NP
+      (NP (NNP Avon))
+      (, ,)
+      (VP (VBN based)
+        (PP (IN in)
+          (NP
+            (NP (NNP Santa) (NNP Monica))
+            (, ,)
+            (NP (NNP Calif.)))))
+      (, ,))
+    (VP (VBZ has)
+      (NP
+        (NP
+          (QP (CD 3.3) (CD million))
+          (JJ common) (NNS shares))
+        (ADJP (JJ outstanding))))
+    (. .)))
+

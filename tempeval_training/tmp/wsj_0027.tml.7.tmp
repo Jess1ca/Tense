@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Mr.) (NNP Stronach))
+      (, ,)
+      (NP
+        (NP (NN founder)
+          (CC and)
+          (VBG controlling) (NN shareholder))
+        (PP (IN of)
+          (NP (FW Magna))))
+      (, ,))
+    (VP (VBD resigned)
+      (PP (IN as)
+        (NP (JJ chief) (JJ executive) (NN officer)))
+      (NP (JJ last) (NN year))
+      (S
+        (VP (TO to)
+          (VP (VB seek) (, ,)
+            (ADVP (RB unsuccessfully))
+            (, ,)
+            (NP
+              (NP (DT a) (NN seat))
+              (PP (IN in)
+                (NP
+                  (NP (NNP Canada) (POS 's))
+                  (NNP Parliament))))))))
+    (. .)))
+

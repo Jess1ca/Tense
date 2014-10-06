@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (PP (IN Since)
+      (NP (RB then)))
+    (, ,)
+    (NP (NNP Intel))
+    (VP (VBZ has)
+      (VP (VBN cornered)
+        (NP
+          (NP (DT a) (JJ large) (NN part))
+          (PP (IN of)
+            (NP (DT the) (NN market))))
+        (PP (IN with)
+          (NP
+            (NP (JJ successive) (NNS generations))
+            (PP (IN of)
+              (NP (JJ 16-bit)
+                (CC and)
+                (JJ 32-bit) (NNS chips)))
+            (, ,)
+            (SBAR
+              (WHNP (DT all)
+                (WHPP (IN of)
+                  (WHNP (WDT which))))
+              (S
+                (VP (MD can)
+                  (VP (VB run)
+                    (NP
+                      (NP (NN software))
+                      (VP (VBN written)
+                        (PP (IN for)
+                          (NP (JJ previous) (NNS models)))))))))))))
+    (. .)))
+

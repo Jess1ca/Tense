@@ -1,0 +1,27 @@
+1	Big	_	JJ	JJ	_	4	amod	_	_
+2	personal	_	JJ	JJ	_	4	amod	_	_
+3	computer	_	NN	NN	_	4	nn	_	_
+4	makers	_	NNS	NNS	_	12	nsubj	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	many	_	JJ	JJ	_	7	amod	_	_
+7	makers	_	NNS	NNS	_	4	conj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	engineering	_	NN	NN	_	10	nn	_	_
+10	workstations	_	NNS	NNS	_	8	pobj	_	_
+11	are	_	VBP	VBP	_	12	aux	_	_
+12	developing	_	VBG	VBG	_	0	root	_	_
+13	486-based	_	JJ	JJ	_	14	amod	_	_
+14	machines	_	NNS	NNS	_	12	dobj	_	_
+15	,	_	,	,	_	14	punct	_	_
+16	which	_	WDT	WDT	_	18	nsubjpass	_	_
+17	are	_	VBP	VBP	_	18	auxpass	_	_
+18	expected	_	VBN	VBN	_	14	rcmod	_	_
+19	to	_	TO	TO	_	20	aux	_	_
+20	reach	_	VB	VB	_	18	xcomp	_	_
+21	the	_	DT	DT	_	22	det	_	_
+22	market	_	NN	NN	_	20	dobj	_	_
+23	early	_	RB	RB	_	25	advmod	_	_
+24	next	_	JJ	JJ	_	25	amod	_	_
+25	year	_	NN	NN	_	20	tmod	_	_
+26	.	_	.	.	_	12	punct	_	_
+

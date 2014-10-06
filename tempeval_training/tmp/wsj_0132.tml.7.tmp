@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNS Sales))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VBD were)
+      (ADJP (RB little) (JJ changed))
+      (PP (IN at)
+        (NP
+          (QP (CD 2.46) (CD billion))
+          (NNS guilders)))
+      (, ,)
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP
+            (QP (CD 2.42) (CD billion))
+            (NNS guilders)))))
+    (. .)))
+

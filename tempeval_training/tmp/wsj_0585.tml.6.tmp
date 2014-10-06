@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Estimates))
+      (PP (IN from)
+        (NP (NNS traders))))
+    (VP (VBD put)
+      (NP (PRP it))
+      (PP (IN at)
+        (NP
+          (NP
+            (QP (JJR less) (IN than) (CD 5))
+            (NN %))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP (NNP Nasdaq) (POS 's))
+                (JJ average) (JJ daily) (NN volume))
+              (PP (IN of)
+                (NP
+                  (QP (RB roughly) (CD 133) (CD million))
+                  (NNS shares))))))))
+    (. .)))
+

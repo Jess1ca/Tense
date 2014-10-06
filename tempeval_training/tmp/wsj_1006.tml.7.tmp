@@ -1,0 +1,17 @@
+(ROOT
+  (S (`` ``)
+    (PP (IN At)
+      (NP (DT this) (NN stage)))
+    (NP (PRP it))
+    (VP (VBD was)
+      (VP (VBN felt)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD was)
+              (ADVP (RB perhaps))
+              (ADJP (RBR more) (JJ pertinent)
+                (PP (IN as)
+                  (NP (JJ chief) (NN executive)))))))))
+    (. .) ('' '')))
+

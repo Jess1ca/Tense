@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (JJ Third-quarter) (NNS results))
+    (VP (VBD included)
+      (NP
+        (NP (JJ net) (VBN realized) (NN capital) (NNS gains))
+        (PP (IN of)
+          (NP
+            (QP ($ $) (CD 48) (CD million))))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD included)
+              (NP
+                (QP ($ $) (CD 27) (CD million)))
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (NN sale))
+                  (PP (IN of)
+                    (NP (NNP Federated) (NNPS Investors)))))
+              (PP (IN in)
+                (NP
+                  (NP (NNP August))
+                  (CC and)
+                  (NP (DT a)
+                    (ADJP
+                      (QP ($ $) (CD 15) (CD million)))
+                    (NN tax) (NN credit)))))))))
+    (. .)))
+

@@ -1,0 +1,14 @@
+1	Dominion	_	NNP	NNP	_	4	nn	_	_
+2	Textile	_	NNP	NNP	_	4	nn	_	_
+3	Inc.	_	NNP	NNP	_	4	nn	_	_
+4	holders	_	NNS	NNS	_	5	nsubj	_	_
+5	adopted	_	VBD	VBD	_	0	root	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	shareholder-rights	_	JJ	JJ	_	8	amod	_	_
+8	plan	_	NN	NN	_	5	dobj	_	_
+9	at	_	IN	IN	_	5	prep	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	annual	_	JJ	JJ	_	12	amod	_	_
+12	meeting	_	NN	NN	_	9	pobj	_	_
+13	.	_	.	.	_	5	punct	_	_
+

@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (ADVP (RB Separately))
+    (, ,)
+    (NP
+      (NP (NNP America) (NNP West) (NNPS Airlines))
+      (, ,)
+      (NP (NNP Phoenix) (, ,) (NNP Ariz.))
+      (, ,))
+    (VP (VBD reported)
+      (SBAR
+        (S
+          (NP (JJ third-quarter) (NN profit))
+          (VP (VBD jumped)
+            (NP (CD 45) (NN %))
+            (PP (TO to)
+              (NP
+                (NP
+                  (QP ($ $) (CD 5.8) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (CD 28) (NNS cents))
+                  (NP (DT a) (NN share)))
+                (, ,)))
+            (PP (IN from)
+              (NP
+                (NP
+                  (QP ($ $) (CD 4) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (CD 24) (NNS cents))
+                  (NP (DT a) (NN share)))
+                (, ,))
+              (NP (DT a) (NN year) (RBR earlier)))))))
+    (. .)))
+

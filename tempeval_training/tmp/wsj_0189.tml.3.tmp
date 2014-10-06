@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (NP (DT the) (NN year))
+        (VP (VBN ended)
+          (NP (NNP Sept.) (CD 30)))))
+    (, ,)
+    (NP (NNP Ralston))
+    (VP (VBD earned)
+      (NP
+        (NP
+          (QP ($ $) (CD 422.5) (CD million)))
+        (, ,)
+        (CC or)
+        (NP
+          (NP ($ $) (CD 6.44))
+          (NP (DT a) (NN share)))
+        (, ,)
+        (ADVP (RB up)
+          (NP (CD 8.9) (NN %))))
+      (PP (IN from)
+        (NP
+          (NP
+            (QP ($ $) (CD 387.8) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP ($ $) (CD 5.63))
+            (NP (DT a) (NN share))))))
+    (. .)))
+

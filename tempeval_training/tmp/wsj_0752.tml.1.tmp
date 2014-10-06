@@ -1,0 +1,28 @@
+(ROOT
+  (SINV
+    (S
+      (NP (DT The) (NN split))
+      (VP (VBD was)
+        (VP (VBN aimed)
+          (PP (IN at)
+            (S
+              (VP (VBG boosting)
+                (NP
+                  (NP (DT the) (NN stock) (POS 's))
+                  (NN liquidity))))))))
+    (, ,)
+    (VP (VBD said))
+    (NP
+      (NP (NNP Brendan) (NNP Barba))
+      (, ,)
+      (NP
+        (NP (NN chairman))
+        (PP (IN of)
+          (NP
+            (NP (DT the)
+              (NAC (NNP Moonachie) (, ,) (NNP N.J.) (, ,))
+              (NN maker))
+            (PP (IN of)
+              (NP (JJ plastic) (NN film) (NNS products)))))))
+    (. .)))
+

@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (NNP Westinghouse))
+        (VP (VBZ has) (RB n't)
+          (VP (VBN had)
+            (NP (DT a) (JJ nuclear) (NN power) (NN plant) (NN order))
+            (PP (IN from)
+              (NP (DT a) (NNP U.S.) (NN utility)))
+            (PP (IN in)
+              (NP (RB about) (DT a) (NN decade)))))))
+    (, ,)
+    (NP (JJ excess) (NN capacity))
+    (VP (VBZ is)
+      (VP (VBG beginning)
+        (S
+          (VP (TO to)
+            (VP (VB shrink))))))
+    (. .)))
+

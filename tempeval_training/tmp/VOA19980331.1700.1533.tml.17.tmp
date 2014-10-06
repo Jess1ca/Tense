@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (ADVP (JJ Nationwide))
+    (, ,)
+    (NP (EX there))
+    (VP (VBP are)
+      (NP
+        (NP
+          (QP (RB about) (CD ten) (CD thousand))
+          (NNS patients))
+        (VP (VBG waiting)
+          (PP (IN for)
+            (NP
+              (NP
+                (NP (NN liver) (NNS transplants))
+                (NP (DT each) (NN year)))
+              (CC and)
+              (NP
+                (NP
+                  (QP (RB only) (CD four) (CD thousand))
+                  (NNS organs))
+                (VP (VBN become)
+                  (ADJP (JJ available))
+                  (PP (IN for)
+                    (NP (NNS transplants))))))))))
+    (. .)))
+

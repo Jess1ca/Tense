@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (MD could) (RB n't)
+      (VP (VB be)
+        (VP (VBN reached)
+          (PP (IN for)
+            (NP (NN comment))))))
+    (. .)))
+

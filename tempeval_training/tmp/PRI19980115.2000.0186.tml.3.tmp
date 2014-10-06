@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN nineteen) (NN ninety-one)))
+    (NP (NNP Charles) (NNP Keating))
+    (VP (VBD was)
+      (VP (VBN convicted)
+        (PP (IN in)
+          (NP
+            (NP (NN state) (NN court))
+            (PP (IN of)
+              (S
+                (VP (VBG helping)
+                  (S
+                    (VP (TO to)
+                      (VP (VB defraud)
+                        (NP
+                          (NP (NNS thousands))
+                          (PP (IN of)
+                            (NP
+                              (NP (NNS investors))
+                              (SBAR
+                                (WHNP (WP who))
+                                (S
+                                  (VP (VBD bought)
+                                    (SBAR
+                                      (S
+                                        (NP (JJ high) (NN risk) (NN junk) (NNS bonds))
+                                        (VP (VBD sold)
+                                          (PP (IN by)
+                                            (NP
+                                              (NP (NNP Keating) (POS 's))
+                                              (NNS employees)))
+                                          (PP (IN at)
+                                            (NP (NNP Lincoln) (NNS savings)
+                                              (CC and)
+                                              (NN loan))))))))))))))))))))))
+    (. .)))
+

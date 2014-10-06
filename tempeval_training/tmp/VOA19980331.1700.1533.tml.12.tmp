@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (MD may) (, ,)
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN year))
+          (CC or)
+          (NP (CD two))))
+      (, ,)
+      (VP (VB save)
+        (NP (DT a) (JJ few) (JJR more) (NNS lives))
+        (SBAR (IN if)
+          (S
+            (NP (PRP you))
+            (VP (VBP do)
+              (NP (NN sickest))
+              (ADVP (RB first)))))))
+    (. .)))
+

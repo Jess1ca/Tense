@@ -1,0 +1,18 @@
+(ROOT
+  (S (CC And)
+    (PP (IN in)
+      (NP (NNP San) (NNP Francisco)))
+    (, ,)
+    (NP
+      (NP (DT a) (NN mansion))
+      (VP (VBG overlooking)
+        (NP
+          (NP (DT the) (NNP Pacific) (NNP Ocean))
+          (CC and)
+          (NP (DT the) (NNP Golden) (NNP Gate) (NNP Bridge)))))
+    (VP (VBZ is)
+      (VP (VBG slipping)
+        (PP (IN toward)
+          (NP (DT the) (NN sea)))))
+    (. .)))
+

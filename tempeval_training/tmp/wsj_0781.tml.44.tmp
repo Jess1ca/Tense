@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Big) (JJ personal) (NN computer) (NNS makers))
+      (CC and)
+      (NP
+        (NP (JJ many) (NNS makers))
+        (PP (IN of)
+          (NP (NN engineering) (NNS workstations)))))
+    (VP (VBP are)
+      (VP (VBG developing)
+        (NP
+          (NP (JJ 486-based) (NNS machines))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBP are)
+                (VP (VBN expected)
+                  (S
+                    (VP (TO to)
+                      (VP (VB reach)
+                        (NP (DT the) (NN market))
+                        (NP (RB early) (JJ next) (NN year))))))))))))
+    (. .)))
+

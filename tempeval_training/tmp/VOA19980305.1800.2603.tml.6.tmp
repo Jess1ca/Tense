@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT An) (JJ Afghan) (NN refugee))
+        (PP (IN in)
+          (NP (NNP Switzerland))))
+      (, ,)
+      (NP (NNP Homira) (NNP Atimadi))
+      (, ,))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ senior) (NN official))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (NN group))
+            (VP (VBN called)
+              (NP
+                (NP (DT the) (NNP International) (NNP Working) (NNP Group))
+                (PP (IN on)
+                  (NP (JJ Afghan) (NNS Women)))))))))
+    (. .)))
+

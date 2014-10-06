@@ -1,0 +1,29 @@
+(ROOT
+  (SINV
+    (S
+      (NP (PRP We))
+      (VP (VBD did) (RB n't)
+        (VP (VB expect)
+          (S
+            (NP (NNP BellSouth))
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (RB so) (JJ responsive))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Frederick) (NNP A.) (NNP Moran))
+      (, ,)
+      (NP
+        (NP (NN president))
+        (PP (IN of)
+          (NP
+            (NP (NNP Moran) (NNP Asset) (NNP Management) (NNP Inc.))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ holds)
+                  (NP (CD 500,000) (NNP LIN) (NNS shares)))))))))
+    (. .)))
+

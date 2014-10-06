@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN Through)
+      (NP (PRP$ his) (NNS lawyers)))
+    (, ,)
+    (NP (NNP Mr.) (NNP Antar))
+    (VP (VBZ has)
+      (VP (VBN denied)
+        (NP (NNS allegations))
+        (PP
+          (PP (IN in)
+            (NP (DT the) (NNP SEC) (NN suit)))
+          (CC and)
+          (PP (IN in)
+            (NP
+              (NP (JJ civil) (NNS suits))
+              (VP
+                (ADVP (RB previously))
+                (VBN filed)
+                (PP (IN by)
+                  (NP
+                    (NP (NNS shareholders))
+                    (PP (IN against)
+                      (NP
+                        (NP (NNP Mr.) (NNP Antar))
+                        (CC and)
+                        (NP (NNS others))))))))))))
+    (. .)))
+

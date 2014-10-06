@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (ADVP (RB Indeed))
+    (, ,)
+    (NP (NNP McCaw))
+    (VP (VBD seemed)
+      (S
+        (VP (TO to)
+          (VP (VB hint)
+            (PP (IN at)
+              (NP
+                (NP (DT that) (NN option))
+                (PP (IN in)
+                  (NP (DT a) (JJ brief) (NN statement)))))))))
+    (. .)))
+

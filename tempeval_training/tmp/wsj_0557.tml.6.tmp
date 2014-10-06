@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT That) (NN sale))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (MD could)
+      (ADVP (RB still))
+      (VP (VB fall)
+        (PRT (RP through))
+        (SBAR (IN if)
+          (S
+            (NP (NN financing) (NNS problems))
+            (VP (VBP develop))))))
+    (. .)))
+

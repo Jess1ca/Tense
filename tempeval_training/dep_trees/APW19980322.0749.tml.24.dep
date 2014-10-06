@@ -1,0 +1,20 @@
+1	An	_	DT	DT	_	4	det	_	_
+2	elderly	_	JJ	JJ	_	4	amod	_	_
+3	Catholic	_	JJ	JJ	_	4	amod	_	_
+4	man	_	NN	NN	_	6	nsubjpass	_	_
+5	was	_	VBD	VBD	_	6	auxpass	_	_
+6	hospitalized	_	VBN	VBN	_	0	root	_	_
+7	from	_	IN	IN	_	6	prep	_	_
+8	cuts	_	NNS	NNS	_	7	pobj	_	_
+9	after	_	IN	IN	_	14	mark	_	_
+10	a	_	DT	DT	_	13	det	_	_
+11	Protestant	_	JJ	JJ	_	13	amod	_	_
+12	gasoline	_	NN	NN	_	13	nn	_	_
+13	bomb	_	NN	NN	_	14	nsubj	_	_
+14	landed	_	VBD	VBD	_	6	advcl	_	_
+15	in	_	IN	IN	_	14	prep	_	_
+16	his	_	PRP$	PRP$	_	18	poss	_	_
+17	back	_	JJ	JJ	_	18	amod	_	_
+18	yard	_	NN	NN	_	15	pobj	_	_
+19	.	_	.	.	_	6	punct	_	_
+

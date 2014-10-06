@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (DT The) (VBN increased) (NN dividend))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN paid)
+          (NP (NNP Dec.) (CD 14))
+          (PP (TO to)
+            (NP
+              (NP (NNS holders))
+              (PP (IN of)
+                (NP (NN record)))
+              (NP (NNP Nov.) (CD 15)))))))
+    (. .)))
+

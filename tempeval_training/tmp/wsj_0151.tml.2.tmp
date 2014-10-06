@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Ackerman))
+    (ADVP (RB already))
+    (VP (VBZ is)
+      (VP (VBG seeking)
+        (S
+          (VP (TO to)
+            (VP (VB oust)
+              (NP
+                (NP (NNP Mr.) (NNP Edelman))
+                (PP (IN as)
+                  (NP
+                    (NP (NN chairman))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP Datapoint) (NNP Corp.))
+                        (, ,)
+                        (NP (DT an) (NNP Intelogic) (NN affiliate))))))))))))
+    (. .)))
+

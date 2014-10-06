@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP IMA) (NNPS Holdings) (NNP Corp.))
+    (VP (VBD completed)
+      (NP
+        (NP (PRP$ its)
+          (ADJP
+            (QP ($ $) (CD 3) (CD billion)))
+          (NN acquisition))
+        (PP (IN of)
+          (NP (NNP American) (NNP Medical) (NNP International) (NNP Inc.))))
+      (, ,)
+      (S
+        (VP (VBG purchasing)
+          (NP
+            (NP
+              (QP (CD 63) (CD million))
+              (NNS shares))
+            (, ,)
+            (CC or)
+            (NP (CD 86) (NN %))
+            (, ,)
+            (PP (IN of)
+              (NP
+                (NP (DT the)
+                  (ADJP (NNP Los) (JJ Angeles-based))
+                  (NN health-care) (NNS services) (NN concern))
+                (PP (IN for)
+                  (NP
+                    (NP ($ $) (CD 26.50))
+                    (NP (DT a) (NN share))))))))))
+    (. .)))
+

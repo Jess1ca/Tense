@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Kuwait)))
+    (, ,)
+    (NP (DT the) (NNPS Iraqis))
+    (VP (VBP have)
+      (VP (VBN rimmed)
+        (NP (DT the) (NN capital) (NN city))
+        (PP (IN with)
+          (NP (DT an) (JJ air-defense) (NN system)))
+        (, ,)
+        (PP (VBG according)
+          (PP (TO to)
+            (NP
+              (NP (DT a) (NNP U.S.) (NN official))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBD spoke)
+                    (PP (IN on)
+                      (NP
+                        (NP (DT the) (NN condition))
+                        (PP (IN of)
+                          (NP (NN anonymity)))))))))))))
+    (. .)))
+

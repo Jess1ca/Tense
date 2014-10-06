@@ -1,0 +1,24 @@
+1	Asked	_	VBN	VBN	_	15	vmod	_	_
+2	how	_	WRB	WRB	_	5	advmod	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	company	_	NN	NN	_	5	nsubj	_	_
+5	hopes	_	VBZ	VBZ	_	1	ccomp	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	expand	_	VB	VB	_	5	xcomp	_	_
+8	its	_	PRP$	PRP$	_	11	poss	_	_
+9	computer	_	NN	NN	_	11	nn	_	_
+10	hardware	_	NN	NN	_	11	nn	_	_
+11	business	_	NN	NN	_	7	dobj	_	_
+12	,	_	,	,	_	15	punct	_	_
+13	Mr.	_	NNP	NNP	_	14	nn	_	_
+14	Ousley	_	NNP	NNP	_	15	nsubj	_	_
+15	said	_	VBD	VBD	_	0	root	_	_
+16	it	_	PRP	PRP	_	17	nsubj	_	_
+17	sees	_	VBZ	VBZ	_	15	ccomp	_	_
+18	good	_	JJ	JJ	_	19	amod	_	_
+19	opportunities	_	NNS	NNS	_	17	dobj	_	_
+20	in	_	IN	IN	_	19	prep	_	_
+21	systems	_	NNS	NNS	_	22	nn	_	_
+22	integration	_	NN	NN	_	20	pobj	_	_
+23	.	_	.	.	_	15	punct	_	_
+

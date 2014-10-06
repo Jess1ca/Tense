@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP Thrift) (NNS officials))
+    (VP
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (DT the)
+              (ADJP
+                (QP ($ $) (CD 300) (CD million)))
+              (NN reserve))
+            (VP (MD will)
+              (VP (VB be)
+                (VP (VBN adjusted)
+                  (ADVP (RB quarterly))))))))
+      (CC and)
+      (VP (MD will)
+        (VP (VB reflect)
+          (NP
+            (NP (DT the) (NN rate))
+            (PP (IN of)
+              (NP (NNS dispositions)
+                (CC and)
+                (NN market) (NNS conditions)))))))
+    (. .)))
+

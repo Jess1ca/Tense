@@ -1,0 +1,26 @@
+(ROOT
+  (SINV
+    (S
+      (NP (NNS Proceeds))
+      (VP (MD will)
+        (VP (VB be)
+          (VP (VBN used)
+            (S
+              (VP (TO to)
+                (VP (VB reduce)
+                  (NP (JJ short-term) (NN debt))
+                  (PP (IN at)
+                    (NP (DT the) (NN beer)
+                      (CC and)
+                      (NN food) (NN concern))))))))))
+    (, ,)
+    (VP (VBD said))
+    (NP
+      (NP (NNP Robert) (NNP Vaux))
+      (, ,)
+      (NP
+        (NP (NN vice) (NN president))
+        (, ,)
+        (NP (NN finance))))
+    (. .)))
+

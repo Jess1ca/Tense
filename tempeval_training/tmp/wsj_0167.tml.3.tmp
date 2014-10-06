@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NNP RMS))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD had)
+            (NP
+              (NP (DT a) (NN loss))
+              (PP (IN of)
+                (NP
+                  (NP ($ $) (CD 158,666))
+                  (, ,)
+                  (CC or)
+                  (NP
+                    (NP (CD 10) (NNS cents))
+                    (NP (DT a) (NN share)))
+                  (, ,))))
+            (PP (IN in)
+              (NP (DT the) (JJ third) (NN quarter)))
+            (, ,)
+            (PP (VBN compared)
+              (PP (IN with)
+                (NP
+                  (NP
+                    (NP (DT a) (JJ year-earlier) (NN loss))
+                    (PP (IN of)
+                      (NP ($ $) (CD 26,956))))
+                  (, ,)
+                  (CC or)
+                  (NP
+                    (NP (CD two) (NNS cents))
+                    (NP (DT a) (NN share))))))))))
+    (. .)))
+

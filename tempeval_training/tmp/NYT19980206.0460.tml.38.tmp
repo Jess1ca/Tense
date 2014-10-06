@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN Among)
+      (NP (JJ high) (NN school) (NNS graduates)))
+    (, ,)
+    (NP (DT the) (NN rate))
+    (VP (VBD was)
+      (NP
+        (NP
+          (QP (CD 3.9) (CD percent)))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (NN college) (NNS graduates))
+          (, ,)
+          (NP (CD 1.9) (NN percent)))))
+    (. .)))
+

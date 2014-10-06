@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (DT The) (NN quarantine))
+    (VP (VBZ hopes)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB staunch)
+              (NP
+                (NP (DT the) (NN flow))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ Iraqi) (NN oil))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBZ is)
+                          (NP
+                            (NP (NNP Iraq) (POS 's))
+                            (JJ economic) (NN lifeblood)))))
+                    (, ,)))))
+            (CC and)
+            (VP (VB clamp)
+              (PRT (RP down))
+              (PP (IN on)
+                (NP
+                  (NP (NN food)
+                    (CC and)
+                    (NNS supplies))
+                  (VP (VBG going)
+                    (PRT (RP in))))))))))
+    (. .)))
+

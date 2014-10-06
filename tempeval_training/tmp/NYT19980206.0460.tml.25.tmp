@@ -1,0 +1,31 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (EX There))
+      (VP (VBP are)
+        (NP
+          (NP (JJ enormous)
+            (ADJP (JJ economic)
+              (CC and)
+              (JJ social))
+            (NNS benefits))
+          (PP (IN from)
+            (NP
+              (NP (PRP$ our) (NN nation) (POS 's))
+              (JJ high-employment) (NN economy))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Janet) (NNP Yellen))
+      (, ,)
+      (NP
+        (NP (DT the) (NN chairwoman))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP (DT the) (NNP White) (NNP House) (POS 's))
+              (NNP Council))
+            (PP (IN of)
+              (NP (NNP Economic) (NNPS Advisers)))))))
+    (. .)))
+

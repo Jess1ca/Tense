@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP
+          (NP (DT the) (JJ strong) (NN yen))
+          (CC and)
+          (NP
+            (NP (DT the) (JJ high) (NN stock) (NNS prices))
+            (PP (IN of)
+              (NP (JJ Japanese) (NNS companies)))))
+        (VP (VBD were) (RB n't)
+          (ADJP (RB deterrents) (JJ enough)))))
+    (, ,)
+    (NP
+      (NP (NNS webs))
+      (PP (IN of)
+        (NP
+          (NP
+            (NP (NNS cross-shareholdings))
+            (PP (IN between)
+              (NP (JJ friendly) (JJ Japanese) (NNS companies))))
+          (CC and)
+          (NP
+            (ADJP (RB fiercely) (JJ independent))
+            (JJ Japanese) (JJ corporate) (NNS attitudes)))))
+    (VP (VBP repel)
+      (NP (RBS most) (JJ would-be) (NNS acquirers)))
+    (. .)))
+

@@ -1,0 +1,29 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (VBD were) (RB n't)
+        (ADJP (RB as) (JJ concerned))
+        (SBAR (IN until)
+          (S
+            (NP (PRP they))
+            (VP (VBD became)
+              (VP (VB sell)
+                (NP (NNS programs))))))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP
+      (NP (NNP Mr.) (NNP DaPuzzo))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (ADVP (RB now))
+          (VP (VBZ thinks)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (VBZ adds)
+                  (NP (JJ unnecessary) (NN volatility)))))))))
+    (. .)))
+

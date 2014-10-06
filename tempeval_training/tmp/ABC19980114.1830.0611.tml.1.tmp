@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ 's)
+        (ADJP
+          (ADJP (NN nothing) (JJ new))
+          (PP (IN on)
+            (SBAR
+              (WHADVP (WRB why))
+              (S
+                (NP (DT the) (NN plane))
+                (VP (VBD exploded))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP you))
+      (VP (MD can) (RB not)
+        (VP (VB miss)
+          (NP (DT the) (NN moment)))))
+    (. .)))
+

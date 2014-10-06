@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (NNS profits))
+        (VP (VBD were) ('' '')
+          (NP (NNS squeezed))
+          ('' '')
+          (PP (IN in)
+            (NP (CD 1989)))
+          (, ,)
+          (ADVP (RB mainly))
+          (PP (IN as)
+            (NP
+              (NP (DT a) (NN result))
+              (PP (IN of)
+                (NP (JJR higher) (NN raw-material) (NNS costs))))))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (ADJP (JJ confident)
+              (PP (IN about)
+                (NP
+                  (NP (JJ future) (NNS earnings)
+                    (CC and)
+                    (NN cash) (NN flow))
+                  (PP (IN for)
+                    (NP (CD 1990)
+                      (CC and)
+                      (IN beyond))))))))))
+    (. .)))
+

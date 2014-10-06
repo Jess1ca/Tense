@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP NPR) (POS 's))
+      (NNP Elaine) (NNP Corey))
+    (VP (VBZ has)
+      (NP
+        (NP (JJR more))
+        (PP (IN from)
+          (NP (NNP San) (NNP Francisco)))))
+    (. .)))
+

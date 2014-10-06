@@ -1,0 +1,26 @@
+1	``	_	``	``	_	24	punct	_	_
+2	We	_	PRP	PRP	_	5	nsubj	_	_
+3	have	_	VBP	VBP	_	5	aux	_	_
+4	always	_	RB	RB	_	5	advmod	_	_
+5	taken	_	VBN	VBN	_	24	ccomp	_	_
+6	smaller	_	JJR	JJR	_	7	amod	_	_
+7	accounts	_	NNS	NNS	_	5	dobj	_	_
+8	,	_	,	,	_	5	punct	_	_
+9	but	_	CC	CC	_	5	cc	_	_
+10	now	_	RB	RB	_	13	advmod	_	_
+11	we	_	PRP	PRP	_	13	nsubj	_	_
+12	are	_	VBP	VBP	_	13	aux	_	_
+13	looking	_	VBG	VBG	_	5	conj	_	_
+14	for	_	IN	IN	_	13	prep	_	_
+15	smaller	_	JJR	JJR	_	16	amod	_	_
+16	accounts	_	NNS	NNS	_	14	pobj	_	_
+17	that	_	WDT	WDT	_	19	nsubj	_	_
+18	will	_	MD	MD	_	19	aux	_	_
+19	grow	_	VB	VB	_	16	rcmod	_	_
+20	,	_	,	,	_	24	punct	_	_
+21	''	_	''	''	_	24	punct	_	_
+22	Mr.	_	NNP	NNP	_	23	nn	_	_
+23	Schwarz	_	NNP	NNP	_	24	nsubj	_	_
+24	says	_	VBZ	VBZ	_	0	root	_	_
+25	.	_	.	.	_	24	punct	_	_
+

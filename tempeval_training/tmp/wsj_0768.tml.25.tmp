@@ -1,0 +1,22 @@
+(ROOT
+  (SINV
+    (S
+      (ADVP (RB Still))
+      (, ,)
+      (NP
+        (NP (NNS two-thirds))
+        (PP (IN of)
+          (NP (DT the) (NN outflow))))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN steered)
+            (PP (IN into)
+              (NP (JJ other) (NNP Vanguard) (NNS portfolios)))))))
+    (, ,)
+    (VP (VBZ says))
+    (NP
+      (NP (NNP Brian) (NNP Mattes))
+      (, ,)
+      (NP (DT a) (NN vice) (NN president)))
+    (. .)))
+

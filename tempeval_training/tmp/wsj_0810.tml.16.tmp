@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (S
+      (SBAR (IN Once)
+        (S
+          (NP (PRP he))
+          (VP (VBD realized)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (NNP Paribas) (POS 's))
+                  (NNS intentions))
+                (VP (VBD were) (RB n't)
+                  (ADJP (JJ friendly))))))))
+      (, ,)
+      (NP (PRP he))
+      (VP (VBD said)))
+    (, ,)
+    (CC but)
+    (S
+      (SBAR (IN before)
+        (S
+          (NP (DT the) (NN bid))
+          (VP (VBD was)
+            (VP (VBN launched)))))
+      (, ,)
+      (NP (PRP he))
+      (VP (VBD sought)
+        (NP (NN approval))
+        (S
+          (VP (TO to)
+            (VP (VB boost)
+              (NP (PRP$ his) (NNP Paribas) (NN stake))
+              (PP (IN above)
+                (NP (CD 10) (NN %))))))))
+    (. .)))
+

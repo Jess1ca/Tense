@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (ADVP (RB Meanwhile))
+    (, ,)
+    (NP (JJ personal) (NN income))
+    (VP (VBD edged)
+      (PRT (RP up))
+      (NP (CD 0.3) (NN %)))
+    (. .)))
+

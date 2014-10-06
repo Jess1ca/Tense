@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NNP US) (JJ military) (NN buildup))
+        (PP (IN in)
+          (NP (DT the) (JJ Persian) (NN gulf))))
+      (VP (VBZ continues)
+        (ADJP (JJ apace))))
+    (, ,)
+    (S
+      (NP (JJR more) (NNS planes))
+      (VP (VBD headed)
+        (PP (IN from)
+          (NP (DT the) (VBN united) (NNS states)))))
+    (CC and)
+    (S
+      (NP (JJ senior) (NNS officials))
+      (VP (VBP say)
+        (NP
+          (NP
+            (NP (NNP Iraq) (POS 's))
+            (NN president))
+          (SBAR
+            (S
+              (NP (NNP Saddam) (NNP Hussein))
+              (VP (MD can)
+                (VP (VB expect)
+                  (S
+                    (VP (VBG punishing)
+                      (NP (NN air) (NNS strikes))
+                      (S
+                        (VP (TO to)
+                          (VP (VB continue)
+                            (ADVP (RB well))
+                            (PP (IN into)
+                              (NP (DT the) (NN future)))
+                            (SBAR (IN if)
+                              (S
+                                (NP (PRP he))
+                                (VP (VBZ does) (RB n't)
+                                  (VP (VB stop)
+                                    (NP (NN building) (JJ biological)
+                                      (CC and)
+                                      (JJ chemical) (NNS weapons))))))))))))))))))
+    (. .)))
+

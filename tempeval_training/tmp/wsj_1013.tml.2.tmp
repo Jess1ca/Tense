@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (JJ Total) (NNS assets))
+    (VP (VBD increased)
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 12.7) (CD billion))))
+      (PP (IN in)
+        (NP (DT the) (JJS latest) (NN quarter)))
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 12.4) (CD billion)))
+        (NP (DT a) (NN year) (RBR earlier))))
+    (. .)))
+

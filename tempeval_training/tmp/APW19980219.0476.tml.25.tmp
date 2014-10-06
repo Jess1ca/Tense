@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN aided)
+          (PP (IN by)
+            (NP (NNP Khmer) (NNP Rouge) (NNS guerrillas)))
+          (PP (IN from)
+            (NP
+              (NP (NNP Anlong) (NNP Veng))
+              (, ,)
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBP have)
+                    (VP (VBN formed)
+                      (NP (DT an) (NN alliance))
+                      (PP (IN with)
+                        (NP
+                          (NP (NNP Ranariddh) (POS 's))
+                          (NN resistance) (NNS forces)))
+                      (S
+                        (VP (TO to)
+                          (VP (VB oppose)
+                            (NP (NNP Hun) (NNP Sen.))))))))))))))))
+

@@ -1,0 +1,20 @@
+1	Their	_	PRP$	PRP$	_	2	poss	_	_
+2	motivation	_	NN	NN	_	6	nsubj	_	_
+3	,	_	,	,	_	6	punct	_	_
+4	however	_	RB	RB	_	6	advmod	_	_
+5	,	_	,	,	_	6	punct	_	_
+6	has	_	VBZ	VBZ	_	0	root	_	_
+7	a	_	DT	DT	_	10	det	_	_
+8	strong	_	JJ	JJ	_	9	amod	_	_
+9	practical	_	JJ	JJ	_	10	amod	_	_
+10	aspect	_	NN	NN	_	6	dobj	_	_
+11	:	_	:	:	_	6	punct	_	_
+12	Program	_	NN	NN	_	13	nn	_	_
+13	trading	_	NN	NN	_	14	nsubj	_	_
+14	is	_	VBZ	VBZ	_	6	parataxis	_	_
+15	hazardous	_	JJ	JJ	_	14	acomp	_	_
+16	to	_	TO	TO	_	15	prep	_	_
+17	their	_	PRP$	PRP$	_	18	poss	_	_
+18	paychecks	_	NNS	NNS	_	16	pobj	_	_
+19	.	_	.	.	_	6	punct	_	_
+

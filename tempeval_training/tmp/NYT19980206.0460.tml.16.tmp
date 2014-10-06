@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN surge))
+      (PP (IN in)
+        (NP (NNS jobs))))
+    (VP (VBZ reflects)
+      (NP
+        (NP (DT a) (JJ remarkable) (NN confluence))
+        (PP (IN of)
+          (NP
+            (ADJP (JJ positive)
+              (CC and)
+              (JJ self-reinforcing))
+            (JJ economic) (NNS forces)))))
+    (. .)))
+

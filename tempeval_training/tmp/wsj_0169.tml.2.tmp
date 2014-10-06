@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Ratners) (POS 's))
+        (NN chairman))
+      (, ,)
+      (NP (NNP Gerald) (NNP Ratner))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN deal))
+          (VP (VBZ remains)
+            (PP (IN of) (`` ``)
+              (NP (JJ substantial) (NN benefit)))
+            (PP (TO to)
+              (NP (NNP Ratners)))))))
+    (. .) ('' '')))
+

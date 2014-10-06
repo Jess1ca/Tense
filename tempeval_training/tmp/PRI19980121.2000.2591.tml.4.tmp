@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT The) (NN city))
+    (VP (MD could)
+      (VP (VB have)
+        (VP (VBN used)
+          (NP
+            (NP (DT some) (JJ special) (NN protection))
+            (PP (IN in)
+              (NP (NN nineteen) (NN seventy-nine))))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (DT the) (NNP Soviet) (NNP Union))
+              (VP (VBD invaded)
+                (NP (NNP Afghanistan))))))))
+    (. .)))
+

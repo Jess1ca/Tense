@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (PRP$ His) (NNS advisers))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNS results))
+          (VP (VBD reflected)
+            (NP (RB not) (RB just))
+            (PP (IN from)
+              (S
+                (VP (VBG balancing)
+                  (NP
+                    (NP (DT the) (NN budget))
+                    (, ,)
+                    (CONJP (CC but)
+                      (RB also))
+                    (NP
+                      (NP (NNS initiatives))
+                      (PP (IN like)
+                        (NP
+                          (NP (VBN improved) (NN access))
+                          (PP (TO to)
+                            (NP (NN education)
+                              (CC and)
+                              (NN training))))))
+                    (CC and)
+                    (NP
+                      (NP (DT the) (NN opening))
+                      (PP (IN of)
+                        (NP (JJ foreign) (NNS markets)))
+                      (S
+                        (VP (TO to)
+                          (VP (VB trade)))))))))))))
+    (. .)))
+

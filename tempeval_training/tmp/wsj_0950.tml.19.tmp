@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (NNP EDS)))
+    (, ,)
+    (NP (JJ third-quarter) (NN profit))
+    (VP (VBD jumped)
+      (NP (CD 16) (NN %))
+      (PP (TO to)
+        (NP
+          (NP (DT a) (JJ record)
+            (QP ($ $) (CD 110.9) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP (CD 93) (NNS cents))
+            (NP (DT a) (NN share)))
+          (, ,)))
+      (PP (IN from)
+        (NP
+          (NP
+            (QP ($ $) (CD 95.9) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP (CD 79) (NNS cents))
+            (NP (DT a) (NN share))))))
+    (. .)))
+

@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNP Home) (NNP Nutritional))
+    (ADVP (RB currently))
+    (VP (VBZ has)
+      (NP
+        (NP
+          (QP (CD 10) (CD million))
+          (NNS shares))
+        (ADJP (JJ outstanding))))
+    (. .)))
+

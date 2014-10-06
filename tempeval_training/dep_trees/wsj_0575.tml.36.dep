@@ -1,0 +1,24 @@
+1	``	_	``	``	_	20	punct	_	_
+2	We	_	PRP	PRP	_	5	nsubjpass	_	_
+3	've	_	VBP	VBP	_	5	aux	_	_
+4	been	_	VBN	VBN	_	5	auxpass	_	_
+5	listed	_	VBN	VBN	_	20	ccomp	_	_
+6	as	_	IN	IN	_	5	prep	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	candidate	_	NN	NN	_	6	pobj	_	_
+9	for	_	IN	IN	_	13	mark	_	_
+10	so	_	RB	RB	_	11	advmod	_	_
+11	long	_	RB	RB	_	13	advmod	_	_
+12	it	_	PRP	PRP	_	13	nsubj	_	_
+13	's	_	VBZ	VBZ	_	5	advcl	_	_
+14	not	_	RB	RB	_	13	neg	_	_
+15	worth	_	IN	IN	_	16	dep	_	_
+16	worrying	_	JJ	JJ	_	13	acomp	_	_
+17	about	_	IN	IN	_	16	prep	_	_
+18	,	_	,	,	_	20	punct	_	_
+19	''	_	''	''	_	20	punct	_	_
+20	said	_	VBD	VBD	_	0	root	_	_
+21	Mr.	_	NNP	NNP	_	22	nn	_	_
+22	Price	_	NNP	NNP	_	20	nsubj	_	_
+23	.	_	.	.	_	20	punct	_	_
+

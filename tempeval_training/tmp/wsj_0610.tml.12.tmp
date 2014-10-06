@@ -1,0 +1,32 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP
+        (NP (NNPS Cheerios))
+        (CC and)
+        (NP (NNP Honey) (NNP Nut) (NNPS Cheerios)))
+      (VP (VBP have)
+        (VP (VBN eaten)
+          (PRT (RP away))
+          (NP
+            (NP (NNS sales))
+            (VP
+              (ADVP (RB normally))
+              (VBG going)
+              (PP (TO to)
+                (NP
+                  (NP (NNP Kellogg) (POS 's))
+                  (JJ corn-based) (NNS lines)))
+              (ADVP (RB simply))))
+          (SBAR (IN because)
+            (S
+              (NP (PRP they))
+              (VP (VBP are)
+                (VP (VBN made)
+                  (PP (IN of)
+                    (NP (NNS oats))))))))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP (NNP Merrill) (NNP Lynch) (NN food) (NN analyst) (NNP William) (NNP Maguire))
+    (. .)))
+

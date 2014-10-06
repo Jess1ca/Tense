@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (PDT such) (DT an) (NN environment)))
+    (, ,)
+    (NP (NN market) (NNS makers))
+    (VP (MD can)
+      (VP (VB suffer)
+        (NP
+          (NP (JJ huge) (NNS losses))
+          (PP (DT both)
+            (PP (IN on)
+              (NP
+                (NP (NNS trades))
+                (VP (VBN made)
+                  (NP (DT that) (NN day))
+                  (PP (IN at)
+                    (NP
+                      (ADJP (RB steadily) (VBG dropping))
+                      (NNS prices))))))
+            (CC and)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN value))
+                (PP (IN of)
+                  (NP
+                    (NP (PRP$ their) (NNS inventories))
+                    (PP (IN of)
+                      (NP (NNS shares)))))))))))
+    (. .)))
+

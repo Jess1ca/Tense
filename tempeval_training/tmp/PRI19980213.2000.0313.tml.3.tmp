@@ -1,0 +1,20 @@
+(ROOT
+  (S (IN So)
+    (NP (DT that))
+    (VP (VBZ means)
+      (SBAR
+        (S
+          (NP (NN soil))
+          (VP (MD will)
+            (VP
+              (VP (VB fall)
+                (PRT (RP off))
+                (PP (IN in)
+                  (NP (NNS chunks))))
+              (CC and)
+              (VP (VB destroy)
+                (NP (NN anything))
+                (PP (IN in)
+                  (NP (PRP$ its) (NN path)))))))))
+    (. .)))
+

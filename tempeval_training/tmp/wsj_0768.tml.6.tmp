@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT Some) (NN fund) (NNS managers))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (JJ negative) (NN publicity))
+          (VP (VBZ has)
+            (VP (VBN exacerbated)
+              (NP
+                (NP (NNS investors) (POS '))
+                (NN concern))
+              (PP (IN about)
+                (NP
+                  (NP (JJ recent) (NNS declines))
+                  (PP (IN in)
+                    (NP (JJ junk-bond) (NNS prices))))))))))
+    (. .)))
+

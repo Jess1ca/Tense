@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP John) (NNP C.) (NNP Marous))
+      (, ,)
+      (NP (NN chairman)
+        (CC and)
+        (JJ chief) (NN executive) (NN officer))
+      (, ,))
+    (ADVP (RB also))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN company))
+          (VP (VBZ expects)
+            (S
+              (NP
+                (NP (NNS sales))
+                (PP (IN from)
+                  (NP (VBG continuing) (NNS businesses))))
+              (VP (TO to)
+                (VP (VB rise)
+                  (NP (CD 8.5) (NN %))
+                  (ADVP (RB annually))
+                  (PP (IN through)
+                    (NP (DT the) (JJ next) (CD three) (NNS years))))))))))
+    (. .)))
+

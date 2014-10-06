@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Australia))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (ADJP (JJ independent))
+          (PP (IN since)
+            (NP (CD 1901))))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (IN like)
+        (NP (JJ many) (NNP Commonwealth) (NNS nations)))
+      (NP (PRP it))
+      (VP
+        (ADVP (RB still))
+        (VBZ recognizes)
+        (NP
+          (NP (DT the) (JJ British) (NN monarch))
+          (PP (IN as)
+            (NP
+              (NP (PRP$ its) (NN head))
+              (PP (IN of)
+                (NP (NN state))))))))
+    (. .)))
+

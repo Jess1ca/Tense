@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ third) (NN quarter)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN company))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (NP (CD 61) (NN %))
+            (: -)
+            (FRAG
+              (VP (VBN owned)
+                (PP (IN by)
+                  (NP
+                    (NP (NNP Murphy) (NNP Oil) (NNP Corp.))
+                    (PP (IN of)
+                      (NP (NNP Arkansas))))))))))
+      (, ,))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ net) (NN loss))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 46.9) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 91) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,))))
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (VBN restated) (NN loss))
+            (PP (IN of)
+              (NP
+                (NP
+                  (QP ($ $) (CD 9) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (CD 18) (NNS cents))
+                  (NP (DT a) (NN share)))
+                (, ,)
+                (ADVP
+                  (NP (DT a) (NN year))
+                  (RB ago))))))))
+    (. .)))
+

@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (RB also))
+    (VP (VBD was)
+      (VP (VBG considering)
+        (NP (DT a) (NN restructuring)
+          (S
+            (VP (TO to)
+              (VP (VB help)
+                (VP (VB boost)
+                  (NP (DT the) (NN stock) (NN price)))))))))
+    (. .)))
+

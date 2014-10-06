@@ -1,0 +1,14 @@
+1	``	_	``	``	_	12	punct	_	_
+2	These	_	DT	DT	_	3	det	_	_
+3	errata	_	NNS	NNS	_	6	nsubj	_	_
+4	do	_	VBP	VBP	_	6	aux	_	_
+5	not	_	RB	RB	_	6	neg	_	_
+6	affect	_	VB	VB	_	12	ccomp	_	_
+7	business	_	NN	NN	_	8	nn	_	_
+8	programs	_	NNS	NNS	_	6	dobj	_	_
+9	,	_	,	,	_	12	punct	_	_
+10	''	_	''	''	_	12	punct	_	_
+11	he	_	PRP	PRP	_	12	nsubj	_	_
+12	said	_	VBD	VBD	_	0	root	_	_
+13	.	_	.	.	_	12	punct	_	_
+

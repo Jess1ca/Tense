@@ -1,0 +1,19 @@
+1	Year-earlier	_	JJ	JJ	_	2	amod	_	_
+2	results	_	NNS	NNS	_	3	nsubj	_	_
+3	included	_	VBD	VBD	_	0	root	_	_
+4	an	_	DT	DT	_	6	det	_	_
+5	extraordinary	_	JJ	JJ	_	6	amod	_	_
+6	gain	_	NN	NN	_	3	dobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	$	_	$	$	_	7	pobj	_	_
+9	1.6	_	CD	CD	_	10	number	_	_
+10	million	_	CD	CD	_	8	num	_	_
+11	from	_	IN	IN	_	3	prep	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	buy-back	_	NN	NN	_	11	pobj	_	_
+14	of	_	IN	IN	_	13	prep	_	_
+15	convertible	_	JJ	JJ	_	17	amod	_	_
+16	subordinated	_	VBN	VBN	_	17	amod	_	_
+17	debentures	_	NNS	NNS	_	14	pobj	_	_
+18	.	_	.	.	_	3	punct	_	_
+

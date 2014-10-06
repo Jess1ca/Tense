@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (PP (IN With)
+      (NP
+        (NP (JJ potential) (NN inflation))
+        (VP (VBN counterbalanced)
+          (PP (IN by)
+            (NP
+              (NP (NNS worries))
+              (PP (IN about)
+                (NP (JJ possible) (NN price) (NNS declines))))))))
+    (, ,)
+    (NP
+      (NP
+        (NP (DT the) (NNP Fed))
+        (CC and)
+        (NP (PRP$ its) (NN chairman)))
+      (, ,)
+      (NP (NNP Alan) (NNP Greenspan))
+      (, ,))
+    (VP (VBP have)
+      (VP (VBN suggested)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (VBP intend)
+              (S
+                (VP (TO to)
+                  (VP (VB keep)
+                    (S
+                      (NP (NN interest) (NNS rates))
+                      (ADJP (JJ unchanged)))
+                    (SBAR (IN until)
+                      (S
+                        (NP (DT the) (NN economy))
+                        (VP (VBZ tilts)
+                          (ADVP (RB clearly))
+                          (PP (IN in)
+                            (NP
+                              (NP (CD one) (NN direction))
+                              (CC or)
+                              (NP (DT another)))))))))))))))
+    (. .)))
+

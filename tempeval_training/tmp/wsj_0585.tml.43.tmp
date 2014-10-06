@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Nasdaq) (NNP Financial) (NNP Index))
+    (VP (VBD lost)
+      (NP
+        (NP
+          (QP (RB about) (CD 1))
+          (NN %))
+        (, ,)
+        (CC or)
+        (NP (CD 3.95))
+        (, ,))
+      (PP (TO to)
+        (NP (CD 448.80))))
+    (. .)))
+

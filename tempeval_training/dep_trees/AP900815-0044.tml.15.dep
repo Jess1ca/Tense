@@ -1,0 +1,18 @@
+1	Bush	_	NNP	NNP	_	3	nsubj	_	_
+2	can	_	MD	MD	_	3	aux	_	_
+3	call	_	VB	VB	_	0	root	_	_
+4	up	_	RP	RP	_	3	prt	_	_
+5	to	_	TO	TO	_	3	prep	_	_
+6	200,000	_	CD	CD	_	7	num	_	_
+7	reservists	_	NNS	NNS	_	5	pobj	_	_
+8	for	_	IN	IN	_	7	prep	_	_
+9	up	_	IN	IN	_	11	quantmod	_	_
+10	to	_	TO	TO	_	11	dep	_	_
+11	180	_	CD	CD	_	12	num	_	_
+12	days	_	NNS	NNS	_	8	pobj	_	_
+13	without	_	IN	IN	_	3	prep	_	_
+14	seeking	_	VBG	VBG	_	13	pcomp	_	_
+15	congressional	_	JJ	JJ	_	16	amod	_	_
+16	approval	_	NN	NN	_	14	dobj	_	_
+17	.	_	.	.	_	3	punct	_	_
+

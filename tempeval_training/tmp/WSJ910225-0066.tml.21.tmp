@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (CD one) (NN thing)))
+    (, ,)
+    (NP
+      (NP (NNP Iraq))
+      (ADVP (RB still)))
+    (ADVP (RB apparently))
+    (VP (VBZ has) (RB n't)
+      (VP (VBN unleashed)
+        (NP
+          (NP (PRP$ its) (NN stockpile))
+          (PP (IN of)
+            (NP (NN chemical) (NNS weapons))))))
+    (. .)))
+

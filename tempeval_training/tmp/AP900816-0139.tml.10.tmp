@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Iraq))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (DT the) (NN roundup))
+            (VP (VBD was)
+              (S
+                (VP (TO to)
+                  (VP (VB protect)
+                    (NP (PRP them))
+                    (PP (IN from)
+                      (NP (JJ unspecified) (NNS threats)))))))))))
+    (: ;)
+    (S
+      (NP (NNP British) (NNP Foreign) (NNP Office) (NN minister) (NNP William) (NNP Waldegrave))
+      (VP (VBD called)
+        (S
+          (NP (DT the) (NN order))
+          (`` ``)
+          (ADJP (JJ grave)
+            (CC and)
+            (JJ sinister)))))
+    (. .) ('' '')))
+

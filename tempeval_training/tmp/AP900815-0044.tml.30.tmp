@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ steep) (NN rise))
+      (PP (IN in)
+        (NP (NN world) (NN oil) (NNS prices))))
+    (VP (VBD followed)
+      (NP (DT the) (NNP Kuwait) (NN invasion)))
+    (. .)))
+

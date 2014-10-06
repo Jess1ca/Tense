@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (DT The)
+      (ADJP (NNP New) (JJ York-based))
+      (NN company))
+    (VP (VBD reported)
+      (NP
+        (NP (DT a) (JJ third-quarter) (JJ net) (NN loss))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 5.1) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 10) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,))))
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (JJ year-earlier) (JJ net) (NN loss))
+            (PP (IN of)
+              (NP
+                (NP
+                  (QP ($ $) (CD 6.2) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (CD 12) (NNS cents))
+                  (NP (DT a) (NN share)))))))))
+    (. .)))
+

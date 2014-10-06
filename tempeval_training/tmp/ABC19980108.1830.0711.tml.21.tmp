@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (PP (IN Of)
+      (NP
+        (NP (DT all))
+        (PP (IN of)
+          (NP
+            (NP (NNP Asia) (POS 's))
+            (NNS economies)))))
+    (, ,)
+    (NP (NNP Hong) (NNP Kong))
+    (VP (VBZ is)
+      (NP (DT the) (RBS most) (JJ robust)))
+    (. .)))
+

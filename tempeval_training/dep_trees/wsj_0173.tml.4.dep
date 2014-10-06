@@ -1,0 +1,23 @@
+1	But	_	CC	CC	_	3	cc	_	_
+2	Coleco	_	NNP	NNP	_	3	nsubj	_	_
+3	bounced	_	VBD	VBD	_	0	root	_	_
+4	back	_	RB	RB	_	3	advmod	_	_
+5	with	_	IN	IN	_	3	prep	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	introduction	_	NN	NN	_	5	pobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	12	det	_	_
+10	Cabbage	_	NNP	NNP	_	12	nn	_	_
+11	Patch	_	NNP	NNP	_	12	nn	_	_
+12	dolls	_	NNS	NNS	_	8	pobj	_	_
+13	,	_	,	,	_	7	punct	_	_
+14	whose	_	WP$	WP$	_	15	poss	_	_
+15	sales	_	NNS	NNS	_	16	nsubj	_	_
+16	hit	_	VBD	VBD	_	7	rcmod	_	_
+17	$	_	$	$	_	16	dobj	_	_
+18	600	_	CD	CD	_	19	number	_	_
+19	million	_	CD	CD	_	17	num	_	_
+20	in	_	IN	IN	_	16	prep	_	_
+21	1985	_	CD	CD	_	20	pobj	_	_
+22	.	_	.	.	_	3	punct	_	_
+

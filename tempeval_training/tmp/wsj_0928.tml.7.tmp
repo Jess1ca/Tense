@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (QP (JJR More) (IN than) (NNS two-thirds)))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNS systems))
+          (VP (VBN shipped)))))
+    (, ,)
+    (ADVP (RB meanwhile))
+    (, ,)
+    (VP (VBD were)
+      (NP
+        (NP (NNS products))
+        (VP (VBN introduced)
+          (PP (IN in)
+            (NP (NNP April))))))
+    (. .)))
+

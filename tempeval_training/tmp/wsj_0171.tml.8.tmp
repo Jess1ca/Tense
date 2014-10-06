@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (DT The) (NN thrift))
+    (VP (VBZ has)
+      (NP
+        (NP (NNS assets))
+        (PP (IN of)
+          (NP
+            (QP ($ $) (CD 3.2) (CD billion))))))
+    (. .)))
+

@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NNP Price) (NNP Stern) (NNP Sloan) (NNP Inc.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP
+            (VP (VBD hired)
+              (NP (DT an) (NN investment) (NN banking) (NN firm))
+              (S
+                (VP (TO to)
+                  (VP (VB assist)
+                    (PP (IN in)
+                      (S
+                        (VP (VBG evaluating)
+                          (NP (NN restructuring)
+                            (CC or)
+                            (NN merger) (NNS alternatives)))))))))
+            (CC and)
+            (VP (VBD reported)
+              (NP
+                (NP (DT a) (JJ net) (NN loss))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (QP ($ $) (CD 8.1) (CD million)))
+                    (, ,)
+                    (CC or)
+                    (NP
+                      (NP ($ $) (CD 2.14))
+                      (NP (DT a) (NN share)))
+                    (, ,))))
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (JJ third) (NN quarter))
+                  (VP (VBN ended)
+                    (NP (NNP Sept.) (CD 30))))))))))
+    (. .)))
+

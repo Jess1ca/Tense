@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (NN anticipation))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN start-up))
+            (PP (IN of)
+              (NP (PRP$ its) (JJ new) (NN factory)))))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT a) (JJ larger-than-normal) (NN chassis) (NN supply))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (VP (VBN built)
+                (S
+                  (VP (TO to)
+                    (VP (VB carry)
+                      (NP (PRP it))
+                      (PP (IN through)
+                        (NP (DT the) (NN transition) (NN period))))))))))))
+    (. .)))
+

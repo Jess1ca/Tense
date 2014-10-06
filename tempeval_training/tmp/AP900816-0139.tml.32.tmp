@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (NN air)))
+    (, ,)
+    (NP (NNP U.S.) (NNP Air) (NNP Force) (NNS fliers))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP have)
+            (VP (VBN engaged)
+              (PP (IN in) (`` ``)
+                (NP (DT a) (JJ little) (NN cat)
+                  (CC and)
+                  (NN mouse))
+                ('' ''))
+              (PP (IN with)
+                (NP
+                  (NP (JJ Iraqi) (NNS warplanes))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBP have)
+                        (VP (VBN retreated)
+                          (SBAR
+                            (WHADVP (WRB when))
+                            (S
+                              (NP (NNS weapons) (NN radar))
+                              (VP (VBZ locks)
+                                (PP (IN onto)
+                                  (NP (PRP them)))))))))))))))))
+    (. .)))
+

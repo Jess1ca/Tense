@@ -1,0 +1,15 @@
+1	In	_	IN	IN	_	8	prep	_	_
+2	over-the-counter	_	JJ	JJ	_	3	amod	_	_
+3	trading	_	NN	NN	_	1	pobj	_	_
+4	,	_	,	,	_	8	punct	_	_
+5	MGM	_	NNP	NNP	_	6	nn	_	_
+6	Grand	_	NNP	NNP	_	8	nsubjpass	_	_
+7	was	_	VBD	VBD	_	8	auxpass	_	_
+8	bid	_	VBN	VBN	_	0	root	_	_
+9	at	_	IN	IN	_	8	prep	_	_
+10	$	_	$	$	_	9	pobj	_	_
+11	17.50	_	CD	CD	_	10	num	_	_
+12	a	_	DT	DT	_	13	det	_	_
+13	share	_	NN	NN	_	10	dep	_	_
+14	.	_	.	.	_	8	punct	_	_
+

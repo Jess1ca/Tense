@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Navigation) (NNP Mixte) (POS 's))
+      (NN chairman))
+    (VP (VBD had)
+      (VP (VBN suggested)
+        (SBAR (IN that)
+          (S
+            (NP (JJ friendly) (NNS institutions))
+            (VP (VBD were)
+              (ADJP (JJ likely)
+                (S
+                  (VP (TO to)
+                    (VP (VB buy)
+                      (NP (PRP$ its) (NN stock))
+                      (ADVP
+                        (ADVP (RB as) (RB soon))
+                        (SBAR (IN as)
+                          (S
+                            (NP (NN trading))
+                            (VP (VBD opened)
+                              (NP (NNP Monday)))))))))))))))
+    (. .)))
+

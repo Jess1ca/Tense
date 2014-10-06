@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (DT The) (NN airline))
+    (VP (VBZ has)
+      (ADVP (RB also))
+      (VP (VBN cut)
+        (NP (DT all) (NNS flights))
+        (PP (TO to)
+          (NP (NNP South) (NNP Korea)))))
+    (. .)))
+

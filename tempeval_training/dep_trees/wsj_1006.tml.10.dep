@@ -1,0 +1,26 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	three	_	CD	CD	_	3	num	_	_
+3	units	_	NNS	NNS	_	4	nsubj	_	_
+4	are	_	VBP	VBP	_	0	root	_	_
+5	a	_	DT	DT	_	10	det	_	_
+6	nationwide	_	JJ	JJ	_	10	amod	_	_
+7	pharmaceutical	_	NN	NN	_	10	nn	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	health-products	_	NNS	NNS	_	7	conj	_	_
+10	distributor	_	NN	NN	_	4	xcomp	_	_
+11	,	_	,	,	_	10	punct	_	_
+12	a	_	DT	DT	_	15	det	_	_
+13	small	_	JJ	JJ	_	15	amod	_	_
+14	sporting-goods	_	NNS	NNS	_	15	nn	_	_
+15	chain	_	NN	NN	_	10	conj	_	_
+16	,	_	,	,	_	10	punct	_	_
+17	and	_	CC	CC	_	10	cc	_	_
+18	a	_	DT	DT	_	21	det	_	_
+19	combination	_	NN	NN	_	21	nn	_	_
+20	catalog	_	NN	NN	_	21	nn	_	_
+21	showroom	_	NN	NN	_	10	conj	_	_
+22	and	_	CC	CC	_	21	cc	_	_
+23	toy-store	_	NN	NN	_	24	nn	_	_
+24	chain	_	NN	NN	_	21	conj	_	_
+25	.	_	.	.	_	4	punct	_	_
+

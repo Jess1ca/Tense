@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (S
+      (PP (IN In)
+        (NP
+          (NP (DT an) (NN interview))
+          (PP (IN from)
+            (NP
+              (NP (NNP Jordan))
+              (PP (IN on)
+                (NP (NNP ABC)))))))
+      (, ,)
+      (NP (PRP he))
+      (VP
+        (VP (VBD declined)
+          (S
+            (VP (TO to)
+              (VP (VB discuss)
+                (NP (NNS details))))))
+        (, ,)
+        (CC but)
+        (VP (VBD said))))
+    (: :) (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB think)
+          (SBAR (IN that)
+            (S
+              (NP (PRP$ his) (NN majesty))
+              (VP (MD would)
+                (VP (VB be)
+                  (VP (VBG traveling)
+                    (PP (IN at)
+                      (NP (DT this) (JJ crucial) (NN moment)))
+                    (SBAR (IN if)
+                      (S
+                        (NP (DT the) (JJ Iraqi) (NN leadership))
+                        (VP (VBD did) (RB not)
+                          (VP (VB have)
+                            (NP (DT a) (JJ rational) (NN approach))
+                            (PP (TO to)
+                              (NP (DT the) (NN future)))))))))))))))
+    (. .) ('' '')))
+

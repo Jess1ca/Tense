@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NNP NPR) (NN news)))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (NP
+        (NP (NNP Auncil) (NNP Martinez))
+        (VP (VBG reporting))))
+    (. .)))
+

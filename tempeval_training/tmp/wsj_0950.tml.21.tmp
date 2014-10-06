@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (CD nine) (NNS months)))
+    (, ,)
+    (NP (NNP EDS))
+    (VP (VBD earned)
+      (NP
+        (NP
+          (QP ($ $) (CD 315.8) (CD million)))
+        (, ,)
+        (CC or)
+        (NP
+          (NP ($ $) (CD 2.62))
+          (NP (DT a) (NN share)))
+        (, ,)
+        (ADVP (RB up)
+          (NP (CD 13) (NN %))))
+      (PP (IN from)
+        (NP
+          (NP
+            (QP ($ $) (CD 280.7) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP ($ $) (CD 2.30))
+            (NP (DT a) (NN share))))))
+    (. .)))
+

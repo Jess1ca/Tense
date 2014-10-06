@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT The) (NN insurance) (NN concern))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT all) (NN conversion) (NNS rights))
+            (PP (IN on)
+              (NP (DT the) (NN stock))))
+          (VP (MD will)
+            (VP (VB terminate)
+              (PP (IN on)
+                (NP (NNP Nov.) (CD 30))))))))
+    (. .)))
+

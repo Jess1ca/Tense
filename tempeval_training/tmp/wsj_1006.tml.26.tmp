@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Bussieres))
+    (VP (VBD was)
+      (NP
+        (NP (NN president)
+          (CC and)
+          (NN chief) (VBG operating) (NN officer))
+        (PP (IN of)
+          (NP
+            (NP (NNP Provigo) (POS 's))
+            (NNP Quebec)
+            (ADJP (NN retail)
+              (CC and)
+              (JJ wholesale))
+            (NN grocery) (NN unit)))))
+    (. .)))
+

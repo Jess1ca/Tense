@@ -1,0 +1,33 @@
+(ROOT
+  (SINV
+    (S
+      (S
+        (NP (EX There))
+        (VP (VBP have)
+          (VP (VBN been)
+            (NP
+              (NP (NNS reports))
+              (PP (IN of)
+                (NP (JJ wholesale) (NN looting)))))))
+      (CC but)
+      (S
+        (NP (NN food)
+          (CC and)
+          (NN gasoline))
+        (VP (VBD were)
+          (ADVP (RB still))
+          (ADJP (JJ available)))))
+    (, ,)
+    (VP (VBD said))
+    (NP
+      (NP (DT a) (NN spokesman))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (PP (IN by)
+            (NP (NN custom)))
+          (VP (VBD was) (RB not)
+            (VP (VBN identified))))))
+    (. .)))
+

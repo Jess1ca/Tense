@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ Atlanta-based) (NN airline))
+      (, ,)
+      (NP
+        (NP (DT the) (JJ third) (JJS largest))
+        (PP (IN in)
+          (NP (DT the) (NNP U.S.))))
+      (, ,))
+    (VP (VBD attributed)
+      (NP (DT the) (NN increase))
+      (PP (TO to)
+        (NP
+          (NP (JJR higher) (NN passenger) (NN traffic))
+          (, ,)
+          (NP (JJ new) (JJ international) (NNS routes))
+          (CC and)
+          (NP (JJ reduced) (NN service))))
+      (PP (IN by)
+        (NP
+          (NP (JJ rival) (NNP Eastern) (NNPS Airlines))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (PP (IN in)
+                  (NP
+                    (NP (NN bankruptcy) (NNS proceedings))
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (NN wake))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT a) (NN strike))
+                            (SBAR
+                              (WHNP (WDT that))
+                              (S
+                                (VP (VBD began)
+                                  (NP (JJ last) (NN spring)))))))))))))))))
+    (. .)))
+

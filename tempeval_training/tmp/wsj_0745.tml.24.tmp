@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (NNS Politics))
+    (ADVP (RB also))
+    (VP (VBZ influences)
+      (NP
+        (NP
+          (NP (DT the) (NN government) (POS 's))
+          (NN thinking))
+        (PP (IN on)
+          (NP (DT the) (JJ anti-takeover) (NN restriction)))))
+    (. .)))
+

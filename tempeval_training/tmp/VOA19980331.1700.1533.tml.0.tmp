@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP US) (NN government))
+    (ADVP (RB recently))
+    (VP (VBD announced)
+      (NP
+        (NP (JJ new) (NNS regulations))
+        (VP (VBN designed)
+          (S
+            (VP (TO to)
+              (VP (VB change)
+                (NP
+                  (NP (DT the) (NN way))
+                  (SBAR
+                    (S
+                      (NP (NN transplant) (NNS organs))
+                      (VP (VBP are)
+                        (VP (VBN made)
+                          (S
+                            (ADJP (JJ available)
+                              (PP (TO to)
+                                (NP (JJ sick) (NNS patients))))))))))))))))
+    (. .)))
+

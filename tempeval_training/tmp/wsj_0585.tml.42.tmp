@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Weakness))
+      (PP (IN in)
+        (NP (JJ big) (NN technology) (NNS stocks))))
+    (VP (VBD hurt)
+      (NP
+        (NP (DT the) (NN composite))
+        (CONJP (RB as) (RB well) (IN as))
+        (NP
+          (NP (DT the) (NNP Nasdaq) (CD 100) (NN Index))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD fell)
+                (NP
+                  (NP (CD 1.4) (NN %))
+                  (, ,)
+                  (CC or)
+                  (NP (CD 6.43))
+                  (, ,))
+                (PP (IN on)
+                  (NP (NNP Friday)))
+                (, ,)
+                (PP (TO to)
+                  (NP (CD 437.68)))))))))
+    (. .)))
+

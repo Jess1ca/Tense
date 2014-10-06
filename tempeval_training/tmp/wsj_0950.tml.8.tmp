@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Profit))
+      (PP (IN at)
+        (NP (DT the) (NN unit))))
+    (VP (VBD fell)
+      (PP (TO to)
+        (NP
+          (NP
+            (QP ($ $) (CD 110.6) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP (CD 37) (NNS cents))
+            (NP (DT a) (NN share)))
+          (, ,)))
+      (PP (IN from)
+        (NP
+          (NP
+            (QP ($ $) (CD 142.4) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP (CD 45) (NNS cents))
+            (NP (DT a) (NN share)))))
+      (, ,)
+      (PP
+        (ADVP (RB largely))
+        (IN because) (IN of)
+        (NP
+          (NP (DT a)
+            (ADJP
+              (QP ($ $) (CD 24) (CD million)))
+            (JJ one-time) (NN charge))
+          (VP (VBN associated)
+            (PP (IN with)
+              (NP
+                (NP (NNP Hughes) (POS 's))
+                (ADJP (RB previously) (VBN announced))
+                (NN plan)
+                (S
+                  (VP (TO to)
+                    (VP (VB reduce)
+                      (NP (NN employment))
+                      (PP (IN by)
+                        (NP
+                          (QP (IN at) (JJS least) (CD 6,000))
+                          (NNS people)))
+                      (PP (IN by)
+                        (NP (NN year) (NN end))))))))))))
+    (. .)))
+

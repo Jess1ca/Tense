@@ -1,0 +1,14 @@
+(ROOT
+  (S (CC But)
+    (NP (PRP I))
+    (VP (VBP do) (RB n't)
+      (VP (VB think)
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBP 're)
+              (PP (IN at)
+                (NP (DT that) (NN point)))
+              (ADVP (RB yet)))))))
+    (. .) ('' '')))
+

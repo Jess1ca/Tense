@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (SBAR (IN Because)
+      (S
+        (NP (NNP Columbia))
+        (ADVP (RB now))
+        (VP (MD must)
+          (VP (VB sell)
+            (NP (DT the) (NNS bonds))
+            (PP (IN within)
+              (NP (CD five) (NNS years)))))))
+    (, ,)
+    (NP (NN accounting) (NNS rules))
+    (VP (VBP require)
+      (S
+        (NP (DT the) (NN thrift))
+        (VP (TO to)
+          (VP (VB value)
+            (NP (DT the) (NNS bonds))
+            (PP (IN at)
+              (NP
+                (NP (DT the) (JJR lower))
+                (PP (IN of)
+                  (NP (NN cost)
+                    (CC or)
+                    (NN market) (NNS prices)))))))))
+    (. .)))
+

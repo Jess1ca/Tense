@@ -1,0 +1,26 @@
+1	Through	_	IN	IN	_	9	prep	_	_
+2	the	_	DT	DT	_	5	det	_	_
+3	first	_	JJ	JJ	_	5	amod	_	_
+4	nine	_	CD	CD	_	5	num	_	_
+5	months	_	NNS	NNS	_	1	pobj	_	_
+6	,	_	,	,	_	9	punct	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	company	_	NN	NN	_	9	nsubj	_	_
+9	had	_	VBD	VBD	_	0	root	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	loss	_	NN	NN	_	9	dobj	_	_
+12	of	_	IN	IN	_	11	prep	_	_
+13	$	_	$	$	_	12	pobj	_	_
+14	484	_	CD	CD	_	15	number	_	_
+15	million	_	CD	CD	_	13	num	_	_
+16	,	_	,	,	_	9	punct	_	_
+17	largely	_	RB	RB	_	9	advmod	_	_
+18	reflecting	_	VBG	VBG	_	9	xcomp	_	_
+19	the	_	DT	DT	_	20	det	_	_
+20	closing	_	NN	NN	_	18	dobj	_	_
+21	of	_	IN	IN	_	20	prep	_	_
+22	its	_	PRP$	PRP$	_	24	poss	_	_
+23	supercomputer	_	NN	NN	_	24	nn	_	_
+24	unit	_	NN	NN	_	21	pobj	_	_
+25	.	_	.	.	_	9	punct	_	_
+

@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Law) (NN enforcement) (NNS authorities))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (JJ such) (NNS reports))
+          (VP (VBP are)
+            (ADJP (JJ likely)
+              (S
+                (VP (TO to)
+                  (VP (VB increase)
+                    (SBAR (IN as)
+                      (S
+                        (NP (NN police) (NNS departments))
+                        (VP (VBP are)
+                          (ADVP (RB now))
+                          (VP (VBG beginning)
+                            (S
+                              (VP (TO to)
+                                (VP
+                                  (ADVP (RBR more) (RB accurately))
+                                  (VB report)
+                                  (NP (NN hate) (NNS crimes))
+                                  (SBAR (IN than)
+                                    (S
+                                      (NP (PRP they))
+                                      (VP (VBP have)
+                                        (VP
+                                          (PP (IN in)
+                                            (NP (DT the) (NN past))))))))))))))))))))))
+    (. .)))
+

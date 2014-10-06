@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (IN With)
+      (NP
+        (NP (VBG growing) (NNS opportunities))
+        (PP (IN for)
+          (NP
+            (NP (NN work))
+            (VP (VBG drawing)
+              (NP (JJR more) (NNS people))
+              (PP (IN into)
+                (NP (DT the) (NN labor) (NN force))))))))
+    (, ,)
+    (NP (DT the) (NN unemployment) (NN rate))
+    (VP (VBD remained)
+      (PP (IN at)
+        (NP (CD 4.7) (NN percent)))
+      (NP (JJ last) (NN month))
+      (, ,)
+      (PP
+        (NP (RB just) (DT a) (NN notch))
+        (IN above)
+        (NP (PRP$ its) (JJ quarter-century) (NN low))))
+    (. .)))
+

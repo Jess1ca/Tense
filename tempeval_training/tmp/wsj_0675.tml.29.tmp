@@ -1,0 +1,19 @@
+(ROOT
+  (NP
+    (NP (NNS Commodities))
+    (: :)
+    (NP
+      (NP (NNP Dow) (NNP Jones) (NNS futures) (NN index))
+      (NP (CD 129.49))
+      (, ,)
+      (ADVP (RB up)
+        (NP (CD 0.27))))
+    (: ;)
+    (NP
+      (NP (NN spot) (NN index))
+      (NP (CD 130.80))
+      (, ,)
+      (ADVP (IN off)
+        (NP (CD 0.24))))
+    (. .)))
+

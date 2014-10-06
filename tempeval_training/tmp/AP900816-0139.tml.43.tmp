@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP John) (NNP Prescott))
+      (, ,)
+      (NP (DT a) (VBG shipping) (NN correspondent))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (SBAR
+          (S
+            (NP (EX there))
+            (VP (VBD was)
+              (NP
+                (NP (DT no) (NN shipping))
+                (PP (IN in)
+                  (NP
+                    (NP (NNP Kuwaiti))
+                    (CC or)
+                    (NP (JJ Iraqi) (NNS ports))))))))
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (NN activity))
+            (VP (VBD was)
+              (VP (VBG trailing)
+                (PRT (RP off))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (JJ Jordanian) (NN port))
+                    (PP (IN of)
+                      (NP (NNP Aqaba)))))))))))
+    (. .)))
+

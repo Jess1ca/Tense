@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (DT The) (NN oat-bran) (NN craze))
+    (VP (VBZ has)
+      (VP (VBN cost)
+        (NP
+          (NP (DT the) (NN world) (POS 's))
+          (JJS largest) (NN cereal) (NN maker))
+        (NP (NN market) (NN share))))
+    (. .)))
+

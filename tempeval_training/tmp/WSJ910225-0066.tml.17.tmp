@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP (VBD went)
+        (PRT (RP on))
+        (S
+          (VP (TO to)
+            (VP (VB add)
+              (SBAR (IN that) (`` ``)
+                (S
+                  (NP
+                    (NP (IN in) (RB so))
+                    (VP (VBG doing)
+                      (NP (PRP you))))
+                  (RB not)
+                  (ADVP (RB only))
+                  (VP (VB return)
+                    (NP (DT a) (NN nation))
+                    (PP (TO to)
+                      (NP (PRP$ its) (NNS people)))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP you))
+      (VP (MD will)
+        (VP (VB destroy)
+          (NP
+            (NP (DT the) (NN war) (NN machine))
+            (PP (IN of)
+              (NP (DT a)
+                (ADJP (JJ ruthless))
+                (NN dictator)))))))
+    (. .) ('' '')))
+

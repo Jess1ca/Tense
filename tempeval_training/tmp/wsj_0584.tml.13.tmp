@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP value)
+      (NP
+        (NP
+          (NP (NNP McCaw) (POS 's))
+          (NN bid))
+        (PP (IN at)
+          (NP
+            (NP
+              (QP ($ $) (CD 112) (TO to) ($ $) (CD 118)))
+            (NP (DT a) (NN share))))))
+    (. .)))
+

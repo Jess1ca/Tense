@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP StatesWest))
+      (VP (VBD had)
+        (VP (VBN proposed)
+          (S
+            (VP (VBG acquiring)
+              (NP
+                (NP (NNP Mesa))
+                (PP (IN for)
+                  (NP
+                    (NP
+                      (NP ($ $) (CD 7))
+                      (NP (DT a) (NN share)))
+                    (CC and)
+                    (NP
+                      (NP (CD one) (NN share))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT a) (JJ new) (NN series))
+                          (PP (IN of)
+                            (NP (NNP StatesWest)
+                              (ADJP (CD 6) (NN %))
+                              (JJ convertible) (JJ preferred) (NN stock))))))))))))))
+    (NP (PRP it))
+    (VP (VBZ values)
+      (PP (IN at)
+        (NP
+          (NP ($ $) (CD 3))
+          (NP (DT a) (NN share)))))
+    (. .)))
+

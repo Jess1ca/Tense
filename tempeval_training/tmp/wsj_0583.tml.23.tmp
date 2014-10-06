@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (SBAR (IN Whether)
+      (S
+        (NP
+          (NP (NNP Polly) (NNP Peck) (POS 's))
+          (NN acquisition))
+        (VP (VBZ makes)
+          (SBAR
+            (S
+              (NP (NN sense))
+              (VP (VBZ remains)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (VP
+                        (VP (VBN seen))
+                        (, ,)
+                        (CC but)
+                        (VP
+                          (PP (IN at)
+                            (NP (DT the) (NN news) (NN conference))))))))))))))
+    (, ,)
+    (NP (NNP Mr.) (NNP Nadir))
+    (VP (VBD brimmed)
+      (PP (IN with)
+        (NP (NN self-confidence)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (MD can)
+            (VP (VB turn)
+              (NP (NNP Sansui))
+              (ADVP (RB around)))))))
+    (. .)))
+

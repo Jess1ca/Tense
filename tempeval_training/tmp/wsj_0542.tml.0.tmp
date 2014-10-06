@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (NNP Dow) (NNP Jones) (NNP amp) (NNP Co.))
+    (VP (VBD extended)
+      (NP
+        (NP (PRP$ its) (NN tender) (NN offer))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP ($ $) (CD 18))
+              (NP (DT a) (NN share)))
+            (, ,)
+            (CC or)
+            (NP
+              (QP (RB about) ($ $) (CD 576) (CD million)))
+            (, ,))))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (CD 33) (NN %))
+          (PP (IN of)
+            (NP (NNP Telerate) (NNP Inc.)))))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ does) (RB n't)
+            (ADVP (RB already))
+            (VP (VB own)
+              (PP (IN until)
+                (NP
+                  (NP (CD 5) (RB p.m.) (NNP EST))
+                  (, ,)
+                  (NP (NNP Nov.) (CD 6)))))))))
+    (. .)))
+

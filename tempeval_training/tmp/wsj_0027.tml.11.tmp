@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (CC Neither)
+      (NP (PRP they))
+      (CC nor)
+      (NP (NNP Mr.) (NNP McAlpine)))
+    (VP (MD could)
+      (VP (VB be)
+        (VP (VBN reached)
+          (PP (IN for)
+            (NP (NN comment))))))
+    (. .)))
+

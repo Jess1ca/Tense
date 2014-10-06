@@ -1,0 +1,18 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	projection	_	NN	NN	_	3	nsubj	_	_
+3	sent	_	VBD	VBD	_	0	root	_	_
+4	Anheuser	_	NNP	NNP	_	5	nn	_	_
+5	shares	_	NNS	NNS	_	3	dobj	_	_
+6	plunging	_	VBG	VBG	_	3	xcomp	_	_
+7	$	_	$	$	_	6	dobj	_	_
+8	4.375	_	CD	CD	_	7	num	_	_
+9	in	_	IN	IN	_	7	prep	_	_
+10	New	_	NNP	NNP	_	15	nn	_	_
+11	York	_	NNP	NNP	_	15	nn	_	_
+12	Stock	_	NNP	NNP	_	15	nn	_	_
+13	Exchange	_	NNP	NNP	_	15	nn	_	_
+14	composite	_	JJ	JJ	_	15	amod	_	_
+15	trading	_	NN	NN	_	9	pobj	_	_
+16	yesterday	_	NN	NN	_	6	tmod	_	_
+17	.	_	.	.	_	3	punct	_	_
+

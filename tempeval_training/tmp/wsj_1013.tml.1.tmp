@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT the) (NN quarter)))
+    (NP (DT a) (NN year) (RB ago))
+    (, ,)
+    (NP (NNP Columbia))
+    (VP (VBD reported)
+      (NP
+        (NP (NNS earnings))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 16.3) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 37) (NNS cents))
+              (NP (DT a) (NN share)))))))
+    (. .)))
+

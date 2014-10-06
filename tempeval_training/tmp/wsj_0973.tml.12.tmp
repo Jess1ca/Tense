@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP Westinghouse))
+    (ADVP (RB also))
+    (VP (VBZ is)
+      (ADJP (RB well) (VBN positioned)
+        (S
+          (VP (TO to)
+            (VP (VB sell)
+              (NP (NN steam) (NN turbine)
+                (CC and)
+                (NN gas) (NN turbine) (NNS plants))
+              (PP (TO to)
+                (NP (JJ independent) (NN power) (NNS producers))))))))
+    (. .)))
+

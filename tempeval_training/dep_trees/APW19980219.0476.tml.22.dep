@@ -1,0 +1,22 @@
+1	Ranariddh	_	NNP	NNP	_	3	poss	_	_
+2	's	_	POS	POS	_	1	possessive	_	_
+3	loyalists	_	NNS	NNS	_	14	nsubj	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	including	_	VBG	VBG	_	3	prep	_	_
+6	Nhek	_	NNP	NNP	_	7	nn	_	_
+7	Bunchhay	_	NNP	NNP	_	5	pobj	_	_
+8	,	_	,	,	_	7	punct	_	_
+9	his	_	PRP$	PRP$	_	12	poss	_	_
+10	top	_	JJ	JJ	_	12	amod	_	_
+11	military	_	JJ	JJ	_	12	amod	_	_
+12	commander	_	NN	NN	_	7	appos	_	_
+13	,	_	,	,	_	3	punct	_	_
+14	went	_	VBD	VBD	_	0	root	_	_
+15	into	_	IN	IN	_	14	prep	_	_
+16	hiding	_	NN	NN	_	15	pobj	_	_
+17	or	_	CC	CC	_	14	cc	_	_
+18	fled	_	VBD	VBD	_	14	conj	_	_
+19	the	_	DT	DT	_	20	det	_	_
+20	capital	_	NN	NN	_	18	dobj	_	_
+21	.	_	.	.	_	14	punct	_	_
+

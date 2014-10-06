@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (ADVP (RB Separately))
+    (, ,)
+    (NP (NNP Esselte) (NNP Business) (NNPS Systems))
+    (VP (VBD reported)
+      (SBAR
+        (S
+          (NP (JJ third-quarter) (JJ net) (NN income))
+          (VP (VBD fell)
+            (NP (CD 5.9) (NN %))
+            (PP (TO to)
+              (NP
+                (NP
+                  (QP ($ $) (CD 9.5) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (CD 46) (NNS cents))
+                  (NP (DT a) (NN share)))
+                (, ,)))
+            (PP (IN from)
+              (NP
+                (NP
+                  (QP ($ $) (CD 10.1) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (CD 49) (NNS cents))
+                  (NP (DT a) (NN share)))
+                (, ,)))
+            (PP (IN in)
+              (NP (DT the) (JJ year-ago) (NN period)))))))
+    (. .)))
+

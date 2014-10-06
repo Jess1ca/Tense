@@ -1,0 +1,16 @@
+1	At	_	IN	IN	_	14	prep	_	_
+2	the	_	DT	DT	_	4	det	_	_
+3	same	_	JJ	JJ	_	4	amod	_	_
+4	time	_	NN	NN	_	1	pobj	_	_
+5	four	_	CD	CD	_	11	nsubjpass	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	six	_	CD	CD	_	9	num	_	_
+8	design	_	NN	NN	_	9	nn	_	_
+9	projects	_	NNS	NNS	_	6	pobj	_	_
+10	were	_	VBD	VBD	_	11	auxpass	_	_
+11	spiked	_	VBN	VBN	_	4	rcmod	_	_
+12	,	_	,	,	_	14	punct	_	_
+13	he	_	PRP	PRP	_	14	nsubj	_	_
+14	said	_	VBD	VBD	_	0	root	_	_
+15	.	_	.	.	_	14	punct	_	_
+

@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (DT the) (NN yen))
+        (VP (VBD soared)
+          (PP (IN in)
+            (NP (JJ recent) (NNS years))))))
+    (, ,)
+    (NP
+      (NP (NNP Sansui) (POS 's))
+      (VBG deepening) (JJ financial) (NNS problems))
+    (VP (VBD became)
+      (NP (DT a) (JJ vicious) (NN circle)))
+    (. .)))
+

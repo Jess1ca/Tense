@@ -1,0 +1,11 @@
+1	UR	_	VB	VB	_	0	root	_	_
+2	The	_	DT	DT	_	7	det	_	_
+3	ITAR-Tass	_	JJ	JJ	_	5	amod	_	_
+4	,	_	,	,	_	5	punct	_	_
+5	4th	_	JJ	JJ	_	7	amod	_	_
+6	graf	_	NN	NN	_	7	nn	_	_
+7	pvs	_	NN	NN	_	1	dobj	_	_
+8	-LRB-	_	-LRB-	-LRB-	_	9	punct	_	_
+9	pvs/ji	_	NNP	NNP	_	7	appos	_	_
+10	-RRB-	_	-RRB-	-RRB-	_	9	punct	_	_
+

@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (NNP Har-Shefi))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP
+            (VP (VBD heard)
+              (NP (NNP Amir) (NN talk))
+              (PP (IN about)
+                (S
+                  (VP (VBG killing)
+                    (NP (NNP Rabin))))))
+            (CC but)
+            (VP (VBD did) (RB not)
+              (VP (VB tell)
+                (NP (DT the) (NN police))
+                (SBAR (IN because)
+                  (S
+                    (NP (PRP she))
+                    (VP (VBD did) (RB not)
+                      (VP (VB believe)
+                        (SBAR
+                          (S
+                            (NP (PRP he))
+                            (VP (VBD was)
+                              (ADJP (JJ serious)))))))))))))))
+    (. .)))
+

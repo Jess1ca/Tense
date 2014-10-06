@@ -1,0 +1,24 @@
+(ROOT
+  (S (`` ``)
+    (NP (PRP We))
+    (VP (MD will)
+      (VP (VB continue)
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (NP
+                (NP (NN everything))
+                (SBAR
+                  (S
+                    (NP (PRP we))
+                    (VP (MD can)
+                      (S
+                        (VP (TO to)
+                          (VP (VB establish)
+                            (SBAR
+                              (WHNP (WP what))
+                              (S
+                                (VP (VBZ has)
+                                  (VP (VBN happened)))))))))))))))))
+    (. .) ('' '')))
+

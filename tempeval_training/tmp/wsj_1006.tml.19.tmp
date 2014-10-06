@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (NNS Analysts))
+    (VP
+      (VP (VBP are)
+        (ADJP (JJ skeptical)
+          (SBAR
+            (S
+              (NP (NNP Provigo))
+              (VP (MD will)
+                (VP (VB be)
+                  (ADJP (JJ able)
+                    (S
+                      (VP (TO to)
+                        (VP (VB sell)
+                          (NP (DT the) (JJ non-food) (NNS businesses))
+                          (PP (IN as)
+                            (NP
+                              (NP (DT a) (NN group))
+                              (PP (IN for)
+                                (NP
+                                  (ADVP (IN at) (JJS least))
+                                  (NN book) (NN value)))))))))))))))
+      (, ,)
+      (CC and)
+      (VP (VBP are)
+        (VP (VBG expecting)
+          (NP (NNS write-downs)))))
+    (. .)))
+

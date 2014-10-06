@@ -1,0 +1,63 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN Internet))
+      (, ,)
+      (NP
+        (NP (DT the) (JJ global) (NN network))
+        (PP (IN of)
+          (NP (NNS computers))))
+      (, ,))
+    (VP (VBZ is)
+      (ADVP (RB now) (RB far))
+      (VP (VBG reaching)
+        (PP (IN into)
+          (NP
+            (NP (DT the) (NN country))
+            (: -)
+            (S
+              (S
+                (VP (VBG extending)
+                  (NP (PRP$ its) (NN embrace)
+                    (S
+                      (VP (TO to)
+                        (VP (VB include)
+                          (NP
+                            (NP (DT every) (NN nook)
+                              (CC and)
+                              (NN cranny))
+                            (PP (IN of)
+                              (NP (DT the) (NN nation))))))))))
+              (: -)
+              (S
+                (VP (VBG opening)
+                  (NP (NNS doors))
+                  (PP (TO to)
+                    (NP
+                      (NP
+                        (CONJP (RB not) (JJ only))
+                        (NP
+                          (NP (DT a) (JJ diverse) (NN range))
+                          (PP (IN of)
+                            (NP (NN information) (NNS sources))))
+                        (CONJP (CC but)
+                          (RB also))
+                        (NP (DT an) (VBG exhaustive) (NN list)))
+                      (PP (IN of)
+                        (NP (NNS possibilities)
+                          (S
+                            (VP (TO to)
+                              (VP (VB create)
+                                (NP
+                                  (NP (JJ new) (NNS applications))
+                                  (SBAR
+                                    (WHNP (WDT which))
+                                    (S
+                                      (VP (VBP add)
+                                        (NP (NN value))
+                                        (PP (TO to)
+                                          (NP
+                                            (NP (NNS people) (POS 's))
+                                            (NNS lives)))))))))))))))))))))
+    (. .)))
+

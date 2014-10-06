@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (S
+      (NP (DT Some) (JJ lousy) (NNS earnings) (NNS reports))
+      (VP (VBD whacked)
+        (NP (DT the) (NN stock) (NN market))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN bond) (NNS prices))
+      (VP (VBD fell)
+        (SBAR
+          (S
+            (NP
+              (NP (RB only) (RB slightly))
+              (CC and)
+              (NP (DT the) (NN dollar)))
+            (VP (VBD rose)
+              (NP (DT a) (JJ little))
+              (PP (IN against)
+                (NP (JJS most) (JJ major) (NNS currencies))))))))
+    (. .)))
+

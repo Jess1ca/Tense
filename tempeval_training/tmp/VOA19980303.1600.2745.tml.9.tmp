@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Mark) (NNP Potach))
+      (VP (VBZ says)
+        (PP (IN over)
+          (NP
+            (NP
+              (QP (CD four) (CD hundred)))
+            (SBAR
+              (S
+                (VP (VBP hate)
+                  (SBAR
+                    (S
+                      (NP (NNS groups))
+                      (VP (VBP have)
+                        (VP (VBN been)
+                          (VP (VBN identified)))))))))))))
+    (CC and)
+    (S
+      (NP (DT many))
+      (VP (VBP are)
+        (VP (VBG becoming)
+          (ADJP (RB increasingly) (JJ successful)
+            (PP (IN at)
+              (S
+                (VP (VBG recruiting)
+                  (NP (JJR younger) (NNS members))
+                  (PP (IN through)
+                    (NP
+                      (NP
+                        (NP (DT the) (NN use))
+                        (PP (IN of)
+                          (NP (NN Internet) (NN web) (NNS pages))))
+                      (CC and)
+                      (NP
+                        (NP (DT the) (NN promotion))
+                        (PP (IN of)
+                          (NP (JJ racist) (NN rock) (NN music)))))))))))))
+    (. .)))
+

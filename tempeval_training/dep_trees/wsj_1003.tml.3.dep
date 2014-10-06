@@ -1,0 +1,25 @@
+1	``	_	``	``	_	12	punct	_	_
+2	It	_	PRP	PRP	_	5	nsubj	_	_
+3	does	_	VBZ	VBZ	_	5	aux	_	_
+4	n't	_	RB	RB	_	5	neg	_	_
+5	bode	_	VB	VB	_	12	ccomp	_	_
+6	well	_	RB	RB	_	5	advmod	_	_
+7	for	_	IN	IN	_	5	prep	_	_
+8	coming	_	VBG	VBG	_	9	amod	_	_
+9	quarters	_	NNS	NNS	_	7	pobj	_	_
+10	,	_	,	,	_	12	punct	_	_
+11	''	_	''	''	_	12	punct	_	_
+12	said	_	VBD	VBD	_	0	root	_	_
+13	John	_	NNP	NNP	_	14	nn	_	_
+14	Jacobson	_	NNP	NNP	_	12	nsubj	_	_
+15	,	_	,	,	_	14	punct	_	_
+16	who	_	WP	WP	_	17	nsubj	_	_
+17	follows	_	VBZ	VBZ	_	14	rcmod	_	_
+18	the	_	DT	DT	_	20	det	_	_
+19	steel	_	NN	NN	_	20	nn	_	_
+20	industry	_	NN	NN	_	17	dobj	_	_
+21	for	_	IN	IN	_	20	prep	_	_
+22	AUS	_	NNP	NNP	_	23	nn	_	_
+23	Consultants	_	NNPS	NNPS	_	21	pobj	_	_
+24	.	_	.	.	_	12	punct	_	_
+

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP
+          (QP (RB Roughly) ($ $) (CD 2) (CD billion)))
+        (PP (IN of)
+          (NP (DT that) (NN debt))))
+      (VP (VBZ has)
+        (ADVP (RB already))
+        (VP (VBN been)
+          (VP (VBN repaid)
+            (PP (IN from)
+              (NP (JJ previous) (NN asset) (NNS sales)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNP RJR))
+      (VP (VBZ expects)
+        (S
+          (VP (TO to)
+            (VP (VB use)
+              (NP
+                (QP (DT another) ($ $) (CD 2) (CD billion)))
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (VBG pending) (, ,) (JJ two-part) (NN sale))
+                  (PP (IN of)
+                    (NP
+                      (NP (JJS most))
+                      (PP (IN of)
+                        (NP (PRP$ its) (NNP Del) (NNP Monte) (NN unit))))))))))))
+    (. .)))
+

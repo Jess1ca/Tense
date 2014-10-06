@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT The) (NN minister))
+    (VP (VBD denied)
+      (SBAR
+        (S
+          (NP (DT the) (NN kingdom))
+          (VP (VBD had)
+            (VP (VBN notified)
+              (S
+                (VP (VBN notified)
+                  (NP
+                    (NP (DT any))
+                    (PP (IN of)
+                      (NP
+                        (NP (PRP$ its) (NNS customers))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT any) (NNS cutbacks))
+                            (PP (IN in)
+                              (NP (NN oil) (NN supply)))))))))))))))
+    (. .)))
+

@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (DT the) (NNS allies))
+        (VP (VBP succeed))))
+    (, ,)
+    (NP (NNP Saddam) (NNP Hussein))
+    (VP (MD will)
+      (VP (VB have)
+        (VP (VBN plunged)
+          (NP (PRP$ his) (NN country))
+          (PP (RB first)
+            (PP (IN into)
+              (NP
+                (NP (DT a) (JJ fruitless) (JJ eight-year-long) (NN war))
+                (PP (IN against)
+                  (NP (NNP Iran)))))
+            (CC and)
+            (RB then)
+            (PP (IN into)
+              (NP
+                (NP
+                  (NP (DT a)
+                    (ADJP (JJ humiliating))
+                    (NN war))
+                  (PP (IN against)
+                    (NP (DT the) (NNP U.S.))))
+                (CC and)
+                (NP (DT the) (NNS allies)
+                  (S
+                    (VP (TO to)
+                      (VP (VB defend)
+                        (NP
+                          (NP (PRP$ his) (NN conquest))
+                          (PP (IN of)
+                            (NP (NNP Kuwait))))
+                        (, ,)
+                        (S
+                          (VP (VBG leaving)
+                            (NP
+                              (NP
+                                (NP (RB much))
+                                (PP (IN of)
+                                  (NP
+                                    (NP (PRP$ his) (NN country) (POS 's))
+                                    (JJ military) (NN establishment))))
+                              (CC and)
+                              (NP
+                                (NP (JJ modern) (NN infrastructure))
+                                (PP (IN in)
+                                  (NP (NNS ruins)))))))))))))))))
+    (. .)))
+

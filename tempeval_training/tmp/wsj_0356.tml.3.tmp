@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP (RBR Earlier) (DT this) (NN month))
+    (, ,)
+    (NP (DT a) (NN group))
+    (VP (VBD led)
+      (PP (IN by)
+        (NP
+          (NP (CD three))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN company) (POS 's))
+              (NNS directors)))))
+      (, ,)
+      (SBAR
+        (SBAR
+          (S
+            (NP
+              (NP (NNP Burt) (NNP Sugarman))
+              (, ,)
+              (NP
+                (NP (NNP James) (NNP M.) (NNP Trotter) (NNP III))
+                (CC and)
+                (NP (NNP Willam) (NNP E.) (NNP Trotter) (NNP II)))
+              (, ,))
+            (VP (VBD indicated)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBD had)
+                    (NP
+                      (NP (DT a)
+                        (ADJP (CD 45.2) (NN %))
+                        (NN stake))
+                      (PP (IN in)
+                        (NP (DT the)
+                          (NAC (NNP Louisville) (, ,) (NNP Ky.) (, ,))
+                          (NN fast-food) (NN company))))))))))
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBD planned)
+              (S
+                (VP (TO to)
+                  (VP (VB seek)
+                    (NP
+                      (NP (DT a) (NN majority))
+                      (PP (IN of)
+                        (NP
+                          (NP (NNS seats))
+                          (PP (IN on)
+                            (NP
+                              (NP (NNP Rally) (POS 's))
+                              (JJ nine-member) (NN board))))))))))))))
+    (. .)))
+

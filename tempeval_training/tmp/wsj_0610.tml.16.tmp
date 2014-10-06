@@ -1,0 +1,21 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB think)
+          (SBAR
+            (S
+              (NP (NNP Kellogg))
+              (VP (MD can)
+                (VP (VB get)
+                  (PRT (RP back))
+                  (PP (TO to)
+                    (NP
+                      (NP (CD 40) (NN %))
+                      (NP (DT this) (NN year)))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+

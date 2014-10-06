@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBD received)
+        (NP (JJR more) (NNS offers))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN auction))
+      (VP (VBD was)
+        (ADVP (RB surprisingly))
+        (VP (VBN won)
+          (PP (IN by)
+            (NP
+              (NP (NNP IMA))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP
+                    (VP (VBD bid)
+                      (NP
+                        (NP ($ $) (CD 28))
+                        (NP (DT a) (NN share))))
+                    (CC and)
+                    (VP (VBD asked)
+                      (S
+                        (NP (NNP Mr.) (NNP Gilleland))
+                        (VP (TO to)
+                          (VP (VB stay)
+                            (PRT (RP on))
+                            (PP (IN as)
+                              (NP (DT an) (NN equity) (NN participant)))))))))))))))
+    (. .)))
+

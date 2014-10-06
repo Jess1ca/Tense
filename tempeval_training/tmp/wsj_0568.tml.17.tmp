@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP (NNP Unisys))
+    (VP (MD must)
+      (VP (VB deal)
+        (PP (IN with)
+          (NP (PRP$ its)
+            (ADJP (RB increasingly) (JJ oppressive))
+            (NN debt) (NN load)))))
+    (. .)))
+

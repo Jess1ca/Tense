@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN approach))
+      (PP (IN of)
+        (NP (DT the) (NN year)
+          (QP (CD two) (CD thousand)))))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ many))
+        (PP (IN of)
+          (NP
+            (NP (DT these) (NNS groups))
+            (PP (IN in)
+              (NP
+                (NP (DT a) (NN kind))
+                (PP (IN of)
+                  (NP (JJ millennial) (NN frenzy)))))))))
+    (. .)))
+

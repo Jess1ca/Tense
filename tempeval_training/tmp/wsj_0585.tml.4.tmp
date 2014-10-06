@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP SampP) (CD 500))
+    (VP (VBZ is)
+      (ADVP (RB often))
+      (VP (VBN used)
+        (PP (IN in)
+          (NP (NN arbitrage) (NNS strategies)))))
+    (. .)))
+

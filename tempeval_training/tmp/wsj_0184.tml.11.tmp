@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (S
+      (NP (DT An) (NNP Upjohn) (NN spokesman))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBD had))))))
+    ('' '')
+    (VP (VBD heard)
+      (NP
+        (NP (NN nothing))
+        ('' '')
+        (SBAR
+          (S
+            (VP (TO to)
+              (VP (VB suggest)
+                (SBAR
+                  (S
+                    (NP (DT the) (JJ early) (NN retirement) (NN package))
+                    (VP (VBD was)
+                      (VP (VBN spurred)
+                        (PP (IN by)
+                          (NP
+                            (NP (NN shareholder) (NN pressure))
+                            (CC or)
+                            (NP (DT a) (JJ potential) (NN bidder))))))))))))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN company))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (ADVP (RB occasionally))
+                (VP (VBZ has)
+                  (VP (VBN been)
+                    (NP
+                      (NP (DT the) (NN target))
+                      (PP (IN of)
+                        (NP (NN takeover) (NN speculation))))))))))))
+    (. .)))
+

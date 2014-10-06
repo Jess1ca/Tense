@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (PP
+      (ADVP (RB Now))
+      (IN with)
+      (NP
+        (NP (JJ new) (NN construction))
+        (PP (IN under)
+          (NP (NN way)))))
+    (, ,)
+    (NP
+      (NP (CD three))
+      (PP (IN of)
+        (NP (PRP$ his) (NNS buyers))))
+    (VP (VBP have)
+      (VP (VBN backed)
+        (PRT (RP out))))
+    (. .)))
+

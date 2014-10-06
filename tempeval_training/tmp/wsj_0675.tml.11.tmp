@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ tentative) (NN pact))
+    (VP (MD would)
+      (VP (VB resolve)
+        (NP
+          (NP (NN part))
+          (PP (IN of)
+            (NP
+              (NP (DT a) (JJ broad) (NN investigation))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (JJ Atlanta-based) (NN company))
+                  (PP (IN in)
+                    (NP (DT the) (JJ past) (NN year))))))))))
+    (. .)))
+

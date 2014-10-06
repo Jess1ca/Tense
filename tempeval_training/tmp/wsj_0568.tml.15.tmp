@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (ADVP (RB also))
+    (VP (VBD reported)
+      (NP (JJR slower) (NN growth))
+      (PP (IN in)
+        (NP
+          (NP (DT another) (JJ important) (NN business))
+          (: :)
+          (NP
+            (NP (NNS systems))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP use)
+                  (NP (DT the) (NNP Unix) (NN operating) (NN system)))))))))
+    (. .)))
+

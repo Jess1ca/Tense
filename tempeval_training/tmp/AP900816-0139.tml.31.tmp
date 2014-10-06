@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (MD could)
+      (VP (VB include)
+        (NP (NN firing))
+        (PP (IN across)
+          (NP (DT the) (NN bow)
+            (S
+              (VP (TO to)
+                (VP (VB halt)
+                  (NP (DT a) (NN ship)))))))))
+    (. .)))
+

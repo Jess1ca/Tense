@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP OTC) (NNS stocks))
+      (PP (IN in)
+        (NP (DT the) (NNP SampP) (CD 500))))
+    (VP (VBP include)
+      (NP
+        (NP
+          (NP (NNP Nasdaq) (POS 's))
+          (JJS biggest))
+        (, ,)
+        (PP (JJ such) (IN as)
+          (NP
+            (NP (NNP Apple) (NNP Computer))
+            (, ,)
+            (NP (NNP MCI) (NNPS Communications))
+            (, ,)
+            (NP (NNP Tele-Communications))
+            (CC and)
+            (NP (NNP Liz) (NNP Claiborne))))))
+    (. .)))
+

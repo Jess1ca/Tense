@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Dow) (NNP Jones) (NNP amp) (NNP Co.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD extended)
+            (NP (PRP$ its)
+              (ADJP ($ $) (JJ 18-a-share))
+              (NN offer))
+            (PP (IN for)
+              (NP (NNP Telerate) (NNP Inc.) (JJ common) (NN stock)))
+            (PP (IN until)
+              (NP (CD 5) (RB p.m.) (NNP EST)))
+            (NP (NNP Nov.) (CD 9))))))
+    (. .)))
+

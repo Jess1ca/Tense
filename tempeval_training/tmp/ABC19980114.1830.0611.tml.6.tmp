@@ -1,0 +1,15 @@
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT a) (NN minute))
+      (CC and)
+      (NP (DT a) (NN half) (RB later)))
+    (, ,)
+    (NP
+      (NP (DT a) (NN pilot))
+      (PP (IN from)
+        (NP (DT a) (JJ nearby) (NN flight))))
+    (VP (VBZ calls)
+      (PRT (RP in)))
+    (. .)))
+

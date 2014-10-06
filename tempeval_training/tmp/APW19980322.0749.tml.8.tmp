@@ -1,0 +1,25 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (S
+        (NP (PRP We))
+        (VP (VBD were)
+          (ADVP (RB unjustly))
+          (VP (VBN pushed)
+            (PRT (RP out))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NNS talks))
+                (PP (IN in)
+                  (NP (NNP February))))))))
+      (CC but)
+      (S
+        (NP (PRP we))
+        (VP (VBP are)
+          (ADVP (RB back)))))
+    (, ,) ('' '')
+    (NP (NNP Adams))
+    (VP (VBD said)
+      (NP (NNP Sunday)))
+    (. .)))
+

@@ -1,0 +1,11 @@
+1	That	_	DT	DT	_	2	nsubj	_	_
+2	's	_	VBZ	VBZ	_	0	root	_	_
+3	four	_	CD	CD	_	4	num	_	_
+4	times	_	NNS	NNS	_	2	xcomp	_	_
+5	as	_	RB	RB	_	6	advmod	_	_
+6	fast	_	JJ	JJ	_	2	acomp	_	_
+7	as	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	386	_	CD	CD	_	7	pobj	_	_
+10	.	_	.	.	_	2	punct	_	_
+

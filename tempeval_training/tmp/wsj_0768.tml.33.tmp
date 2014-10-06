@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNS People))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP remain)
+              (PP (IN in)
+                (NP (NN junk) (NNS funds)))))))
+      (ADVP (RB now))
+      (VP (MD could)
+        (VP (VB get)
+          (NP (NN hit))
+          (ADVP (RB again)))))
+    (, ,)
+    (NP (DT some) (NNS analysts)
+      (CC and)
+      (NN fund) (NNS specialists))
+    (VP (VBP say))
+    (. .)))
+

@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (PRP$ her) (NN group))
+          (VP (VBZ is)
+            (VP (VBG appealing)
+              (PP
+                (PP (TO to)
+                  (NP (NNS individuals)))
+                (, ,)
+                (PP (TO to)
+                  (NP (DT the) (JJ international) (NN community)))
+                (, ,)
+                (CC and)
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (NNS combatants)
+                      (CC and)
+                      (NNS people))
+                    (PP (IN of)
+                      (NP (NNP Afghanistan))))))
+              (S
+                (VP (TO to)
+                  (VP (VB stop)
+                    (NP
+                      (NP (DT the) (VBG bloodletting))
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBZ has)
+                            (VP (VBN torn)
+                              (NP (DT the) (NN country))
+                              (ADVP (RB apart)))))))))))))))
+    (. .)))
+

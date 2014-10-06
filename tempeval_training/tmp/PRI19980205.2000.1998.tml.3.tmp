@@ -1,0 +1,25 @@
+(ROOT
+  (SINV
+    (VP (VBG Chanting)
+      (SBAR
+        (S
+          (NP (NNP Helmut) (NNP Kohl))
+          (VP (MD must)
+            (VP (VB go)
+              (NP (DT the) (JJ unemployed)))))))
+    (VP (VBD took)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NNS streets))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJ German) (NN capital))
+              (, ,)
+              (NP (NNP Berlin))
+              (, ,))))))
+    (NP
+      (NP (NN mirroring) (NNS protests))
+      (PP (IN around)
+        (NP (DT the) (NN country))))
+    (. .)))
+

@@ -1,0 +1,24 @@
+1	At	_	IN	IN	_	3	quantmod	_	_
+2	least	_	JJS	JJS	_	1	mwe	_	_
+3	51	_	CD	CD	_	4	num	_	_
+4	people	_	NNS	NNS	_	6	nsubjpass	_	_
+5	were	_	VBD	VBD	_	6	auxpass	_	_
+6	reported	_	VBN	VBN	_	0	root	_	_
+7	killed	_	VBN	VBN	_	6	dep	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	clashes	_	NNS	NNS	_	8	pobj	_	_
+10	between	_	IN	IN	_	9	prep	_	_
+11	Serb	_	NNP	NNP	_	12	nn	_	_
+12	police	_	NNS	NNS	_	10	pobj	_	_
+13	and	_	CC	CC	_	9	cc	_	_
+14	ethnic	_	JJ	JJ	_	15	amod	_	_
+15	Albanians	_	NNS	NNS	_	9	conj	_	_
+16	in	_	IN	IN	_	15	prep	_	_
+17	the	_	DT	DT	_	19	det	_	_
+18	troubled	_	JJ	JJ	_	19	amod	_	_
+19	region	_	NN	NN	_	16	pobj	_	_
+20	in	_	IN	IN	_	19	prep	_	_
+21	recent	_	JJ	JJ	_	22	amod	_	_
+22	days	_	NNS	NNS	_	20	pobj	_	_
+23	.	_	.	.	_	6	punct	_	_
+

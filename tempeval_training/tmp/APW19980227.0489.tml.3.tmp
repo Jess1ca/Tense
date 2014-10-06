@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (RB also))
+    (VP (VBD reignited)
+      (NP (DT the) (JJ civil) (NN war)))
+    (. .)))
+

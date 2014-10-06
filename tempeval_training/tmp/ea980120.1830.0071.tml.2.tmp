@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP are)
+      (ADVP (RB here))
+      (SBAR (IN because)
+        (S
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (VBZ happens)
+                (PP (IN on)
+                  (NP (DT this) (NN island))))))
+          (VP (MD will)
+            (ADVP (RB also))
+            (VP (VB have)
+              (NP
+                (NP (DT an) (NN impact))
+                (PP (IN on)
+                  (NP (DT the) (NNP United) (NNPS States)))))))))
+    (. .)))
+

@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the) (JJ same) (NN time)))
+    (, ,)
+    (NP
+      (NP (NN production) (NNS costs))
+      (, ,)
+      (PP (VBN compared)
+        (PP (IN with)
+          (ADVP
+            (NP (DT a) (NN year))
+            (RB ago))))
+      (, ,))
+    (VP (VBD were)
+      (VP (VBN boosted)
+        (PP (IN by)
+          (NP
+            (NP (JJR higher) (JJ raw) (NN material)
+              (CC and)
+              (NN employment) (NNS costs))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD resulted)
+                  (PP (IN from)
+                    (NP
+                      (NP
+                        (NP (DT the) (NN company) (POS 's))
+                        (JJ new) (NN labor) (NN pact))
+                      (ADJP (JJ effective)
+                        (NP (NNP June) (CD 1))))))))))))
+    (. .)))
+

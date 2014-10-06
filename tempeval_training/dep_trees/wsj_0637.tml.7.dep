@@ -1,0 +1,13 @@
+1	Labatt	_	NNP	NNP	_	3	nsubj	_	_
+2	's	_	POS	POS	_	1	possessive	_	_
+3	has	_	VBZ	VBZ	_	11	ccomp	_	_
+4	no	_	DT	DT	_	6	det	_	_
+5	takeover	_	NN	NN	_	6	nn	_	_
+6	bids	_	NNS	NNS	_	7	nsubj	_	_
+7	outstanding	_	JJ	JJ	_	3	xcomp	_	_
+8	currently	_	RB	RB	_	7	advmod	_	_
+9	,	_	,	,	_	11	punct	_	_
+10	he	_	PRP	PRP	_	11	nsubj	_	_
+11	said	_	VBD	VBD	_	0	root	_	_
+12	.	_	.	.	_	11	punct	_	_
+

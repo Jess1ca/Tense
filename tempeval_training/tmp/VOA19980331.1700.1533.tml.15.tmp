@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Our) (NN system))
+      (VP (VBZ is)
+        (VP (VBN balanced))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP (JJ right)
+        (PP (IN in)
+          (NP (DT the) (NN middle)))))
+    (. .)))
+

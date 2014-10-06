@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's) (RB not)
+      (NP
+        (NP (NN something))
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (VBP 're) (RB not)
+              (VP (VBN used)
+                (S
+                  (VP (TO to)))
+                (PP (IN in)
+                  (NP (DT the) (NN industry)))))))))
+    (. .)))
+

@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNP Westinghouse))
+    (ADVP (RB also))
+    (VP (VBZ expects)
+      (NP (PRP$ its) (JJ international) (NNS sales))
+      (S
+        (VP (TO to)
+          (ADVP (RB soon))
+          (VP (VB grow)
+            (PP (TO to)
+              (NP
+                (NP (CD 25) (NN %))
+                (PP (IN of)
+                  (NP (JJ total) (JJ corporate) (NNS sales)))))
+            (PP (IN from)
+              (NP (CD 20) (NN %)))
+            (NP (JJ last) (NN year))))))
+    (. .)))
+

@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Erbamont))
+    (VP (MD will) (RB then)
+      (VP (VB be)
+        (VP (VBN liquidated) (, ,)
+          (PP (IN with)
+            (S
+              (NP (DT any) (VBG remaining) (NNP Erbamont) (NNS holders))
+              (VP (VBG receiving)
+                (NP
+                  (NP (DT a) (NN distribution))
+                  (PP (IN of)
+                    (NP
+                      (NP ($ $) (CD 37))
+                      (NP (DT a) (NN share)))))))))))
+    (. .)))
+

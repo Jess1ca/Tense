@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (PRP She))
+    (ADVP (RB also))
+    (VP (VBD denied)
+      (SBAR
+        (S
+          (NP (NNS accusations))
+          (VP (VBD made)
+            (PP (IN by)
+              (NP
+                (NP
+                  (NP (NNP Amir) (POS 's))
+                  (NN brother))
+                (, ,)
+                (NP (NNP Hagai))
+                (, ,)))
+            (SBAR (IN that)
+              (S
+                (NP (PRP she))
+                (VP (VBD joined)
+                  (NP (DT an) (JJ anti-Arab) (JJ underground) (NN movement)))))))))
+    (. .)))
+

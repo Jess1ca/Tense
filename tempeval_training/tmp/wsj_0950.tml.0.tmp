@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP General) (NNPS Motors) (NNP Corp.) (POS 's))
+        (JJ big)
+        (UCP (NN defense)
+          (CC and)
+          (JJ automotive) (NNS electronics))
+        (NN unit))
+      (, ,)
+      (NP (NNP GM) (NNP Hughes) (NNP Electronics))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (JJ net) (NN income))
+          (VP (VBD fell)
+            (NP (CD 22) (NN %))
+            (PP (IN in)
+              (NP (DT the) (JJ third) (NN quarter)))
+            (, ,)
+            (S
+              (VP (VBG reflecting)
+                (NP
+                  (NP (VBG declining) (JJ military) (NN spending))
+                  (CC and)
+                  (NP (VBG slumping) (NNP GM) (NN vehicle) (NN production)))))))))
+    (. .)))
+

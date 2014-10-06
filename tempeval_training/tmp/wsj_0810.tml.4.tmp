@@ -1,0 +1,38 @@
+(ROOT
+  (S (CC But)
+    (NP (NNS sources))
+    (VP
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (MD will)
+              (VP (VB be)
+                (VP (VBG urging)
+                  (NP (PRP$ his) (NNS allies))
+                  (S
+                    (VP (TO to)
+                      (VP (VB boost)
+                        (NP (PRP$ their) (NNS stakes))
+                        (PP (IN in)
+                          (NP
+                            (NP (NNP Navigation) (NNP Mixte))
+                            (, ,)
+                            (SBAR
+                              (WHNP (WDT which))
+                              (S
+                                (VP (VBZ is)
+                                  (VP (VBG being)
+                                    (VP (VBN traded)
+                                      (PP (IN in)
+                                        (NP (NNP London)))))))))))))))))))
+      (CC and)
+      (VP (VBZ is)
+        (S
+          (VP (TO to)
+            (VP (VB resume)
+              (NP (NN trading))
+              (PP (IN in)
+                (NP (NNP Paris) (NNP Tuesday))))))))
+    (. .)))
+

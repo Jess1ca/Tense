@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (`` ``) (NN Transition) ('' ''))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN reference))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN company) (POS 's))
+            (JJ five-year) (NN restructuring) (NN effort)))))
+    (. .)))
+

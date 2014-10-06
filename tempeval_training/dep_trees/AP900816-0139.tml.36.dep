@@ -1,0 +1,8 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	Iraqis	_	NNPS	NNPS	_	4	nsubj	_	_
+3	also	_	RB	RB	_	4	advmod	_	_
+4	possess	_	VBP	VBP	_	0	root	_	_
+5	chemical	_	NN	NN	_	6	nn	_	_
+6	weapons	_	NNS	NNS	_	4	dobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+

@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ year-earlier) (NN period)))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD had)
+      (NP
+        (NP
+          (NP (NN net))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP ($ $) (CD 77.2) (CD million)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP ($ $) (CD 3.68))
+                (NP (DT a) (NN share)))
+              (, ,))))
+        (CC and)
+        (NP
+          (NP (DT a) (NN tax) (NN credit))
+          (PP (IN of)
+            (NP
+              (QP ($ $) (CD 7.7) (CD million)))))))
+    (. .)))
+

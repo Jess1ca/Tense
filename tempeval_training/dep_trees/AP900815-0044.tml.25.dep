@@ -1,0 +1,16 @@
+1	_	_	RB	RB	_	6	advmod	_	_
+2	The	_	DT	DT	_	5	det	_	_
+3	British	_	NNP	NNP	_	5	nn	_	_
+4	Foreign	_	NNP	NNP	_	5	nn	_	_
+5	Office	_	NNP	NNP	_	6	nsubj	_	_
+6	said	_	VBD	VBD	_	0	root	_	_
+7	today	_	NN	NN	_	8	nn	_	_
+8	conditions	_	NNS	NNS	_	11	nsubj	_	_
+9	in	_	IN	IN	_	8	prep	_	_
+10	Kuwait	_	NNP	NNP	_	9	pobj	_	_
+11	appear	_	VBP	VBP	_	6	ccomp	_	_
+12	to	_	TO	TO	_	13	aux	_	_
+13	be	_	VB	VB	_	11	xcomp	_	_
+14	deteriorating	_	VBG	VBG	_	13	acomp	_	_
+15	.	_	.	.	_	6	punct	_	_
+

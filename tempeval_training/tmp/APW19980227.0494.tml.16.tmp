@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP Kuchma))
+    (VP (VBZ has)
+      (VP (VBN said)
+        (ADVP (RB repeatedly))
+        (SBAR (IN that)
+          (S
+            (NP (NNP Ukraine))
+            (VP (MD would)
+              (VP (VB remain)
+                (ADJP (JJ neutral))
+                (PP (IN for)
+                  (NP (DT the) (JJ foreseeable) (NN future)))))))))
+    (. .)))
+

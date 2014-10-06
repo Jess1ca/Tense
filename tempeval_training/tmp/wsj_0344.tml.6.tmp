@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD attributed)
+      (NP
+        (NP (DT the) (NN decrease))
+        (PP (IN in)
+          (NP (NN part))))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN exclusion))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN company) (POS 's))
+              (JJ British) (NNS sales)))))
+      (PP (IN from)
+        (NP
+          (NP (DT the) (JJ current) (NN year) (POS 's))
+          (NNS figures)))
+      (PP
+        (PP (IN as)
+          (NP
+            (NP (DT a) (NN result))
+            (PP (IN of)
+              (NP
+                (NP
+                  (NP (DT the) (NN subsidiary) (POS 's))
+                  (NN status))
+                (PP (IN as)
+                  (NP (DT a) (JJ proposed) (JJ discontinued) (NN operation)))))))
+        (CC and)
+        (PP (, ,)
+          (PP (IN in)
+            (NP (NN part)))
+          (, ,) (TO to)
+          (NP
+            (NP (JJR lower) (NNS sales))
+            (PP (IN in)
+              (NP (JJ certain) (JJ key) (JJ foreign)
+                (CC and)
+                (JJ domestic) (NNS accounts)))))))
+    (. .)))
+

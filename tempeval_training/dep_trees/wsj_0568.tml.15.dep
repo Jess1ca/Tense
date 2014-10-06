@@ -1,0 +1,20 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	company	_	NN	NN	_	4	nsubj	_	_
+3	also	_	RB	RB	_	4	advmod	_	_
+4	reported	_	VBD	VBD	_	0	root	_	_
+5	slower	_	JJR	JJR	_	6	amod	_	_
+6	growth	_	NN	NN	_	4	dobj	_	_
+7	in	_	IN	IN	_	4	prep	_	_
+8	another	_	DT	DT	_	10	det	_	_
+9	important	_	JJ	JJ	_	10	amod	_	_
+10	business	_	NN	NN	_	7	pobj	_	_
+11	:	_	:	:	_	10	punct	_	_
+12	systems	_	NNS	NNS	_	10	dep	_	_
+13	that	_	WDT	WDT	_	14	nsubj	_	_
+14	use	_	VBP	VBP	_	12	rcmod	_	_
+15	the	_	DT	DT	_	18	det	_	_
+16	Unix	_	NNP	NNP	_	18	nn	_	_
+17	operating	_	NN	NN	_	18	nn	_	_
+18	system	_	NN	NN	_	14	dobj	_	_
+19	.	_	.	.	_	4	punct	_	_
+

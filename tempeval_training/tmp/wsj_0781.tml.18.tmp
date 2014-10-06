@@ -1,0 +1,39 @@
+(ROOT
+  (SINV
+    (S
+      (NP (DT The) (NNS bugs))
+      (VP (MD will)
+        (VP (VB cause)
+          (NP (NNS problems))
+          (PP (IN in)
+            (NP
+              (NP (`` ``) (JJ specific)
+                (CC and)
+                (JJ rare) (NNS circumstances))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (MD will) (RB not)
+                    (VP (VB occur)
+                      (PP (IN in)
+                        (NP
+                          (NP (JJ typical) (NNS applications))
+                          ('' '')
+                          (PP (JJ such) (IN as)
+                            (NP (NN word-processing)
+                              (CC and)
+                              (NNS spreadsheets))))))))))))))
+    (, ,)
+    (VP (VBD said))
+    (NP
+      (NP (NNP Michael) (NNP Slater))
+      (, ,)
+      (NP
+        (NP (NN editor))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNP Microprocessor) (NNP Report))
+            (, ,)
+            (NP (DT an) (NN industry) (NN newsletter))))))
+    (. .)))
+

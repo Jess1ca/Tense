@@ -1,0 +1,14 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (VBP have) (RB n't)
+        (VP (VBN modified)
+          (NP (PRP$ our) (NNS schedules))
+          (PP (IN in)
+            (NP (DT any) (NN way))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP (DT a) (NNP Sun) (NN spokesman))
+    (. .)))
+

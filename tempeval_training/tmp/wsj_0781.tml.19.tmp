@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Sun) (, ,) (NNP Hewlett-Packard)
+      (CC and)
+      (NNS others))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (NNP Intel))
+          (VP (VBZ is) (RB n't)
+            (ADJP (RB wholly)
+              (S
+                (VP (TO to)
+                  (VP (VB blame)
+                    (PP (IN for)
+                      (NP (DT the) (NN snafu)))))))))))
+    (. .)))
+

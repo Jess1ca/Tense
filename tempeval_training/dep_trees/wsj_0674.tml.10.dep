@@ -1,0 +1,27 @@
+1	A	_	DT	DT	_	3	det	_	_
+2	joint	_	JJ	JJ	_	3	amod	_	_
+3	venture	_	NN	NN	_	14	nsubj	_	_
+4	involving	_	VBG	VBG	_	3	prep	_	_
+5	units	_	NNS	NNS	_	4	pobj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	Innopac	_	NNP	NNP	_	10	nn	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	Mobil	_	NNP	NNP	_	7	conj	_	_
+10	Corp.	_	NNP	NNP	_	6	pobj	_	_
+11	earlier	_	RBR	RBR	_	13	advmod	_	_
+12	this	_	DT	DT	_	13	det	_	_
+13	year	_	NN	NN	_	5	dep	_	_
+14	opened	_	VBD	VBD	_	0	root	_	_
+15	the	_	DT	DT	_	20	det	_	_
+16	first	_	JJ	JJ	_	20	amod	_	_
+17	U.S.	_	NNP	NNP	_	20	nn	_	_
+18	polystyrene	_	NN	NN	_	20	nn	_	_
+19	recycling	_	NN	NN	_	20	nn	_	_
+20	plant	_	NN	NN	_	14	dobj	_	_
+21	,	_	,	,	_	14	punct	_	_
+22	in	_	IN	IN	_	14	prep	_	_
+23	Leominster	_	NNP	NNP	_	25	nn	_	_
+24	,	_	,	,	_	25	punct	_	_
+25	Mass.	_	NNP	NNP	_	22	pobj	_	_
+26	.	_	.	.	_	14	punct	_	_
+

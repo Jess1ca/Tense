@@ -1,0 +1,27 @@
+1	Since	_	IN	IN	_	3	mark	_	_
+2	KKR	_	NNP	NNP	_	3	nsubj	_	_
+3	bought	_	VBD	VBD	_	16	advcl	_	_
+4	RJR	_	NNP	NNP	_	3	dobj	_	_
+5	in	_	IN	IN	_	3	prep	_	_
+6	February	_	NNP	NNP	_	5	pobj	_	_
+7	for	_	IN	IN	_	3	prep	_	_
+8	$	_	$	$	_	7	pobj	_	_
+9	25	_	CD	CD	_	10	number	_	_
+10	billion	_	CD	CD	_	8	num	_	_
+11	of	_	IN	IN	_	8	prep	_	_
+12	debt	_	NN	NN	_	11	pobj	_	_
+13	,	_	,	,	_	16	punct	_	_
+14	it	_	PRP	PRP	_	16	nsubj	_	_
+15	has	_	VBZ	VBZ	_	16	aux	_	_
+16	agreed	_	VBN	VBN	_	0	root	_	_
+17	to	_	TO	TO	_	18	aux	_	_
+18	sell	_	VB	VB	_	16	xcomp	_	_
+19	nearly	_	RB	RB	_	20	quantmod	_	_
+20	$	_	$	$	_	18	dobj	_	_
+21	5	_	CD	CD	_	20	number	_	_
+22	billion	_	CD	CD	_	20	number	_	_
+23	of	_	IN	IN	_	20	prep	_	_
+24	RJR	_	NNP	NNP	_	25	nn	_	_
+25	assets	_	NNS	NNS	_	23	pobj	_	_
+26	.	_	.	.	_	16	punct	_	_
+

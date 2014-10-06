@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (S
+      (NP (NN Newsprint) (NNS results))
+      (VP (VBD continued)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN depressed)))))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD added) (, ,)
+      (PP (RB because) (IN of)
+        (NP (JJ industrywide) (NN price) (VBG discounting))))
+    (. .)))
+

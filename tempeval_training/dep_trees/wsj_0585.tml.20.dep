@@ -1,0 +1,26 @@
+1	Market	_	NN	NN	_	2	nn	_	_
+2	makers	_	NNS	NNS	_	8	nsubj	_	_
+3	,	_	,	,	_	8	punct	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	cut	_	VB	VB	_	8	dep	_	_
+6	costs	_	NNS	NNS	_	5	dobj	_	_
+7	,	_	,	,	_	8	punct	_	_
+8	slashed	_	VBD	VBD	_	0	root	_	_
+9	inventories	_	NNS	NNS	_	8	dobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	stocks	_	NNS	NNS	_	10	pobj	_	_
+12	they	_	PRP	PRP	_	13	nsubj	_	_
+13	keep	_	VBP	VBP	_	11	rcmod	_	_
+14	on	_	IN	IN	_	13	prep	_	_
+15	hand	_	NN	NN	_	14	pobj	_	_
+16	to	_	TO	TO	_	17	aux	_	_
+17	sell	_	VB	VB	_	13	xcomp	_	_
+18	investors	_	NNS	NNS	_	17	dobj	_	_
+19	when	_	WRB	WRB	_	24	advmod	_	_
+20	other	_	JJ	JJ	_	21	amod	_	_
+21	holders	_	NNS	NNS	_	24	nsubj	_	_
+22	are	_	VBP	VBP	_	24	aux	_	_
+23	n't	_	RB	RB	_	24	neg	_	_
+24	selling	_	VBG	VBG	_	17	advcl	_	_
+25	.	_	.	.	_	8	punct	_	_
+

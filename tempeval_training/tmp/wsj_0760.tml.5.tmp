@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (VBG Operating) (NN profit))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN company) (POS 's))
+          (NNS abrasives) (NN segment))))
+    (VP (VBD rose)
+      (NP (CD 16) (NN %))
+      (SBAR (IN while)
+        (S
+          (NP
+            (NP (VBG operating) (NN profit))
+            (PP (IN in)
+              (NP (DT the) (NN engineering) (NNS materials) (NN segment))))
+          (VP (VBD rose)
+            (NP (CD 2) (NN %))))))
+    (. .)))
+

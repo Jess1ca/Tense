@@ -1,0 +1,19 @@
+1	In	_	IN	IN	_	12	prep	_	_
+2	New	_	NNP	NNP	_	7	nn	_	_
+3	York	_	NNP	NNP	_	7	nn	_	_
+4	Stock	_	NNP	NNP	_	7	nn	_	_
+5	Exchange	_	NNP	NNP	_	7	nn	_	_
+6	composite	_	JJ	JJ	_	7	amod	_	_
+7	trading	_	NN	NN	_	1	pobj	_	_
+8	yesterday	_	NN	NN	_	12	tmod	_	_
+9	,	_	,	,	_	12	punct	_	_
+10	Compaq	_	NNP	NNP	_	11	nn	_	_
+11	shares	_	NNS	NNS	_	12	nsubj	_	_
+12	fell	_	VBD	VBD	_	0	root	_	_
+13	$	_	$	$	_	12	dobj	_	_
+14	1.625	_	CD	CD	_	13	num	_	_
+15	to	_	TO	TO	_	12	prep	_	_
+16	$	_	$	$	_	15	pobj	_	_
+17	108.625	_	CD	CD	_	16	num	_	_
+18	.	_	.	.	_	12	punct	_	_
+

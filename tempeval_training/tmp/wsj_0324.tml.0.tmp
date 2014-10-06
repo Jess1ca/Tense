@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP QVC) (NNP Network) (NNP Inc.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD completed)
+            (NP
+              (NP (PRP$ its) (NN acquisition))
+              (PP (IN of)
+                (NP (NNP CVN) (NNP Cos.))))
+            (PP (IN for)
+              (NP
+                (QP (RB about) ($ $) (CD 423) (CD million))))))))
+    (. .)))
+

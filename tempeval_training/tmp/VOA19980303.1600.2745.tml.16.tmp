@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Uh))
+      (, ,)
+      (NP
+        (NP (RB uh) (DT a))
+        (: -)
+        (S
+          (S
+            (NP (PRP they))
+            (VP (VBP believe)))
+          (, ,)
+          (CC or)
+          (S
+            (NP
+              (NP
+                (QP (IN at) (JJS least) (JJ many)))
+              (PP (IN of)
+                (NP (PRP them))))
+            (VP (VBP believe)))))
+      (, ,))
+    (VP (VBZ uh)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (VP (VBG approaching)
+              (NP
+                (NP (DT the) (NN Battle))
+                (PP (IN of)
+                  (NP (NNP Armageddon)))
+                (SBAR
+                  (WHPP (IN in)
+                    (WHNP (WDT which)))
+                  (S
+                    (NP (PRP they))
+                    (VP (MD will)
+                      (VP (VB be)
+                        (VP (VBN pitted)
+                          (PP (IN against)
+                            (NP
+                              (NP (DT the) (JJ uh) (NN kind))
+                              (PP (IN of)
+                                (NP
+                                  (NP (JJ Satanic) (NNS forces))
+                                  (VP (VBG trying)
+                                    (S
+                                      (VP (TO to)
+                                        (VP (VB take)
+                                          (PRT (RP over))
+                                          (NP (DT the) (NN world)))))))))))))))))))))
+    (. .)))
+

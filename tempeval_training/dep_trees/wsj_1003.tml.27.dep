@@ -1,0 +1,20 @@
+1	National	_	NNP	NNP	_	3	nn	_	_
+2	Intergroup	_	NNP	NNP	_	3	nn	_	_
+3	stock	_	NN	NN	_	4	nsubj	_	_
+4	closed	_	VBD	VBD	_	0	root	_	_
+5	at	_	IN	IN	_	4	prep	_	_
+6	$	_	$	$	_	5	pobj	_	_
+7	15	_	CD	CD	_	6	num	_	_
+8	,	_	,	,	_	4	punct	_	_
+9	unchanged	_	JJ	JJ	_	4	dep	_	_
+10	in	_	IN	IN	_	4	prep	_	_
+11	composite	_	JJ	JJ	_	12	amod	_	_
+12	trading	_	NN	NN	_	10	pobj	_	_
+13	on	_	IN	IN	_	12	prep	_	_
+14	the	_	DT	DT	_	18	det	_	_
+15	New	_	NNP	NNP	_	18	nn	_	_
+16	York	_	NNP	NNP	_	18	nn	_	_
+17	Stock	_	NNP	NNP	_	18	nn	_	_
+18	Exchange	_	NNP	NNP	_	13	pobj	_	_
+19	.	_	.	.	_	4	punct	_	_
+

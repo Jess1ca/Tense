@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Kellogg))
+    (VP (VBD indicated)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ has)
+            (NP (NN room)
+              (S
+                (VP (TO to)
+                  (VP (VB grow)
+                    (PP (IN without)
+                      (S
+                        (VP (VBG adding)
+                          (NP (NNS facilities)))))))))))))
+    (. .)))
+

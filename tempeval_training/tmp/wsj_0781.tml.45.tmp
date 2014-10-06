@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (PP (IN Of)
+      (NP (DT the) (JJ big) (NN computer) (NNS makers)))
+    (, ,)
+    (NP (RB only) (NNP Apple) (NNP Computer) (NNP Co.))
+    (VP (VBZ bases)
+      (NP (PRP$ its) (NNS machines))
+      (PP (IN on)
+        (NP (NNP Motorola) (NNS chips)))
+      (ADVP (RB instead)))
+    (. .)))
+

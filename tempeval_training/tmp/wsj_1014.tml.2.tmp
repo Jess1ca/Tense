@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN With)
+      (NP
+        (NP (DT the) (NN passing))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ heady) (NNS days))
+            (PP (IN of)
+              (NP (VBG swelling) (NN industry) (NNS sales)))))))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (NP
+      (NP (DT the)
+        (ADJP (JJ once-sporadic)
+          (CC and)
+          (JJ brief))
+        (NNS forays))
+      (PP (IN into)
+        (NP (NN discounting))))
+    (VP (VBP are)
+      (VP (VBG becoming)
+        (NP
+          (NP (JJ standard) (JJ competitive) (NNS weapons))
+          (PP (IN in)
+            (NP (DT the) (NN beer) (NN industry))))))
+    (. .)))
+

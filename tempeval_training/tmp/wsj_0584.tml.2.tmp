@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN debt))
+      (, ,)
+      (VP (VBN estimated)
+        (PP (IN at)
+          (NP
+            (QP ($ $) (CD 4.7) (CD billion)))))
+      (, ,))
+    (VP (MD could)
+      (VP (VB mortgage)
+        (NP
+          (NP (DT the) (JJ cellular) (NN company) (POS 's))
+          (JJ future) (NN earning) (NN power))
+        (SBAR (IN in) (NN order)
+          (S
+            (VP (TO to)
+              (VP (VB placate)
+                (NP (DT some) (NNP LIN) (NNS holders))
+                (PP (IN in)
+                  (NP (DT the) (JJ short) (NN term)))))))))
+    (. .)))
+

@@ -1,0 +1,18 @@
+1	But	_	CC	CC	_	3	cc	_	_
+2	economists	_	NNS	NNS	_	3	nsubj	_	_
+3	said	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	wage	_	NN	NN	_	6	nn	_	_
+6	increase	_	NN	NN	_	7	nsubj	_	_
+7	was	_	VBD	VBD	_	3	ccomp	_	_
+8	not	_	RB	RB	_	7	neg	_	_
+9	enough	_	JJ	JJ	_	7	acomp	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	raise	_	VB	VB	_	9	xcomp	_	_
+12	any	_	DT	DT	_	13	det	_	_
+13	concerns	_	NNS	NNS	_	11	dobj	_	_
+14	about	_	IN	IN	_	11	prep	_	_
+15	higher	_	JJR	JJR	_	16	amod	_	_
+16	inflation	_	NN	NN	_	14	pobj	_	_
+17	.	_	.	.	_	3	punct	_	_
+

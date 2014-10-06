@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Former) (JJ prime) (NN minister) (NNP Paul) (NNP Keating))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD put)
+            (NP (DT the) (NN republic) (NN issue))
+            (PP (IN in)
+              (NP (DT the) (NN spotlight)))
+            (PP (IN in)
+              (NP
+                (NP (PRP$ his)
+                  (ADJP (JJ unsuccessful)
+                    (NP (CD 1996)))
+                  (NN campaign))
+                (PP (IN for)
+                  (NP (NN re-election))))))))
+      (, ,))
+    (VP (VBD welcomed)
+      (NP (DT the) (NN result)))
+    (. .)))
+

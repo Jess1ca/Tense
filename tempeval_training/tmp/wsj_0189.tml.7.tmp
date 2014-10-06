@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN battery) (NN plant))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ makes)
+              (NP (JJ rechargeable) (NN nickel) (NN cadmium)
+                (CC and)
+                (NN carbon) (NN zinc) (NNS products)))))
+        (, ,))
+      (VP (MD will)
+        (VP (VB be)
+          (VP (VBN closed)
+            (PP (IN over)
+              (NP (DT the) (JJ next) (NN year)
+                (CC or)
+                (RB so)))))))
+    (, ,)
+    (NP (DT a) (NN spokesman))
+    (VP (VBD said))
+    (. .)))
+

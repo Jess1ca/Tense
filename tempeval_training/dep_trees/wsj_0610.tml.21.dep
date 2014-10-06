@@ -1,0 +1,13 @@
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	said	_	VBD	VBD	_	0	root	_	_
+3	construction	_	NN	NN	_	6	nsubj	_	_
+4	would	_	MD	MD	_	6	aux	_	_
+5	n't	_	RB	RB	_	6	neg	_	_
+6	resume	_	VB	VB	_	2	ccomp	_	_
+7	until	_	IN	IN	_	10	mark	_	_
+8	market	_	NN	NN	_	9	nn	_	_
+9	conditions	_	NNS	NNS	_	10	nsubj	_	_
+10	warrant	_	VBP	VBP	_	6	advcl	_	_
+11	it	_	PRP	PRP	_	10	dobj	_	_
+12	.	_	.	.	_	2	punct	_	_
+

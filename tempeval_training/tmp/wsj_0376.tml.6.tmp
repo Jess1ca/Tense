@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Courtaulds) (POS '))
+      (NN restructuring))
+    (VP (VBZ is)
+      (PP (IN among)
+        (NP (DT the) (JJS largest)))
+      (ADVP (RB thus) (RB far)
+        (PP (IN in)
+          (NP
+            (NP (NNP Britain))
+            (, ,)
+            (SBAR (IN though)
+              (S
+                (NP (PRP it))
+                (VP (VBZ is)
+                  (VP (VBN dwarfed)
+                    (PP (IN by)
+                      (NP
+                        (NP (NNP B.A.T) (NNPS Industries) (NNP PLC) (POS 's))
+                        (NNS plans)))
+                    (S
+                      (VP (TO to)
+                        (VP (VB spin)
+                          (ADVP (RB roughly))
+                          (PP (IN off)
+                            (NP
+                              (NP
+                                (QP (# #) (CD 4) (CD billion)))
+                              (PP (IN in)
+                                (NP (NNS assets)))))
+                          (S
+                            (VP (TO to)
+                              (VP (NN help) (VB fend)
+                                (PRT (RP off))
+                                (NP (DT a) (NN takeover) (NN bid))
+                                (PP (IN from)
+                                  (NP (JJ Anglo-French) (NN financier) (NNP Sir) (NNP James) (NNP Goldsmith)))))))))))))))))
+    (. .)))
+

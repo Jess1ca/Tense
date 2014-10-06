@@ -1,0 +1,14 @@
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	's	_	VBZ	VBZ	_	0	root	_	_
+3	not	_	RB	RB	_	2	neg	_	_
+4	something	_	NN	NN	_	2	xcomp	_	_
+5	we	_	PRP	PRP	_	8	nsubjpass	_	_
+6	're	_	VBP	VBP	_	8	auxpass	_	_
+7	not	_	RB	RB	_	8	neg	_	_
+8	used	_	VBN	VBN	_	4	rcmod	_	_
+9	to	_	TO	TO	_	8	xcomp	_	_
+10	in	_	IN	IN	_	8	prep	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	industry	_	NN	NN	_	10	pobj	_	_
+13	.	_	.	.	_	2	punct	_	_
+

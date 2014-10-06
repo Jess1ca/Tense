@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN portfolio) (NN unit))
+      (PP (IN of)
+        (NP (DT the) (JJ French) (NN bank) (NN group) (NNP Credit) (NNP Lyonnais))))
+    (VP (VBD told)
+      (NP (NN stock) (NN market) (NNS regulators))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBD bought)
+            (NP
+              (NP (CD 43,000) (NNS shares))
+              (PP (IN of)
+                (NP (NNP Cie.) (FW de) (NNP Navigation) (NNP Mixte))))
+            (, ,)
+            (S
+              (ADVP (RB apparently))
+              (VP (TO to)
+                (VP (VB help)
+                  (VP (VB fend)
+                    (PRT (RP off))
+                    (NP
+                      (NP (DT an) (JJ unwelcome) (NN takeover) (NN bid))
+                      (PP (IN for)
+                        (NP (DT the) (NN company))))))))))))
+    (. .)))
+

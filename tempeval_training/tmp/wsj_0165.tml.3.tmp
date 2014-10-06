@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ national) (JJ over-the-counter) (NN trading)))
+    (NP (NN yesterday))
+    (, ,)
+    (NP (NNP POP))
+    (VP (VBD plunged)
+      (NP
+        (QP ($ $) (CD 4) (TO to) ($ $) (CD 14.75))))
+    (. .)))
+

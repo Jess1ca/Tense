@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets) (NNP Inc.))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ sole) (NN underwriter))
+        (PP (IN for)
+          (NP (DT the) (NN offering)))))
+    (. .)))
+

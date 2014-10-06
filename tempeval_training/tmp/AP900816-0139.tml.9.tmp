@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (S
+      (NP (`` ``)
+        (NP (NN Very) (JJ few))
+        ('' '')
+        (PP (IN of)
+          (NP
+            (NP (DT the) (CD 2,500) (NNPS Americans))
+            (PP (IN in)
+              (NP (JJ occupied) (NNP Kuwait))))))
+      (VP (VBD complied)
+        (PP (IN with)
+          (NP (DT the) (NN order)))))
+    (, ,)
+    (NP (DT a) (JJ senior) (NNP U.S.) (NN official))
+    (VP (VBD told)
+      (NP (DT The) (NNP Associated) (NNP Press)))
+    (. .)))
+

@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (NNP Crane))
+    (VP (VBZ holds)
+      (NP
+        (NP (CD 504,200) (NNP Milton) (NNP Roy) (NNS shares))
+        (, ,)
+        (PP (VBG including)
+          (NP
+            (NP (CD 254,200))
+            (VP (VBN bought)
+              (PP (IN from)
+                (NP
+                  (NP (NNP Sept.) (CD 14))
+                  (PP (TO to)
+                    (NP (NNP Thursday)))))
+              (PP (IN for)
+                (NP
+                  (NP
+                    (QP ($ $) (CD 15.50) (TO to) ($ $) (CD 16.75)))
+                  (NP (DT each)))))))))
+    (. .)))
+

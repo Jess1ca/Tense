@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (PP (IN As)
+      (PP (IN of)
+        (NP (NNP Sept.) (CD 30))))
+    (, ,)
+    (NP (NNP Philip) (NNP Morris))
+    (VP (VBD had)
+      (NP
+        (NP
+          (QP (CD 926) (CD million))
+          (NNS shares))
+        (ADJP (JJ outstanding))))
+    (. .)))
+

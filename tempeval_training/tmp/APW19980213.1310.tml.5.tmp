@@ -1,0 +1,27 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP It))
+      (VP (MD would)
+        (VP (VB be)
+          (NP
+            (NP (DT a) (NN travesty))
+            (PP (IN in)
+              (NP
+                (NP (JJ common) (NN sense) (NNS terms))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ Australian) (NN democracy))
+                    (PP (IN for)
+                      (NP (DT that) (NN proposition)))))))
+            (S (RB not)
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBN put)
+                    (PP (TO to)
+                      (NP (DT the) (JJ Australian) (NNS people)))))))))))
+    (, ,) ('' '')
+    (NP (NNP Howard))
+    (VP (VBD said))
+    (. .)))
+

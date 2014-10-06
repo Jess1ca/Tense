@@ -1,0 +1,15 @@
+1	Gas	_	NNP	NNP	_	2	nn	_	_
+2	prices	_	NNS	NNS	_	3	nsubj	_	_
+3	fell	_	VBD	VBD	_	0	root	_	_
+4	nearly	_	RB	RB	_	5	quantmod	_	_
+5	two	_	CD	CD	_	6	num	_	_
+6	cents	_	NNS	NNS	_	9	npadvmod	_	_
+7	a	_	DT	DT	_	8	det	_	_
+8	gallon	_	NN	NN	_	6	dep	_	_
+9	over	_	IN	IN	_	3	prep	_	_
+10	the	_	DT	DT	_	13	det	_	_
+11	last	_	JJ	JJ	_	13	amod	_	_
+12	two	_	CD	CD	_	13	num	_	_
+13	weeks	_	NNS	NNS	_	9	pobj	_	_
+14	.	_	.	.	_	3	punct	_	_
+

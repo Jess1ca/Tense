@@ -1,0 +1,23 @@
+(ROOT
+  (S (CC But)
+    (NP (NNS tremors))
+    (VP (VBP are)
+      (ADJP (JJ likely)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (JJ junk-bond) (NN market))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ has)
+                  (VP (VBN helped)
+                    (S
+                      (VP (TO to)
+                        (VP (VB finance)
+                          (NP
+                            (NP (DT the) (NN takeover) (NN boom))
+                            (PP (IN of)
+                              (NP (JJ recent) (NNS years)))))))))))))))
+    (. .)))
+

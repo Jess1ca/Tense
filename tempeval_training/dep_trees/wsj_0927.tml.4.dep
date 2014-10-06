@@ -1,0 +1,13 @@
+1	As	_	IN	IN	_	11	prep	_	_
+2	a	_	DT	DT	_	3	det	_	_
+3	result	_	NN	NN	_	1	pobj	_	_
+4	,	_	,	,	_	11	punct	_	_
+5	U.S.	_	NNP	NNP	_	6	nn	_	_
+6	Trust	_	NNP	NNP	_	8	poss	_	_
+7	's	_	POS	POS	_	6	possessive	_	_
+8	earnings	_	NNS	NNS	_	11	nsubjpass	_	_
+9	have	_	VBP	VBP	_	11	aux	_	_
+10	been	_	VBN	VBN	_	11	auxpass	_	_
+11	hurt	_	VBN	VBN	_	0	root	_	_
+12	.	_	.	.	_	11	punct	_	_
+

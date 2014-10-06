@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (PP (IN Until)
+      (ADVP (RB recently)))
+    (, ,)
+    (NP (NNP Kellogg))
+    (VP (VBD had)
+      (VP (VBN been)
+        (VP (VBG telling)
+          (NP
+            (NP (PRP$ its) (NNS sales) (NN force))
+            (CC and)
+            (NP (NNP Wall) (NNP Street)))
+          (SBAR (IN that)
+            (S
+              (PP (IN by)
+                (NP (CD 1992)))
+              (NP (PRP it))
+              (VP (VBD intended)
+                (S
+                  (VP (TO to)
+                    (VP (VB achieve)
+                      (NP
+                        (NP (DT a)
+                          (ADJP (CD 50) (NN %))
+                          (NN share))
+                        (PP (IN of)
+                          (NP (NN market)))
+                        (, ,)
+                        (VP (VBN measured)
+                          (PP (IN in)
+                            (NP (NN dollar) (NN volume))))))))))))))
+    (. .)))
+

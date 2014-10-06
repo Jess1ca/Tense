@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (JJ Total) (NNS Assets))
+    (VP (VBZ plans)
+      (CC and)
+      (VBZ designs)
+      (NP
+        (NP (NN computer) (NNS centers))
+        (, ,)
+        (NP (NN computer) (NN security) (NNS systems))
+        (CC and)
+        (NP (NN computer) (NN backup) (NNS systems))))
+    (. .)))
+

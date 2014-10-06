@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (CD nine) (NNS months)))
+    (, ,)
+    (NP (NNP GM) (NNP Hughes) (NN net))
+    (VP (VBD fell)
+      (NP (CD 6.6) (NN %))
+      (PP (TO to)
+        (NP
+          (NP
+            (QP ($ $) (CD 486.6) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP ($ $) (CD 1.48))
+            (NP (DT a) (NN share)))
+          (, ,)))
+      (PP (IN from)
+        (NP
+          (NP
+            (QP ($ $) (CD 521) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP ($ $) (CD 1.58))
+            (NP (DT a) (NN share))))))
+    (. .)))
+

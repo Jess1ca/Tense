@@ -1,0 +1,12 @@
+(ROOT
+  (NP
+    (NP (DT A)
+      (ADJP
+        (QP (CD two) (CD hundred)))
+      (NN dollar) (NN wool))
+    (NP
+      (NP (NN jacket))
+      (PP (IN for)
+        (NP (JJ fifty) (NNS dollars))))
+    (. .)))
+

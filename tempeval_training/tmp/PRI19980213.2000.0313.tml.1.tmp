@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (PP (IN From)
+      (NP (NN member) (NN station) (NN KQED)))
+    (, ,)
+    (NP (NNP Auncil) (NNP Martinez))
+    (VP (VBZ reports))
+    (. .)))
+

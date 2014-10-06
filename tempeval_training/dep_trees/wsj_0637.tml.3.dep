@@ -1,0 +1,9 @@
+1	Thereafter	_	RB	RB	_	7	advmod	_	_
+2	,	_	,	,	_	7	punct	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	rate	_	NN	NN	_	7	nsubjpass	_	_
+5	will	_	MD	MD	_	7	aux	_	_
+6	be	_	VB	VB	_	7	auxpass	_	_
+7	renegotiated	_	VBN	VBN	_	0	root	_	_
+8	.	_	.	.	_	7	punct	_	_
+

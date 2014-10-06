@@ -1,0 +1,14 @@
+1	As	_	IN	IN	_	8	prep	_	_
+2	of	_	IN	IN	_	1	pcomp	_	_
+3	Sept.	_	NNP	NNP	_	2	pobj	_	_
+4	30	_	CD	CD	_	3	num	_	_
+5	,	_	,	,	_	8	punct	_	_
+6	Philip	_	NNP	NNP	_	7	nn	_	_
+7	Morris	_	NNP	NNP	_	8	nsubj	_	_
+8	had	_	VBD	VBD	_	0	root	_	_
+9	926	_	CD	CD	_	10	number	_	_
+10	million	_	CD	CD	_	11	num	_	_
+11	shares	_	NNS	NNS	_	8	dobj	_	_
+12	outstanding	_	JJ	JJ	_	11	amod	_	_
+13	.	_	.	.	_	8	punct	_	_
+

@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG Bowing)
+        (PP (TO to)
+          (NP (NN criticism)))))
+    (, ,)
+    (NP
+      (NP (NNP Bear) (NNP Stearns))
+      (, ,)
+      (NP (NNP Morgan) (NNP Stanley))
+      (CC and)
+      (NP (NNP Oppenheimer)))
+    (VP (VBD joined)
+      (NP
+        (NP (NNP PaineWebber))
+        (PP (IN in)
+          (S
+            (VP (VBG suspending)
+              (NP (JJ stock-index) (NN arbitrage) (NN trading))
+              (PP (IN for)
+                (NP (PRP$ their) (JJ own) (NNS accounts))))))))
+    (. .)))
+

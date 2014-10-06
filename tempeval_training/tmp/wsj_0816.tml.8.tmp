@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (S
+      (VP (VBN Taken)
+        (ADVP (RB together))))
+    (, ,)
+    (NP (DT the) (NNS worries))
+    (VP (VBD prompted)
+      (NP
+        (NP (DT a) (JJ broad) (NN sell-off))
+        (PP (IN of)
+          (NP (NNS stocks)))))
+    (. .)))
+

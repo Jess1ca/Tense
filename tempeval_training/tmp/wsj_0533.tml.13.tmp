@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Lawyers))
+      (PP (IN for)
+        (NP (DT the) (CD two) (NNS sides))))
+    (VP (VBD were) (RB n't)
+      (ADJP (RB immediately) (JJ available)
+        (PP (IN for)
+          (NP (NN comment)))))
+    (. .)))
+

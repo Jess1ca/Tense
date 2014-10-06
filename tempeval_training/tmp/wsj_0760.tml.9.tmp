@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT the) (CD nine) (NNS months)))
+    (, ,)
+    (NP (NNP Norton))
+    (VP (VBD had)
+      (NP
+        (NP
+          (NP (NN net))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP ($ $) (CD 81.2) (CD million)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP ($ $) (CD 3.87))
+                (NP (DT a) (NN share)))
+              (, ,))))
+        (CC and)
+        (NP
+          (NP (DT a) (NN tax) (NN credit))
+          (PP (IN of)
+            (NP
+              (QP ($ $) (CD 4.4) (CD million)))))))
+    (. .)))
+

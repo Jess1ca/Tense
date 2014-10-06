@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBZ has)
+      (VP (VBN made)
+        (NP
+          (NP (NNS payments))
+          (PP (IN of)
+            (NP
+              (QP ($ $) (CD 175) (CD million)))))
+        (PP (IN against)
+          (NP
+            (NP (DT the) (JJ original)
+              (QP ($ $) (CD 585) (CD million)))
+            (PP (IN of)
+              (NP
+                (NP (NN bank) (NN debt))
+                (VP (VBN incurred)
+                  (PP (IN in)
+                    (NP (NN connection)))
+                  (PP (IN with)
+                    (NP (DT the) (NN recapitalization))))))))))
+    (. .)))
+

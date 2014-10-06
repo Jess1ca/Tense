@@ -1,0 +1,19 @@
+1	Sales	_	NNS	NNS	_	5	nsubj	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	however	_	RB	RB	_	5	advmod	_	_
+4	,	_	,	,	_	5	punct	_	_
+5	were	_	VBD	VBD	_	0	root	_	_
+6	little	_	RB	RB	_	7	advmod	_	_
+7	changed	_	JJ	JJ	_	5	acomp	_	_
+8	at	_	IN	IN	_	5	prep	_	_
+9	2.46	_	CD	CD	_	10	number	_	_
+10	billion	_	CD	CD	_	11	num	_	_
+11	guilders	_	NNS	NNS	_	8	pobj	_	_
+12	,	_	,	,	_	5	punct	_	_
+13	compared	_	VBN	VBN	_	5	prep	_	_
+14	with	_	IN	IN	_	13	pcomp	_	_
+15	2.42	_	CD	CD	_	16	number	_	_
+16	billion	_	CD	CD	_	17	num	_	_
+17	guilders	_	NNS	NNS	_	14	pobj	_	_
+18	.	_	.	.	_	5	punct	_	_
+

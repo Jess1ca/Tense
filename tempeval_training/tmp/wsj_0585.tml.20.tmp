@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NN Market) (NNS makers))
+    (, ,)
+    (S
+      (VP (TO to)
+        (VP (VB cut)
+          (NP (NNS costs)))))
+    (, ,)
+    (VP (VBD slashed)
+      (NP
+        (NP (NNS inventories))
+        (PP (IN of)
+          (NP
+            (NP (NNS stocks))
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBP keep)
+                  (PP (IN on)
+                    (NP (NN hand)))
+                  (S
+                    (VP (TO to)
+                      (VP (VB sell)
+                        (NP (NNS investors))
+                        (SBAR
+                          (WHADVP (WRB when))
+                          (S
+                            (NP (JJ other) (NNS holders))
+                            (VP (VBP are) (RB n't)
+                              (VP (VBG selling)))))))))))))))
+    (. .)))
+

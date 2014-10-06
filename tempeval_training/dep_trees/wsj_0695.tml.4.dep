@@ -1,0 +1,16 @@
+1	Giant	_	NNP	NNP	_	2	nn	_	_
+2	Group	_	NNP	NNP	_	3	nsubj	_	_
+3	owned	_	VBD	VBD	_	0	root	_	_
+4	22	_	CD	CD	_	5	num	_	_
+5	%	_	NN	NN	_	3	dobj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	Rally	_	NNP	NNP	_	9	poss	_	_
+8	's	_	POS	POS	_	7	possessive	_	_
+9	shares	_	NNS	NNS	_	6	pobj	_	_
+10	before	_	IN	IN	_	3	prep	_	_
+11	the	_	DT	DT	_	14	det	_	_
+12	initial	_	JJ	JJ	_	14	amod	_	_
+13	public	_	JJ	JJ	_	14	amod	_	_
+14	offering	_	NN	NN	_	10	pobj	_	_
+15	.	_	.	.	_	3	punct	_	_
+

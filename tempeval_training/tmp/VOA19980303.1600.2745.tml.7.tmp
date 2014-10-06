@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Potach))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (DT the) (NN growth))
+          (VP (VBZ is)
+            (ADJP (JJ surprising))
+            (SBAR (IN since)
+              (S
+                (NP
+                  (NP (NN membership))
+                  (PP (IN in)
+                    (NP (NN hate) (NNS groups))))
+                (ADVP (RB usually))
+                (VP (VBZ declines)
+                  (PP (IN during)
+                    (NP
+                      (NP (NNS periods))
+                      (PP (IN of)
+                        (NP (JJ economic) (NN prosperity))))))))))))
+    (. .)))
+

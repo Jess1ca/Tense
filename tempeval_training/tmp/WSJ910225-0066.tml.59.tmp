@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ American) (NN hope))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP
+              (NP (NN someone))
+              (PP (IN from)
+                (PP (IN within)
+                  (NP (NNP Iraq)))))
+            (, ,)
+            (RRC
+              (ADVP (RB perhaps))
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (NN army) (POS 's))
+                  (JJ professional) (NNS ranks))))
+            (, ,))
+          (VP (MD will)
+            (VP
+              (VP (VB step)
+                (ADVP (RB forward)))
+              (CC and)
+              (VP (VB push)
+                (NP (NNP Saddam) (NNP Hussein))
+                (ADVP
+                  (ADVP (RB aside) (RB so))
+                  (SBAR (IN that)
+                    (S
+                      (NP (DT the) (NN country))
+                      (VP (MD can)
+                        (VP (VB begin)
+                          (S
+                            (VP (VBG recovering)
+                              (PP (IN from)
+                                (NP (DT the) (NN disaster))))))))))))))))
+    (. .)))
+

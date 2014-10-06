@@ -1,0 +1,26 @@
+1	In	_	IN	IN	_	6	prep	_	_
+2	effect	_	NN	NN	_	1	pobj	_	_
+3	,	_	,	,	_	6	punct	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	treaty	_	NN	NN	_	6	nsubj	_	_
+6	amounts	_	VBZ	VBZ	_	0	root	_	_
+7	to	_	TO	TO	_	6	prep	_	_
+8	Russian	_	JJ	JJ	_	9	amod	_	_
+9	recognition	_	NN	NN	_	7	pobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	Ukraine	_	NNP	NNP	_	13	poss	_	_
+12	's	_	POS	POS	_	11	possessive	_	_
+13	sovereignty	_	NN	NN	_	10	pobj	_	_
+14	and	_	CC	CC	_	13	cc	_	_
+15	borders	_	NNS	NNS	_	13	conj	_	_
+16	,	_	,	,	_	6	punct	_	_
+17	and	_	CC	CC	_	6	cc	_	_
+18	the	_	DT	DT	_	20	det	_	_
+19	Ukrainian	_	JJ	JJ	_	20	amod	_	_
+20	parliament	_	NN	NN	_	23	nsubj	_	_
+21	has	_	VBZ	VBZ	_	23	aux	_	_
+22	already	_	RB	RB	_	23	advmod	_	_
+23	ratified	_	VBN	VBN	_	6	conj	_	_
+24	it	_	PRP	PRP	_	23	dobj	_	_
+25	.	_	.	.	_	6	punct	_	_
+

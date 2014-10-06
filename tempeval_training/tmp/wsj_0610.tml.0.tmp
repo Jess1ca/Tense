@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ has) (RB n't)
+      (VP (VBN been)
+        (NP
+          (NP (NNP Kellogg) (NNP Co.) (POS 's))
+          (NN year))))
+    (. .)))
+

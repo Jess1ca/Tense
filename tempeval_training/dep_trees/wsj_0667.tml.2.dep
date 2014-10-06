@@ -1,0 +1,18 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	write-off	_	NN	NN	_	5	nsubjpass	_	_
+3	will	_	MD	MD	_	5	aux	_	_
+4	be	_	VB	VB	_	5	auxpass	_	_
+5	reported	_	VBN	VBN	_	0	root	_	_
+6	as	_	IN	IN	_	5	prep	_	_
+7	an	_	DT	DT	_	9	det	_	_
+8	extraordinary	_	JJ	JJ	_	9	amod	_	_
+9	item	_	NN	NN	_	6	pobj	_	_
+10	in	_	IN	IN	_	9	prep	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	company	_	NN	NN	_	16	poss	_	_
+13	's	_	POS	POS	_	12	possessive	_	_
+14	1989	_	CD	CD	_	16	num	_	_
+15	operating	_	NN	NN	_	16	nn	_	_
+16	results	_	NNS	NNS	_	10	pobj	_	_
+17	.	_	.	.	_	5	punct	_	_
+

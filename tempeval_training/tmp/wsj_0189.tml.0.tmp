@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNP Ralston) (NNP Purina) (NNP Co.))
+    (VP (VBD reported)
+      (NP (DT a)
+        (ADJP (CD 47) (NN %))
+        (NN decline))
+      (PP (IN in)
+        (NP (JJ fourth-quarter) (NNS earnings)))
+      (, ,)
+      (S
+        (VP (VBG reflecting)
+          (NP
+            (NP (NN restructuring) (NNS costs))
+            (CONJP (RB as) (RB well) (IN as))
+            (NP (DT a)
+              (ADJP (RBR more) (JJ difficult))
+              (JJ pet) (NN food) (NN market))))))
+    (. .)))
+

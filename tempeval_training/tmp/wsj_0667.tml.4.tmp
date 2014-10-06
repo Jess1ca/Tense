@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (VBN combined) (NN effect))
+      (PP (IN of)
+        (NP (DT these) (NNS changes))))
+    (VP (VBZ is)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB save)
+              (NP (DT the) (NN company))
+              (NP
+                (NP
+                  (QP (RB about) ($ $) (CD 4) (CD million)))
+                (PP (IN in)
+                  (NP (NN interest) (NNS expenses))))
+              (NP (JJ next) (NN year))
+              (, ,)
+              (NP
+                (NP
+                  (QP (CC or)
+                    (CD six))
+                  (NNS cents))
+                (NP (DT a) (NN share))))))))
+    (. .)))
+

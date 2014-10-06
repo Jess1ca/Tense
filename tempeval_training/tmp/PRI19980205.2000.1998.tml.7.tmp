@@ -1,0 +1,17 @@
+(ROOT
+  (S (CC And)
+    (NP (DT the) (JJ German) (NN electorate))
+    (VP (VBZ appears)
+      (ADJP (RB increasingly) (JJ eager)
+        (S
+          (VP (TO to)
+            (VP (VB dispense)
+              (PP (IN with)
+                (NP
+                  (NP (DT the) (NNS services))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNP Europe) (POS 's))
+                      (JJS longest) (JJ serving) (NN leader))))))))))
+    (. .)))
+

@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (JJ independent) (NN power) (NN segment))
+          (VP (MD could)
+            (VP (VB grow)
+              (S
+                (VP (TO to)
+                  (VP (VB provide)
+                    (NP
+                      (NP
+                        (QP (RB as) (JJ much) (IN as) (CD 50))
+                        (NN %))
+                      (PP (IN of)
+                        (NP (JJ near-term) (NN generation) (NN capacity))))
+                    (, ,)
+                    (S
+                      (VP (VBG adding) (: :) (`` ``)
+                        (S
+                          (NP (PRP We))
+                          (VP (VBP expect)
+                            (S
+                              (VP (TO to)
+                                (VP (VB supply)
+                                  (NP
+                                    (NP (DT a) (JJ significant) (NN share))
+                                    (PP (IN of)
+                                      (NP (DT this) (NN market)))))))))))))))))))
+    (. .) ('' '')))
+

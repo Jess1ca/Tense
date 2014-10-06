@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Michael) (NNP Gifford))
+      (, ,)
+      (NP
+        (NP (NNP Rank) (POS 's))
+        (JJ chief) (NN executive))
+      (, ,))
+    (VP
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (JJ British) (NN theater) (NN chain) (POS 's))
+              (JJ total) (NN involvement))
+            (`` ``)
+            (VP (MD would) (RB n't)
+              (VP (VB exceed)
+                (NP
+                  (QP ($ $) (CD 100) (CD million)))))
+            ('' ''))))
+      (CC but)
+      (VP (VBD declined)
+        (S
+          (VP (TO to)
+            (VP (VB give)
+              (NP
+                (NP (DT a) (NN breakdown))
+                (PP (IN between)
+                  (NP
+                    (NP (DT the) (NN loan) (NN financing))
+                    (CC and)
+                    (NP (DT the) (VBN proposed) (NNP Film) (NNP House) (NN purchase))))))))))
+    (. .)))
+

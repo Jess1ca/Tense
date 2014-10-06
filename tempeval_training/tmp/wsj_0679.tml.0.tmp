@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNP Hewlett-Packard) (NNP Co.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD raised)
+            (NP (PRP$ its) (NN stake))
+            (PP (IN in)
+              (NP (NNP Octel) (NNPS Communications) (NNP Corp.)))
+            (PP (TO to)
+              (NP
+                (NP (CD 8.5) (NN %))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (JJ common) (NNS shares))
+                    (ADJP (JJ outstanding))))))))))
+    (. .)))
+

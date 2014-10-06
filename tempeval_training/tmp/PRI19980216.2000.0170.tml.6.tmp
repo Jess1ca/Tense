@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (DT Any) (NN decision)
+      (S
+        (VP (TO to)
+          (VP (VB expel)
+            (NP (NNP Sinn) (NNP Fein))))))
+    (VP (MD must)
+      (VP (VB be)
+        (VP (VBN agreed)
+          (ADVP (RB jointly))
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NNS governments))
+              (PP (IN of)
+                (NP
+                  (NP (DT both) (NNP Britain))
+                  (CC and)
+                  (NP (DT the) (JJ Irish) (NN Republic)))))))))
+    (. .)))
+

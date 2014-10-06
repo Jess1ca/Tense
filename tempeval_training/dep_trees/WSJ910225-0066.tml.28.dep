@@ -1,0 +1,21 @@
+1	``	_	``	``	_	5	punct	_	_
+2	All	_	DT	DT	_	3	det	_	_
+3	Iraqis	_	NNPS	NNPS	_	5	nsubj	_	_
+4	,	_	,	,	_	5	punct	_	_
+5	fight	_	VB	VB	_	0	root	_	_
+6	them	_	PRP	PRP	_	5	dobj	_	_
+7	with	_	IN	IN	_	5	prep	_	_
+8	all	_	PDT	PDT	_	10	predet	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	power	_	NN	NN	_	7	pobj	_	_
+11	you	_	PRP	PRP	_	12	nsubj	_	_
+12	have	_	VBP	VBP	_	10	rcmod	_	_
+13	,	_	,	,	_	10	punct	_	_
+14	and	_	CC	CC	_	10	cc	_	_
+15	all	_	DT	DT	_	16	det	_	_
+16	struggle	_	NN	NN	_	10	conj	_	_
+17	for	_	IN	IN	_	16	prep	_	_
+18	everything	_	NN	NN	_	17	pobj	_	_
+19	.	_	.	.	_	5	punct	_	_
+20	''	_	''	''	_	5	punct	_	_
+

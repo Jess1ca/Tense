@@ -1,0 +1,16 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	company	_	NN	NN	_	4	poss	_	_
+3	's	_	POS	POS	_	2	possessive	_	_
+4	stock	_	NN	NN	_	5	nsubj	_	_
+5	fell	_	VBD	VBD	_	0	root	_	_
+6	$	_	$	$	_	5	dobj	_	_
+7	1.125	_	CD	CD	_	6	num	_	_
+8	to	_	TO	TO	_	5	prep	_	_
+9	$	_	$	$	_	8	pobj	_	_
+10	13.625	_	CD	CD	_	9	num	_	_
+11	in	_	IN	IN	_	5	prep	_	_
+12	over-the-counter	_	JJ	JJ	_	13	amod	_	_
+13	trading	_	NN	NN	_	11	pobj	_	_
+14	yesterday	_	NN	NN	_	5	tmod	_	_
+15	.	_	.	.	_	5	punct	_	_
+

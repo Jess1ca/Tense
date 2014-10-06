@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ non-food) (NNS operations))
+    (VP (VBD accounted)
+      (PP (IN for)
+        (NP
+          (NP
+            (QP (RB about) (CD 27))
+            (NN %))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP (NNP Provigo) (POS 's))
+                (QP (CD 7.38) (CD billion))
+                (JJ Canadian) (NNS dollars))
+              (PRN (-LRB- -LRB-)
+                (NP
+                  (QP ($ US$) (CD 6.3) (CD billion)))
+                (-RRB- -RRB-))))))
+      (PP (IN in)
+        (NP
+          (NP (NNS sales))
+          (PP (IN in)
+            (NP (DT the) (JJS latest) (JJ fiscal) (NN year))))))
+    (. .)))
+

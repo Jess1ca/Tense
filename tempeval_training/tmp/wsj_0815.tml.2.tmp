@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP DIG))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN vehicle))
+        (VP (VBG being)
+          (VP (VBN used)
+            (S
+              (VP (TO to)
+                (VP (VB pursue)
+                  (PP (TO to)
+                    (NP (NN acquisition))))))))))
+    (. .)))
+

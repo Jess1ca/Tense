@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (SBAR (IN If)
+        (CC and)
+        (WHADVP (WRB when))
+        (S
+          (NP (DT the) (NNS remains))
+          (VP (VBP are)
+            (VP (VBN found)))))
+      (, ,)
+      (NP (PRP he))
+      (VP (VBD said)))
+    (, ,)
+    (NP (PRP they))
+    (VP (MD would)
+      (VP (VB be)
+        (VP (VBN turned)
+          (PP (IN over)
+            (PP (TO to)
+              (NP (DT the) (NNP British) (NNP Embassy))))
+          (, ,)
+          (S
+            (ADVP (RB apparently))
+            (VP (VBG meaning)
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (MD would)
+                    (VP (VB be)
+                      (VP
+                        (VP (VBN sent)
+                          (PP (IN across)
+                            (NP (DT the) (NN border)))
+                          (PP (IN into)
+                            (NP (NNP Thailand))))
+                        (CC and)
+                        (VP (VBN onward)
+                          (PP (TO to)
+                            (NP (NNP Bangkok))))))))))))))
+    (. .)))
+

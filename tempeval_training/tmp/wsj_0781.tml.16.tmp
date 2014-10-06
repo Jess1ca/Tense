@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (FRAG
+      (SBAR
+        (WHNP (WP What))
+        (S
+          (VP (VBZ 's)
+            (ADJP (JJR more))))))
+    (, ,)
+    (S
+      (NP (DT the) (NNS bugs))
+      (ADVP (RB only))
+      (VP (VBP emerge)
+        (PP (IN on)
+          (NP
+            (NP (JJ esoteric) (NNS applications))
+            (PP (JJ such) (IN as)
+              (NP (JJ computer-aided)
+                (UCP (NN design)
+                  (CC and)
+                  (JJ scientific))
+                (NNS calculations)))))
+        (, ,)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBD said))))))
+    (, ,)
+    (CC and)
+    (FRAG (RB then)
+      (ADVP (RB very) (RB seldom)))
+    (. .)))
+

@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP January)))
+    (NP (DT this) (NN year))
+    (, ,)
+    (NP
+      (NP (JJ British) (NN police) (NNS officers))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBG searching)
+                (PP (IN for)
+                  (NP (NNP Howes)))))))))
+    (VP (VBD concluded)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD had)
+            (ADVP (RB probably))
+            (VP (VBN been)
+              (VP (VBN killed)
+                (ADVP (RB soon))
+                (PP (IN after)
+                  (S
+                    (VP (VBG being)
+                      (VP (VBN captured)))))))))))
+    (. .)))
+

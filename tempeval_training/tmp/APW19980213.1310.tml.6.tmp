@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (PP (RB Even) (IN in)
+      (NP (PRP$ his) (JJ own) (NNP Cabinet)))
+    (, ,)
+    (NP (NNP Howard))
+    (VP (VBZ is)
+      (VP (VBG becoming)
+        (ADJP (RB increasingly) (JJ isolated)
+          (PP (IN with)
+            (NP (PRP$ his) (JJ monarchist) (NN stance))))))
+    (. .)))
+

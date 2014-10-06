@@ -1,0 +1,13 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (VP (VB Fight)
+        (NP (PRP them))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD urged)
+      (NP (NNPS Iraqis))
+      (PP (IN in)
+        (NP (DT a) (NN radio) (NN address))))
+    (. .)))
+

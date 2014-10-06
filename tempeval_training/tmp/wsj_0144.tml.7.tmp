@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ year-ago) (NNS results))
+    (VP (VBD included)
+      (NP
+        (NP (DT a)
+          (ADJP
+            (QP ($ $) (CD 415) (CD million)))
+          (NN charge))
+        (PP (IN in)
+          (NP (DT the) (CD 1988) (JJ second) (NN quarter))))
+      (PP (IN for)
+        (NP (VBG underperforming) (JJ real) (NN estate)
+          (CC and)
+          (NN mortgage) (NNS loans))))
+    (. .)))
+

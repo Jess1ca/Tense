@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Westinghouse) (NNP Electric) (NNP Corp.))
+        (, ,)
+        (VP (VBG capitalizing)
+          (PP (IN on)
+            (NP (DT a) (JJ major) (NN restructuring) (NN program))))
+        (, ,))
+      (VP (VBZ expects)
+        (NP
+          (NP (VBG operating) (NNS margins))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP (JJR more) (IN than) (CD 10))
+                (NN %))
+              (CC and)
+              (NP
+                (NP (JJ double-digit) (JJ per-share) (NNS earnings) (NN growth))
+                (NP (JJ next) (NN year))))))))
+    (, ,)
+    (NP (JJ top) (NNS officers))
+    (VP (VBD told)
+      (NP (NNS securities) (NNS analysts))
+      (ADVP (RB here)))
+    (. .)))
+

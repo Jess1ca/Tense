@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Intel) (NNP Corp.) (POS 's))
+        (ADJP (RBS most) (JJ powerful))
+        (NN computer) (NN chip))
+      (VP (VBZ has)
+        (NP
+          (NP (NNS flaws))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (MD could)
+                (VP (VB delay)
+                  (NP
+                    (NP (JJ several) (NN computer) (NNS makers) (POS '))
+                    (NN marketing) (NNS efforts)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (`` ``) (NNS bugs) ('' ''))
+      (VP (VBP are) (RB n't)
+        (VP (VBN expected)
+          (S
+            (VP (TO to)
+              (VP (VB hurt)
+                (NP
+                  (NP (NNP Intel))
+                  (CC and)
+                  (NP (JJS most) (NN computer) (NNS makers)))))))))
+    (. .)))
+

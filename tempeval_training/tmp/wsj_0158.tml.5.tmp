@@ -1,0 +1,21 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (EX There))
+      (VP (VBZ is)
+        (NP
+          (NP
+            (NP (DT no) (NN business) (NN reason))
+            (PP (IN for)
+              (NP (PRP$ my) (NN departure))))
+          (, ,) ('' '')
+          (CC nor)
+          (NP
+            (NP (DT any) (NN disagreement))
+            (PP (IN over)
+              (NP (NN policy)))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD added))
+    (. .)))
+

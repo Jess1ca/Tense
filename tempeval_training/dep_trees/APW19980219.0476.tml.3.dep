@@ -1,0 +1,10 @@
+1	There	_	EX	EX	_	2	expl	_	_
+2	were	_	VBD	VBD	_	0	root	_	_
+3	many	_	JJ	JJ	_	5	amod	_	_
+4	conflicting	_	VBG	VBG	_	5	amod	_	_
+5	accounts	_	NNS	NNS	_	2	nsubj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	his	_	PRP$	PRP$	_	8	poss	_	_
+8	fate	_	NN	NN	_	6	pobj	_	_
+9	.	_	.	.	_	2	punct	_	_
+

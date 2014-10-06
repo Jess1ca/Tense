@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ Finnish) (NN government))
+      (CC and)
+      (NP
+        (NP (JJ major) (NNS creditors))
+        (PP (IN of)
+          (NP (JJ bankrupt) (NN shipyard) (NNP Waertsilae) (NNP Marine) (NNPS Industries) (NNP Oy)))))
+    (VP (VBD agreed)
+      (PP (IN in)
+        (NP (NN principle)))
+      (S
+        (VP (TO to)
+          (VP (VB form)
+            (NP (DT a) (JJ new) (NN company))
+            (S
+              (VP (TO to)
+                (VP (VB complete)
+                  (NP
+                    (NP (JJS most))
+                    (PP (IN of)
+                      (NP
+                        (NP
+                          (NP (DT the) (JJ troubled) (NN shipyard) (POS 's))
+                          (NN backlog))
+                        (PP (IN of)
+                          (NP (CD 15) (NNS ships)))))))))))))
+    (. .)))
+

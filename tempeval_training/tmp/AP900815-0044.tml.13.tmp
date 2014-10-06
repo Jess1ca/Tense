@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Saddam))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD sought)
+            (S
+              (VP (TO to) (`` ``)
+                (VP (VB turn)
+                  (NP (DT the) (NN gulf))
+                  (PP (IN into)
+                    (NP
+                      (NP (DT a) (NN lake))
+                      (PP (IN of)
+                        (NP (NN peace)))))
+                  (ADVP (JJ free)
+                    (PP (IN of)
+                      (NP
+                        (NP (JJ foreign) (NNS fleets)
+                          (CC and)
+                          (NNS forces))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (VBP harbor)
+                              (NP
+                                (NP (JJ ill) (NNS intentions))
+                                (PP (IN against)
+                                  (NP (PRP us)))))))))))))))))
+    (. .) ('' '')))
+

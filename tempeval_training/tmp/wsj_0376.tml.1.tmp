@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP
+          (NP (DT The) (JJ British)
+            (UCP (NN chemical)
+              (CC and)
+              (NN textile))
+            (NN company) (POS 's))
+          (NN plan))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ requires)
+              (NP (NN shareholder) (NN approval)))))
+        (, ,))
+      (VP (MD would)
+        (VP (VB create)
+          (NP
+            (NP (DT a) (JJ new) (, ,) (JJ listed) (NNP U.K.) (NN stock))
+            (PP (IN with)
+              (NP
+                (NP (DT a) (JJ probable) (NN market) (NN capitalization))
+                (PP (IN between)
+                  (NP
+                    (NP
+                      (NP
+                        (QP (# #) (CD 300) (CD million)))
+                      (PRN (-LRB- -LRB-)
+                        (NP
+                          (QP ($ $) (CD 473) (CD million)))
+                        (-RRB- -RRB-)))
+                    (CC and)
+                    (NP
+                      (QP (# #) (CD 400) (CD million)))))))))))
+    (, ,)
+    (NP (NNS analysts))
+    (VP (VBD said))
+    (. .)))
+

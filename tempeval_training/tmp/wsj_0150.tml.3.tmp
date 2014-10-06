@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Williams) (NNS shares))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD were)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBN delisted)
+                    (PP (IN from)
+                      (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))
+                    (PP (IN after)
+                      (NP
+                        (NP (DT the) (NN close))
+                        (PP (IN of)
+                          (NP (JJ composite) (NN trading)))))))))
+            (NP (NN yesterday)))))
+      (, ,))
+    (VP (VBD closed)
+      (PP (IN at)
+        (NP ($ $) (CD 23.25)))
+      (, ,)
+      (ADVP (RB off)
+        (NP (CD 12.5) (NNS cents))))
+    (. .)))
+

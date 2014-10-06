@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNPS Helicopters))
+    (VP (VBP are)
+      (VP (VBG flying)
+        (PP (IN over)
+          (NP (JJ northern) (NNP New) (NNP York)))
+        (NP (NN today))
+        (VP (VBG trying)
+          (S
+            (VP (TO to)
+              (VP (VB locate)
+                (NP
+                  (NP (NNS people))
+                  (VP (VBN stranded)
+                    (PP (IN without)
+                      (NP (NN food) (, ,) (NN heat)
+                        (CC or)
+                        (NN medicine)))))))))))
+    (. .)))
+

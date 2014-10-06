@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP JERUSALEM))
+        (PRN (-LRB- -LRB-)
+          (NP (NNP AP))
+          (-RRB- -RRB-)))
+      (VP (VBZ _)
+        (S
+          (VP (VBG Taking)
+            (NP (DT the) (NN stand))
+            (PP (IN in)
+              (NP (PRP$ her) (JJ own) (NN defense)))))))
+    (, ,)
+    (NP
+      (NP (DT a) (NN friend))
+      (PP (IN of)
+        (NP
+          (NP (NNP Yitzhak) (NNP Rabin) (POS 's))
+          (NN assassin))))
+    (VP (VBD said)
+      (NP (NNP Friday))
+      (SBAR (IN that)
+        (S
+          (NP (PRP she))
+          (VP (VBN regretted)
+            (S
+              (VP
+                (VP (VBG calling)
+                  (NP (DT the) (JJ prime) (NN minister))
+                  (NP (DT a) (NN traitor)))
+                (CC and)
+                (VP (VBG praying)
+                  (PP (IN for)
+                    (NP (PRP$ his) (NN death))))))))))
+    (. .)))
+

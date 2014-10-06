@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP Ocean) (NNP Drilling))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD wo) (RB n't)
+            (VP (VB hold)
+              (NP
+                (NP (DT any) (NNS shares))
+                (PP (IN of)
+                  (NP (DT the) (JJ new) (NN company))))
+              (PP (IN after)
+                (NP (DT the) (NN restructuring))))))))
+    (. .)))
+

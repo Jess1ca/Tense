@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (NP (DT the) (JJ third) (JJ consecutive) (NN month))
+      (SBAR (IN that)
+        (S
+          (NP (NN job) (NN generation))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (ADJP (RB exceptionally) (JJ strong)))))))
+    (. .)))
+

@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNS UNOS))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (DT the) (NNS regulations))
+          (VP (VBD put)
+            (NP (DT the) (JJ federal) (NN government))
+            (PP (IN in)
+              (NP
+                (NP (NN charge))
+                (PP (IN of)
+                  (S
+                    (VP (VBG deciding)
+                      (SBAR
+                        (SBAR
+                          (WHNP (WP who))
+                          (S
+                            (VP (VBZ gets)
+                              (NP (NNS transplants)))))
+                        (CC and)
+                        (SBAR (IN that)
+                          (S
+                            (NP (JJ many) (NN hospital) (NN transplant) (NNS centers))
+                            (VP (MD would)
+                              (VP (VB be)
+                                (VP (VBN forced)
+                                  (S
+                                    (VP (TO to)
+                                      (VP (VB close)))))))))))))))))))
+    (. .)))
+

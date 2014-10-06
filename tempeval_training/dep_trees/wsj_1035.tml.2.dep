@@ -1,0 +1,27 @@
+1	Revenue	_	NN	NN	_	2	nsubj	_	_
+2	totaled	_	VBD	VBD	_	0	root	_	_
+3	$	_	$	$	_	2	dobj	_	_
+4	1.01	_	CD	CD	_	5	number	_	_
+5	billion	_	CD	CD	_	3	num	_	_
+6	,	_	,	,	_	3	punct	_	_
+7	a	_	DT	DT	_	10	det	_	_
+8	43	_	CD	CD	_	9	number	_	_
+9	%	_	NN	NN	_	10	amod	_	_
+10	increase	_	NN	NN	_	3	appos	_	_
+11	from	_	IN	IN	_	2	prep	_	_
+12	$	_	$	$	_	11	pobj	_	_
+13	704.4	_	CD	CD	_	14	number	_	_
+14	million	_	CD	CD	_	12	num	_	_
+15	,	_	,	,	_	2	punct	_	_
+16	reflecting	_	VBG	VBG	_	2	vmod	_	_
+17	the	_	DT	DT	_	18	det	_	_
+18	company	_	NN	NN	_	20	poss	_	_
+19	's	_	POS	POS	_	18	possessive	_	_
+20	acquisition	_	NN	NN	_	16	dobj	_	_
+21	of	_	IN	IN	_	20	prep	_	_
+22	Emery	_	NNP	NNP	_	21	pobj	_	_
+23	earlier	_	RBR	RBR	_	25	advmod	_	_
+24	this	_	DT	DT	_	25	det	_	_
+25	year	_	NN	NN	_	16	tmod	_	_
+26	.	_	.	.	_	2	punct	_	_
+

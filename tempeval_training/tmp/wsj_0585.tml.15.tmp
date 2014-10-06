@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Merrill) (NNP Lynch))
+        (, ,)
+        (NP (NNP Goldman) (NNP Sachs))
+        (CC and)
+        (NP (NNP Kidder) (NNP Peabody)))
+      (, ,)
+      (CONJP (IN in) (NN addition) (TO to))
+      (NP (NNP Shearson))
+      (, ,))
+    (VP (VBP do)
+      (NP (JJ program-trade) (NNP OTC) (NNS stocks)))
+    (. .)))
+

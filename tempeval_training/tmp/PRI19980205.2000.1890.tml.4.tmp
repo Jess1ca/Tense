@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ British) (NN aircraft) (NN carrier))
+      (ADJP (JJ invincible)))
+    (VP (VBZ is)
+      (ADVP (RB now))
+      (VP (VBG patrolling)
+        (NP
+          (NP (DT the) (NNP Persian) (NNP Gulf))
+          (PP (IN alongside)
+            (NP (CD three) (NNP US) (NNS vessels))))))
+    (. .)))
+

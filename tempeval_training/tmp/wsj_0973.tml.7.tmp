@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP GNP))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ total) (NN value))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP (DT the) (NN nation) (POS 's))
+              (NN output))
+            (PP (IN of)
+              (NP (NNS goods)
+                (CC and)
+                (NNS services)))))))
+    (. .)))
+

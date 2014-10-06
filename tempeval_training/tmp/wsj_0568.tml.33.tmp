@@ -1,0 +1,20 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBD was)
+        (VP (VBG feeling)
+          (SBAR (IN like)
+            (S
+              (NP (PRP I))
+              (VP (VBD was)
+                (ADJP (RB too) (JJ high)
+                  (S
+                    (VP (TO to)
+                      (VP (VB begin)
+                        (PP (IN with))))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+

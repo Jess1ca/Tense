@@ -1,0 +1,10 @@
+1	Friday	_	NNP	NNP	_	4	poss	_	_
+2	's	_	POS	POS	_	1	possessive	_	_
+3	trading	_	NN	NN	_	4	nn	_	_
+4	volume	_	NN	NN	_	5	nsubj	_	_
+5	totaled	_	VBD	VBD	_	0	root	_	_
+6	132.8	_	CD	CD	_	7	number	_	_
+7	million	_	CD	CD	_	8	num	_	_
+8	shares	_	NNS	NNS	_	5	dobj	_	_
+9	.	_	.	.	_	5	punct	_	_
+

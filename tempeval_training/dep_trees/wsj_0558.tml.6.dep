@@ -1,0 +1,20 @@
+1	In	_	IN	IN	_	11	prep	_	_
+2	New	_	NNP	NNP	_	7	nn	_	_
+3	York	_	NNP	NNP	_	7	nn	_	_
+4	Stock	_	NNP	NNP	_	7	nn	_	_
+5	Exchange	_	NNP	NNP	_	7	nn	_	_
+6	composite	_	JJ	JJ	_	7	amod	_	_
+7	trading	_	NN	NN	_	1	pobj	_	_
+8	Friday	_	NNP	NNP	_	11	tmod	_	_
+9	,	_	,	,	_	11	punct	_	_
+10	Aetna	_	NNP	NNP	_	11	nsubj	_	_
+11	closed	_	VBD	VBD	_	0	root	_	_
+12	at	_	IN	IN	_	11	prep	_	_
+13	$	_	$	$	_	12	pobj	_	_
+14	60	_	CD	CD	_	13	num	_	_
+15	,	_	,	,	_	11	punct	_	_
+16	down	_	RB	RB	_	11	advmod	_	_
+17	50	_	CD	CD	_	18	num	_	_
+18	cents	_	NNS	NNS	_	16	pobj	_	_
+19	.	_	.	.	_	11	punct	_	_
+

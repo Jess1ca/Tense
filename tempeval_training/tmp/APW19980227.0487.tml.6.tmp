@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP
+              (NP (NNP Rabin) (POS 's))
+              (NN murder))
+            (VP (VBD was) (`` ``)
+              (NP (DT a) (JJ black) (NN stain))
+              (PP (IN on)
+                (NP (NNP Israel))))))))
+    (, ,) ('' '')
+    (NP
+      (NP (NNP Israel) (NN radio))
+      (CC and)
+      (NP (NNP Israel) (NN army) (NN radio)))
+    (VP (VBD reported))
+    (. .)))
+

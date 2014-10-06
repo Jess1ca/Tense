@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (NNP Pak))
+    (VP (MD ca) (RB n't)
+      (VP (VB find)
+        (NP (NNS buyers))))
+    (. .)))
+

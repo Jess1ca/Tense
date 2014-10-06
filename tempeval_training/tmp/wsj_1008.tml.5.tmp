@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP Lawrence) (NNP Group))
+    (ADVP (RB also))
+    (VP (VBZ owns)
+      (NP
+        (NP (NNP Lawrence) (NNP Agency) (NNP Corp.))
+        (, ,)
+        (NP (NNP Schenectady))
+        (, ,)
+        (NP (NNP N.Y.))
+        (, ,)
+        (NP (DT an) (NN insurance) (NN agency))
+        (CC and)
+        (NP (NN brokerage))))
+    (. .)))
+

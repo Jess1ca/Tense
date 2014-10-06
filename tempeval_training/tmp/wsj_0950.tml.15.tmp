@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (DT The) (NN finance) (NN unit))
+    (VP (VBD attributed)
+      (NP (DT the) (NN decline))
+      (PP (TO to)
+        (NP (JJR higher) (NN borrowing) (NNS costs)))
+      (PP (VBN compared)
+        (PP (IN with)
+          (ADVP
+            (NP (DT a) (NN year))
+            (RBR earlier)))))
+    (. .)))
+

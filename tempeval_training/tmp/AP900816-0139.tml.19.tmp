@@ -1,0 +1,48 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP We))
+      (VP
+        (VP (VBP continue)
+          (S
+            (VP (TO to)
+              (VP (VB pray)))))
+        (CC and)
+        (VP
+          (ADJP (RB pray) (JJ hard))
+          (PP (TO to)
+            (NP (NNP God))))
+        (SBAR (RB so) (IN that)
+          (S
+            (NP (EX there))
+            (VP (MD will)
+              (VP (VB be)
+                (NP
+                  (NP (DT no) (NN confrontation))
+                  (SBAR
+                    (WHADVP (WRB whereby))
+                    (S
+                      (NP (PRP you))
+                      (VP (MD will)
+                        (VP (VB receive)
+                          (NP
+                            (NP (NNS thousands))
+                            (PP (IN of)
+                              (NP
+                                (NP (NNS Americans))
+                                (VP (VBN wrapped)
+                                  (PP (IN in)
+                                    (NP (JJ sad) (NNS coffins)))
+                                  (SBAR (IN after)
+                                    (S
+                                      (NP (PRP you))
+                                      (VP (VBD had)
+                                        (VP (VBN pushed)
+                                          (NP (PRP them))
+                                          (PP (IN into)
+                                            (NP (DT a) (JJ dark) (NN tunnel))))))))))))))))))))))
+    (, ,) ('' '')
+    (NP (NNP Saddam))
+    (VP (VBD said))
+    (. .)))
+

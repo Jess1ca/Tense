@@ -1,0 +1,19 @@
+(ROOT
+  (S (CC But)
+    (NP (DT the) (JJ new) (NN pact))
+    (VP
+      (VP (MD will)
+        (VP (VB force)
+          (NP (JJ huge) (NN debt))
+          (PP (IN on)
+            (NP (DT the) (JJ new) (NN firm)))))
+      (CC and)
+      (VP (MD could)
+        (ADVP (RB still))
+        (VP (VB fail)
+          (S
+            (VP (TO to)
+              (VP (VB thwart)
+                (NP (JJ rival) (NN suitor) (NNP McCaw) (NNP Cellular))))))))
+    (. .)))
+

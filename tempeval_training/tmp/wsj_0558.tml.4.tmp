@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT The) (NN insurer))
+    (VP (VBZ has)
+      (VP (VBN started)
+        (NP (NN processing) (NNS claims))
+        (PP (IN from)
+          (NP (DT the) (NNP Northern) (NNP California) (NN earthquake))
+          (ADVP
+            (NP (RB nearly) (CD two) (NNS weeks))
+            (RB ago)))))
+    (. .)))
+

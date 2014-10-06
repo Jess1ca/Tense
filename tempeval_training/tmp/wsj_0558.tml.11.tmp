@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (CD nine) (NNS months)))
+    (, ,)
+    (NP (NN net))
+    (VP (VBD rose)
+      (NP (CD 4.3) (NN %))
+      (PP (TO to)
+        (NP
+          (NP
+            (QP ($ $) (CD 525.8) (CD million)))
+          (CC or)
+          (NP
+            (NP ($ $) (CD 4.67))
+            (NP (DT a) (NN share)))))
+      (, ,)
+      (PP (IN from)
+        (NP
+          (NP
+            (QP ($ $) (CD 504.2) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP ($ $) (CD 4.41))
+            (NP (DT a) (NN share)))
+          (, ,)))
+      (NP (JJ last) (NN year)))
+    (. .)))
+

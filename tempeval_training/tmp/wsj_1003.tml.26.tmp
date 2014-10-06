@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Last) (NN year) (POS 's))
+      (NNS results))
+    (VP (VBD were)
+      (VP (VBN hurt)
+        (PP (IN by)
+          (NP
+            (QP ($ $) (CD 41.3) (CD million))))
+        (PP (IN in)
+          (NP (VBG restructuring) (NNS charges)))))
+    (. .)))
+

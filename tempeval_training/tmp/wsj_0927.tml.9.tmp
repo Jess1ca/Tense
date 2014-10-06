@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (NNP U.S.) (NNP Trust))
+    (ADVP (RB recently))
+    (VP (VBD introduced)
+      (NP
+        (NP (JJ certain) (JJ mutual-fund) (NNS products))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBP allow)
+              (S
+                (NP (PRP it))
+                (VP (TO to)
+                  (VP (VB serve)
+                    (NP (NNS customers))
+                    (PP (IN with)
+                      (NP
+                        (NP (JJ minimum) (NNS deposits))
+                        (PP (IN of)
+                          (NP ($ $) (CD 250,000)))))))))))))
+    (. .)))
+

@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP Bush))
+    (ADVP (RB then))
+    (VP (VBD sent)
+      (NP (NNP U.S.) (NNS troops)
+        (CC and)
+        (NNS planes))
+      (PP (TO to)
+        (NP (NNP Saudi) (NNP Arabia)))
+      (, ,)
+      (S
+        (VP (VBG saying)
+          (SBAR
+            (S
+              (NP (JJ Iraqi) (NNS troops))
+              (VP (VBD massed)
+                (ADVP (RB nearby))
+                (PP (IN in)
+                  (NP
+                    (NP (NNP Kuwait) (NNP threatened) (NNP Saudi) (NNP Arabia))
+                    (CC and)
+                    (NP (PRP$ its) (JJ vast) (NN oil) (NNS reserves))))))))))
+    (. .)))
+

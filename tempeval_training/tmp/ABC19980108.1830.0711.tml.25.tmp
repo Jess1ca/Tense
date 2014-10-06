@@ -1,0 +1,11 @@
+(ROOT
+  (NP
+    (NP (CD Three))
+    (NP
+      (NP (CD thousand) (NN dollar) (NNS pearls))
+      (PP (IN for)
+        (NP
+          (QP (CD eight) (CD hundred))
+          (NNS dollars))))
+    (. .)))
+

@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Washington)))
+    (NP (NN today))
+    (, ,)
+    (NP (DT the) (NNP Federal) (NNP Aviation) (NNP Administration))
+    (VP (VBD released)
+      (NP (NN air) (NN traffic) (NN control) (NNS tapes))
+      (PP (IN from)
+        (NP (DT the) (NN night)))
+      (SBAR
+        (S
+          (NP (DT the) (NNP TWA) (NNP Flight) (CD eight) (NN hundred))
+          (VP (VBD went)
+            (PRT (RP down))))))
+    (. .)))
+

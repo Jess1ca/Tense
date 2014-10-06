@@ -1,0 +1,17 @@
+1	U.S.	_	NNP	NNP	_	2	nn	_	_
+2	officials	_	NNS	NNS	_	3	nsubj	_	_
+3	say	_	VBP	VBP	_	0	root	_	_
+4	that	_	IN	IN	_	14	mark	_	_
+5	hundreds	_	NNS	NNS	_	14	nsubjpass	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	Kuwaiti	_	NNP	NNP	_	9	nn	_	_
+8	oil	_	NN	NN	_	9	nn	_	_
+9	wells	_	NNS	NNS	_	6	pobj	_	_
+10	now	_	RB	RB	_	14	advmod	_	_
+11	may	_	MD	MD	_	14	aux	_	_
+12	have	_	VB	VB	_	14	aux	_	_
+13	been	_	VBN	VBN	_	14	auxpass	_	_
+14	set	_	VBN	VBN	_	3	ccomp	_	_
+15	afire	_	RB	RB	_	14	advmod	_	_
+16	.	_	.	.	_	3	punct	_	_
+

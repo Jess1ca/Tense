@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (DT The) (NN crucible))
+    (VP (VBZ is)
+      (NP
+        (NP (NNP Portadown))
+        (, ,)
+        (NP
+          (NP
+            (NP (CD 30) (NNS miles)
+              (PRN (-LRB- -LRB-)
+                (NP
+                  (QP (CD 50) (CD kms)))
+                (-RRB- -RRB-)))
+            (NN southwest))
+          (PP (IN of)
+            (NP (NNP Belfast))))
+        (, ,)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (NNP Orangemen))
+            (VP (VBP march)
+              (NP
+                (NP (DT each)
+                  (NAC (NNP July)
+                    (PP (IN from)
+                      (NP (PRP$ their) (JJ rural) (NN church) (NN back))))
+                  (NN downtown) (NN _))
+                (PP (IN through)
+                  (NP
+                    (NP (DT the) (NN town) (POS 's))
+                    (JJ main) (JJ Catholic) (NN area)))))))))
+    (. .)))
+

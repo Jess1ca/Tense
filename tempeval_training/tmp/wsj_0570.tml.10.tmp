@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP Gabelli) (NNP Group))
+    (VP
+      (VP (VBD began)
+        (S
+          (VP (VBG raising)
+            (NP
+              (NP (PRP$ its) (NNP Milton) (NNP Roy) (NN stake))
+              (PP (IN in)
+                (NP (NNP July)))))))
+      (, ,)
+      (CC and)
+      (VP (VBZ holds)
+        (NP (CD 14.6) (NN %)))
+      (, ,)
+      (PP (VBG according)
+        (PP (TO to)
+          (NP (DT a) (JJ recent) (NNP SEC) (NN filing)))))
+    (. .)))
+

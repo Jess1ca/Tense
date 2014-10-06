@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Pentagon) (NNS sources))
+      (PP (IN in)
+        (NP (NNP Washington))))
+    (ADVP (RB meanwhile))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNP Bush) (NN administration))
+          (VP (VBZ plans)
+            (S
+              (VP (TO to)
+                (VP (VB deploy)
+                  (NP (CD 45,000) (NNPS Marines))
+                  (PP (TO to)
+                    (NP (DT the) (NN region)
+                      (S
+                        (VP (TO to)
+                          (VP (VB back)
+                            (PRT (RP up))
+                            (NP
+                              (NP (DT the) (NNS thousands))
+                              (PP (IN of)
+                                (NP (NNP Army) (, ,) (NNP Navy)
+                                  (CC and)
+                                  (NNP Air) (NNP Force) (NNS troops))))
+                            (PP
+                              (ADVP (RB already))
+                              (IN in)
+                              (NP
+                                (NP (NN place))
+                                (PP (IN in)
+                                  (NP
+                                    (NP (DT the) (NN gulf))
+                                    (CC and)
+                                    (NP (DT the) (JJ Saudi) (NN desert))))))))))))))))))
+    (. .)))
+

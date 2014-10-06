@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Kellogg))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ has) (RB n't)
+            (VP (VBN been)
+              (ADJP (RB as) (JJ successful)
+                (PP (IN in)
+                  (S
+                    (VP (VBG capitalizing)
+                      (PP (IN on)
+                        (NP
+                          (NP
+                            (NP (DT the) (NN public) (POS 's))
+                            (JJ health-oriented) (NN desire))
+                          (PP (IN for)
+                            (NP (NN oat) (NN bran)))))))))
+              (PP (IN as)
+                (NP (JJ rival) (NNP General) (NNP Mills) (NNP Inc.)))))))
+      (, ,))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBG losing)
+          (NP
+            (NP (NN share))
+            (PP (IN in)
+              (NP (DT the)
+                (ADJP
+                  (QP ($ $) (CD 6) (CD billion)))
+                (JJ ready-to-eat) (NN cereal) (NN market)))))))
+    (. .)))
+

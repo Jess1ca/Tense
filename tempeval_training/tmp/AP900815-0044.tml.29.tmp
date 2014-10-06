@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (SBAR (IN With)
+      (S
+        (NP (NNP Kuwait))
+        (ADVP (RB now))
+        (`` ``)
+        (VP (VBD annexed))))
+    (, ,) ('' '')
+    (NP (NNP Iraq))
+    (VP (VBZ has)
+      (NP
+        (NP (NN control))
+        (PP (IN of)
+          (NP
+            (NP (CD 20) (NN percent))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN world) (POS 's))
+                (NN oil) (NNS reserves)))))))
+    (. .)))
+

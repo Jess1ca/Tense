@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (NP (PRP$ its) (NN junk-bond) (NN portfolio))
+      (SBAR (IN after)
+        (S
+          (NP (DT these) (NNS moves))
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBN reduced)
+                (PP (TO to)
+                  (NP
+                    (NP
+                      (QP (JJR less) (IN than) (CD 1))
+                      (NN %))
+                    (PP (IN of)
+                      (NP (NNS assets)))))))))))
+    (. .)))
+

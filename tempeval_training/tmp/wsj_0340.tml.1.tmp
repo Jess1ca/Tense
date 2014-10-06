@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (RBR Earlier) (NN yesterday))
+    (, ,)
+    (NP (DT the) (NNP Societe) (NNP de) (NNP Bourses) (NNP Francaises))
+    (VP (VBD was)
+      (VP (VBN told)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT a) (NN unit))
+              (PP (IN of)
+                (NP (NNP Framatome) (NNP S.A.))))
+            (ADVP (RB also))
+            (VP (VBD bought)
+              (NP
+                (NP (NNP Navigation) (NNP Mixte) (NNS shares))
+                (, ,)
+                (NP
+                  (NP (DT this) (NN purchase))
+                  (VP (VBG covering)
+                    (NP
+                      (QP (JJR more) (IN than) (CD 160,000))
+                      (NNS shares))))))))))
+    (. .)))
+

@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Iraq))
+    (ADVP (RB now))
+    (VP (VBZ controls)
+      (NP
+        (NP (CD 20) (NN percent))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN world) (POS 's))
+            (NN oil) (NNS reserves))))
+      (PP (IN with)
+        (NP
+          (NP (PRP$ its) (NN conquest))
+          (PP (IN of)
+            (NP (NNP Kuwait))))))
+    (. .)))
+

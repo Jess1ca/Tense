@@ -1,0 +1,26 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	OTC	_	NNP	NNP	_	3	nn	_	_
+3	stocks	_	NNS	NNS	_	8	nsubj	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	SampP	_	NNP	NNP	_	4	pobj	_	_
+7	500	_	CD	CD	_	6	num	_	_
+8	include	_	VBP	VBP	_	0	root	_	_
+9	Nasdaq	_	NNP	NNP	_	8	dobj	_	_
+10	's	_	POS	POS	_	9	possessive	_	_
+11	biggest	_	JJS	JJS	_	9	amod	_	_
+12	,	_	,	,	_	9	punct	_	_
+13	such	_	JJ	JJ	_	14	mwe	_	_
+14	as	_	IN	IN	_	9	prep	_	_
+15	Apple	_	NNP	NNP	_	16	nn	_	_
+16	Computer	_	NNP	NNP	_	14	pobj	_	_
+17	,	_	,	,	_	16	punct	_	_
+18	MCI	_	NNP	NNP	_	19	nn	_	_
+19	Communications	_	NNPS	NNPS	_	16	conj	_	_
+20	,	_	,	,	_	16	punct	_	_
+21	Tele-Communications	_	NNP	NNP	_	16	conj	_	_
+22	and	_	CC	CC	_	16	cc	_	_
+23	Liz	_	NNP	NNP	_	24	nn	_	_
+24	Claiborne	_	NNP	NNP	_	16	conj	_	_
+25	.	_	.	.	_	8	punct	_	_
+

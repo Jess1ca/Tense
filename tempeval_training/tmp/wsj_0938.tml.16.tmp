@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP (DT the) (NNS directors))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (SBAR (IN if)
+            (S
+              (NP
+                (NP (DT a) (NN bid))
+                (PP (IN by)
+                  (NP (NNP Mr.) (NNP Drabinsky))))
+              (VP (VBZ is)
+                (ADJP (JJ successful)))))
+          (, ,)
+          (NP (NNP Cineplex))
+          (VP (VBZ expects)
+            (S
+              (NP (NNP Rank) (NNP Organisation) (NNP PLC))
+              (VP (TO to)
+                (VP (VB acquire)
+                  (NP
+                    (NP (DT the) (CD 51) (NN %))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP Cineplex) (POS 's))
+                        (NNP Film) (NNP House) (NN unit)))
+                    (SBAR
+                      (S
+                        (NP (PRP it))
+                        (VP (VBZ does) (RB n't)
+                          (VP
+                            (VP (VB own))
+                            (, ,)
+                            (CC and)
+                            (VP (VB provide)
+                              (NP
+                                (NP (NNP Mr.) (NNP Drabinsky))
+                                (PP (IN with)
+                                  (NP (JJ additional) (NN loan) (NN financing)))))))))))))))))
+    (. .)))
+

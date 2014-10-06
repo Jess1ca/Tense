@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Starpointe) (NNS holders))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD approved)
+            (NP (DT the) (NN plan))
+            (NP (JJ last) (NNP April)))))
+      (, ,))
+    (VP (MD will)
+      (VP (VB receive)
+        (NP
+          (NP ($ $) (CD 21))
+          (PP (IN in)
+            (NP
+              (NP
+                (NP (NN cash))
+                (NP (DT a) (NN share)))
+              (, ,)
+              (CC or)
+              (NP (DT a) (JJ total)
+                (QP ($ $) (CD 63) (CD million))))))))
+    (. .)))
+

@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP White) (NNP House))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Mr.) (NNP Bush))
+          (VP
+            (VP (VBD decided)
+              (S
+                (VP (TO to)
+                  (VP (VB grant)
+                    (NP (JJ duty-free) (NN status))
+                    (PP (IN for)
+                      (NP (CD 18) (NNS categories)))))))
+            (, ,)
+            (CC but)
+            (VP (VBD turned)
+              (PRT (RP down))
+              (NP (JJ such) (NN treatment))
+              (PP (IN for)
+                (NP
+                  (NP (JJ other) (NNS types))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNS watches))
+                      (`` ``)
+                      (PP (RB because) (IN of)
+                        (NP
+                          (NP (DT the) (NN potential))
+                          (PP (IN for)
+                            (NP (NN material) (NN injury)))))))))
+              (S
+                (VP (TO to)
+                  (VP (VB watch)
+                    (NP
+                      (NP (NNS producers))
+                      (VP (VBN located)
+                        (PP (IN in)
+                          (NP
+                            (NP (DT the) (NNP U.S.))
+                            (CC and)
+                            (NP (DT the) (NNP Virgin) (NNPS Islands))))))))))))))
+    (. .) ('' '')))
+

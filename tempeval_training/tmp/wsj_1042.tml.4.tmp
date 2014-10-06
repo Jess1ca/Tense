@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS warrants))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN exercised)
+          (PP (IN until)
+            (NP (CD 90) (NNS days)))
+          (PP (IN after)
+            (NP (PRP$ their) (NN issue) (NN date))))))
+    (. .)))
+

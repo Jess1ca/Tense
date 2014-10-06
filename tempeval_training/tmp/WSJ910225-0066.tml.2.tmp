@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (PP (IN Amid)
+      (NP
+        (NP (NNS reports))
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNS thousands))
+              (PP (IN of)
+                (NP (JJ Iraqi) (NNS soldiers))))
+            (VP (VBD had)
+              (VP (VBN surrendered)))))))
+    (, ,)
+    (NP (NN administration) (NNS aides))
+    (VP (VBD were)
+      (ADVP (RB also))
+      (ADJP (JJ upbeat)
+        (PP (IN in)
+          (ADJP (JJ private))))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (CD one))
+          (VP
+            (ADVP (RB even))
+            (VBG talking)
+            (PP (IN of)
+              (NP
+                (NP (NN victory))
+                (PP (IN within)
+                  (NP (DT a) (NN week)))))))))
+    (. .)))
+

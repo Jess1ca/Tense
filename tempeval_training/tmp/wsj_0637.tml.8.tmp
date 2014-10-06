@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Lead) (NN underwriter))
+      (PP (TO to)
+        (NP (DT the) (NN issue))))
+    (VP (VBZ is)
+      (NP (NNP Toronto) (NNP Dominion) (NNPS Securities) (NNP Inc.)))
+    (. .)))
+

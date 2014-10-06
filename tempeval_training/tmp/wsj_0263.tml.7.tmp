@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNS Sales))
+    (VP (VBD rose)
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 52.4) (CD million))))
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 50.1) (CD million)))))
+    (. .)))
+

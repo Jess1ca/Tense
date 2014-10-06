@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (ADVP (RB Instead))
+    (, ,)
+    (NP (PRP she))
+    (VP
+      (VP (VBD turned)
+        (PP (TO to)
+          (NP (PRP$ her) (NN community) (NNS rabbi)))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (JJ Jewish) (NNP West) (NNP Bank) (NN settlement))
+            (PP (IN of)
+              (NP (NNP Beit) (NNP El))))))
+      (CC and)
+      (VP (VBD told)
+        (NP (PRP him))
+        (PP (IN about)
+          (NP
+            (NP (NNP Amir) (POS 's))
+            (NNS statements)))))
+    (. .)))
+

@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (NNP QVC))
+    (VP (VBD agreed)
+      (S
+        (VP (TO to)
+          (VP (VB pay)
+            (NP
+              (NP ($ $) (CD 19))
+              (CC and)
+              (NP
+                (NP (NNP one-eighth) (NNP QVC))
+                (NP (NN share))))
+            (PP (IN for)
+              (NP
+                (NP (DT each))
+                (PP (IN of)
+                  (NP
+                    (NP (NNP CVN) (POS 's))
+                    (QP (CD 20) (CD million))
+                    (RB fully) (JJ diluted) (NNS shares)))))))))
+    (. .)))
+

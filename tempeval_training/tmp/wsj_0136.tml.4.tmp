@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN process))
+                (PP (IN of)
+                  (S
+                    (VP (VBG phasing)
+                      (PRT (RP out))
+                      (NP
+                        (NP (NNP John) (NNP Deere))
+                        (, ,)
+                        (NP
+                          (NP (PRP$ its) (JJ current) (NN source))
+                          (PP (IN of)
+                            (NP
+                              (NP (NN production))
+                              (PP (IN for)
+                                (NP (JJ midsized) (NN motor) (NN home) (NNS chassis))))))))))))))))
+    (. .)))
+

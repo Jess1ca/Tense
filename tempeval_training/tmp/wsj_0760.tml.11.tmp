@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (NNP Norton))
+    (VP (VBD had)
+      (NP
+        (NP (VBG operating) (NN profit))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 76.8) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP ($ $) (CD 3.66))
+              (NP (DT a) (NN share)))
+            (, ,)
+            (ADVP (RB up)
+              (NP (CD 11) (NN %))
+              (PP (IN from)
+                (NP
+                  (NP
+                    (QP ($ $) (CD 69.5) (CD million)))
+                  (, ,)
+                  (CC or)
+                  (NP
+                    (NP ($ $) (CD 3.31))
+                    (NP (DT a) (NN share))))))))))
+    (. .)))
+

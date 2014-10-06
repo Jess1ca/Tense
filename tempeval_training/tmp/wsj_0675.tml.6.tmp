@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT The) (NN slowdown))
+    (VP (VBZ raises)
+      (NP (NNS questions))
+      (PP (IN about)
+        (NP
+          (NP (DT the) (NN economy) (POS 's))
+          (NN strength)))
+      (SBAR (IN because)
+        (S
+          (NP (NN spending))
+          (VP (VBD fueled)
+            (NP
+              (NP (RB much))
+              (PP (IN of)
+                (NP (DT the) (JJ third-quarter) (NNP GNP) (NN growth))))))))
+    (. .)))
+

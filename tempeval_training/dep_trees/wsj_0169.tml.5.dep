@@ -1,0 +1,16 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	acquisition	_	NN	NN	_	7	nsubj	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	87-store	_	JJ	JJ	_	5	amod	_	_
+5	Weisfield	_	NNP	NNP	_	3	pobj	_	_
+6	's	_	POS	POS	_	5	possessive	_	_
+7	raises	_	VBZ	VBZ	_	0	root	_	_
+8	Ratners	_	NNP	NNP	_	11	poss	_	_
+9	's	_	POS	POS	_	8	possessive	_	_
+10	U.S.	_	NNP	NNP	_	11	nn	_	_
+11	presence	_	NN	NN	_	7	dobj	_	_
+12	to	_	TO	TO	_	11	prep	_	_
+13	450	_	CD	CD	_	14	num	_	_
+14	stores	_	NNS	NNS	_	12	pobj	_	_
+15	.	_	.	.	_	7	punct	_	_
+

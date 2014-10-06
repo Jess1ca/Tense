@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Russia)
+        (CC and)
+        (NNP Ukraine))
+      (VP (VBP share)
+        (NP (JJ similar) (NNS cultures)
+          (CC and)
+          (NNS languages))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNP Ukraine))
+      (VP (VBD was)
+        (VP (VBN ruled)
+          (PP (IN from)
+            (NP
+              (NP (NNP Moscow))
+              (PP (IN for)
+                (NP (NNS centuries))))))))
+    (. .)))
+

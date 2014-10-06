@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is) (, ,)
+      (PP (IN in)
+        (ADJP (JJ short)))
+      (, ,)
+      (NP
+        (NP (DT the) (NN kind))
+        (PP (IN of)
+          (NP (NN management) (NN job)))
+        (SBAR
+          (S
+            (NP (JJ many) (JJ American) (NNS women))
+            (VP (VBP say)
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (VBP 've)
+                    (VP (VBN had)
+                      (S
+                        (VP (TO to)
+                          (VP (VB fight)
+                            (PP (IN for))))))))))))))
+    (. .)))
+

@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ senior))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (CD three) (NNS executives))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (MD will)
+                (VP (VB assume)
+                  (NP
+                    (NP (NNP Mr.) (NNP Reupke) (POS 's))
+                    (NNS duties)))))))))
+    (VP (VBZ is)
+      (NP
+        (NP (NNP Nigel) (NNP Judah))
+        (, ,)
+        (NP (CD 58))
+        (, ,)
+        (NP (NN finance) (NN director))
+        (CC and)
+        (NP (DT a) (NNP Reuters) (NN board) (NN director))))
+    (. .)))
+

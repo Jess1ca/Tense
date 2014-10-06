@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Ogden) (NNPS Projects))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ has)
+            (NP
+              (NP (NNS interests))
+              (PP (IN in)
+                (NP
+                  (NP (NN solid-waste) (NN recovery))
+                  (CC and)
+                  (NP (JJ hazardous-waste) (NN cleanup))))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ has)
+            (NP
+              (NP (CD 13) (NNS facilities))
+              (PP (IN in)
+                (NP (NN operation))))
+            (, ,)
+            (ADVP (RB up)
+              (PP (IN from)
+                (NP (CD seven))
+                (NP (DT a) (NN year) (IN ago))))))))
+    (. .)))
+

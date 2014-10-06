@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS results))
+    (VP (VBD made)
+      (SBAR
+        (S
+          (NP
+            (NP (JJ net) (NN income))
+            (PP (IN for)
+              (NP (DT the) (NN year))))
+          (VP (VBD ended)
+            (NP (NNP Aug.) (CD 31))
+            (NP
+              (NP
+                (QP ($ C$) (CD 2.7) (CD million)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP (CD 20) (JJ Canadian) (NNS cents))
+                (NP (DT a) (NN share)))
+              (, ,)
+              (ADVP (RB down)
+                (PP (IN from)
+                  (NP
+                    (NP
+                      (QP ($ C$) (CD 9.7) (CD million)))
+                    (, ,)
+                    (CC or)
+                    (NP
+                      (NP (CD 70) (JJ Canadian) (NNS cents))
+                      (NP (DT a) (NN share))))
+                  (NP (JJ last) (NN year)))))))))
+    (. .)))
+

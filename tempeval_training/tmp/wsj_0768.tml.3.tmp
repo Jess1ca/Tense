@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD made)
+      (NP (DT the) (NNS estimates))
+      (PP (VBN based)
+        (PP (IN on)
+          (NP
+            (NP (NNS data))
+            (VP (VBN collected)
+              (PP (IN from)
+                (NP
+                  (QP (JJR more) (IN than) (DT a) (NN dozen))
+                  (JJ big) (NN junk) (NNS funds))))))))
+    (. .)))
+

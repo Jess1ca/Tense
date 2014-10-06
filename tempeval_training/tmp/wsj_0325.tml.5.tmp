@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ includes)
+      (S
+        (VP
+          (VP (VBG removing)
+            (NP
+              (NP
+                (QP ($ $) (CD 242) (CD million)))
+              (PP (IN in)
+                (NP (JJ good) (NN will))))
+            (PP (IN from)
+              (NP (DT the) (NNS books))))
+          (, ,)
+          (VP (VBG issuing)
+            (NP
+              (NP
+                (QP ($ $) (CD 150) (CD million)))
+              (PP (IN in)
+                (NP (VBN preferred) (NN stock)))))
+          (CC and)
+          (VP (VBG commencing)
+            (NP (DT an) (NN exchange) (NN offer))
+            (PP (IN for)
+              (NP
+                (NP
+                  (QP ($ $) (CD 52) (CD million)))
+                (PP (IN in)
+                  (NP (JJ convertible) (NNS bonds)))))))))
+    (. .)))
+

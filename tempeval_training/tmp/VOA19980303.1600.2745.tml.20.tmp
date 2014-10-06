@@ -1,0 +1,10 @@
+(ROOT
+  (NP
+    (NP (NNP Jim) (NNP Teple))
+    (, ,)
+    (NP
+      (NP (NNP VOA) (NNP News))
+      (, ,)
+      (NP (NNP Miami)))
+    (. .)))
+

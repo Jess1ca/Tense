@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (ADVP (RB Still))
+    (, ,)
+    (NP (NNP Unisys))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP$ its) (JJ European) (NN business))
+          (VP (VBD was)
+            (ADJP (JJ weak)
+              (PP (IN during)
+                (NP
+                  (NP (DT the) (NN quarter))
+                  (, ,)
+                  (NP
+                    (NP (DT a) (JJ worrisome) (NN sign))
+                    (VP (VBN given)
+                      (SBAR (IN that)
+                        (S
+                          (NP (DT the) (NN company))
+                          (VP (VBZ has)
+                            (VP (VBN relied)
+                              (PP (IN on)
+                                (NP (JJ solid) (NNS results)))
+                              (S
+                                (ADVP (RB overseas))
+                                (VP (TO to)
+                                  (VP (VB overcome)
+                                    (NP
+                                      (NP (NN weakness))
+                                      (PP (IN in)
+                                        (NP (DT the) (NNP U.S.))))
+                                    (PP (IN over)
+                                      (NP (DT the) (JJ past) (JJ several) (NNS quarters)))))))))))))))))))
+    (. .)))
+

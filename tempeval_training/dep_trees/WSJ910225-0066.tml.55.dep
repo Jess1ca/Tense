@@ -1,0 +1,25 @@
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	expects	_	VBZ	VBZ	_	0	root	_	_
+3	that	_	IN	IN	_	11	mark	_	_
+4	tens	_	NNS	NNS	_	6	dep	_	_
+5	of	_	IN	IN	_	6	quantmod	_	_
+6	thousands	_	NNS	NNS	_	11	nsubj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	Iraqi	_	JJ	JJ	_	9	amod	_	_
+9	soldiers	_	NNS	NNS	_	7	pobj	_	_
+10	will	_	MD	MD	_	11	aux	_	_
+11	surrender	_	VB	VB	_	2	ccomp	_	_
+12	to	_	TO	TO	_	11	prep	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	U.S.	_	NNP	NNP	_	12	pobj	_	_
+15	and	_	CC	CC	_	14	cc	_	_
+16	its	_	PRP$	PRP$	_	17	poss	_	_
+17	allies	_	NNS	NNS	_	14	conj	_	_
+18	over	_	IN	IN	_	11	prep	_	_
+19	the	_	DT	DT	_	23	predet	_	_
+20	the	_	DT	DT	_	23	det	_	_
+21	next	_	JJ	JJ	_	23	amod	_	_
+22	few	_	JJ	JJ	_	23	amod	_	_
+23	days	_	NNS	NNS	_	18	pobj	_	_
+24	.	_	.	.	_	2	punct	_	_
+

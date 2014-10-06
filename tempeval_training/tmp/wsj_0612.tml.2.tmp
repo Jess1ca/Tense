@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS debentures))
+    (VP (VBP are)
+      (ADJP (JJ convertible)
+        (PP (IN into)
+          (NP (JJ common) (NN stock))))
+      (PP (IN at)
+        (NP
+          (NP ($ $) (CD 25))
+          (NP (DT a) (NN share))))
+      (, ,)
+      (VP (VBG representing)
+        (NP
+          (NP (DT a)
+            (ADJP (CD 24) (NN %))
+            (NN conversion) (NN premium))
+          (PP (IN over)
+            (NP
+              (NP (NNP Thursday) (POS 's))
+              (NN closing) (NN price))))))
+    (. .)))
+

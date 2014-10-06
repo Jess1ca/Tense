@@ -1,0 +1,14 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	completion	_	NN	NN	_	7	nsubj	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	merger	_	NN	NN	_	6	nn	_	_
+6	agreement	_	NN	NN	_	3	pobj	_	_
+7	follows	_	VBZ	VBZ	_	0	root	_	_
+8	months	_	NNS	NNS	_	7	dobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	twists	_	NNS	NNS	_	9	pobj	_	_
+11	and	_	CC	CC	_	7	cc	_	_
+12	turns	_	VBZ	VBZ	_	7	conj	_	_
+13	.	_	.	.	_	7	punct	_	_
+

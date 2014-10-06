@@ -1,0 +1,8 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	decision	_	NN	NN	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	3rd	_	JJ	JJ	_	6	amod	_	_
+5	graf	_	NN	NN	_	6	nn	_	_
+6	pvs	_	NN	NN	_	2	appos	_	_
+7	.	_	.	.	_	2	punct	_	_
+

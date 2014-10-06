@@ -1,0 +1,9 @@
+(ROOT
+  (S (CC And)
+    (PP (IN in)
+      (NP (NNP Hong) (NNP Kong)))
+    (, ,)
+    (NP (DT a) (CD three) (NN percent))
+    (VP (VBP drop))
+    (. .)))
+

@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Fidelity) (POS 's))
+        (NN junk) (NN fund))
+      (VP (VBZ has)
+        (VP (VBN fallen)
+          (NP (CD 2.08) (NN %))
+          (NP (DT this) (NN year))
+          (PP (IN through)
+            (NP (NNP Oct.) (CD 19))))))
+    (, ,)
+    (S
+      (NP (NNP Lipper))
+      (VP (VBZ says)))
+    (: ;)
+    (S
+      (NP (DT the) (NNP Vanguard) (NN fund))
+      (VP (VBD rose)
+        (NP (CD 1.84) (NN %))))
+    (: ;)
+    (CC and)
+    (S
+      (NP (DT the) (NNP T.) (NNP Rowe) (NNP Price) (NN fund))
+      (VP (VBD edged)
+        (PRT (RP up))
+        (NP (CD 0.66) (NN %))))
+    (. .)))
+

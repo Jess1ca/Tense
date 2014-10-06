@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT The) (NNP Lloyd) (POS 's))
+        (NNP List) (NNP International) (NN newspaper))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ monitors)
+            (NP (JJ worldwide) (NN shipping)))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP
+              (NP (NNP Iraq) (POS 's))
+              (NN fleet))
+            (PP (IN of)
+              (NP
+                (NP (CD 80) (NNS tankers))
+                (CC and)
+                (NP (NN cargo) (NNS ships)))))
+          (VP (VBZ has)
+            (VP (VBN stopped)
+              (NP (JJ regular) (NN trading)))))))
+    (. .)))
+

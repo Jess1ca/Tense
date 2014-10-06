@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (NNP Ogden) (NNPS Projects) (NNP Inc.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (JJ net) (NN income))
+          (VP (VBD jumped)
+            (PP (TO to)
+              (NP
+                (NP
+                  (QP ($ $) (CD 6.6) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (CD 18) (NNS cents))
+                  (NP (DT a) (NN share)))
+                (, ,)))
+            (PP (IN in)
+              (NP (DT the) (JJ third) (NN quarter)))))))
+    (. .)))
+

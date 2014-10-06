@@ -1,0 +1,12 @@
+(ROOT
+  (S (CC But)
+    (NP (NN revenue))
+    (VP (VBD declined)
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 3) (CD billion))))
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 3.2) (CD billion)))))
+    (. .)))
+

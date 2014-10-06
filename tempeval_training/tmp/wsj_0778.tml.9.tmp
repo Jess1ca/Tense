@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (PP (IN Under)
+      (NP
+        (NP (DT the) (NNP Racketeer) (NNP Influenced)
+          (CC and)
+          (NNP Corrupt) (NNPS Organizations) (NN law))
+        (, ,)
+        (CC or)
+        (NP (NNP RICO))))
+    (, ,)
+    (NP (DT the) (NN government))
+    (VP (VBZ has)
+      (NP (DT the) (NN authority)
+        (S
+          (VP (TO to)
+            (VP (VB seek)
+              (S
+                (VP (TO to)
+                  (VP (VB freeze)
+                    (CC or)
+                    (VB seize)
+                    (NP
+                      (NP
+                        (NP (DT a) (NN defendant) (POS 's))
+                        (NNS assets))
+                      (PP (IN before)
+                        (NP (NN trial))))))))))))
+    (. .)))
+

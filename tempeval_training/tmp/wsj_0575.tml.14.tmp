@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (JJ Last) (NN week))
+    (NP (NNP Control) (NNP Data))
+    (VP (VBD reported)
+      (NP
+        (NP (JJ third-quarter) (NNS earnings))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 9.8) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 23) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,))))
+      (PP (IN on)
+        (NP
+          (NP (NN revenue))
+          (PP (IN of)
+            (NP
+              (QP ($ $) (CD 763) (CD million)))))))
+    (. .)))
+

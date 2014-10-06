@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Williams))
+      (, ,)
+      (NP (NNP Duluth) (, ,) (NNP Ga.))
+      (, ,))
+    (VP (VBZ is)
+      (NP (DT an)
+        (UCP (NN insurance)
+          (CC and)
+          (NNS financial-services))
+        (NN holding) (NN company)))
+    (. .)))
+

@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP March)))
+    (, ,)
+    (NP (NNP American) (NNP Medical))
+    (VP (VBD received)
+      (NP (DT a)
+        (ADJP ($ $) (JJ 24-a-share))
+        (NN offer))
+      (S
+        (VP (TO to)
+          (VP (VB take)
+            (S
+              (NP (DT the) (NN company))
+              (ADJP (JJ private)
+                (PP (IN from)
+                  (NP
+                    (NP (DT an) (NN investor) (NN group))
+                    (PP (VBG including)
+                      (NP (JJ large) (NN holder) (NNP M.) (NNP Lee) (NNP Pearce)))))))))))
+    (. .)))
+

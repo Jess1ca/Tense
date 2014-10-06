@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Yield))
+      (PP (IN on)
+        (NP (DT the) (NN issue))))
+    (VP (VBD was)
+      (NP (CD 7.88) (NN %)))
+    (. .)))
+

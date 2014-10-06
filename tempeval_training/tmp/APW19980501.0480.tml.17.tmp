@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT All))
+      (PP (IN in)
+        (NP
+          (NP (DT all))
+          (, ,)
+          (NP (DT the) (NN Internet)))))
+    (VP (VBZ has)
+      (NP (DT a) (NN lot)
+        (S
+          (VP (TO to)
+            (VP (VB offer))))))
+    (. .)))
+

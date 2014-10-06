@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (NNP Edward) (NNP L.) (NNP Kane))
+    (VP (VBD succeeded)
+      (NP
+        (NP (NNP Mr.) (NNP Taylor))
+        (PP (IN as)
+          (NP (NN chairman)))))
+    (. .)))
+

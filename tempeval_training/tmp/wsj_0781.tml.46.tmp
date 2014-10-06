@@ -1,0 +1,20 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (DT The) (CD 486))
+      (VP (VBZ is)
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB have)
+                (NP
+                  (NP (DT a) (JJ big) (NN impact))
+                  (PP (IN on)
+                    (NP (DT the) (NN industry))))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Hewlett-Packard) (POS 's))
+      (NNP Mr.) (NNP Archuleta))
+    (. .)))
+

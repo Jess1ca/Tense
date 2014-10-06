@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN company))
+      (VP (VBD put)
+        (PRT (RP up))
+        (NP
+          (NP (`` ``) (RB virtually) (DT all) ('' ''))
+          (PP (IN of)
+            (NP (PRP$ its) (NN oil)
+              (CC and)
+              (NN gas) (NNS properties))))
+        (PP (IN as)
+          (NP (NN collateral)))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+

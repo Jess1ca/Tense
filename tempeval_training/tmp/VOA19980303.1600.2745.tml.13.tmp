@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Many))
+      (PP (IN of)
+        (NP (DT these) (JJ new) (NNS members))))
+    (VP (VBP are)
+      (VP (VBG joining)
+        (NP
+          (NP (NNS chapters))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (RB so))
+              (VP (VBN called)
+                (NP
+                  (NP (NNP Christian) (NNP Identity) (NNP Movement))
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBZ cites)
+                        (NP (JJ Biblical) (NN scripture))
+                        (PP (IN as)
+                          (NP
+                            (NP (DT a) (NN foundation))
+                            (PP (IN for)
+                              (NP
+                                (NP (DT a) (NN belief))
+                                (PP (IN in)
+                                  (NP (JJ white) (NN supremacy)
+                                    (CC and)
+                                    (NN anti-semitism)))))))))))))))))
+    (. .)))
+

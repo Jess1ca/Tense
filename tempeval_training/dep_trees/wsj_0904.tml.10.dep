@@ -1,0 +1,23 @@
+1	Mr.	_	NNP	NNP	_	2	nn	_	_
+2	Swavely	_	NNP	NNP	_	3	nsubj	_	_
+3	said	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	6	det	_	_
+5	new	_	JJ	JJ	_	6	amod	_	_
+6	space	_	NN	NN	_	8	nsubj	_	_
+7	will	_	MD	MD	_	8	aux	_	_
+8	allow	_	VB	VB	_	3	ccomp	_	_
+9	Compaq	_	NNP	NNP	_	11	nsubj	_	_
+10	to	_	TO	TO	_	11	aux	_	_
+11	increase	_	VB	VB	_	8	xcomp	_	_
+12	the	_	DT	DT	_	14	det	_	_
+13	manufacturing	_	VBG	VBG	_	14	amod	_	_
+14	capacity	_	NN	NN	_	11	dobj	_	_
+15	of	_	IN	IN	_	14	prep	_	_
+16	its	_	PRP$	PRP$	_	17	poss	_	_
+17	plant	_	NN	NN	_	15	pobj	_	_
+18	in	_	IN	IN	_	17	prep	_	_
+19	Erskine	_	NNP	NNP	_	21	nn	_	_
+20	,	_	,	,	_	21	punct	_	_
+21	Scotland	_	NNP	NNP	_	18	pobj	_	_
+22	.	_	.	.	_	3	punct	_	_
+

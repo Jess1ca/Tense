@@ -1,0 +1,16 @@
+(ROOT
+  (S (CC But)
+    (PP (IN in)
+      (NP (JJ recent) (NNS weeks)))
+    (, ,)
+    (NP (NN construction-industry) (NNS sources))
+    (VP (VBD reported)
+      (SBAR (IN that)
+        (S
+          (NP (JJ early) (NN preparation) (NN work))
+          (VP (VBD was)
+            (VP (VBG slowing)
+              (PP (IN at)
+                (NP (DT the) (JJ 185-acre) (NN site))))))))
+    (. .)))
+

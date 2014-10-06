@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (NNP Tony) (NNP Lama))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD would)
+            (ADVP (RB promptly))
+            (VP (VB submit)
+              (NP (DT the) (NN offer))
+              (PP (TO to)
+                (NP
+                  (NP (DT a) (JJ special) (NN committee))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN company) (POS 's))
+                      (NN board))))))))))
+    (. .)))
+

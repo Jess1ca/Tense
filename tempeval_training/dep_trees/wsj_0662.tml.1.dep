@@ -1,0 +1,18 @@
+1	At	_	IN	IN	_	8	prep	_	_
+2	the	_	DT	DT	_	4	det	_	_
+3	market	_	NN	NN	_	4	nn	_	_
+4	price	_	NN	NN	_	1	pobj	_	_
+5	,	_	,	,	_	8	punct	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	transaction	_	NN	NN	_	8	nsubj	_	_
+8	has	_	VBZ	VBZ	_	0	root	_	_
+9	a	_	DT	DT	_	12	det	_	_
+10	total	_	JJ	JJ	_	12	amod	_	_
+11	indicated	_	JJ	JJ	_	12	amod	_	_
+12	value	_	NN	NN	_	8	dobj	_	_
+13	of	_	IN	IN	_	12	prep	_	_
+14	$	_	$	$	_	13	pobj	_	_
+15	7.4	_	CD	CD	_	16	number	_	_
+16	million	_	CD	CD	_	14	num	_	_
+17	.	_	.	.	_	8	punct	_	_
+

@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT Some) (NNS families))
+    (VP (VBP have)
+      (VP (VBN kept)
+        (NP (PRP$ their) (NN glass))
+        (S
+          (VP (VBG working)
+            (NP
+              (NP (NNS secrets))
+              (PP (IN for)
+                (NP
+                  (QP (JJR more) (IN than) (CD two) (CD thousand))
+                  (NNS years))))))))
+    (. .)))
+

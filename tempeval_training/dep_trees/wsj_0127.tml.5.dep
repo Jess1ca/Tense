@@ -1,0 +1,21 @@
+1	Reed	_	NNP	NNP	_	3	nsubj	_	_
+2	is	_	VBZ	VBZ	_	3	aux	_	_
+3	paying	_	VBG	VBG	_	0	root	_	_
+4	an	_	DT	DT	_	6	det	_	_
+5	interim	_	JJ	JJ	_	6	amod	_	_
+6	dividend	_	NN	NN	_	3	dobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	4.6	_	CD	CD	_	9	num	_	_
+9	pence	_	NNS	NNS	_	7	pobj	_	_
+10	,	_	,	,	_	9	punct	_	_
+11	up	_	RB	RB	_	9	advmod	_	_
+12	15	_	CD	CD	_	13	num	_	_
+13	%	_	NN	NN	_	11	pobj	_	_
+14	from	_	IN	IN	_	11	prep	_	_
+15	4	_	CD	CD	_	16	num	_	_
+16	pence	_	NNS	NNS	_	14	pobj	_	_
+17	a	_	DT	DT	_	18	det	_	_
+18	year	_	NN	NN	_	14	tmod	_	_
+19	earlier	_	RBR	RBR	_	18	advmod	_	_
+20	.	_	.	.	_	3	punct	_	_
+

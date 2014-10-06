@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Women))
+      (VP (VBP do) (RB not)
+        (VP (VB become)
+          (NP
+            (NP (NNS victims))
+            (PP (IN of)
+              (NP (JJ armed) (NN attack)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP do) (RB not)
+        (VP (VB have)
+          (NP (DT the) (NN right)
+            (S
+              (VP (TO to)
+                (VP (VB work))))))))
+    (. .)))
+

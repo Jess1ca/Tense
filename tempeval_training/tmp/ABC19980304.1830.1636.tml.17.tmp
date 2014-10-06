@@ -1,0 +1,30 @@
+(ROOT
+  (S (CC But)
+    (NP (PRP they))
+    (ADVP (RB still))
+    (VP (VBP have)
+      (S
+        (VP (VBG catching)
+          (PRT (RP up))
+          (S
+            (VP (TO to)
+              (VP (VB do)
+                (NP
+                  (NP (CD two) (CD hundred)
+                    (CC and)
+                    (CD thirty) (CD four) (NNS Americans))
+                  (SBAR
+                    (S
+                      (VP (VBP have)
+                        (VP (VBN flown)
+                          (PP (IN in)
+                            (NP
+                              (NP (NN space))
+                              (, ,)
+                              (ADVP (RB only)
+                                (NP (CD twenty) (CD six))
+                                (PP (IN of)
+                                  (NP (PRP them))))
+                              (NP (NNS women)))))))))))))))
+    (. .)))
+

@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT A) (NN spokesman))
+        (PP (IN for)
+          (NP (NNP Seagram))))
+      (, ,)
+      (NP
+        (NP (DT the) (NNP Montreal)
+          (UCP (NN wine)
+            (CC and)
+            (NNS spirits))
+          (NN concern))
+        (VP (VBN controlled)
+          (PP (IN by)
+            (NP (DT the) (NNP Bronfman) (NN family)))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN company))
+          (VP (MD will)
+            (VP (VB post)
+              (NP
+                (NP (JJ additional) (JJ pretax) (NN profit))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (QP (RB about) ($ $) (CD 33) (CD million)))
+                    (NP (DT a) (NN year))))
+                (PP (RB because) (IN of)
+                  (NP (DT the) (JJ additional) (NNP Du) (NNP Pont) (NNS dividends)))))))))
+    (. .)))
+

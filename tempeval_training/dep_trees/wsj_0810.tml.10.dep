@@ -1,0 +1,20 @@
+1	If	_	IN	IN	_	3	mark	_	_
+2	holders	_	NNS	NNS	_	3	nsubj	_	_
+3	avoid	_	VBP	VBP	_	9	advcl	_	_
+4	tendering	_	VBG	VBG	_	3	xcomp	_	_
+5	to	_	TO	TO	_	4	prep	_	_
+6	Paribas	_	NNP	NNP	_	5	pobj	_	_
+7	,	_	,	,	_	9	punct	_	_
+8	he	_	PRP	PRP	_	9	nsubj	_	_
+9	added	_	VBD	VBD	_	13	ccomp	_	_
+10	,	_	,	,	_	13	punct	_	_
+11	they	_	PRP	PRP	_	13	nsubj	_	_
+12	can	_	MD	MD	_	13	aux	_	_
+13	expect	_	VB	VB	_	0	root	_	_
+14	strong	_	JJ	JJ	_	15	amod	_	_
+15	dividends	_	NNS	NNS	_	13	dobj	_	_
+16	again	_	RB	RB	_	13	advmod	_	_
+17	next	_	JJ	JJ	_	18	amod	_	_
+18	year	_	NN	NN	_	13	tmod	_	_
+19	.	_	.	.	_	13	punct	_	_
+

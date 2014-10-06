@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT All))
+      (PP (IN across)
+        (NP
+          (NP (NNP Hong) (NNP Kong))
+          (, ,)
+          (NP (DT the) (NN property) (NN market)))))
+    (VP (VBZ has)
+      (VP (VBD crashed)))
+    (. .)))
+

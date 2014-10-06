@@ -1,0 +1,13 @@
+1	Even	_	RB	RB	_	2	advmod	_	_
+2	excluding	_	VBG	VBG	_	9	prep	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	charge	_	NN	NN	_	2	pobj	_	_
+5	,	_	,	,	_	4	punct	_	_
+6	however	_	RB	RB	_	4	advmod	_	_
+7	,	_	,	,	_	9	punct	_	_
+8	net	_	NN	NN	_	9	nsubj	_	_
+9	fell	_	VBD	VBD	_	0	root	_	_
+10	5	_	CD	CD	_	11	num	_	_
+11	%	_	NN	NN	_	9	dobj	_	_
+12	.	_	.	.	_	9	punct	_	_
+

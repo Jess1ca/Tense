@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP know)
+      (PP (IN about)
+        (NP (DT the) (NNS stories)))
+      (NP (NN today)))
+    (. .)))
+

@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NNP H.) (NNP Marshall) (NNP Schwarz))
+    (VP (VBD was)
+      (NP
+        (NP (VBN named)
+          (NX
+            (NX (NN chairman))
+            (CC and)
+            (NX (JJ chief) (JJ executive) (NN officer))))
+        (PP (IN of)
+          (NP
+            (NP (NNP U.S.) (NNP Trust) (NNP Corp.))
+            (, ,)
+            (NP
+              (NP (DT a) (JJ private-banking) (NN firm))
+              (PP (IN with)
+                (NP
+                  (NP (NNS assets))
+                  (PP (IN under)
+                    (NP
+                      (NP (NN management))
+                      (PP (IN of)
+                        (NP
+                          (QP (RB about) ($ $) (CD 17) (CD billion)))))))))))))
+    (. .)))
+

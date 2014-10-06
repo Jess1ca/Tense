@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP ABC))
+      (VP (VBN quoted)
+        (NP
+          (NP (DT an) (JJ Iraqi) (NNP Foreign) (NNP Ministry) (NN official))
+          (PP (IN in)
+            (NP (NNP Baghdad))))
+        (PP (IN as)
+          (S
+            (VP (VBG saying)
+              (NP (NNPS Americans))
+              (PP (IN in)
+                (NP (NNP Iraq))))))))
+    (VP (VBP are)
+      (NP
+        (NP (`` ``) (NNS restrictees) ('' ''))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (MD will)
+              (VP (VB stay)
+                (ADVP (RB there))
+                (SBAR (IN until)
+                  (S
+                    (NP (DT the) (NN crisis))
+                    (VP (VBZ ends))))))))))
+    (. .)))
+

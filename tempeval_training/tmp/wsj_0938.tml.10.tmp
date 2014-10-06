@@ -1,0 +1,29 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (DT a) (NN bid))
+          (VP (VBZ materializes)
+            (PP (IN at)
+              (NP (DT that) (NN price))))))
+      (, ,)
+      (NP (NNS shareholders))
+      (VP (MD will)
+        (VP (VB have)
+          (NP (DT every) (NN reason)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (ADJP (JJ glad)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (DT the) (NN question))
+        (PP (IN of)
+          (NP (NN financing))))
+      (ADVP (RB still))
+      (VP (VBZ remains)))
+    (. .) ('' '')))
+

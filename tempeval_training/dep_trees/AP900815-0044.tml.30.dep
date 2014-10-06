@@ -1,0 +1,13 @@
+1	A	_	DT	DT	_	3	det	_	_
+2	steep	_	JJ	JJ	_	3	amod	_	_
+3	rise	_	NN	NN	_	8	nsubj	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	world	_	NN	NN	_	7	nn	_	_
+6	oil	_	NN	NN	_	7	nn	_	_
+7	prices	_	NNS	NNS	_	4	pobj	_	_
+8	followed	_	VBD	VBD	_	0	root	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	Kuwait	_	NNP	NNP	_	11	nn	_	_
+11	invasion	_	NN	NN	_	8	dobj	_	_
+12	.	_	.	.	_	8	punct	_	_
+

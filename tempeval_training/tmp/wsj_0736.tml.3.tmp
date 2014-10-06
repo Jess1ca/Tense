@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (DT The) (NN thrift))
+    (VP (VBD announced)
+      (NP (DT the) (NN plan))
+      (NP (NNP Aug.) (CD 21)))
+    (. .)))
+

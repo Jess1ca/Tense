@@ -1,0 +1,18 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	agency	_	NN	NN	_	12	nsubj	_	_
+3	quoted	_	VBN	VBN	_	2	vmod	_	_
+4	witnesses	_	NNS	NNS	_	3	dobj	_	_
+5	as	_	IN	IN	_	3	prep	_	_
+6	saying	_	VBG	VBG	_	5	pcomp	_	_
+7	tanks	_	NNS	NNS	_	6	dobj	_	_
+8	and	_	CC	CC	_	7	cc	_	_
+9	armored	_	JJ	JJ	_	10	amod	_	_
+10	cars	_	NNS	NNS	_	7	conj	_	_
+11	are	_	VBP	VBP	_	12	aux	_	_
+12	patrolling	_	VBG	VBG	_	0	root	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	streets	_	NNS	NNS	_	12	dobj	_	_
+15	of	_	IN	IN	_	14	prep	_	_
+16	Baghdad	_	NNP	NNP	_	15	pobj	_	_
+17	.	_	.	.	_	12	punct	_	_
+

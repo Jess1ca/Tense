@@ -1,0 +1,13 @@
+1	Operating	_	VBG	VBG	_	2	amod	_	_
+2	profit	_	NN	NN	_	3	nsubj	_	_
+3	dropped	_	VBD	VBD	_	0	root	_	_
+4	46	_	CD	CD	_	5	num	_	_
+5	%	_	NN	NN	_	3	dobj	_	_
+6	in	_	IN	IN	_	3	prep	_	_
+7	its	_	PRP$	PRP$	_	11	poss	_	_
+8	specialty	_	JJ	JJ	_	11	amod	_	_
+9	flat-rolled	_	JJ	JJ	_	11	amod	_	_
+10	steel	_	NN	NN	_	11	nn	_	_
+11	segment	_	NN	NN	_	6	pobj	_	_
+12	.	_	.	.	_	3	punct	_	_
+

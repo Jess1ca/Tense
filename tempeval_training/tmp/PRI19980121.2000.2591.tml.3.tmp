@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP UNESCO))
+    (VP (VBD declared)
+      (S
+        (NP (PRP it))
+        (NP
+          (NP (DT a) (VBN protected) (NN site))
+          (PP (IN for)
+            (NP
+              (NP (PRP$ its) (NN beauty))
+              (CC and)
+              (NP (PRP$ its) (JJ historical) (NN significance)))))))
+    (. .)))
+

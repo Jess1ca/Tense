@@ -1,0 +1,27 @@
+(ROOT
+  (SINV
+    (S
+      (NP (NNP Everything))
+      (VP (MD will)
+        (VP (VB be)
+          (VP (VBN taken)
+            (PRT (RP over))
+            (PP (IN by)
+              (NP (DT the) (JJ new) (NN company)))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Christian) (NNP Andersson))
+      (, ,)
+      (NP
+        (NP (JJ executive) (NN vice) (NN president))
+        (PP (IN of)
+          (NP
+            (NP (NNP Oy) (NNP Waertsilae))
+            (, ,)
+            (NP
+              (NP (JJ former) (NN parent))
+              (PP (IN of)
+                (NP (NNP Waertsilae) (NNP Marine))))))))
+    (. .)))
+

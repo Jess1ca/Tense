@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Thousands))
+      (PP (IN of)
+        (NP
+          (NP (NNS people))
+          (PP (IN in)
+            (NP (NNP Germany))))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBG demonstrating)
+          (NP (NN today))
+          (PP (IN against)
+            (NP
+              (NP (DT the) (JJ high) (NN level))
+              (PP (IN of)
+                (NP
+                  (NP (NN unemployment))
+                  (PP (IN in)
+                    (NP (DT the) (NN country))))))))))
+    (. .)))
+

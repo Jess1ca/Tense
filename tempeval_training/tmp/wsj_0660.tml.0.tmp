@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (NNP Montedison) (NNP S.p.A.))
+    (ADVP (RB definitively))
+    (VP (VBD agreed)
+      (S
+        (VP (TO to)
+          (VP (VB buy)
+            (NP
+              (NP (DT all))
+              (PP (IN of)
+                (NP
+                  (NP (DT the)
+                    (ADJP (RB publicly) (VBN held))
+                    (NNS shares))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNP Erbamont) (NNP N.V.))
+                      (PP (IN for)
+                        (NP
+                          (NP ($ $) (CD 37))
+                          (NP (DT each)))))))))))))
+    (. .)))
+

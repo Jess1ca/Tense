@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP (NNS Subcontractors))
+        (VP (MD will)
+          (VP (VB be)
+            (VP (VBN offered)
+              (NP (DT a) (NN settlement))))))
+      (CC and)
+      (S
+        (NP
+          (NP (DT a) (JJ swift) (NN transition))
+          (PP (TO to)
+            (NP (JJ new) (NN management))))
+        (VP (VBZ is)
+          (VP (VBN expected)
+            (S
+              (VP (TO to)
+                (VP (VB avert)
+                  (NP
+                    (NP (DT an) (NN exodus))
+                    (PP (IN of)
+                      (NP (JJ skilled) (NNS workers))))
+                  (PP (IN from)
+                    (NP
+                      (NP (NNP Waertsilae) (NNP Marine) (POS 's))
+                      (CD two) (JJ big) (NNS shipyards))))))))))
+    (, ,)
+    (NP (NN government) (NNS officials))
+    (VP (VBD said))
+    (. .)))
+

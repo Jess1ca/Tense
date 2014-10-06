@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT The) (NN purchase) (NN price))
+    (VP (VBD was)
+      (VP (VBN disclosed)
+        (PP (IN in)
+          (NP
+            (NP (DT a) (JJ preliminary) (NN prospectus))
+            (VP (VBN issued)
+              (PP (IN in)
+                (NP (NN connection)))
+              (PP (IN with)
+                (NP
+                  (NP
+                    (NP (NNP MGM) (NNP Grand) (POS 's))
+                    (VBN planned) (NN offering))
+                  (PP (IN of)
+                    (NP
+                      (QP (CD six) (CD million))
+                      (JJ common) (NNS shares))))))))))
+    (. .)))
+

@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP Ralston))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP$ its) (NNP Eveready) (NN battery) (NN unit))
+          (VP (VBD was)
+            (VP (VBN hurt)
+              (PP (IN by)
+                (S
+                  (VP (VBG continuing)
+                    (NP (JJ economic) (NNS problems))
+                    (PP (IN in)
+                      (NP (NNP South) (NNP America)))))))))))
+    (. .)))
+

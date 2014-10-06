@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (S
+        (VP (VBG setting)
+          (PRT (RP out))
+          (NP (PRP$ his) (JJ final) (NN challenge))
+          (PP (TO to)
+            (NP (NNP Saddam) (NNP Hussein))))))
+    (, ,)
+    (NP (NNP Mr.) (NNP Bush))
+    (VP (VBD continued)
+      (NP
+        (NP (DT the) (JJ intensive) (JJ personal) (NN diplomacy))
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBD began)
+              (PP (IN after)
+                (NP (DT the) (NN invasion)))
+              (NP (JJ llast) (NNP August)))))))
+    (. .)))
+

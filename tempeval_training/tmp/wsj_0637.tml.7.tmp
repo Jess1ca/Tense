@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Labatt) (POS 's))
+      (VP (VBZ has)
+        (S
+          (NP (DT no) (NN takeover) (NNS bids))
+          (ADJP (JJ outstanding))
+          (ADVP (RB currently)))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+

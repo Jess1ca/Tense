@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Orkem))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (ADVP (RB eventually))
+          (VP (MD would)
+            (VP (VB seek)
+              (S
+                (VP (TO to)
+                  (VP (VB make)
+                    (NP (DT a) (JJ public) (NN share) (NN offering))
+                    (PP (IN in)
+                      (NP (PRP$ its) (NNP U.K.) (NN business)))))))))))
+    (. .)))
+

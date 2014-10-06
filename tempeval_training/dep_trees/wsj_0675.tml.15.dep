@@ -1,0 +1,12 @@
+1	But	_	CC	CC	_	4	cc	_	_
+2	some	_	DT	DT	_	3	det	_	_
+3	analysts	_	NNS	NNS	_	4	nsubj	_	_
+4	wonder	_	VBP	VBP	_	0	root	_	_
+5	how	_	WRB	WRB	_	6	advmod	_	_
+6	strong	_	JJ	JJ	_	10	dep	_	_
+7	the	_	DT	DT	_	8	det	_	_
+8	recovery	_	NN	NN	_	10	nsubj	_	_
+9	will	_	MD	MD	_	10	aux	_	_
+10	be	_	VB	VB	_	4	ccomp	_	_
+11	.	_	.	.	_	4	punct	_	_
+

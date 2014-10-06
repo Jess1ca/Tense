@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP King) (NNP Hussein))
+    (VP (VBD was)
+      (ADVP (RB reportedly))
+      (VP (VBG carrying)
+        (NP
+          (NP (DT a) (NN message))
+          (PP (TO to)
+            (NP (NNP Bush))))
+        (PP (IN from)
+          (NP
+            (NP
+              (NP (NNP Iraq) (POS 's))
+              (NNP Saddam))
+            (, ,)
+            (SBAR
+              (WHPP (IN with)
+                (WHNP (WP whom)))
+              (S
+                (NP (DT the) (NN king))
+                (VP (VBD met)
+                  (NP (NNP Monday)))))))))
+    (. .)))
+

@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP Consolidated) (NNPS Freightways) (NNP Inc.))
+    (VP (VBD reported)
+      (NP (DT a)
+        (ADJP (CD 77) (NN %))
+        (NN drop))
+      (PP (IN in)
+        (NP (JJ third-quarter) (JJ net) (NN income)))
+      (, ,)
+      (S
+        (VP (VBG citing)
+          (NP (JJ expected) (NNS losses))
+          (PP (IN in)
+            (NP (PRP$ its) (NNP Emery) (NNP Worldwide) (NN shipping) (NN business))))))
+    (. .)))
+

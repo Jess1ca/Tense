@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (ADVP (RB Finally))
+    (NP (NN today))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBD learned)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN space) (NN agency))
+          (VP (VBZ has)
+            (ADVP (RB finally))
+            (VP (VBN taken)
+              (NP (DT a) (JJ giant) (NN leap))
+              (ADVP (RB forward)))))))
+    (. .)))
+

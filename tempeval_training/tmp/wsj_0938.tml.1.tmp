@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT The) (NN board))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Mr.) (NNP Drabinsky)
+            (CC and)
+            (NNP Vice) (NNP Chairman) (NNP Myron) (NNP Gottlieb))
+          (VP (VBP are)
+            (VP (VBG negotiating)
+              (NP (NN financing))
+              (PP (IN before)
+                (S
+                  (VP (VBG offering)
+                    (NP ($ C$) (CD 16.40))
+                    (NP (DT a) (NN share))
+                    (S
+                      (VP (TO to)
+                        (VP (VB acquire)
+                          (S
+                            (NP
+                              (NP (DT all))
+                              (PP (IN of)
+                                (NP
+                                  (NP (NNP Cineplex) (POS 's))
+                                  (NNS shares))))
+                            (ADJP (JJ outstanding))))))))))))))
+    (. .)))
+

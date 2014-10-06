@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (NNP Nhek) (NNP Bunchhay))
+    (, ,)
+    (S
+      (VP (VBG evading)
+        (NP (DT an) (JJ intensive) (NN manhunt))))
+    (, ,)
+    (VP (VBD made)
+      (NP (PRP$ his) (NN way))
+      (PP (TO to)
+        (NP
+          (NP (NNP O'Smach))
+          (, ,)
+          (NP
+            (NP (DT the) (JJ last) (JJ major) (NN outpost))
+            (VP (VBN held)
+              (PP (IN by)
+                (NP
+                  (NP (NNP Ranariddh) (POS 's))
+                  (NNS forces))))))))
+    (. .)))
+

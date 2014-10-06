@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ preferred) (NN stock))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (MD would)
+            (VP (VB have)
+              (NP
+                (NP (DT a) (NN dividend) (NN rate))
+                (PP (IN of)
+                  (NP ($ $) (CD 1.76))))
+              (NP (DT a) (NN year))))))
+      (, ,))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (JJ convertible)
+          (PP (IN into)
+            (NP (NNP Heritage) (JJ common))))
+        (PP (IN at)
+          (NP
+            (NP (DT a) (NN rate))
+            (PP (IN of)
+              (NP
+                (NP (CD four) (JJ common) (NNS shares))
+                (PP (IN for)
+                  (NP (DT each) (VBD preferred)))))))))
+    (. .)))
+

@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN unit))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (NP
+              (NP (DT the) (VBG holding) (NN company))
+              (PP (IN for)
+                (NP
+                  (NP (NNP Esselte) (POS 's))
+                  (JJ non-Swedish) (NNS units)))))))
+      (, ,))
+    (VP (VBD accounted)
+      (PP (IN for)
+        (NP
+          (NP
+            (NP (CD 58) (NN %))
+            (PP (IN of)
+              (NP (NNS sales))))
+          (CC and)
+          (NP
+            (NP (CD 71) (NN %))
+            (PP (IN of)
+              (NP (NN operating) (NN profit))))))
+      (NP (JJ last) (NN year)))
+    (. .)))
+

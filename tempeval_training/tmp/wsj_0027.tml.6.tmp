@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (DT the) (NNP Toronto) (NNP Stock) (NNP Exchange)))
+    (NP (NN yesterday))
+    (, ,)
+    (NP (JJ Magna) (NNS shares))
+    (VP (VBD closed)
+      (PRT (RP up))
+      (NP (CD 37.5) (JJ Canadian) (NNS cents))
+      (PP (TO to)
+        (NP ($ C$) (CD 9.625))))
+    (. .)))
+

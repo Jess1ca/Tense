@@ -1,0 +1,26 @@
+(ROOT
+  (S (CC And)
+    (S
+      (VP (TO to)
+        (VP (VB protect)
+          (NP (PRP$ their) (VBN reduced) (NN capital) (NN investment))
+          (PP (IN from)
+            (S
+              (VP (VBG eroding)
+                (ADVP (RBR further))))))))
+    (, ,)
+    (NP (NN market) (NNS makers))
+    (VP (VBD became)
+      (ADJP
+        (ADJP (JJR quicker))
+        (PP (TO to)
+          (NP (JJR lower) (NN price) (NNS quotes))))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (VB sell) (NNS programs))
+          (VP (VBP are)
+            (PP (IN in)
+              (NP (NN progress)))))))
+    (. .)))
+

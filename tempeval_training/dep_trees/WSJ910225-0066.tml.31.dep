@@ -1,0 +1,25 @@
+1	There	_	EX	EX	_	2	expl	_	_
+2	are	_	VBP	VBP	_	0	root	_	_
+3	likely	_	JJ	JJ	_	2	acomp	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	be	_	VB	VB	_	3	xcomp	_	_
+6	additional	_	JJ	JJ	_	8	amod	_	_
+7	American	_	JJ	JJ	_	8	amod	_	_
+8	prisoners	_	NNS	NNS	_	5	xcomp	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	war	_	NN	NN	_	9	pobj	_	_
+11	taken	_	VBN	VBN	_	10	vmod	_	_
+12	,	_	,	,	_	2	punct	_	_
+13	and	_	CC	CC	_	2	cc	_	_
+14	there	_	EX	EX	_	15	expl	_	_
+15	are	_	VBP	VBP	_	2	conj	_	_
+16	signs	_	NNS	NNS	_	15	nsubj	_	_
+17	that	_	IN	IN	_	21	mark	_	_
+18	President	_	NNP	NNP	_	19	nn	_	_
+19	Hussein	_	NNP	NNP	_	21	nsubj	_	_
+20	is	_	VBZ	VBZ	_	21	aux	_	_
+21	taking	_	VBG	VBG	_	16	dep	_	_
+22	Kuwaiti	_	NNP	NNP	_	23	nn	_	_
+23	hostages	_	NNS	NNS	_	21	dobj	_	_
+24	.	_	.	.	_	2	punct	_	_
+

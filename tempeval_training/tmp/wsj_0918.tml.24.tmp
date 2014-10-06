@@ -1,0 +1,31 @@
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (NN profit))
+      (PP (IN from)
+        (NP (NNS polymers))))
+    (VP (VBD dropped)
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 107) (CD million))))
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 122) (CD million))))
+      (PP (IN amid)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (NNP Du) (NNP Pont))
+            (VP (VBD called)
+              (NP
+                (NP (JJR lower) (NN demand)
+                  (CC and)
+                  (NN selling) (NNS prices))
+                (PP (IN in)
+                  (NP (JJ certain)
+                    (UCP (NN packaging)
+                      (CC and)
+                      (JJ industrial))
+                    (NNS markets)))))))))
+    (. .)))
+

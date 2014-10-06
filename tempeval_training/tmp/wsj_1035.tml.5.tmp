@@ -1,0 +1,23 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP They))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB continue)
+              (S
+                (VP (TO to)
+                  (VP (VB tighten)
+                    (NP (PRP$ their) (NNS belts))))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Craig) (NNP Kloner))
+      (, ,)
+      (NP
+        (NP (DT an) (NN analyst))
+        (PP (IN at)
+          (NP (NNP Goldman) (, ,) (NNP Sachs) (NNP amp) (NNP Co.)))))
+    (. .)))
+

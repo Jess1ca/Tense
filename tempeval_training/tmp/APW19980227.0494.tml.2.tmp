@@ -1,0 +1,34 @@
+(ROOT
+  (S (CC But)
+    (SBAR (IN while)
+      (S
+        (NP (DT the) (CD two) (JJ Slavic) (NNS neighbors))
+        (VP (VBP see)
+          (NP (PRP themselves))
+          (PP (IN as)
+            (NP (JJ natural) (NNS partners))))))
+    (, ,)
+    (NP
+      (NP (PRP$ their) (NNS relations))
+      (PP (IN since)
+        (NP
+          (NP (DT the) (NN breakup))
+          (PP (IN of)
+            (NP (DT the) (NNP Soviet) (NNP Union))))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN bedeviled)
+          (PP (IN by)
+            (NP
+              (NP (DT a) (NN number))
+              (PP (IN of)
+                (NP
+                  (NP (NNP disputes) (NNP _) (NNP Black) (NNP Sea) (JJ naval) (NNS bases))
+                  (, ,)
+                  (NP (NN border) (NNS problems))
+                  (CC and)
+                  (NP
+                    (NP (NNP Ukraine) (POS 's))
+                    (JJ natural) (NN gas) (NNS debts)))))))))
+    (. .)))
+

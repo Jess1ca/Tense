@@ -1,0 +1,22 @@
+1	One	_	CD	CD	_	3	num	_	_
+2	contrary	_	NN	NN	_	3	nn	_	_
+3	view	_	NN	NN	_	7	nsubj	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	issue	_	NN	NN	_	4	pobj	_	_
+7	presented	_	VBD	VBD	_	0	root	_	_
+8	itself	_	PRP	PRP	_	7	dobj	_	_
+9	to	_	TO	TO	_	7	prep	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	president	_	NN	NN	_	9	pobj	_	_
+12	as	_	IN	IN	_	14	mark	_	_
+13	he	_	PRP	PRP	_	14	nsubj	_	_
+14	arrived	_	VBD	VBD	_	7	advcl	_	_
+15	in	_	IN	IN	_	14	prep	_	_
+16	Philadelphia	_	NNP	NNP	_	15	pobj	_	_
+17	later	_	RB	RB	_	18	advmod	_	_
+18	in	_	IN	IN	_	14	prep	_	_
+19	the	_	DT	DT	_	20	det	_	_
+20	day	_	NN	NN	_	18	pobj	_	_
+21	.	_	.	.	_	7	punct	_	_
+

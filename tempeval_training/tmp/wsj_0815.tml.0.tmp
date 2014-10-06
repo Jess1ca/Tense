@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP Di) (NNP Giorgio) (NNP Corp.))
+    (VP
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (NP
+                (NP (VBG continuing) (NNS talks))
+                (PP (IN with)
+                  (NP
+                    (NP (JJ potential) (NNS buyers))
+                    (PP (IN of)
+                      (NP (JJ certain) (NNS units))))))))))
+      (, ,)
+      (CC but)
+      (VP (VBZ has)
+        (VP (VBN reached)
+          (NP
+            (NP (DT no) (NN agreement))
+            (PP (IN on)
+              (NP (DT any) (NNS deals)))))))
+    (. .)))
+

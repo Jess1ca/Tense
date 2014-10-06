@@ -1,0 +1,21 @@
+(ROOT
+  (S (RB Only)
+    (NP
+      (NP (NNP McCaw) (POS 's))
+      (NN proposal))
+    (VP (VBZ requires)
+      (NP (DT the) (NN company)
+        (S
+          (VP (TO to)
+            (VP (VB begin)
+              (NP
+                (NP (DT an) (NN auction) (NN process))
+                (PP (IN in)
+                  (NP (NNP June) (CD 1994))))
+              (PP (IN for)
+                (NP
+                  (NP (VBG remaining) (NNS shares))
+                  (PP (IN at)
+                    (NP (JJ third-party) (NNS prices))))))))))
+    (. .)))
+

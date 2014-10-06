@@ -1,0 +1,13 @@
+(ROOT
+  (S (`` ``)
+    (PP (IN For)
+      (NP (PRP them)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ makes)
+      (NP
+        (NP (DT all) (NNS kinds))
+        (PP (IN of)
+          (NP (NN sense)))))
+    (. .)))
+

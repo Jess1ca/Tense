@@ -1,0 +1,26 @@
+1	She	_	PRP	PRP	_	2	nsubj	_	_
+2	said	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	move	_	NN	NN	_	6	nsubj	_	_
+5	would	_	MD	MD	_	6	aux	_	_
+6	result	_	VB	VB	_	2	ccomp	_	_
+7	in	_	IN	IN	_	6	prep	_	_
+8	a	_	DT	DT	_	10	det	_	_
+9	after-tax	_	JJ	JJ	_	10	amod	_	_
+10	charge	_	NN	NN	_	7	pobj	_	_
+11	of	_	IN	IN	_	10	prep	_	_
+12	less	_	JJR	JJR	_	14	quantmod	_	_
+13	than	_	IN	IN	_	14	quantmod	_	_
+14	$	_	$	$	_	11	pobj	_	_
+15	4	_	CD	CD	_	14	number	_	_
+16	million	_	CD	CD	_	14	number	_	_
+17	to	_	TO	TO	_	19	aux	_	_
+18	be	_	VB	VB	_	19	auxpass	_	_
+19	spread	_	VBN	VBN	_	6	xcomp	_	_
+20	over	_	IN	IN	_	19	prep	_	_
+21	the	_	DT	DT	_	24	det	_	_
+22	next	_	JJ	JJ	_	24	amod	_	_
+23	three	_	CD	CD	_	24	num	_	_
+24	quarters	_	NNS	NNS	_	20	pobj	_	_
+25	.	_	.	.	_	2	punct	_	_
+

@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ new) (NN report))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (EX there))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (NP
+                (NP (DT a) (JJ dramatic) (NN rise))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN growth))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN hate) (NNS groups))
+                        (PP (IN in)
+                          (NP (DT the) (NNP United) (NNPS States))))))))
+              (PP (IN over)
+                (NP (DT the) (JJ past) (NN year))))))))
+    (. .)))
+

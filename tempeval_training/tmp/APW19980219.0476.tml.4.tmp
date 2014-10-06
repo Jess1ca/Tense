@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Howes) (POS '))
+      (NN team))
+    (VP (VBD was)
+      (VP (VBG clearing)
+        (NP
+          (NP
+            (QP (CD mines) (CD 17))
+            (NNS kilometers))
+          (PRN (-LRB- -LRB-)
+            (NP (CD 10) (NNS miles))
+            (-RRB- -RRB-)))
+        (PP (IN from)
+          (NP
+            (NP (NNP Angkor) (NNP Wat))
+            (, ,)
+            (NP
+              (NP (DT the) (JJ fabled) (JJ 11th) (NN century) (NN temple))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ is)
+                    (NP
+                      (NP (NNP Cambodia) (POS 's))
+                      (JJ main) (NN tourist) (NN attraction))
+                    (, ,)
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (NP (PRP it))
+                        (VP (VBD was)
+                          (VP (VBN attacked)))))))))))))
+    (. .)))
+

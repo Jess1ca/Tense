@@ -1,0 +1,19 @@
+(ROOT
+  (S (CC And)
+    (NP (NN defense) (NNS lawyers))
+    (VP (VBP are)
+      (VP (VBG warning)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (MD wo) (RB n't)
+              (VP (VB stick)
+                (PRT (RP around))
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP do) (RB n't)
+                      (VP (VB get)
+                        (VP (VBN paid))))))))))))
+    (. .)))
+

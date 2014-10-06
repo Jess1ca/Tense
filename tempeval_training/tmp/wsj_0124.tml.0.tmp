@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP William) (NNP C.) (NNP Walbrecher) (NNP Jr.))
+      (, ,)
+      (NP
+        (NP (DT an) (NN executive))
+        (PP (IN at)
+          (NP
+            (NAC (NNP San) (JJ Francisco-based))
+            (CD 1st) (NNP Nationwide) (NNP Bank))))
+      (, ,))
+    (VP (VBD was)
+      (NP
+        (NP (VBN named)
+          (NX
+            (NX (NN president))
+            (CC and)
+            (NX (JJ chief) (JJ executive) (NN officer))))
+        (PP (IN of)
+          (NP
+            (NP (NNP Citadel) (NNP Holding) (NNP Corp.))
+            (CC and)
+            (NP
+              (NP (PRP$ its) (JJ principal) (VBG operating) (NN unit))
+              (, ,)
+              (NP (NNP Fidelity) (NNP Federal) (NNP Bank)))))))
+    (. .)))
+

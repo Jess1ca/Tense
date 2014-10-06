@@ -1,0 +1,14 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	warrants	_	NNS	NNS	_	5	nsubjpass	_	_
+3	may	_	MD	MD	_	5	aux	_	_
+4	be	_	VB	VB	_	5	auxpass	_	_
+5	exercised	_	VBN	VBN	_	0	root	_	_
+6	until	_	IN	IN	_	5	prep	_	_
+7	90	_	CD	CD	_	8	num	_	_
+8	days	_	NNS	NNS	_	6	pobj	_	_
+9	after	_	IN	IN	_	5	prep	_	_
+10	their	_	PRP$	PRP$	_	12	poss	_	_
+11	issue	_	NN	NN	_	12	nn	_	_
+12	date	_	NN	NN	_	9	pobj	_	_
+13	.	_	.	.	_	5	punct	_	_
+

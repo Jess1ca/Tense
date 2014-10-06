@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT a) (JJ related) (NN move)))
+    (, ,)
+    (NP
+      (NP (NNP Pierre) (NNP Lortie))
+      (, ,)
+      (NP
+        (NP (NN chairman))
+        (CC and)
+        (NP (JJ chief) (NN executive)))
+      (, ,))
+    (VP (VBD resigned))
+    (. .)))
+

@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (SBAR
+      (X
+        (X (DT The) (JJR less))
+        (NP (NN money)))
+      (S
+        (NP (DT the) (NN government))
+        (VP (VBZ needs)
+          (S
+            (VP (TO to)
+              (VP (VB borrow)))))))
+    (, ,)
+    (NP (DT the) (JJR more))
+    (VP (VBZ is)
+      (VP (VBN freed)
+        (PP (IN for)
+          (NP (JJ private) (NN investment)))))
+    (. .)))
+

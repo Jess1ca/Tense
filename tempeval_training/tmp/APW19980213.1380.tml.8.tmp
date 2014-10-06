@@ -1,0 +1,35 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (S
+        (NP (EX There))
+        (VP (VBZ has)
+          (VP (VBN been)
+            (NP
+              (NP (DT an) (NN increase))
+              (PP (IN in)
+                (NP (NNP Puerto) (NNP Rico))))
+            (PP (IN in)
+              (NP
+                (NP (DT this) (NN kind))
+                (PP (IN of)
+                  (NP (NN thing))))))))
+      (CC and)
+      (S
+        (NP
+          (NP (DT some))
+          (PP (IN of)
+            (NP
+              (NP (DT these) (NNS bands))
+              (PP (IN of)
+                (NP (NNS kidnappers))))))
+        (VP (VBP are)
+          (VP (VBN made)
+            (PRT (RP up))
+            (PP (IN of)
+              (NP (NNS foreigners)))))))
+    (, ,) ('' '')
+    (NP (NNP Toledo))
+    (VP (VBD said))
+    (. .)))
+

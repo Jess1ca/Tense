@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP IMA))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN group))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ includes)
+              (NP
+                (NP (NNP First) (NNP Boston) (NNP Corp.))
+                (CC and)
+                (NP
+                  (NP (DT the) (NNP Pritzker) (NN family))
+                  (PP (IN of)
+                    (NP (NNP Chicago)))))
+              (PP (IN through)
+                (NP (DT the) (JJ leveraged) (NN buy-out) (NN fund) (NNP Harry) (NNP Gray) (NNP Melvyn) (NNP Klein) (NNP amp) (NNP Partners))))))))
+    (. .)))
+

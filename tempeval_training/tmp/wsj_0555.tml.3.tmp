@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (NNP Waxman))
+    (VP (VBZ sells)
+      (NP
+        (NP (DT a) (NN variety))
+        (PP (IN of)
+          (NP
+            (NP (NN hardware) (NNS products))
+            (PP (IN for)
+              (NP (DT the) (NN home) (NN repair) (NN market)))))))
+    (. .)))
+

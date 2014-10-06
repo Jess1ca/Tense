@@ -1,0 +1,12 @@
+1	StatesWest	_	NNP	NNP	_	2	nsubj	_	_
+2	serves	_	VBZ	VBZ	_	0	root	_	_
+3	10	_	CD	CD	_	4	num	_	_
+4	cities	_	NNS	NNS	_	2	dobj	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	California	_	NNP	NNP	_	5	pobj	_	_
+7	,	_	,	,	_	6	punct	_	_
+8	Arizona	_	NNP	NNP	_	6	conj	_	_
+9	and	_	CC	CC	_	6	cc	_	_
+10	Nevada	_	NNP	NNP	_	6	conj	_	_
+11	.	_	.	.	_	2	punct	_	_
+

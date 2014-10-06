@@ -1,0 +1,20 @@
+1	Catastrophe	_	NN	NN	_	2	nn	_	_
+2	losses	_	NNS	NNS	_	3	nsubj	_	_
+3	reduced	_	VBD	VBD	_	0	root	_	_
+4	Aetna	_	NNP	NNP	_	7	poss	_	_
+5	's	_	POS	POS	_	4	possessive	_	_
+6	net	_	JJ	JJ	_	7	amod	_	_
+7	income	_	NN	NN	_	3	dobj	_	_
+8	by	_	IN	IN	_	3	prep	_	_
+9	$	_	$	$	_	8	pobj	_	_
+10	50	_	CD	CD	_	11	number	_	_
+11	million	_	CD	CD	_	9	num	_	_
+12	,	_	,	,	_	3	punct	_	_
+13	including	_	VBG	VBG	_	3	prep	_	_
+14	$	_	$	$	_	13	pobj	_	_
+15	36	_	CD	CD	_	16	number	_	_
+16	million	_	CD	CD	_	14	num	_	_
+17	from	_	IN	IN	_	14	prep	_	_
+18	Hugo	_	NNP	NNP	_	17	pobj	_	_
+19	.	_	.	.	_	3	punct	_	_
+

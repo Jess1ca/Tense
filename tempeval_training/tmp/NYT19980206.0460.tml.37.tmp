@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (PP (IN Among)
+      (NP
+        (NP (NNS people))
+        (PP (IN with)
+          (NP
+            (QP (JJR less) (IN than)
+              (NP (DT a) (JJ high) (NN school)))
+            (NN education)))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN rate))
+      (PP (IN in)
+        (NP (NNP January))))
+    (VP (VBD was)
+      (NP (CD 7.2) (NN percent)))
+    (. .)))
+

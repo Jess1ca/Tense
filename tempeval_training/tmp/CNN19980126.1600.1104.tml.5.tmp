@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (S (CC But)
+      (NP (PRP I))
+      (VP (VBP think)
+        (S
+          (S
+            (ADVP (RB right) (RB now))
+            (, ,)
+            (PP (IN for)
+              (NP (NNP AT)
+                (CC and)
+                (NNP T))))
+          (CC and)
+          (S
+            (NP (DT the) (NNS people))
+            (ADVP (RB here))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP (RB fairly) (JJ intense))
+      (SBAR (IN as)
+        (S
+          (NP (PRP you))
+          (VP (MD might)
+            (VP (VB w))))))
+    (: -)
+    (S
+      (ADVP (RB well))
+      (VP (VB imagine)))
+    (. .)))
+

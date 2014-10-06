@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP VOA) (POS 's))
+      (NNP Jim) (NNP Teple))
+    (VP (VBZ has)
+      (NP
+        (NP (NNS details))
+        (PP (IN from)
+          (NP (PRP$ our) (NN southeast) (NN news) (NN bureau)))))
+    (. .)))
+

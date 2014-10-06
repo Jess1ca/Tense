@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (NNP Courtaulds))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (PP (IN under)
+          (NP (NN pressure)
+            (S
+              (VP (TO to)
+                (VP (VB enhance)
+                  (NP (NN shareholder) (NN value)))))))
+        (SBAR (IN since)
+          (S
+            (NP
+              (NP (NN takeover) (NNS speculators))
+              (PRN (: --)
+                (PP (VBG including)
+                  (NP (JJ Australian) (NN financier) (NNP Kerry) (NNP Packer)))
+                (: --)))
+            (VP (VBD surfaced)
+              (NP (VBG holding) (JJ small) (NNS stakes))
+              (NP (JJ last) (NN year)))))))
+    (. .)))
+

@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP New) (NNP Orleans) (NN oil)
+      (CC and)
+      (NN gas) (NN exploration)
+      (CC and)
+      (JJ diving) (NNS operations) (NN company))
+    (VP (VBD added)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ does) (RB n't)
+            (VP (VB expect)
+              (NP (DT any) (JJ further) (JJ adverse) (JJ financial) (NN impact))
+              (PP (IN from)
+                (NP (DT the) (NN restructuring))))))))
+    (. .)))
+

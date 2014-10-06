@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP Coast))
+    (VP (VBD earned)
+      (NP
+        (NP
+          (QP ($ $) (CD 10.2) (CD million)))
+        (, ,)
+        (CC or)
+        (NP
+          (NP (CD 67) (NNS cents))
+          (NP (DT a) (NN share)))
+        (, ,))
+      (PP (IN in)
+        (NP (DT the) (JJ year-ago) (NN quarter))))
+    (. .)))
+

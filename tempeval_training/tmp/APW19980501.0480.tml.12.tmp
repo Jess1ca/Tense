@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (S
+      (SBAR (IN While)
+        (S
+          (NP (DT this))
+          (VP (MD will)
+            (VP (VB enable)
+              (NP
+                (NP (DT the) (NN sharing))
+                (PP (IN of)
+                  (NP (NN information))))
+              (PP (IN among)
+                (NP
+                  (NP (NNS enterprises))
+                  (, ,)
+                  (NP
+                    (NP (NN security) (NNS issues))
+                    (PP (JJ such) (IN as)
+                      (NP
+                        (NP (NNS firewalls)
+                          (CC and)
+                          (NNS encryption))
+                        (CONJP (RB as) (RB well) (IN as))
+                        (NP (NN access)
+                          (CC and)
+                          (NN control) (NNS procedures)))))
+                  (, ,)
+                  (CC and)
+                  (NP (DT the) (NN trust) (NNS levels))))
+              (SBAR (IN that)
+                (S
+                  (NP (NNS enterprises))
+                  (VP (VBP have)
+                    (VP
+                      (PP (IN with)
+                        (NP (DT each) (JJ other)))))))))))
+      (VP (MD will)
+        (VP (VB emerge))))
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (MD will)
+        (VP (VB be)
+          (NP (DT a) (NN need)
+            (S
+              (VP (TO to)
+                (VP (VB address)
+                  (NP (PRP them)))))))))
+    (. .)))
+

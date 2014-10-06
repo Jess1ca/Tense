@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNP U.S.) (NN trade) (NNS officials))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNP Philippines)
+            (CC and)
+            (NNP Thailand))
+          (VP (MD would)
+            (VP (VB be)
+              (NP
+                (NP (DT the) (JJ main) (NNS beneficiaries))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN president) (POS 's))
+                    (NN action)))))))))
+    (. .)))
+

@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (DT The) (NN bond) (NN market))
+    (VP (VBD was)
+      (ADJP (JJ unmoved)
+        (PP (IN by)
+          (NP (DT the) (JJ economic) (NNS statistics)))))
+    (. .)))
+

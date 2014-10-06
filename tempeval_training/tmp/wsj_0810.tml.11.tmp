@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNS Analysts))
+    (VP
+      (VP (VBD noted)
+        (SBAR (IN that)
+          (S
+            (PP (IN over)
+              (NP (DT the) (JJ past) (CD 20) (NNS years)))
+            (, ,)
+            (NP (NNP Mr.) (NNP Fournier))
+            (VP (VBZ has)
+              (VP (VBN built)
+                (NP (PRP$ his) (NN company))
+                (PP (IN through)
+                  (NP (JJ astute) (NN stock-market) (NN activity))))))))
+      (CC and)
+      (VP (VBZ has)
+        (VP (VBN warded)
+          (PRT (RP off))
+          (NP
+            (QP (IN at) (JJS least) (CD three))
+            (NN takeover) (NNS attempts)))))
+    (. .)))
+

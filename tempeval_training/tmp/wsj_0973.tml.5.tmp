@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP Westinghouse))
+    (VP (VBZ expects)
+      (S
+        (VP (TO to)
+          (VP (VB meet)
+            (NP (PRP$ its) (JJ corporate) (NNS goals))
+            (PP (IN despite)
+              (NP
+                (NP (DT a) (NN softening))
+                (PP (IN in)
+                  (NP (DT the) (NN economy)))))))))
+    (. .)))
+

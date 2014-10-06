@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (PP (IN Because)
+      (PP (IN of)
+        (NP (NN program) (NN trading))))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (RBR more) (JJ difficult))
+      (S
+        (VP (TO to)
+          (VP (VB trade)
+            (NP (JJ many) (NNP OTC) (NNS stocks))
+            (PP (IN without)
+              (NP (JJ sharp) (NN price) (NNS moves))))))
+      (, ,)
+      (NP
+        (NP (DT a) (NN condition))
+        (VP (VBN known)
+          (PP (IN as)
+            (NP (NN illiquidity))))))
+    (. .)))
+

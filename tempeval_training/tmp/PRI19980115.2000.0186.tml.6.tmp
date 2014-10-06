@@ -1,0 +1,18 @@
+(ROOT
+  (S (CC And)
+    (PP (IN on)
+      (NP (DT that) (NN basis)))
+    (NP (NNP Keating))
+    (VP (VBD was)
+      (VP (VBN released)
+        (PP (IN from)
+          (NP (NN prison)))
+        (SBAR (IN before)
+          (S
+            (NP (PRP he))
+            (VP (VBD was)
+              (ADJP (JJ eligible)
+                (PP (IN for)
+                  (NP (NN parole)))))))))
+    (. .)))
+

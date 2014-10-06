@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP Prudential-Bache) (NNPS Securities) (NNP Inc.) (NN analyst) (NNP George) (NNP E.) (NNP Thompson))
+    (VP
+      (VP (VBD downplayed)
+        (NP
+          (NP (DT the) (NN importance))
+          (PP (IN of)
+            (NP (DT the) (NN announcement)))))
+      (, ,)
+      (CC and)
+      (VP (VBD called)
+        (S
+          (NP
+            (NP (DT any) (NN comparison))
+            (PP (IN between)
+              (NP
+                (NP (DT the) (VBG coming) (NN beer-industry) (NN tiff))
+                (CC and)
+                (NP (DT the)
+                  (ADJP (RB seemingly) (JJ unending))
+                  (`` ``) (NN cola) (NNS wars)))))
+          (, ,) ('' '')
+          (ADJP (JJ unwarranted)))))
+    (. .)))
+

@@ -1,0 +1,23 @@
+1	-LRB-	_	-LRB-	-LRB-	_	5	punct	_	_
+2	A	_	DT	DT	_	4	det	_	_
+3	16-bit	_	JJ	JJ	_	4	amod	_	_
+4	microprocessor	_	NN	NN	_	5	nsubj	_	_
+5	processes	_	VBZ	VBZ	_	0	root	_	_
+6	16	_	CD	CD	_	7	num	_	_
+7	pieces	_	NNS	NNS	_	5	dobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	data	_	NNS	NNS	_	8	pobj	_	_
+10	at	_	IN	IN	_	5	prep	_	_
+11	a	_	DT	DT	_	12	det	_	_
+12	time	_	NN	NN	_	10	pobj	_	_
+13	and	_	CC	CC	_	5	cc	_	_
+14	is	_	VBZ	VBZ	_	5	conj	_	_
+15	slower	_	JJR	JJR	_	14	acomp	_	_
+16	than	_	IN	IN	_	14	prep	_	_
+17	newer	_	JJR	JJR	_	20	amod	_	_
+18	,	_	,	,	_	20	punct	_	_
+19	32-bit	_	JJ	JJ	_	20	amod	_	_
+20	chips	_	NNS	NNS	_	16	pobj	_	_
+21	.	_	.	.	_	5	punct	_	_
+22	-RRB-	_	-RRB-	-RRB-	_	5	punct	_	_
+

@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Harry) (NNP J.) (NNP Gray))
+      (CC and)
+      (NP (NNP Melvyn) (NNP N.) (NNP Klein)))
+    (, ,)
+    (ADVP (IN along)
+      (PP (IN with)
+        (NP (CD five) (JJ other) (NNP IMA) (NNS designees))))
+    (, ,)
+    (VP (VBD were)
+      (VP (VBN named)
+        (S
+          (VP (TO to)
+            (VP (VB join)
+              (NP
+                (NP (NNP American) (NNP Medical) (POS 's))
+                (JJ 10-member) (NN board)))))))
+    (. .)))
+

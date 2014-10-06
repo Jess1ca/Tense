@@ -1,0 +1,71 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (S
+        (NP
+          (NP (DT The) (NNS people))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP suffer)
+                (PP (IN in)
+                  (NP (DT the) (JJ short) (NN run)))))))
+        (VP (VBP are)
+          (NP (NNS defendants))))
+      (, ,)
+      (CC but)
+      (S
+        (NP
+          (NP (DT the) (NNS people))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP suffer)
+                (PP (IN in)
+                  (NP (DT the) (JJ long) (NN run)))))))
+        (VP (VBP are)
+          (NP
+            (NP (DT all))
+            (PP (IN of)
+              (NP (DT the) (NNS people))))
+          (, ,)
+          (SBAR (IN because)
+            (S
+              (NP (EX there))
+              (VP (MD wo) (RB n't)
+                (VP (VB be)
+                  (NP (DT a) (JJ vigorous) (JJ private) (NN bar)
+                    (S
+                      (VP (TO to)
+                        (VP (VB defend)
+                          (NP
+                            (NP (DT the) (NN Bill))
+                            (PP (IN of)
+                              (NP (NNP Rights)))))))))))))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP
+      (NP (NNP Gerald) (NNP Lefcourt))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ criminal) (NN defense) (NN attorney))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ says)
+              (SBAR
+                (S
+                  (NP (PRP he))
+                  (VP (VBZ has)
+                    (VP (VBN turned)
+                      (PRT (RP down))
+                      (NP
+                        (NP (DT a) (NN number))
+                        (PP (IN of)
+                          (NP (NNS cases))))
+                      (S
+                        (VP (TO to)
+                          (VP (VB avoid)
+                            (NP (JJ possible) (NN fee) (NNS seizures))))))))))))))
+    (. .)))
+

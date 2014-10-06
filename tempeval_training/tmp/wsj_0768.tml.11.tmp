@@ -1,0 +1,23 @@
+(ROOT
+  (SINV
+    (S
+      (NP (JJ Mutual) (NN fund) (NNS groups))
+      (VP (VBP have) (RB n't)
+        (VP (VBN lost)
+          (NP
+            (NP (NN control))
+            (PP (IN of)
+              (NP
+                (NP (RB much))
+                (PP (IN of)
+                  (NP (DT the) (JJ outgoing) (NN money)))))))))
+    (, ,)
+    (VP (VBZ says))
+    (NP
+      (NP (NNP Louis) (NNP Harvey))
+      (, ,)
+      (NP
+        (NP (NNP Dalbar) (POS 's))
+        (NN president)))
+    (. .)))
+

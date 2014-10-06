@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Oklahoma) (NNP City) (NN energy)
+      (CC and)
+      (NN defense) (NN concern))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB record)
+              (NP (DT a)
+                (ADJP
+                  (QP ($ $) (CD 7.5) (CD million)))
+                (NN reserve))
+              (PP (IN for)
+                (NP (PRP$ its) (NN defense) (NN group)))
+              (, ,)
+              (PP (VBG including)
+                (NP
+                  (NP (DT a)
+                    (ADJP
+                      (QP ($ $) (CD 4.7) (CD million)))
+                    (NN charge))
+                  (VP (VBN related)
+                    (PP (TO to)
+                      (NP (NNS problems)))
+                    (PP (IN under)
+                      (NP
+                        (NP (DT a) (JJ fixed-price) (NN development) (NN contract))
+                        (CC and)
+                        (NP
+                          (NP
+                            (QP ($ $) (CD 2.8) (CD million)))
+                          (PP (IN in)
+                            (NP
+                              (NP (JJ overhead) (NNS costs))
+                              (SBAR
+                                (WHNP (WDT that))
+                                (S
+                                  (VP (MD wo) (RB n't)
+                                    (VP (VB be)
+                                      (VP (VBN reimbursed)))))))))))))))))))
+    (. .)))
+

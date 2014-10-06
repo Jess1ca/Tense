@@ -1,0 +1,26 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP$ Our) (NN company))
+      (VP (VBZ has) (RB not)
+        (VP (VBN been)
+          (ADJP (JJ able)
+            (S
+              (VP (TO to)
+                (VP (VB cope)
+                  (ADVP (RB very) (RB effectively))
+                  (PP (IN with) ('' '')
+                    (NP
+                      (NP (NNS changes))
+                      (PP (IN in)
+                        (NP (DT the) (NN marketplace))))))))))))
+    (, ,)
+    (VP (VBD said))
+    (NP
+      (NP (NNP Ryosuke) (NNP Ito))
+      (, ,)
+      (NP
+        (NP (NNP Sansui) (POS 's))
+        (NN president)))
+    (. .)))
+

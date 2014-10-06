@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ Russian) (JJ foreign) (NN minister))
+    (, ,)
+    (ADVP (RB meanwhile))
+    (, ,)
+    (VP (VBD sought)
+      (S
+        (VP (TO to)
+          (VP (VB soften)
+            (NP
+              (NP (DT the) (JJ harsh) (NNS words))
+              (PP (IN of)
+                (NP (PRP$ his) (JJ military) (NN counterpart)))))))
+      (, ,)
+      (S
+        (VP (VBG saying)
+          (PP (IN on)
+            (NP (NNP Friday)))
+          (SBAR (IN that)
+            (S
+              (NP (NNP Russia))
+              (ADVP (RB now))
+              (VP (VBZ feels)
+                (SBAR
+                  (S
+                    (NP (DT the) (NNP US))
+                    (VP (MD must)
+                      (VP (VB hold)
+                        (PRT (RP off))
+                        (ADVP
+                          (ADVP (IN at) (JJS least))
+                          (SBAR (IN until)
+                            (S
+                              (NP (NNP UN) (NN secretary) (NN general) (NNP Kofi) (NNP Annan))
+                              (VP (VBZ visits)
+                                (NP
+                                  (NP (NNP Baghdad))
+                                  (PP (IN in)
+                                    (NP
+                                      (NP (DT a) (JJ last-ditch) (NN effort))
+                                      (PP (IN at)
+                                        (NP (NN diplomacy))))))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT the) (JJS largest) (NNP U.S.) (NN military) (NNS operation))
+        (PP (IN since)
+          (NP (NNP Vietnam)))))
+    (, ,)
+    (NP (DT an) (JJ estimated) (CD 20,000) (JJ American) (NNS GIs))
+    (VP (VBP have)
+      (ADVP (RB already))
+      (VP (VBN massed)
+        (S
+          (VP (TO to)
+            (VP (VB defend)
+              (NP (NNP Saudi) (NNP Arabia)))))))
+    (. .)))
+

@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (PRP he))
+        (VP (VBD expressed)
+          (NP (NN confidence))
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP (DT the) (VBN proposed) (JJ new) (NN company) (POS 's))
+                (NN cash) (NN flow))
+              (VP (MD would)
+                (VP (VB be)
+                  (ADJP (JJ sufficient)
+                    (S
+                      (VP (TO to)
+                        (VP (VB cover)
+                          (NP (NN interest) (NNS payments))
+                          (PP (IN on)
+                            (NP (DT the) (NN debt))))))))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD estimated)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN company))
+          (VP (MD would) (RB n't)
+            (VP (VB be)
+              (UCP
+                (ADJP (JJ profitable)
+                  (PP (IN until)
+                    (NP (CD 1994))))
+                (CC or)
+                (ADVP (RB later))))))))
+    (. .)))
+

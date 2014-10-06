@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (NNS Analysts))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP
+            (NP (RB much))
+            (PP (IN of)
+              (NP
+                (NP (NNP Kellogg) (POS 's))
+                (NN erosion))))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (PP (IN in)
+                (NP (JJ such) (NN core) (NNS brands)))
+              (PP (IN as)
+                (NP
+                  (NP (NNP Corn) (NNPS Flakes))
+                  (, ,)
+                  (NP (NNP Rice) (NNPS Krispies)
+                    (CC and)
+                    (NNP Frosted) (NNP Flakes))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBP represent)
+                        (NP
+                          (NP
+                            (QP (RB nearly) (NN one-third)))
+                          (PP (IN of)
+                            (NP (PRP$ its) (NNS sales) (NN volume))))))))))))))
+    (. .)))
+

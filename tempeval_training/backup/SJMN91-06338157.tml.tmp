@@ -1,0 +1,161 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN message))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN chief))
+            (PP (IN of)
+              (NP (NN staff))))))
+      (VP (VBD was)
+        (VP (VBN meant)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBN taken)
+                  (PP (IN as)
+                    (NP (DT a) (NN suggestion)))
+                  (SBAR (IN that)
+                    (S
+                      (NP (NNP Sununu))
+                      (VP (VBP offer)
+                        (S
+                          (VP (TO to)
+                            (VP (VB resign))))))))))))))
+    (, ,)
+    (NP (CD one)
+      (ADJP (RB highly) (VBN placed))
+      (NNS source))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Instead))
+      (, ,)
+      (NP (NNP Sununu))
+      (VP (VBD sought)
+        (S
+          (VP (TO to)
+            (VP (VB prove)
+              (PP (TO to)
+                (NP (DT the) (NN president)))
+              (SBAR
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP$ his) (NNS supporters))
+                    (VP (VBP outnumber)
+                      (NP (PRP$ his) (NNS critics)))))
+                (CC and)
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP he))
+                    (VP (MD should)
+                      (VP (VB remain)
+                        (PP (IN in)
+                          (NP (PRP$ his) (NN post.)))))))))))))
+    (: ;)
+    (S
+      (NP (CD One) (JJ senior) (NN official))
+      (NP (NNP Monday))
+      (VP (VBD described)
+        (NP (DT the) (NNP White) (NNP House))
+        (PP (IN as)
+          (NP (`` ``)
+            (NP (DT a) (NN collection))
+            (PP (IN of)
+              (NP (JJ small) (NNS groups)))
+            (PP (IN of)
+              (NP
+                (NP (NNS aides))
+                (VP (VBG holding)
+                  (NP (PRP$ their) (NNS breaths)))))
+            (, ,) ('' '')
+            (VP (VBG waiting)
+              (S
+                (VP (TO to)
+                  (VP (VB see)
+                    (SBAR (IN whether)
+                      (S
+                        (NP (NNP Sununu))
+                        (VP (VBZ survives))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD One) (NNP GOP) (NN source))
+    (, ,)
+    (S
+      (VP (VBG reporting)
+        (PP (IN on)
+          (NP
+            (NP (DT a) (NN call))
+            (PP (IN from)
+              (NP
+                (NP (DT the) (NN chief))
+                (PP (IN of)
+                  (NP (NN staff)))))))
+        (PP (TO to)
+          (NP (DT a) (JJ Republican) (NN leader)))))
+    (, ,)
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Sununu))
+          (VP (VBD lamented)
+            (SBAR (IN that) (`` ``)
+              (S
+                (S
+                  (NP (DT the) (NN noose))
+                  (VP (VBZ is)
+                    (VP (VBG tightening)
+                      (PP (IN around)
+                        (NP (PRP$ my) (NN neck))))))
+                (, ,)
+                (CC and)
+                (S
+                  (NP (PRP I))
+                  (VP (VBP need)
+                    (NP (PRP$ your) (NN help))))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S (: ;)
+    (NP (DT Another)
+      (ADJP (RB highly) (VBN placed))
+      (NN source))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN president) (POS 's))
+            (NN son))
+          (VP (VBD met)
+            (PP (IN with)
+              (NP (NNP Sununu)))
+            (NP (JJ last) (NN week))
+            (PP (IN after)
+              (S
+                (VP (VBG holding)
+                  (NP
+                    (NP (DT a) (NN series))
+                    (PP (IN of)
+                      (NP (NNS conversations))))
+                  (PP
+                    (PP (IN about)
+                      (NP
+                        (NP (DT the) (NN structure))
+                        (PP (IN of)
+                          (NP (DT the) (NNP White) (NNP House) (NN staff)))))
+                    (CC and)
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN campaign))
+                        (PP (IN with)
+                          (NP (JJ other) (NNP Bush) (NNP loyalists)
+                            (CC and)
+                            (NNP GOP) (NNS activists)))))))))))))
+    (. .)))
+

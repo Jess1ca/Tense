@@ -1,0 +1,19 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	company	_	NN	NN	_	3	nsubj	_	_
+3	blamed	_	VBD	VBD	_	0	root	_	_
+4	a	_	DT	DT	_	5	det	_	_
+5	number	_	NN	NN	_	3	dobj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	factors	_	NNS	NNS	_	6	pobj	_	_
+8	for	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	earnings	_	NNS	NNS	_	11	nn	_	_
+11	decline	_	NN	NN	_	8	pobj	_	_
+12	,	_	,	,	_	3	punct	_	_
+13	including	_	VBG	VBG	_	3	prep	_	_
+14	softer	_	JJR	JJR	_	15	amod	_	_
+15	sales	_	NNS	NNS	_	13	pobj	_	_
+16	of	_	IN	IN	_	15	prep	_	_
+17	joint-implants	_	NNS	NNS	_	16	pobj	_	_
+18	.	_	.	.	_	3	punct	_	_
+

@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (NNS Terms))
+    (VP (VBP call)
+      (PP (IN for)
+        (NP (NNP First) (NNP Security)))
+      (S
+        (VP (TO to)
+          (VP (VB issue)
+            (NP
+              (NP
+                (NP
+                  (QP (RB about) (CD 0.55)))
+                (PP
+                  (NP (NN share))
+                  (IN of)
+                  (NP
+                    (NP (PRP$ its) (NN stock))
+                    (PP (IN for)
+                      (NP (DT each) (NNP Deseret) (NN share)))))
+                (VP (VBN held)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP (DT a) (NN total))
+                (PP (IN of)
+                  (NP
+                    (QP (RB about) (CD 550,000))
+                    (NNP First) (NNP Security) (NNS shares)))))))))
+    (. .)))
+

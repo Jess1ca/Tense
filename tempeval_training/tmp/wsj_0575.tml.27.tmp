@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP
+        (NP (DT the) (JJ same) (NN time))
+        (SBAR
+          (WHNP
+            (WHNP (CD four))
+            (PP (IN of)
+              (NP (CD six) (NN design) (NNS projects))))
+          (S
+            (VP (VBD were)
+              (VP (VBN spiked)))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+

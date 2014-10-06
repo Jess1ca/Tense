@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Proceeds))
+      (PP (IN from)
+        (NP (DT the) (NN offering))))
+    (VP (VBP are)
+      (VP (VBN expected)
+        (S
+          (VP
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBN used)
+                  (PP (IN for)
+                    (S
+                      (VP (VBG remodeling)
+                        (NP
+                          (NP
+                            (NP (DT the) (NN company) (POS 's))
+                            (NNP Desert) (NNP Inn) (NN resort))
+                          (PP (IN in)
+                            (NP
+                              (NP (NNP Las) (NNP Vegas))
+                              (, ,)
+                              (NP
+                                (NP (VBG refurbishing) (JJ certain) (NN aircraft))
+                                (PP (IN of)
+                                  (NP (DT the) (NNP MGM) (NNP Grand) (NNP Air) (NN unit)))))))))))))
+            (, ,)
+            (CC and)
+            (VP (TO to)
+              (VP (VB acquire)
+                (NP
+                  (NP (DT the) (NN property))
+                  (PP (IN for)
+                    (NP (DT the) (JJ new) (NN resort))))))))))
+    (. .)))
+

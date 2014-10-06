@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD disclosed)
+      (SBAR (IN that)
+        (S
+          (SBAR (IN before)
+            (S
+              (NP (NNP Control) (NNP Data))
+              (VP (VBD scrapped)
+                (NP (PRP$ its) (NNP ETA) (NNPS Systems) (NNP Inc.) (NN supercomputer) (NN business))
+                (NP (DT this) (JJ past) (NN spring)))))
+          (, ,)
+          (NP (DT those) (NNS costs))
+          (VP (VBD were)
+            (VP (VBG running)
+              (PP (IN at)
+                (NP
+                  (NP
+                    (QP (RB nearly) (CD 35))
+                    (NN %))
+                  (PP (IN of)
+                    (NP (NN group) (NN revenue))))))))))
+    (. .)))
+

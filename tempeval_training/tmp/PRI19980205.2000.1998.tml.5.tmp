@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (PP (IN With)
+      (NP
+        (NP (DT the) (JJ general) (NN election))
+        (PP (IN due)
+          (NP (DT this) (NNP September)))))
+    (, ,)
+    (NP (NN record) (NNS figures))
+    (VP (MD could) (RB n't)
+      (VP (VB have)
+        (VP (VBN come)
+          (PP (IN at)
+            (NP
+              (NP (DT a) (JJS worst) (NN time))
+              (PP (IN for)
+                (NP (NNP Chancellor) (NNP Kohl))))))))
+    (. .)))
+

@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT The) (NN agreement))
+    (VP (VBZ is)
+      (ADJP (JJ subject)
+        (PP (TO to)
+          (NP
+            (NP (JJ regulatory) (NN approval)
+              (CC and)
+              (NN resolution))
+            (PP (IN of)
+              (NP
+                (NP (NNS lawsuits))
+                (VP (VBN brought)
+                  (PP (IN by)
+                    (NP
+                      (NP (JJ certain) (NNP Diversified) (NNS holders))
+                      (PP (IN in)
+                        (NP (NN connection)))))
+                  (PP (IN with)
+                    (NP (DT the) (VBN proposed) (NN merger))))))))))
+    (. .)))
+

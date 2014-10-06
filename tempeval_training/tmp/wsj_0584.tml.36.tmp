@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP BellSouth) (POS 's))
+      (VBN revised) (NN proposal))
+    (VP (VBD surprised)
+      (NP (JJ many) (NN industry) (NNS analysts))
+      (, ,)
+      (PP
+        (ADVP (RB especially))
+        (IN because) (IN of)
+        (NP
+          (NP (DT the) (NN company) (POS 's))
+          (NN willingness)
+          (S
+            (VP (TO to)
+              (VP (VB accept)
+                (NP
+                  (NP (DT some) (NN dilution))
+                  (PP (IN of)
+                    (NP (JJ future) (NNS earnings))))))))))
+    (. .)))
+

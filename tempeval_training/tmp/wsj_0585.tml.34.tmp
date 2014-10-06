@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT The) (NN problem))
+    (PRN (, ,)
+      (S
+        (NP (NN market) (NNS makers))
+        (VP (VBP say)))
+      (, ,))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (SBAR (IN while)
+            (S
+              (NP
+                (NP (DT the) (JJ industrial) (NN average))
+                (CC and)
+                (NP (DT the) (NNP SampP) (CD 500)))
+              (ADVP (RB usually))
+              (VP (VB recover)
+                (SBAR (IN as)
+                  (S
+                    (NP (VB buy) (NNS programs))
+                    (VP (VBP kick)
+                      (PRT (RP in))))))))
+          (, ,)
+          (NP (DT the) (NNP Nasdaq) (NNP Composite))
+          (ADVP (RB frequently))
+          (VP (VBZ is)
+            (VP (VBN left)
+              (PRT (RP behind)))))))
+    (. .)))
+

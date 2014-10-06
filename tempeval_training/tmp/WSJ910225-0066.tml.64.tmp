@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (DT Some) (NNS analysts))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD appeared)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBG relying)
+                    (PP (IN on)
+                      (NP
+                        (NP (DT a)
+                          (ADJP (JJR smaller)
+                            (CC and)
+                            (JJR smaller))
+                          (NN circle))
+                        (PP (IN of)
+                          (NP (JJ close) (NNS advisers)
+                            (CC and)
+                            (NNS relatives)))))))))))))
+    (. .)))
+

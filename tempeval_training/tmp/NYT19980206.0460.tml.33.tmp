@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS figures))
+    (VP (VBD showed)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN unemployment) (NN rate))
+            (PP (IN for)
+              (NP (JJ adult) (NNS men))))
+          (VP (VBD declined)
+            (PP (TO to)
+              (NP (CD 3.8) (NN percent)))
+            (NP (JJ last) (NN month))
+            (PP (IN from)
+              (NP
+                (NP (CD 4.1) (NN percent))
+                (PP (IN in)
+                  (NP
+                    (NP (NNP December))
+                    (, ,)
+                    (NP
+                      (NP (DT the) (JJS lowest) (NN figure))
+                      (PP (IN for)
+                        (NP (RB almost) (CD two) (NNS decades))))))))))))
+    (. .)))
+

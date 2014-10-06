@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (NN Nobody))
+    (VP (VBZ hurried)
+      (NP (PRP her))
+      (PRT (RP up)))
+    (. .)))
+

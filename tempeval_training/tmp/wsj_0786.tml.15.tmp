@@ -1,0 +1,14 @@
+(ROOT
+  (S (CC But)
+    (S
+      (NP (PRP they))
+      (ADVP (RB never))
+      (VP (VBD materialized)))
+    (CC and)
+    (S
+      (NP (NNP IMA))
+      (VP (VBD completed)
+        (NP (DT the) (NN purchase))
+        (NP (NN yesterday))))
+    (. .)))
+

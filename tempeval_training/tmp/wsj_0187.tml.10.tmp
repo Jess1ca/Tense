@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Waertsilae) (NNP Marine) (POS 's))
+      (NN bankruptcy) (NNS proceedings))
+    (VP (VBD began)
+      (NP (NNP Tuesday))
+      (PP (IN in)
+        (NP (DT a) (NNP Helsinki) (NN court))))
+    (. .)))
+

@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (VP (VBN aided)
+        (PP (IN by)
+          (NP
+            (NP (NNP Britain))
+            (, ,)
+            (NP (NNP West) (NNP Germany))
+            (, ,)
+            (NP (NNP Australia))
+            (, ,)
+            (NP (NNP Canada))
+            (, ,)
+            (NP (DT the) (NNPS Netherlands))
+            (CC and)
+            (NP (NNP Belgium))))))
+    (. .)))
+

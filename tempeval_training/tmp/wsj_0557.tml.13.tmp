@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Nestle) (POS 's))
+        (NN share))
+      (PP (IN of)
+        (NP
+          (NP (CD 7) (NN %))
+          (PP (IN before)
+            (NP
+              (NP (NNP Friday) (POS 's))
+              (NNS purchases))))))
+    (VP (VBZ is)
+      (ADVP (RB far)
+        (PP (IN below)
+          (NP
+            (NP (DT the) (NNS shares))
+            (PP (IN of)
+              (NP
+                (NP (NN market) (NNS leaders) (NNP Hershey) (NNPS Foods) (NNP Corp.)
+                  (CC and)
+                  (NNP Mars) (NNP Inc.))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBP have)
+                      (NP
+                        (NP
+                          (QP (RB about) (CD 40) (NN %)
+                            (CC and)
+                            (CD 36) (NN %)))
+                        (PP (IN of)
+                          (NP (DT the) (NN market))))
+                      (, ,)
+                      (ADVP (RB respectively)))))))))))
+    (. .)))
+

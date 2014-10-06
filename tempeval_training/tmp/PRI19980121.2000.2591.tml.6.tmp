@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS people))
+    (ADVP (RB here))
+    (VP (VBP are)
+      (ADJP (JJ famous)
+        (PP (IN throughout)
+          (NP (JJ central) (NNP Asia))))
+      (PP (IN for)
+        (NP
+          (NP (PRP$ their) (NN skill))
+          (PP (IN in)
+            (NP (JJ fashioning) (NN pottery)
+              (CC and)
+              (NN tile))))
+        (, ,)
+        (NP
+          (NP (NN glass))
+          (RB too))))
+    (. .)))
+

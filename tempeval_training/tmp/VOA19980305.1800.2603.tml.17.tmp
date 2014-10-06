@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (NNS cities))
+        (, ,)
+        (PP (JJ such) (IN as)
+          (NP (DT the) (NN capital) (NNP Kabul)))))
+    (, ,)
+    (NP (NNS women))
+    (VP (VBP are)
+      (ADJP (RB totally) (JJ dependent)
+        (PP (IN on)
+          (NP
+            (NP (JJ international) (NN aid))
+            (PP (IN for)
+              (NP (NN survival)))))))
+    (. .)))
+

@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Shares))
+      (PP (IN of)
+        (NP
+          (NP (NNP Coors))
+          (, ,)
+          (NP
+            (NP (DT the) (NN company) (POS 's))
+            (NN sole)
+            (ADJP (RB publicly) (VBN traded))
+            (JJ major) (NN competitor))
+          (, ,))))
+    (VP (VBD fell)
+      (NP
+        (NP ($ $) (CD 1.50))
+        (NP (RB apiece)))
+      (PP (TO to)
+        (NP
+          (NP ($ $) (CD 19.125))
+          (PP (IN in)
+            (NP (JJ national) (JJ over-the-counter) (NN trading)))))
+      (, ,)
+      (PP
+        (ADVP (RB apparently))
+        (IN on)
+        (NP
+          (NP (NN investor) (NNS concerns))
+          (PP (IN over)
+            (NP
+              (NP (JJ potential) (NN fallout))
+              (PP (IN from)
+                (NP (DT the) (VBG coming) (NN pricing) (NN struggle))))))))
+    (. .)))
+

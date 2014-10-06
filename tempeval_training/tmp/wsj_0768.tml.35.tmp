@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (NNS Funds))
+    (VP (MD might)
+      (VP (VB be)
+        (VP (VBN forced)
+          (S
+            (VP (TO to)
+              (VP (VB accept)
+                (NP (JJR lower) (NNS prices))
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP they))
+                    (VP (VB expand)
+                      (NP (PRP$ their) (NN selling))
+                      (PP (TO to)
+                        (NP
+                          (NP (DT the) (NNS securities))
+                          (PP (IN of)
+                            (NP (JJ less-creditworthy) (NNS borrowers))))))))))))))
+    (. .)))
+

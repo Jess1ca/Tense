@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (PRP$ His) (NNS men))
+    (VP (VBP have)
+      (VP (VBN held)
+        (NP
+          (NP (DT the) (NN stronghold) (NN _))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (PP (IN on)
+                  (NP (DT the) (NN border)))
+                (PP (RB just) (IN opposite)
+                  (NP
+                    (NP (DT the) (NNP Thai) (NN province))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP Surin) (NNP _))
+                        (PP (IN against)
+                          (NP
+                            (NP (VBN repeated) (JJ intense) (NNS attacks))
+                            (PP (IN by)
+                              (NP
+                                (NP (NNP Hun) (NNP Sen) (POS 's))
+                                (NNS troops)))))))))))))))
+    (. .)))
+

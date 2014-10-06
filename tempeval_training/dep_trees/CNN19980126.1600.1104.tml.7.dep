@@ -1,0 +1,24 @@
+1	You	_	PRP	PRP	_	2	nsubj	_	_
+2	know	_	VBP	VBP	_	0	root	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	since	_	IN	IN	_	11	mark	_	_
+5	he	_	PRP	PRP	_	11	nsubjpass	_	_
+6	's	_	VBZ	VBZ	_	11	auxpass	_	_
+7	been	_	VBN	VBN	_	11	auxpass	_	_
+8	here	_	RB	RB	_	11	advmod	_	_
+9	the	_	DT	DT	_	10	det	_	_
+10	stock	_	NN	NN	_	8	pobj	_	_
+11	skyrocketed	_	VBN	VBN	_	2	advcl	_	_
+12	so	_	IN	IN	_	16	mark	_	_
+13	,	_	,	,	_	16	punct	_	_
+14	Yeah	_	UH	UH	_	16	discourse	_	_
+15	I	_	PRP	PRP	_	16	nsubj	_	_
+16	think	_	VBP	VBP	_	11	advcl	_	_
+17	he	_	PRP	PRP	_	19	nsubj	_	_
+18	's	_	VBZ	VBZ	_	19	aux	_	_
+19	doing	_	VBG	VBG	_	16	ccomp	_	_
+20	the	_	DT	DT	_	22	det	_	_
+21	right	_	JJ	JJ	_	22	amod	_	_
+22	thing	_	NN	NN	_	19	dobj	_	_
+23	.	_	.	.	_	2	punct	_	_
+

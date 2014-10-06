@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP Police))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT an) (JJ unmarked) (NN police) (NN car))
+          (VP (VBD was)
+            (VP (VBN hit)
+              (PP (IN with)
+                (NP (NN gasoline) (NNS bombs)))
+              (PP (IN from)
+                (NP (DT the) (JJ Protestant) (NN side))))))))
+    (. .)))
+

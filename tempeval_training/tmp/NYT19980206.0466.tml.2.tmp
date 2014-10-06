@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP 're) (RB not)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB dignify)
+              (NP
+                (NP (DT the) (JJS latest) (JJ false) (NN leak))
+                (PP (IN with)
+                  (NP (DT a) (NN response)))))))))
+    (. .) ('' '')))
+

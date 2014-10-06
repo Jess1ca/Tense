@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ major) (NN dispute))
+    (VP (VBZ concerns)
+      (NP
+        (NP (DT a) (JJ broad) (JJ political) (NN treaty))
+        (VP (VBG calling)
+          (PP (IN for)
+            (NP
+              (NP (NN border) (NN demarcation))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (NP (DT the) (CD two) (NNS presidents))
+                  (VP (VBD signed)
+                    (NP (JJ last) (NNP May))))))))))
+    (. .)))
+

@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Doctor) (NNP James) (NNP Burdick))
+      (, ,)
+      (NP
+        (NP (DT the) (NNP Professor))
+        (PP (IN of)
+          (NP
+            (NP (NNP Transplant) (NNP Surgery))
+            (PP (IN at)
+              (NP
+                (NP
+                  (NP (NNP Johns) (NNP Hopkins) (NNP University) (NNP Hospital))
+                  (PP (IN in)
+                    (NP (NNP Baltimore) (, ,) (NNP Maryland) (, ,))))
+                (CC and)
+                (NP
+                  (NP (JJ former) (NNP President))
+                  (PP (IN of)
+                    (NP (NNP UNOS)))))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (S
+            (NP (DT the) (JJ current) (NN system))
+            (VP (VBZ has)
+              (VP (VBN evolved)
+                (PP (IN over)
+                  (NP (JJ several) (NNS years))))))
+          (CC and)
+          (S
+            (NP (PRP it))
+            (VP (VBZ works)
+              (ADVP (RB well)))))))
+    (. .)))
+

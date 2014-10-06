@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (PP (IN Despite)
+      (NP
+        (NP (DT the) (NN lack))
+        (PP (IN of)
+          (NP (DT any) (JJ obvious) (NNS successors)))))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ Iraqi) (NN leader) (POS 's))
+      (JJ internal) (NN power) (NN base))
+    (VP (VBD appeared)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBG narrowing)
+              (SBAR (RB even) (IN before)
+                (S
+                  (NP (DT the) (NN war))
+                  (VP (VBD began)))))))))
+    (. .)))
+

@@ -1,0 +1,26 @@
+1	Reflecting	_	VBG	VBG	_	7	vmod	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	concern	_	NN	NN	_	1	dobj	_	_
+4	,	_	,	,	_	7	punct	_	_
+5	Unisys	_	NNP	NNP	_	6	nn	_	_
+6	stock	_	NN	NN	_	7	nsubj	_	_
+7	fell	_	VBD	VBD	_	0	root	_	_
+8	a	_	DT	DT	_	11	det	_	_
+9	further	_	JJ	JJ	_	11	amod	_	_
+10	75	_	CD	CD	_	11	num	_	_
+11	cents	_	NNS	NNS	_	7	dobj	_	_
+12	to	_	TO	TO	_	7	prep	_	_
+13	$	_	$	$	_	12	pobj	_	_
+14	16.25	_	CD	CD	_	13	num	_	_
+15	in	_	IN	IN	_	13	prep	_	_
+16	composite	_	JJ	JJ	_	17	amod	_	_
+17	trading	_	NN	NN	_	15	pobj	_	_
+18	Friday	_	NNP	NNP	_	13	dep	_	_
+19	on	_	IN	IN	_	7	prep	_	_
+20	the	_	DT	DT	_	24	det	_	_
+21	New	_	NNP	NNP	_	24	nn	_	_
+22	York	_	NNP	NNP	_	24	nn	_	_
+23	Stock	_	NNP	NNP	_	24	nn	_	_
+24	Exchange	_	NNP	NNP	_	19	pobj	_	_
+25	.	_	.	.	_	7	punct	_	_
+

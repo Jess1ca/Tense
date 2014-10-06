@@ -1,0 +1,25 @@
+1	Since	_	IN	IN	_	6	prep	_	_
+2	1983	_	CD	CD	_	1	pobj	_	_
+3	,	_	,	,	_	6	punct	_	_
+4	Westinghouse	_	NNP	NNP	_	6	nsubj	_	_
+5	has	_	VBZ	VBZ	_	6	aux	_	_
+6	shed	_	VBN	VBN	_	0	root	_	_
+7	70	_	CD	CD	_	8	num	_	_
+8	businesses	_	NNS	NNS	_	6	dobj	_	_
+9	that	_	IN	IN	_	13	mark	_	_
+10	it	_	PRP	PRP	_	13	nsubj	_	_
+11	did	_	VBD	VBD	_	13	aux	_	_
+12	n't	_	RB	RB	_	13	neg	_	_
+13	expect	_	VB	VB	_	6	ccomp	_	_
+14	to	_	TO	TO	_	15	aux	_	_
+15	produce	_	VB	VB	_	13	xcomp	_	_
+16	10	_	CD	CD	_	17	number	_	_
+17	%	_	NN	NN	_	19	amod	_	_
+18	operating	_	VBG	VBG	_	19	amod	_	_
+19	margins	_	NNS	NNS	_	15	dobj	_	_
+20	while	_	IN	IN	_	15	prep	_	_
+21	acquiring	_	VBG	VBG	_	20	pcomp	_	_
+22	55	_	CD	CD	_	23	num	_	_
+23	businesses	_	NNS	NNS	_	21	dobj	_	_
+24	.	_	.	.	_	6	punct	_	_
+

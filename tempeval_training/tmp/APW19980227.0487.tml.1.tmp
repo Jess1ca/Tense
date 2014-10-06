@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Margalit) (NNP Har-Shefi))
+      (, ,)
+      (NP (CD 22))
+      (, ,))
+    (VP (VBZ has)
+      (VP (VBN pleaded)
+        (ADJP (JJ innocent)
+          (PP (TO to)
+            (NP (NNS charges))))
+        (SBAR (IN that)
+          (S
+            (NP (PRP she))
+            (VP (VBD failed)
+              (S
+                (VP (TO to)
+                  (VP (VB report)
+                    (NP
+                      (NP (NNP Yigal) (NNP Amir) (POS 's))
+                      (NN plan)
+                      (S
+                        (VP (TO to)
+                          (VP (VB kill)
+                            (NP (NNP Rabin))))))))))))))
+    (. .)))
+

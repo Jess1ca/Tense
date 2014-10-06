@@ -1,0 +1,12 @@
+(ROOT
+  (NP
+    (NP (NNS Bonds))
+    (: :)
+    (NP
+      (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Treasury))
+      (NP (NN index) (CD 3406.31))
+      (, ,)
+      (ADVP (IN off)
+        (NP (CD 19.29))))
+    (. .)))
+

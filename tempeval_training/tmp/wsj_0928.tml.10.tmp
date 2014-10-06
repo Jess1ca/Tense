@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Mr.) (NNP McNealy))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (NNS issues))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD hurt)
+                    (NP
+                      (NP (NNP Sun) (POS 's))
+                      (NN performance))
+                    (NP (RBR earlier) (DT this) (NN year))))))
+            (VP (VBP are)
+              (ADVP (RB now) ('' ''))
+              (ADVP (RB largely)))))
+        ('' '')
+        (PP (IN behind)
+          (NP (DT the) (NN firm)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD indicated)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNP Sun) (POS 's))
+              (NN profitability))
+            (VP (MD should)
+              (VP (VB increase)
+                (PP (IN throughout)
+                  (NP (DT the) (JJ fiscal) (NN year)))))))))
+    (. .)))
+

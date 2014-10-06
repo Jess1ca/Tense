@@ -1,0 +1,31 @@
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (NNP Kenneth) (NNP Leon))
+      (, ,)
+      (NP
+        (NP (DT a) (NN telecommunications) (NN analyst))
+        (PP (IN with)
+          (NP (NNP Bear) (, ,) (NNP Stearns) (NNP amp) (NNP Co.))))
+      (, ,))
+    (VP (VBZ finds)
+      (S
+        (NP (DT the) (NNP BellSouth) (NN proposal))
+        (ADJP (RB still) (JJ flawed)))
+      (SBAR (IN because)
+        (S
+          (NP (DT the) (NN company))
+          (VP (VBZ does) (RB n't)
+            (VP (VB have)
+              (S
+                (VP (TO to)
+                  (VP (VB wait)
+                    (NP (CD five) (NNS years))
+                    (S
+                      (VP (TO to)
+                        (VP (VB begin)
+                          (S
+                            (VP (VBG buying)
+                              (NP (JJR more) (NNP LIN) (NNS shares)))))))))))))))
+    (. .)))
+

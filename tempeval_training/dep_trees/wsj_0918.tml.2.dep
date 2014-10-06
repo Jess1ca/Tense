@@ -1,0 +1,27 @@
+1	Du	_	NNP	NNP	_	2	nn	_	_
+2	Pont	_	NNP	NNP	_	19	nsubj	_	_
+3	,	_	,	,	_	19	punct	_	_
+4	unlike	_	IN	IN	_	19	prep	_	_
+5	companies	_	NNS	NNS	_	4	pobj	_	_
+6	hurt	_	VBN	VBN	_	5	vmod	_	_
+7	badly	_	RB	RB	_	6	advmod	_	_
+8	by	_	IN	IN	_	6	prep	_	_
+9	sharp	_	JJ	JJ	_	11	amod	_	_
+10	price	_	NN	NN	_	11	nn	_	_
+11	declines	_	NNS	NNS	_	8	pobj	_	_
+12	for	_	IN	IN	_	11	prep	_	_
+13	basic	_	JJ	JJ	_	14	amod	_	_
+14	chemicals	_	NNS	NNS	_	12	pobj	_	_
+15	and	_	CC	CC	_	14	cc	_	_
+16	plastics	_	NNS	NNS	_	14	conj	_	_
+17	,	_	,	,	_	19	punct	_	_
+18	is	_	VBZ	VBZ	_	19	aux	_	_
+19	benefiting	_	VBG	VBG	_	0	root	_	_
+20	from	_	IN	IN	_	19	prep	_	_
+21	its	_	PRP$	PRP$	_	23	poss	_	_
+22	broad	_	JJ	JJ	_	23	amod	_	_
+23	range	_	NN	NN	_	20	pobj	_	_
+24	of	_	IN	IN	_	23	prep	_	_
+25	businesses	_	NNS	NNS	_	24	pobj	_	_
+26	.	_	.	.	_	19	punct	_	_
+

@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNP Dataproducts))
+    (VP
+      (VP (VBZ has)
+        (ADVP (IN since))
+        (VP (VBN started)
+          (NP (DT a) (NN restructuring))))
+      (, ,)
+      (CC and)
+      (VP (VBZ has)
+        (VP (VBD said)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBZ is) (RB not)
+                (PP (IN for)
+                  (NP (NN sale)))))))))
+    (. .)))
+

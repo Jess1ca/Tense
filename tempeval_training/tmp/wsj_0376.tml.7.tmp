@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ divested) (NNP Courtaulds) (NN textile) (NNS operations))
+    (VP (VBD had)
+      (NP
+        (NP (NN operating) (NN profit))
+        (PP (IN of)
+          (NP
+            (QP (# #) (CD 50) (CD million)))))
+      (PP (IN on)
+        (NP
+          (NP
+            (QP (# #) (CD 980) (CD million)))
+          (PP (IN in)
+            (NP (NN revenue)))))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN year))
+          (VP (VBN ended)
+            (NP (NNP March) (CD 31))))))
+    (. .)))
+

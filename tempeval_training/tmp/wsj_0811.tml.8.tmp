@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP Blockbuster) (NNS shares))
+    (VP (VBD closed)
+      (NP (NN yesterday))
+      (PP (IN at)
+        (NP ($ $) (CD 18.75)))
+      (, ,)
+      (ADVP (RB down)
+        (NP ($ $) (CD 1.125)))
+      (, ,)
+      (PP (IN in)
+        (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NN trading))))
+    (. .)))
+

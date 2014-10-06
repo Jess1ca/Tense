@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ major) (NN harm))
+      (PP (IN from)
+        (NP (NNP Asia))))
+    (VP (VBZ is)
+      (ADJP (JJ likely)
+        (S
+          (VP (TO to)
+            (VP (VB come)
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (NN plunge))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN value))
+                      (PP (IN of)
+                        (NP (JJ many) (JJ Asian) (NNS currencies)))))))
+              (ADVP (JJ relative)
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (NN dollar))
+                    (, ,)
+                    (NP
+                      (NP (DT a) (NN situation))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBZ is)
+                            (VP (VBN expected)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB lead)
+                                    (PP (TO to)
+                                      (NP
+                                        (NP (DT a) (NN surge))
+                                        (PP (IN of)
+                                          (NP (JJ inexpensive) (NNS imports)))))
+                                    (PP (IN into)
+                                      (NP (DT the) (NNP United) (NNPS States)))
+                                    (, ,)
+                                    (S
+                                      (VP (VBG hurting)
+                                        (NP (JJ American) (NNS competitors))))))))))))))))))))
+    (. .)))
+

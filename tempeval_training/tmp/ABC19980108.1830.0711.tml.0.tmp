@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (DT the) (JJ other) (NN hand)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (VP (VBG turning)
+        (PRT (RP out))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (DT another)
+                  (ADJP (RB very) (JJ bad))
+                  (JJ financial) (NN week))
+                (PP (IN for)
+                  (NP (NNP Asia)))))))))
+    (. .)))
+

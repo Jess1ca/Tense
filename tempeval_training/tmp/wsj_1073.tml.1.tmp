@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT The) (NN unit))
+    (VP
+      (VP (VBZ makes)
+        (NP
+          (NP (JJ intravenous) (NNS pumps))
+          (VP (VBN used)
+            (PP (IN by)
+              (NP (NNS hospitals))))))
+      (CC and)
+      (VP (VBD had)
+        (NP
+          (NP
+            (QP (JJR more) (IN than) ($ $) (CD 110) (CD million)))
+          (PP (IN in)
+            (NP (NNS sales))))
+        (NP (JJ last) (NN year)))
+      (, ,)
+      (PP (VBG according)
+        (PP (TO to)
+          (NP (NNP Advanced) (NNP Medical)))))
+    (. .)))
+

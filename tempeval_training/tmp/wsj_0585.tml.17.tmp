@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (NNP Kidder) (NNP Peabody))
+    (VP (VBZ does)
+      (NP
+        (NP (NN program) (NN trading))
+        (PP (IN for)
+          (NP
+            (NP (PRP$ its) (JJ own))
+            (CONJP (RB as) (RB well) (IN as))
+            (NP (NNS clients) (POS '))
+            (NX (NNS accounts))))))
+    (. .)))
+

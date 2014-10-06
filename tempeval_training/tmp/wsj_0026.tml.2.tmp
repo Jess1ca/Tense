@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (ADVP (RB Previously))
+    (, ,)
+    (NP (NN watch) (NNS imports))
+    (VP (VBD were)
+      (VP (VBN denied)
+        (PP (JJ such)
+          (NP (JJ duty-free) (NN treatment)))))
+    (. .)))
+

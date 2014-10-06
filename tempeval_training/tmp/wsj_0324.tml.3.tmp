@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (PP (IN Among)
+      (NP (PRP them)))
+    (, ,)
+    (NP (NNP Home) (NNP Shopping) (, ,) (NNP QVC)
+      (CC and)
+      (NNP CVN))
+    (ADVP (RB already))
+    (VP (VBP control)
+      (NP
+        (NP (JJS most))
+        (PP (IN of)
+          (NP
+            (NP (DT that)
+              (ADJP (JJ young)
+                (CC and)
+                (JJ fast-growing))
+              (NN market))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (NP (JJ last) (NN year))
+                (VP (VBD had)
+                  (NP
+                    (NP (NNS sales))
+                    (PP (IN of)
+                      (NP
+                        (QP (RB about) ($ $) (CD 1.4) (CD billion))))))))))))
+    (. .)))
+

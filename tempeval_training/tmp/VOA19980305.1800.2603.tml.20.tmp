@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT These))
+    (VP (VBP are)
+      (ADVP (RB only))
+      (NP
+        (NP (DT the) (NNS symptoms))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS problems))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP are)
+                  (VP (VBG facing)
+                    (NP (NNP Afghanistan))))))))))
+    (. .)))
+

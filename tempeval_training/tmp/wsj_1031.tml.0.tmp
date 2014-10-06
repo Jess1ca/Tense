@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Philip) (NNP Morris) (NNP Cos.))
+      (, ,)
+      (NP (NNP New) (NNP York))
+      (, ,))
+    (VP (VBD adopted)
+      (NP
+        (NP (DT a) (NN defense) (NN measure))
+        (VP (VBN designed)
+          (S
+            (VP (TO to)
+              (VP (VB make)
+                (NP
+                  (NP (DT a) (JJ hostile) (NN takeover))
+                  (ADJP (RB prohibitively) (JJ expensive)))))))))
+    (. .)))
+

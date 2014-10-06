@@ -1,0 +1,24 @@
+1	Gen.	_	NNP	NNP	_	2	nn	_	_
+2	Schwarzkopf	_	NNP	NNP	_	3	nsubj	_	_
+3	said	_	VBD	VBD	_	0	root	_	_
+4	that	_	IN	IN	_	16	mark	_	_
+5	some	_	DT	DT	_	7	det	_	_
+6	early	_	JJ	JJ	_	7	amod	_	_
+7	reports	_	NNS	NNS	_	16	nsubj	_	_
+8	that	_	IN	IN	_	12	mark	_	_
+9	chemical	_	NN	NN	_	10	nn	_	_
+10	weapons	_	NNS	NNS	_	12	nsubjpass	_	_
+11	were	_	VBD	VBD	_	12	auxpass	_	_
+12	used	_	VBN	VBN	_	7	dep	_	_
+13	against	_	IN	IN	_	12	prep	_	_
+14	allied	_	JJ	JJ	_	15	amod	_	_
+15	troops	_	NNS	NNS	_	13	pobj	_	_
+16	turned	_	VBD	VBD	_	3	ccomp	_	_
+17	out	_	RP	RP	_	16	prt	_	_
+18	to	_	TO	TO	_	19	aux	_	_
+19	be	_	VB	VB	_	16	xcomp	_	_
+20	``	_	``	``	_	19	punct	_	_
+21	bogus	_	JJ	JJ	_	19	acomp	_	_
+22	.	_	.	.	_	3	punct	_	_
+23	''	_	''	''	_	3	punct	_	_
+

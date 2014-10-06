@@ -1,0 +1,7 @@
+(ROOT
+  (NP
+    (NP (NNP Ned) (NNP Potter))
+    (, ,)
+    (NP (NNP ABC) (NNP News))
+    (. .)))
+

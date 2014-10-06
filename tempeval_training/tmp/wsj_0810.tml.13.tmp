@@ -1,0 +1,47 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (PP (IN Without)
+        (NP (DT some) (JJ unexpected) (`` ``) (FW coup) (FW de) (FW theatre) ('' '')))
+      (, ,)
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB see)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (MD will)
+                (VP (VB block)
+                  (NP (DT the) (NNP Paribas) (NN bid)))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Philippe) (IN de) (NNP Cholet))
+      (, ,)
+      (NP
+        (NP (NN analyst))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN brokerage))
+            (SBAR
+              (S
+                (NP (NNP Cholet-Dupont) (NNP amp) (NNP Cie.) (NNP Mr.) (FW de) (NNP Cholet))
+                (VP (VBD said)
+                  (SBAR
+                    (S
+                      (NP
+                        (NP (NNP Mr.) (NNP Fournier) (POS 's))
+                        (JJS biggest) (NN hope))
+                      (VP (VBD was)
+                        (S
+                          (VP (TO to)
+                            (VP
+                              (ADVP (RB somehow))
+                              (VB persuade)
+                              (S
+                                (NP (JJ regulatory) (NNS authorities))
+                                (VP (TO to)
+                                  (VP (VB block)
+                                    (NP (DT the) (NN bid))))))))))))))))))
+    (. .)))
+

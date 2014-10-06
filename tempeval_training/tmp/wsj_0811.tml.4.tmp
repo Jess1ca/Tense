@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (DT Each) (NN note))
+    (VP (VBZ is)
+      (VP (VBG being)
+        (VP (VBN offered)
+          (PP (IN at)
+            (NP
+              (NP ($ $) (CD 308.32))
+              (PP (IN per)
+                (NP
+                  (ADJP ($ $) (CD 1,000))
+                  (JJ principal) (NN amount)))))
+          (PP (IN at)
+            (NP (NN maturity)))
+          (, ,)
+          (S
+            (VP (VBG representing)
+              (NP (DT an)
+                (ADJP (CD 8) (NN %))
+                (NN yield))
+              (PP (TO to)
+                (NP (NN maturity))))))))
+    (. .)))
+

@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (JJ Several) (NNP Big) (NNP Board) (NNS firms))
+    (VP (VBP are)
+      (VP (VBG organizing)
+        (S
+          (VP (TO to)
+            (VP (VB complain)
+              (PP (IN about)
+                (NP
+                  (NP (NN program) (NN trading))
+                  (CC and)
+                  (NP
+                    (NP
+                      (NP (DT the) (NN exchange) (POS 's))
+                      (NN role))
+                    (PP (IN in)
+                      (NP (PRP it)))))))))))
+    (. .)))
+

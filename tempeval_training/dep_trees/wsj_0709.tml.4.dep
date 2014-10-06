@@ -1,0 +1,26 @@
+1	Results	_	NNS	NNS	_	5	nsubj	_	_
+2	for	_	IN	IN	_	1	prep	_	_
+3	that	_	DT	DT	_	4	det	_	_
+4	quarter	_	NN	NN	_	2	pobj	_	_
+5	included	_	VBD	VBD	_	0	root	_	_
+6	a	_	DT	DT	_	17	det	_	_
+7	$	_	$	$	_	17	nn	_	_
+8	30	_	CD	CD	_	9	number	_	_
+9	million	_	CD	CD	_	7	num	_	_
+10	,	_	,	,	_	7	punct	_	_
+11	or	_	CC	CC	_	7	cc	_	_
+12	40	_	CD	CD	_	13	num	_	_
+13	cents	_	NNS	NNS	_	7	conj	_	_
+14	a	_	DT	DT	_	15	det	_	_
+15	share	_	NN	NN	_	13	dep	_	_
+16	,	_	,	,	_	7	punct	_	_
+17	write-down	_	NN	NN	_	5	dobj	_	_
+18	associated	_	VBN	VBN	_	17	vmod	_	_
+19	with	_	IN	IN	_	18	prep	_	_
+20	the	_	DT	DT	_	21	det	_	_
+21	consolidation	_	NN	NN	_	19	pobj	_	_
+22	of	_	IN	IN	_	21	prep	_	_
+23	a	_	DT	DT	_	24	det	_	_
+24	facility	_	NN	NN	_	22	pobj	_	_
+25	.	_	.	.	_	5	punct	_	_
+

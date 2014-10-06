@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT The) (NN loan))
+    (VP (MD may)
+      (VP (VB be)
+        (VP (VBN extended)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NNP McAlpine) (NN group))
+              (PP (IN for)
+                (NP (DT an) (JJ additional) (NN year)))))
+          (PP (IN with)
+            (NP
+              (NP (DT an) (NN increase))
+              (PP (IN in)
+                (NP (DT the) (NN conversion) (NN price)))))
+          (PP (TO to)
+            (NP
+              (NP ($ $) (CD 2.50))
+              (NP (DT a) (NN share)))))))
+    (. .)))
+

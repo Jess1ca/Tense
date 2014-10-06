@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Diversified))
+      (, ,)
+      (NP
+        (NP (DT the) (VBG holding) (NN company))
+        (PP (IN for)
+          (NP (NNP Fidelity) (NNP Federal) (NNP Savings) (NNP amp) (NNP Loan) (NNP Association))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN agreement))
+          (VP
+            (ADVP (RB also))
+            (VBZ gives)
+            (NP (NNP Star) (NNPS States))
+            (NP (DT the) (NN option)
+              (S
+                (VP (TO to)
+                  (VP (VB acquire)
+                    (NP
+                      (NP (CD 588,300))
+                      (PP (IN of)
+                        (NP
+                          (NP
+                            (NP (NNP Diversified) (POS 's))
+                            (CD 1,774,326) (NNS shares))
+                          (ADJP (JJ outstanding)))))
+                    (`` ``)
+                    (PP (IN under)
+                      (NP (JJ certain) (NNS circumstances)))))))))))
+    (. .) ('' '')))
+

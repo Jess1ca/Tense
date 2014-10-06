@@ -1,0 +1,34 @@
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT the) (NN north) (POS 's))
+      (JJ pro-British) (JJ Protestant) (NN majority))
+    (VP
+      (VP (VBZ is)
+        (ADJP (RB bitterly) (VBN opposed)
+          (PP (TO to)
+            (S
+              (VP (VBG uniting)
+                (NP (NNP Ireland)))))))
+      (CC and)
+      (VP
+        (ADVP (RB instead))
+        (VBZ wants)
+        (NP (DT a) (JJ strong) (NN government))
+        (PP (IN for)
+          (NP
+            (NP (NNP Northern) (NNP Ireland))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ has)
+                  (VP (VBN been)
+                    (VP (VBN ruled)
+                      (ADVP (RB directly))
+                      (PP (IN by)
+                        (NP (NNP London)))
+                      (PP (IN since)
+                        (NP (CD 1972))))))))))))
+    (. .)))
+

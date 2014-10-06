@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Turkey)
+          (CC and)
+          (NNP Saudi) (NNP Arabia))
+        (PP (IN in)
+          (NP (NN effect))))
+      (VP (VBD shut)
+        (PRT (RP down))
+        (NP
+          (NP (NNP Iraq) (POS 's))
+          (JJ major) (NN oil) (NNS outlets))
+        (PP (IN through)
+          (NP (DT those) (NNS countries)))))
+    (, ,)
+    (CC but)
+    (S
+      (PP (VBG according)
+        (PP (TO to)
+          (NP (JJ Jordanian) (NNS officials))))
+      (, ,)
+      (NP
+        (NP (DT a) (JJR smaller) (NN line))
+        (PP (IN into)
+          (NP (NNP Jordan))))
+      (VP (VBD remained)
+        (NP (NN operating))))
+    (. .)))
+

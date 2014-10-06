@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (ADVP (RB Indeed))
+    (PRN (, ,)
+      (S
+        (NP (NNP French) (NNP President) (NNP Francois) (NNP Mitterrand))
+        (VP
+          (VP (VBD said)
+            (NP (NN yesterday))
+            (SBAR (IN that)
+              (S
+                (NP (DT some))
+                (VP (VBD allied)
+                  (SBAR
+                    (S
+                      (NP (NNS forces))
+                      (VP (VBP are)
+                        (VP (VBG crossing)
+                          (NP (JJ Iraqi) (NN territory))
+                          (PP (IN as)
+                            (NP
+                              (NP (NN part))
+                              (PP (IN of)
+                                (NP (DT a) (`` ``) (NN pincer) ('' '') (NN movement)))))
+                          (S
+                            (VP (TO to)
+                              (VP (NN trap)
+                                (NP
+                                  (NP (DT the) (NNS soldiers))
+                                  (VP (VBG occupying)
+                                    (NP (NNP Kuwait)))))))))))))))
+          (, ,)
+          (CC but)
+          (VP (VBD insisted))))
+      (, ,))
+    (`` ``)
+    (NP (DT The) (NN purpose))
+    (VP (VBZ is) (RB n't)
+      (S
+        (VP (TO to)
+          (VP (VB invade)
+            (NP
+              (NP (JJ Iraqi) (NN territory))
+              (, ,)
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBZ 's) (RB not)
+                    (NP
+                      (NP (DT the) (NN aim))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBZ is) (RB n't)
+                            (NP (DT the) (NN mandate))))))))))))))
+    (. .) ('' '')))
+

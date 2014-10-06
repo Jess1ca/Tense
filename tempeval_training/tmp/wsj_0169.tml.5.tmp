@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN acquisition))
+      (PP (IN of)
+        (NP (JJ 87-store)
+          (NP (NNP Weisfield) (POS 's)))))
+    (VP (VBZ raises)
+      (NP
+        (NP
+          (NP (NNP Ratners) (POS 's))
+          (NNP U.S.) (NN presence))
+        (PP (TO to)
+          (NP (CD 450) (NNS stores)))))
+    (. .)))
+

@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Hewlett-Packard))
+      (, ,)
+      (NP (DT a)
+        (NAC (NNP Palo) (NNP Alto) (, ,) (NNP Calif.) (, ,))
+        (NN computer) (NN company))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD acquired)
+            (NP (DT the) (NN stock))
+            (`` ``)
+            (S
+              (VP (TO to)
+                (VP
+                  (VP (VB develop)
+                    (CC and)
+                    (VB maintain)
+                    (NP
+                      (NP (DT a) (JJ strategic) (NN partnership))
+                      (SBAR
+                        (WHPP (IN in)
+                          (WHNP (WDT which)))
+                        (S
+                          (NP (DT each) (NN company))
+                          (VP (VBZ remains)
+                            (ADJP (JJ independent)
+                              (PP (IN while)
+                                (S
+                                  (VP (VBG working)
+                                    (ADVP (RB together))
+                                    (PP (TO to)
+                                      (NP (NN market))))))))))))
+                  (CC and)
+                  (VP (VB sell)
+                    (NP (PRP$ their) (NNS products))))))))))
+    (. .) ('' '')))
+

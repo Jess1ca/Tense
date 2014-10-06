@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNP Bush))
+    (VP (MD can)
+      (VP (VB call)
+        (PRT (RP up))
+        (PP (TO to)
+          (NP
+            (NP (CD 200,000) (NNS reservists))
+            (PP (IN for)
+              (NP
+                (QP (IN up) (TO to) (CD 180))
+                (NNS days)))))
+        (PP (IN without)
+          (S
+            (VP (VBG seeking)
+              (NP (JJ congressional) (NN approval)))))))
+    (. .)))
+

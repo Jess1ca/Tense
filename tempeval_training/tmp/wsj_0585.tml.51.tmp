@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT The) (NN semiconductor) (NN concern))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN interruption))
+            (PP (IN in)
+              (NP
+                (NP (NN shipment))
+                (PP (IN of)
+                  (NP (PRP$ its) (CD 80486) (NN computer) (NN chip))))))
+          (VP (MD will)
+            (VP
+              (VP (VB be)
+                (ADJP (JJ brief)))
+              (CC and)
+              (VP (VB have)
+                (NP
+                  (NP (JJ little) (NN impact))
+                  (PP (IN on)
+                    (NP
+                      (NP (DT the) (NN company) (POS 's))
+                      (NNS earnings))))))))))
+    (. .)))
+

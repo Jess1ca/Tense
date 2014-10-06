@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (ADVP (RB Moreover))
+    (, ,)
+    (NP (DT the) (VBN amended) (NN pact))
+    (VP (VBZ shows)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP
+            (NP (NNP McCaw) (POS 's))
+            (NN persistence))
+          (VP (VBZ has)
+            (VP (VBN pushed)
+              (NP (NNP LIN)
+                (CC and)
+                (NNP BellSouth))
+              (PP (IN into)
+                (NP (DT a) (NN corner)))
+              (, ,)
+              (S
+                (VP (VBG forcing)
+                  (NP (JJ huge) (NN debt))
+                  (PP (IN on)
+                    (NP (DT the) (JJ proposed) (JJ new) (NN company))))))))))
+    (. .)))
+

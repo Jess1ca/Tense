@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN program))
+      (, ,)
+      (NP
+        (NP
+          (ADJP (JJ available)
+            (PP (TO to)
+              (NP (NNP Upjohn))))
+          (NNS employees))
+        (ADJP
+          (ADJP
+            (NP (CD 55) (NNS years))
+            (JJ old))
+          (CC or)
+          (ADJP (JJR older))))
+      (, ,))
+    (VP (MD could)
+      (VP (VB increase)
+        (NP
+          (NP (DT an) (NN individual) (POS 's))
+          (NN retirement) (NNS benefits))
+        (NP
+          (QP (CD 10) (NN %) (TO to) (CD 20) (NN %)))))
+    (. .)))
+

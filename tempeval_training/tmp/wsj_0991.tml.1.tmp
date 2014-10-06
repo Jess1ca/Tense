@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (JJ Net) (NN income))
+    (VP (VBZ includes)
+      (NP
+        (NP (DT an) (JJ extraordinary) (NN gain))
+        (PP (IN of)
+          (NP
+            (QP (RB about) ($ $) (CD 100,000)))))
+      (PP (IN from)
+        (NP
+          (NP (DT the) (NN reversal))
+          (PP (IN of)
+            (NP (JJ bad) (NN debt)
+              (CC and)
+              (NN interest) (NN income))))))
+    (. .)))
+

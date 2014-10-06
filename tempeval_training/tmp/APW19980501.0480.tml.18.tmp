@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (PRP$ its) (NN value)
+      (CC and)
+      (NNS benefits))
+    (VP (VBP are)
+      (ADVP (RB only))
+      (ADJP (RB as) (JJ good)
+        (PP (IN as)
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (NP (PRP we))
+              (VP (VBP use)
+                (NP (PRP it))))))))
+    (. .)))
+

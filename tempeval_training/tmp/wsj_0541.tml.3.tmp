@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading)))
+    (NP (NNP Friday))
+    (, ,)
+    (NP (NNP Automatic) (NNP Data))
+    (VP (VBD closed)
+      (PP (IN at)
+        (NP
+          (NP ($ $) (CD 46.50))
+          (NP (DT a) (NN share))))
+      (, ,)
+      (ADVP (RB down)
+        (NP ($ $) (CD 2.25))))
+    (. .)))
+

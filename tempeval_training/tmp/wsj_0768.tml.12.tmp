@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (JJ Mutual) (NN fund) (NNS officials))
+    (VP (VBP say)
+      (SBAR (IN that)
+        (S
+          (NP (NNS investors))
+          (VP (VBP have)
+            (VP (VBN transferred)
+              (NP
+                (NP (JJS most))
+                (PP (IN of)
+                  (NP (PRP it))))
+              (PP
+                (PP (IN into)
+                  (NP (PRP$ their) (NN money) (NN market) (NNS accounts)))
+                (, ,)
+                (CC and)
+                (PP (TO to)
+                  (NP
+                    (NP (DT a) (JJR lesser) (NN extent))
+                    (, ,)
+                    (NP (NN government-bond) (NNS funds))))))))))
+    (. .)))
+

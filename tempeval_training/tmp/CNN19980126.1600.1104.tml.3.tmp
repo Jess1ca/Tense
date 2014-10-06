@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN company) (POS 's))
+      (NNS sales) (NN force))
+    (VP (VBD applauded)
+      (NP (DT the) (NN shake))
+      (PRT (RP up)))
+    (. .)))
+

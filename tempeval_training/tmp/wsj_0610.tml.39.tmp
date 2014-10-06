@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (VP (VBN expected))))
+    (, ,)
+    (NP (NNP Kellogg))
+    (VP (VBD reported)
+      (NP (JJR lower) (JJ third-quarter) (NNS earnings)))
+    (. .)))
+

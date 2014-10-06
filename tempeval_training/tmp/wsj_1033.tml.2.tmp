@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT A) (NN committee))
+        (PP (IN of)
+          (NP
+            (NP (JJ outside) (NNS directors))
+            (PP (IN for)
+              (NP (DT the)
+                (NAC (NNP Garden) (NNP City) (, ,) (NNP N.Y.) (, ,))
+                (NN unit))))))
+      (VP (VBZ is)
+        (VP (VBG evaluating)
+          (NP (DT the) (NN proposal)))))
+    (: ;)
+    (S
+      (NP (DT the) (NN parent))
+      (VP (VBD asked)
+        (S
+          (NP (PRP it))
+          (VP (TO to)
+            (VP (VB respond)
+              (PP (IN by)
+                (NP (NNP Oct.) (CD 31))))))))
+    (. .)))
+

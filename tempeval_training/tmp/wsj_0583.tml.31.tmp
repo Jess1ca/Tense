@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (JJ Last) (NN month))
+    (, ,)
+    (NP (NNP Polly) (NNP Peck))
+    (VP (VBD posted)
+      (NP
+        (NP (DT a)
+          (ADJP (CD 38) (NN %))
+          (NN jump))
+        (PP (IN in)
+          (NP
+            (NP (JJ pretax) (NN profit))
+            (PP (IN for)
+              (NP (DT the) (JJ first) (NN half))))))
+      (PP (TO to)
+        (NP
+          (QP (# #) (CD 54.8) (CD million))))
+      (PP (IN from)
+        (NP
+          (QP (# #) (CD 39.8) (CD million))))
+      (PP (IN on)
+        (NP
+          (NP (DT a)
+            (ADJP (CD 63) (NN %))
+            (NN rise))
+          (PP (IN in)
+            (NP (NNS sales))))))
+    (. .)))
+

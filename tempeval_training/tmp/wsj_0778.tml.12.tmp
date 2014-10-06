@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (NNS Prosecutors))
+    (VP (VBP have)
+      (VP (VBN told)
+        (NP
+          (NP (NNP Mr.) (NNP Antar) (POS 's))
+          (NNS attorneys))
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (VBP believe)
+              (SBAR
+                (S
+                  (NP
+                    (NP (NNP Mr.) (NNP Antar) (POS 's))
+                    (ADJP (RB allegedly) (JJ ill-gotten))
+                    (NNS gains))
+                  (VP (VBP are)
+                    (ADJP (RB so) (JJ great)
+                      (SBAR (IN that)
+                        (S
+                          (NP
+                            (NP (DT any) (NN money))
+                            (SBAR
+                              (S
+                                (NP (PRP he))
+                                (VP (VBZ has)
+                                  (VP (VBN used)
+                                    (S
+                                      (VP (TO to)
+                                        (VP (VB pay)
+                                          (NP (NNS attorneys))))))))))
+                          (VP (VBZ derives)
+                            (PP (IN from)
+                              (NP (JJ illegal) (NNS activities)))))))))))))))
+    (. .)))
+

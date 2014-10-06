@@ -1,0 +1,24 @@
+1	Poughkeepsie	_	NNP	NNP	_	3	nsubj	_	_
+2	also	_	RB	RB	_	3	advmod	_	_
+3	expects	_	VBZ	VBZ	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	post	_	VB	VB	_	3	xcomp	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	one-time	_	JJ	JJ	_	8	amod	_	_
+8	charge	_	NN	NN	_	5	dobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	$	_	$	$	_	9	pobj	_	_
+11	8.3	_	CD	CD	_	12	number	_	_
+12	million	_	CD	CD	_	10	num	_	_
+13	,	_	,	,	_	10	punct	_	_
+14	resulting	_	VBG	VBG	_	10	vmod	_	_
+15	in	_	IN	IN	_	14	prep	_	_
+16	a	_	DT	DT	_	18	det	_	_
+17	net	_	JJ	JJ	_	18	amod	_	_
+18	loss	_	NN	NN	_	15	pobj	_	_
+19	for	_	IN	IN	_	18	prep	_	_
+20	the	_	DT	DT	_	22	det	_	_
+21	third	_	JJ	JJ	_	22	amod	_	_
+22	quarter	_	NN	NN	_	19	pobj	_	_
+23	.	_	.	.	_	3	punct	_	_
+

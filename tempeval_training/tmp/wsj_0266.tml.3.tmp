@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBD innovated)
+      (NP
+        (NP (NN telephone) (NNS redemptions))
+        (, ,)
+        (NP (JJ daily) (NNS dividends))
+        (, ,)
+        (NP
+          (NP (JJ total) (NN elimination))
+          (PP (IN of)
+            (NP (NN share) (NNS certificates))))
+        (CC and)
+        (NP
+          (NP (DT the) (JJ constant)
+            (ADJP
+              (QP ($ $) (CD 1) (CD pershare)))
+            (NN pricing))
+          (, ,)
+          (SBAR
+            (WHNP (DT all)
+              (WHPP (IN of)
+                (WHNP (WDT which))))
+            (S
+              (VP (VBD were)
+                (UCP
+                  (VP
+                    (ADVP (RB painfully))
+                    (VBN thought)
+                    (PRT (RP out)))
+                  (CC and)
+                  (RB not)
+                  (NP
+                    (NP (DT the) (NN result))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT some) (NN inadvertence))
+                        (PP (IN on)
+                          (NP
+                            (NP (DT the) (NN part))
+                            (PP (IN of)
+                              (NP (DT the) (NNP SEC)))))))))))))))
+    (. .)))
+

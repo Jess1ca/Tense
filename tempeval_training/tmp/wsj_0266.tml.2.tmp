@@ -1,0 +1,26 @@
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT the) (NNP Reserve) (NNP Fund))
+      (, ,)
+      (NP
+        (NP (NNP America) (POS 's))
+        (JJ first) (NN money) (NN fund))
+      (, ,))
+    (VP
+      (VP (VBD was) (RB not)
+        (VP (VBN named)))
+      (, ,)
+      (CC nor)
+      (VP (VBD were)
+        (NP
+          (NP (DT the) (NNS creators))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN money-fund) (NN concept))
+              (, ,)
+              (NP (NNP Harry) (NNP Brown))
+              (CC and)
+              (NP (PRP myself)))))))
+    (. .)))
+

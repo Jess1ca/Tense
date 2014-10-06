@@ -1,0 +1,15 @@
+1	But	_	CC	CC	_	5	cc	_	_
+2	weak	_	JJ	JJ	_	4	amod	_	_
+3	car	_	NN	NN	_	4	nn	_	_
+4	sales	_	NNS	NNS	_	5	nsubj	_	_
+5	raise	_	VBP	VBP	_	0	root	_	_
+6	questions	_	NNS	NNS	_	5	dobj	_	_
+7	about	_	IN	IN	_	6	prep	_	_
+8	future	_	JJ	JJ	_	9	amod	_	_
+9	demand	_	NN	NN	_	7	pobj	_	_
+10	from	_	IN	IN	_	5	prep	_	_
+11	the	_	DT	DT	_	13	det	_	_
+12	auto	_	NN	NN	_	13	nn	_	_
+13	sector	_	NN	NN	_	10	pobj	_	_
+14	.	_	.	.	_	5	punct	_	_
+

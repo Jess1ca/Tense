@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (CD 1989) (NN period)))
+    (ADVP (RB also))
+    (, ,)
+    (NP (NN interest) (NN expense)
+      (CC and)
+      (NN tax) (NNS rates))
+    (VP (VBD were)
+      (ADJP
+        (ADJP (JJR lower))
+        (PP (IN than)
+          (ADVP
+            (NP (DT a) (NN year))
+            (RB ago)))))
+    (. .)))
+

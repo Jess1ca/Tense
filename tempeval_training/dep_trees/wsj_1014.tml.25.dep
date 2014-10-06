@@ -1,0 +1,16 @@
+1	Both	_	DT	DT	_	2	preconj	_	_
+2	Coors	_	NNP	NNP	_	8	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	Stroh	_	NNP	NNP	_	2	conj	_	_
+5	have	_	VBP	VBP	_	8	aux	_	_
+6	recently	_	RB	RB	_	8	advmod	_	_
+7	been	_	VBN	VBN	_	8	aux	_	_
+8	ceding	_	VBG	VBG	_	0	root	_	_
+9	market	_	NN	NN	_	10	nn	_	_
+10	share	_	NN	NN	_	8	dobj	_	_
+11	to	_	TO	TO	_	8	prep	_	_
+12	Miller	_	NNP	NNP	_	11	pobj	_	_
+13	and	_	CC	CC	_	12	cc	_	_
+14	Anheuser	_	NNP	NNP	_	12	conj	_	_
+15	.	_	.	.	_	8	punct	_	_
+

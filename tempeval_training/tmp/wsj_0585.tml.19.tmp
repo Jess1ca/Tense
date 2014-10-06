@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ 's)
+      (ADVP (RB largely))
+      (SBAR (IN because)
+        (S
+          (PP (IN of)
+            (NP (JJ defensive) (NNS measures)))
+          (NP (PRP they))
+          (VP (VBD adopted)
+            (PP (IN after)
+              (NP (DT the) (CD 1987) (NN crash)))
+            (, ,)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (JJ individual) (NNS investors))
+                (VP (VBD fled)
+                  (SBAR
+                    (S
+                      (NP (DT the) (NN market)
+                        (CC and)
+                        (NN trading) (NN activity))
+                      (VP (VBD dwindled)))))))))))
+    (. .)))
+

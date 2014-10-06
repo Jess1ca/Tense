@@ -1,0 +1,20 @@
+1	Several	_	JJ	JJ	_	4	amod	_	_
+2	Big	_	NNP	NNP	_	4	nn	_	_
+3	Board	_	NNP	NNP	_	4	nn	_	_
+4	firms	_	NNS	NNS	_	6	nsubj	_	_
+5	are	_	VBP	VBP	_	6	aux	_	_
+6	organizing	_	VBG	VBG	_	0	root	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	complain	_	VB	VB	_	6	xcomp	_	_
+9	about	_	IN	IN	_	8	prep	_	_
+10	program	_	NN	NN	_	11	nn	_	_
+11	trading	_	NN	NN	_	9	pobj	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	exchange	_	NN	NN	_	16	poss	_	_
+15	's	_	POS	POS	_	14	possessive	_	_
+16	role	_	NN	NN	_	11	conj	_	_
+17	in	_	IN	IN	_	16	prep	_	_
+18	it	_	PRP	PRP	_	17	pobj	_	_
+19	.	_	.	.	_	6	punct	_	_
+

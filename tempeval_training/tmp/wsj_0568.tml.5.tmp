@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Unisys))
+      (, ,)
+      (SBAR
+        (WHNP (WP$ whose) (NN revenue))
+        (S
+          (VP (VBD inched)
+            (PRT (RP up))
+            (NP (CD 3.7) (NN %))
+            (PP (IN in)
+              (NP (DT the) (NN quarter)))
+            (PP (TO to)
+              (NP
+                (QP ($ $) (CD 2.35) (CD billion))))
+            (PP (IN from)
+              (NP
+                (NP
+                  (QP ($ $) (CD 2.27) (CD billion)))
+                (PP (IN in)
+                  (NP (DT the) (JJ year-earlier) (NN quarter))))))))
+      (, ,))
+    (VP (VBD had)
+      (NP
+        (NP (DT an) (VBG operating) (NN loss))
+        (PP (IN of)
+          (NP
+            (QP (RB about) ($ $) (CD 30) (CD million))))))
+    (. .)))
+

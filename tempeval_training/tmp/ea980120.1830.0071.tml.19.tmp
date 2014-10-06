@@ -1,0 +1,25 @@
+(ROOT
+  (S (CC But)
+    (ADVP (RB now))
+    (NP (PRP we))
+    (VP (VBP 're)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (PRT (RP back))
+              (PP (TO to)
+                (NP
+                  (NP (NNP New) (NNP York))
+                  (, ,)
+                  (SBAR
+                    (WHADVP (WRB where))
+                    (S
+                      (NP (NNP Diane) (NNP Sawyer))
+                      (VP (VBZ has)
+                        (NP
+                          (NP (DT the) (NN rest))
+                          (PP (IN of)
+                            (NP (DT the) (NN news))))))))))))))
+    (. .)))
+

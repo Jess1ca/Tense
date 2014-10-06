@@ -1,0 +1,26 @@
+1	Of	_	IN	IN	_	5	prep	_	_
+2	course	_	NN	NN	_	1	pobj	_	_
+3	,	_	,	,	_	5	punct	_	_
+4	there	_	EX	EX	_	5	expl	_	_
+5	were	_	VBD	VBD	_	0	root	_	_
+6	sell	_	JJ	JJ	_	7	amod	_	_
+7	programs	_	NNS	NNS	_	5	nsubj	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	past	_	JJ	JJ	_	10	amod	_	_
+10	years	_	NNS	NNS	_	8	pobj	_	_
+11	,	_	,	,	_	5	punct	_	_
+12	too	_	RB	RB	_	5	advmod	_	_
+13	,	_	,	,	_	5	punct	_	_
+14	but	_	CC	CC	_	5	cc	_	_
+15	they	_	PRP	PRP	_	16	nsubj	_	_
+16	seem	_	VBP	VBP	_	5	conj	_	_
+17	to	_	TO	TO	_	18	aux	_	_
+18	hurt	_	VB	VB	_	16	xcomp	_	_
+19	market	_	NN	NN	_	20	nn	_	_
+20	makers	_	NNS	NNS	_	18	dobj	_	_
+21	more	_	RBR	RBR	_	22	advmod	_	_
+22	painfully	_	RB	RB	_	18	advmod	_	_
+23	these	_	DT	DT	_	24	det	_	_
+24	days	_	NNS	NNS	_	18	tmod	_	_
+25	.	_	.	.	_	5	punct	_	_
+

@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (NNP MCA))
+    (ADVP (RB strongly))
+    (VP (VBD opposed)
+      (NP
+        (NP (DT the) (NNP Drabinsky) (NN group) (POS 's))
+        (NN move)))
+    (. .)))
+

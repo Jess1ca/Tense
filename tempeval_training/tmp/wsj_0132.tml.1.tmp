@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ Dutch) (NN chemical) (NN group))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (JJ net) (NN income))
+          (VP (VBD gained)
+            (PP (TO to)
+              (NP
+                (NP
+                  (NP
+                    (QP (CD 235) (CD million))
+                    (NNS guilders))
+                  (PRN (-LRB- -LRB-)
+                    (NP
+                      (QP ($ $) (CD 113.2) (CD million)))
+                    (-RRB- -RRB-)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (CD 6.70) (NNS guilders))
+                  (NP (DT a) (NN share)))
+                (, ,)))
+            (PP (IN from)
+              (NP
+                (NP
+                  (QP (CD 144) (CD million))
+                  (NNS guilders))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (CD 4.10) (NNS guilders))
+                  (NP (DT a) (NN share)))
+                (, ,)
+                (ADVP
+                  (NP (DT a) (NN year))
+                  (RB ago))))))))
+    (. .)))
+

@@ -1,0 +1,27 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	tender	_	NN	NN	_	3	nn	_	_
+3	offer	_	NN	NN	_	6	nsubjpass	_	_
+4	will	_	MD	MD	_	6	aux	_	_
+5	be	_	VB	VB	_	6	auxpass	_	_
+6	followed	_	VBN	VBN	_	0	root	_	_
+7	by	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	sale	_	NN	NN	_	7	pobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	all	_	DT	DT	_	10	pobj	_	_
+12	of	_	IN	IN	_	11	prep	_	_
+13	Erbamont	_	NNP	NNP	_	15	poss	_	_
+14	's	_	POS	POS	_	13	possessive	_	_
+15	assets	_	NNS	NNS	_	12	pobj	_	_
+16	,	_	,	,	_	11	punct	_	_
+17	subject	_	JJ	JJ	_	11	amod	_	_
+18	to	_	TO	TO	_	17	prep	_	_
+19	all	_	DT	DT	_	18	pobj	_	_
+20	of	_	IN	IN	_	19	prep	_	_
+21	its	_	PRP$	PRP$	_	22	poss	_	_
+22	liabilities	_	NNS	NNS	_	20	pobj	_	_
+23	,	_	,	,	_	11	punct	_	_
+24	to	_	TO	TO	_	6	prep	_	_
+25	Montedison	_	NNP	NNP	_	24	pobj	_	_
+26	.	_	.	.	_	6	punct	_	_
+

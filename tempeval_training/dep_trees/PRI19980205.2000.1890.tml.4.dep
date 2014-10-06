@@ -1,0 +1,17 @@
+1	The	_	DT	DT	_	4	det	_	_
+2	British	_	JJ	JJ	_	4	amod	_	_
+3	aircraft	_	NN	NN	_	4	nn	_	_
+4	carrier	_	NN	NN	_	8	nsubj	_	_
+5	invincible	_	JJ	JJ	_	4	amod	_	_
+6	is	_	VBZ	VBZ	_	8	aux	_	_
+7	now	_	RB	RB	_	8	advmod	_	_
+8	patrolling	_	VBG	VBG	_	0	root	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	Persian	_	NNP	NNP	_	11	nn	_	_
+11	Gulf	_	NNP	NNP	_	8	dobj	_	_
+12	alongside	_	IN	IN	_	11	prep	_	_
+13	three	_	CD	CD	_	15	num	_	_
+14	US	_	NNP	NNP	_	15	nn	_	_
+15	vessels	_	NNS	NNS	_	12	pobj	_	_
+16	.	_	.	.	_	8	punct	_	_
+

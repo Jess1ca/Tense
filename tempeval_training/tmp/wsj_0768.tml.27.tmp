@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the)
+        (ADJP
+          (QP ($ $) (CD 932) (CD million)))
+        (NNP T.) (NNP Rowe) (NNP Price) (NNP High) (NNP Yield) (NNP Fund)))
+    (, ,)
+    (NP (NNS investors))
+    (VP (VBD yanked)
+      (PRT (RP out))
+      (NP
+        (QP (RB about) ($ $) (CD 182) (CD million)))
+      (PP (IN in)
+        (NP (DT the) (JJ past) (CD two) (NNS months))))
+    (. .)))
+

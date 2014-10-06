@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (ADVP (RB Still))
+    (, ,)
+    (NP (NNS analysts))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN accord))
+          (VP (VBZ does) (RB n't)
+            (VP (VB suggest)
+              (SBAR
+                (S
+                  (NP (NNP Japan))
+                  (VP (VBZ is)
+                    (VP (VBG opening)
+                      (PRT (RP up))
+                      (PP (TO to)
+                        (NP (JJR more) (JJ foreign) (NNS takeovers))))))))))))
+    (. .)))
+

@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT The) (VBN preferred) (NNS shares))
+    (VP (MD will)
+      (VP (VB carry)
+        (NP
+          (NP (DT a) (JJ floating) (JJ annual) (NN dividend))
+          (ADJP (JJ equal)
+            (PP (TO to)
+              (NP
+                (NP (CD 72) (NN %))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (JJ 30-day) (NNS bankers) (POS '))
+                    (NN acceptance) (NN rate)))))))
+        (PP (IN until)
+          (NP (NNP Dec.) (CD 31) (, ,) (CD 1994)))))
+    (. .)))
+

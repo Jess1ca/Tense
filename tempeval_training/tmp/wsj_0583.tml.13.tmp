@@ -1,0 +1,35 @@
+(ROOT
+  (S (CC But)
+    (PP (IN in)
+      (NP (JJ recent) (NNS years)))
+    (, ,)
+    (NP (DT the) (NN market))
+    (VP (VBZ has)
+      (VP (VBN moved)
+        (PP (IN toward)
+          (NP
+            (NP
+              (ADJP (RBR less) (JJ expensive))
+              (`` ``) (JJ mini-component) ('' '') (NNS sets))
+            (, ,)
+            (NP
+              (NP (VBN miniaturized)
+                (NX
+                  (NX (NNS amplifiers))
+                  (CC and)
+                  (NX (NNS receivers))
+                  (CC and)
+                  (NX (NN software) (NNS players))))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (MD could)
+                    (VP (VB be)
+                      (VP (VBN stacked)
+                        (PP (IN on)
+                          (NP
+                            (NP (NN top))
+                            (PP (IN of)
+                              (NP (DT each) (JJ other)))))))))))))))
+    (. .)))
+

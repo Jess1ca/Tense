@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (PP (IN CNN)
+      (NP (NN headline) (NN news)))
+    (, ,)
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (NP (NNP Sachi) (NNP Koto)))
+    (. .)))
+

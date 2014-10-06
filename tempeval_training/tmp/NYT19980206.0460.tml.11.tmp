@@ -1,0 +1,23 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (S
+        (NP (NNP Job) (NN creation))
+        (VP (VBZ is)
+          (ADJP (JJ sturdy))))
+      (CC and)
+      (S
+        (NP (PRP we))
+        (VP (VBP have)
+          (NP (JJ effective) (NN price) (NN stability)))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Paul) (NNP McCulley))
+      (, ,)
+      (NP
+        (NP (DT an) (NN economist))
+        (PP (IN at)
+          (NP (NNP UBS) (NNPS Securities)))))
+    (. .)))
+

@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (NN business) (NN world)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN Internet))
+      (PRN (: -)
+        (PP (IN through)
+          (NP (NN intranet)
+            (CC and)
+            (NN extranet) (NNS solutions)))
+        (: -)))
+    (VP (VBZ has)
+      (VP (VBN become)
+        (S
+          (NP
+            (NP (DT an) (JJ invaluable) (NN tool))
+            (PP (IN for)
+              (NP
+                (NP (NNS companies))
+                (PP (TO to) (NN harness))))))
+        (ADVP (RB so) (RB as)
+          (S
+            (VP (TO to)
+              (VP (VB gain)
+                (NP (DT a) (JJ competitive) (NN edge))))))))
+    (. .)))
+

@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS notes))
+    (VP (MD will)
+      (VP (VB have)
+        (NP
+          (NP (DT a) (JJ principal) (NN amount))
+          (PP (IN of)
+            (NP
+              (QP ($ $) (CD 300) (CD million)))))
+        (PP (IN at)
+          (NP (NN maturity)))))
+    (. .)))
+

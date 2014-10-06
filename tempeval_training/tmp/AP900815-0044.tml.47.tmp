@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (NNP Tuesday)))
+    (, ,)
+    (NP (DT the) (NNP United) (NNPS States)
+      (CC and)
+      (NNP Soviet) (NNP Union))
+    (VP (VBD conferred)
+      (PP (IN in)
+        (NP (NNP Washington)))
+      (PP (IN on)
+        (S
+          (VP (VBG putting)
+            (NP (DT an) (JJ anti-Iraq) (JJ naval) (NN blockade))
+            (PP (IN under)
+              (NP (DT a) (NNP United) (NNPS Nations) (NN umbrella)))))))
+    (. .)))
+

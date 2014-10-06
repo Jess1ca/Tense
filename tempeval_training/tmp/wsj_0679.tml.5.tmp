@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (PP (VBG According)
+      (PP (TO to)
+        (NP (DT the) (NN filing))))
+    (, ,)
+    (NP (NNP Hewlett-Packard))
+    (VP (VBD acquired)
+      (NP (CD 730,070) (JJ common) (NNS shares))
+      (PP (IN from)
+        (NP (NNP Octel)))
+      (PP (IN as)
+        (NP
+          (NP (DT a) (NN result))
+          (PP (IN of)
+            (NP (DT an)
+              (NAC (NNP Aug.) (CD 10) (, ,) (CD 1988) (, ,))
+              (NN stock) (NN purchase) (NN agreement))))))
+    (. .)))
+

@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP Cilcorp))
+    (VP (MD will)
+      (ADVP (RB also))
+      (VP (VB assume)
+        (NP
+          (NP
+            (QP ($ $) (CD 22) (CD million)))
+          (PP (IN of)
+            (NP
+              (NP (NNP Hunter) (POS 's))
+              (VBG existing) (NN debt))))))
+    (. .)))
+

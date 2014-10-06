@@ -1,0 +1,26 @@
+1	In	_	IN	IN	_	13	prep	_	_
+2	setting	_	VBG	VBG	_	1	pcomp	_	_
+3	out	_	RP	RP	_	2	prt	_	_
+4	his	_	PRP$	PRP$	_	6	poss	_	_
+5	final	_	JJ	JJ	_	6	amod	_	_
+6	challenge	_	NN	NN	_	2	dobj	_	_
+7	to	_	TO	TO	_	2	prep	_	_
+8	Saddam	_	NNP	NNP	_	9	nn	_	_
+9	Hussein	_	NNP	NNP	_	7	pobj	_	_
+10	,	_	,	,	_	13	punct	_	_
+11	Mr.	_	NNP	NNP	_	12	nn	_	_
+12	Bush	_	NNP	NNP	_	13	nsubj	_	_
+13	continued	_	VBD	VBD	_	0	root	_	_
+14	the	_	DT	DT	_	17	det	_	_
+15	intensive	_	JJ	JJ	_	17	amod	_	_
+16	personal	_	JJ	JJ	_	17	amod	_	_
+17	diplomacy	_	NN	NN	_	13	dobj	_	_
+18	he	_	PRP	PRP	_	19	nsubj	_	_
+19	began	_	VBD	VBD	_	17	rcmod	_	_
+20	after	_	IN	IN	_	19	prep	_	_
+21	the	_	DT	DT	_	22	det	_	_
+22	invasion	_	NN	NN	_	20	pobj	_	_
+23	llast	_	JJ	JJ	_	24	amod	_	_
+24	August	_	NNP	NNP	_	19	tmod	_	_
+25	.	_	.	.	_	13	punct	_	_
+

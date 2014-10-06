@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (MD would)
+      (VP (VB be)
+        (NP (DT a) (JJ huge) (NN problem))
+        (SBAR (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBD were)
+              (S
+                (VP (TO to)
+                  (VP (VB continue)))))))
+        (, ,)
+        (SBAR (IN because)
+          (S
+            (NP (NNP Unisys))
+            (VP (VBZ is)
+              (VP (VBG betting)
+                (NP (PRP$ its) (NN business))
+                (PP (IN on)
+                  (NP (DT the) (NN assumption)))
+                (SBAR (IN that)
+                  (S
+                    (NP (NNS customers))
+                    (VP (VBP want)
+                      (S
+                        (VP (TO to)
+                          (VP (VB move)
+                            (PRT (RP away))
+                            (PP (IN from)
+                              (S
+                                (VP (VBG using)
+                                  (NP
+                                    (NP (VBG operating) (NNS systems)
+                                      (SBAR
+                                        (WHNP (WDT that))
+                                        (S
+                                          (VP (VBN run)
+                                            (PP
+                                              (PP (IN on)
+                                                (NP
+                                                  (NP (RB only) (CD one) (NN manufacturer) (POS 's))
+                                                  (NN equipment)))
+                                              (CC and)
+                                              (PP (IN toward)
+                                                (NP (NNS systems))))))))
+                                    (PRN (: --)
+                                      (ADVP (RB mainly))
+                                      (NP (NNP Unix))
+                                      (: --))
+                                    (SBAR
+                                      (WHNP (WDT that))
+                                      (S
+                                        (VP (VBP work)
+                                          (PP (IN on)
+                                            (NP
+                                              (NP (RB almost) (NN anyone) (POS 's))
+                                              (NNS machines))))))))))))))))))))))
+    (. .)))
+

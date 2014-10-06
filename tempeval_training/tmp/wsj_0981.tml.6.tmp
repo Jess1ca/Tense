@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ over-the-counter) (NN trading)))
+    (, ,)
+    (NP (NNP MGM) (NNP Grand))
+    (VP (VBD was)
+      (VP (VBN bid)
+        (PP (IN at)
+          (NP
+            (NP ($ $) (CD 17.50))
+            (NP (DT a) (NN share))))))
+    (. .)))
+

@@ -1,0 +1,24 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	accord	_	NN	NN	_	3	nsubj	_	_
+3	helps	_	VBZ	VBZ	_	0	root	_	_
+4	RJR	_	NNP	NNP	_	5	nsubj	_	_
+5	pay	_	VB	VB	_	3	ccomp	_	_
+6	off	_	RP	RP	_	5	prt	_	_
+7	debt	_	NN	NN	_	5	dobj	_	_
+8	and	_	CC	CC	_	3	cc	_	_
+9	boosts	_	VBZ	VBZ	_	3	conj	_	_
+10	Nestle	_	NNP	NNP	_	14	poss	_	_
+11	's	_	POS	POS	_	10	possessive	_	_
+12	7	_	CD	CD	_	13	number	_	_
+13	%	_	NN	NN	_	14	amod	_	_
+14	share	_	NN	NN	_	9	dobj	_	_
+15	of	_	IN	IN	_	14	prep	_	_
+16	the	_	DT	DT	_	19	det	_	_
+17	U.S.	_	NNP	NNP	_	19	nn	_	_
+18	candy	_	NN	NN	_	19	nn	_	_
+19	market	_	NN	NN	_	15	pobj	_	_
+20	to	_	TO	TO	_	9	prep	_	_
+21	12	_	CD	CD	_	22	num	_	_
+22	%	_	NN	NN	_	20	pobj	_	_
+23	.	_	.	.	_	3	punct	_	_
+

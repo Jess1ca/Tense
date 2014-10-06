@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (DT The) (NN date))
+    (VP (VBD was)
+      (ADJP (JJ unaffected)
+        (PP (IN by)
+          (NP (DT the) (JJ last-ditch) (JJ Soviet) (NN peace) (NN initiative)))))
+    (. .)))
+

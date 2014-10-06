@@ -1,0 +1,44 @@
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT the) (NN number))
+      (PP (IN of)
+        (NP
+          (NP (NNS patients))
+          (VP (VBG waiting)
+            (ADVP (RB then))))))
+    (VP (VBZ begins)
+      (S (TO to)
+        (VP (VB increase) (, ,) (VB um)
+          (PRN (CC and)
+            (, ,)
+            (ADVP (IN in) (NN fact))
+            (, ,)
+            (NP
+              (NP (NN um))
+              (PP (IN over)
+                (NP (DT the) (NNS years)))))
+          (NP
+            (NP (JJ many) (JJR more) (NNS patients))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBP are)
+                  (VP (IN about)
+                    (S
+                      (VP (TO to)
+                        (VP (VB die)
+                          (PP (IN of)
+                            (NP (NN liver) (NN tra)))
+                          (: -)
+                          (FRAG
+                            (INTJ (UH uh)))))))))))
+          (PP (IN without)
+            (NP (DT a) (NN liver)))
+          (SBAR
+            (S
+              (NP (NN transplant))
+              (VP (MD would)
+                (VP (VB accumulate))))))))
+    (. .)))
+

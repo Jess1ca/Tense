@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (NP (DT the) (NN quarter))
+        (VP (VBN ended)
+          (NP (NNP Sept.) (CD 30)))))
+    (, ,)
+    (NP (NNP Delta))
+    (VP (VBD posted)
+      (NP
+        (NP (JJ net) (NN income))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 133.1) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP ($ $) (CD 2.53))
+              (NP (DT a) (NN share)))
+            (, ,)
+            (ADVP (RB up)
+              (PP (IN from)
+                (NP
+                  (NP
+                    (QP ($ $) (CD 100) (CD million)))
+                  (, ,)
+                  (CC or)
+                  (NP
+                    (NP ($ $) (CD 2.03))
+                    (NP (DT a) (NN share)))
+                  (, ,))
+                (NP (DT a) (NN year) (RBR earlier))))))))
+    (. .)))
+

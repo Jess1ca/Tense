@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (ADVP (RB Currently))
+    (, ,)
+    (NP (NN transplant) (NNS organs))
+    (VP (VBP are)
+      (VP (VBN rationed)
+        (PP (IN through)
+          (NP
+            (NP (DT a) (JJ regional) (NN system))
+            (PP (IN of)
+              (NP (NN distribution)))))))
+    (. .)))
+

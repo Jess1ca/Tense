@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT that) (NN suit)))
+    (, ,)
+    (NP (DT the) (NNP SEC))
+    (VP (VBD accused)
+      (NP
+        (NP (NNP Mr.) (NNP Antar))
+        (PP (IN of)
+          (S
+            (VP (VBG engaging)
+              (PP (IN in)
+                (NP (DT a) (`` ``) (JJ massive) (JJ financial) (NN fraud) ('' '')))
+              (S
+                (VP (TO to)
+                  (VP (VB overstate)
+                    (NP
+                      (NP (DT the) (NNS earnings))
+                      (PP (IN of)
+                        (NP (NNP Crazy) (NNP Eddie) (, ,) (NNP Edison) (, ,) (NNP N.J.) (, ,))))
+                    (PP (IN over)
+                      (NP (DT a) (JJ three-year) (NN period)))))))))))
+    (. .)))
+

@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (NNS Qantas))
+    (VP (MD will)
+      (ADVP (RB also))
+      (VP (VB appoint)
+        (NP (DT a) (JJ Bombay-based) (JJ public) (NNS relations) (NN consultant))))
+    (. .)))
+

@@ -1,0 +1,10 @@
+1	Giant	_	NNP	NNP	_	2	nsubj	_	_
+2	has	_	VBZ	VBZ	_	0	root	_	_
+3	interests	_	NNS	NNS	_	2	dobj	_	_
+4	in	_	IN	IN	_	3	prep	_	_
+5	cement	_	NN	NN	_	6	nn	_	_
+6	making	_	NN	NN	_	4	pobj	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	newsprint	_	NN	NN	_	6	conj	_	_
+9	.	_	.	.	_	2	punct	_	_
+

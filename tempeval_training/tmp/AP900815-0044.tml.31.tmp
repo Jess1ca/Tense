@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP U.N.) (NNP Security) (NNP Council))
+      (PP (IN on)
+        (NP (NNP Aug.) (CD 6))))
+    (VP (VBD ordered)
+      (NP (DT a) (JJ global) (NN embargo))
+      (PP (IN on)
+        (NP
+          (NP (NN trade))
+          (PP (IN with)
+            (NP (NNP Iraq)))))
+      (PP (IN as)
+        (NP (NN punishment)))
+      (PP (IN for)
+        (S
+          (VP (VBG seizing)
+            (NP (NNP Kuwait))))))
+    (. .)))
+

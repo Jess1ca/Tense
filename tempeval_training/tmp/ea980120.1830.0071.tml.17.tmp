@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (RB quite) (DT an) (JJ extraordinary) (NN story))
+        (VP (VBG unfolding)
+          (ADVP (RB here)))))
+    (. .)))
+

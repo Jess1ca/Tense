@@ -1,0 +1,18 @@
+1	In	_	IN	IN	_	9	prep	_	_
+2	national	_	JJ	JJ	_	4	amod	_	_
+3	over-the-counter	_	JJ	JJ	_	4	amod	_	_
+4	trading	_	NN	NN	_	1	pobj	_	_
+5	yesterday	_	NN	NN	_	9	tmod	_	_
+6	,	_	,	,	_	9	punct	_	_
+7	AEP	_	NNP	NNP	_	8	nn	_	_
+8	shares	_	NNS	NNS	_	9	nsubj	_	_
+9	closed	_	VBD	VBD	_	0	root	_	_
+10	at	_	IN	IN	_	9	prep	_	_
+11	$	_	$	$	_	10	pobj	_	_
+12	21.25	_	CD	CD	_	11	num	_	_
+13	,	_	,	,	_	9	punct	_	_
+14	down	_	RB	RB	_	9	advmod	_	_
+15	50	_	CD	CD	_	16	num	_	_
+16	cents	_	NNS	NNS	_	14	pobj	_	_
+17	.	_	.	.	_	9	punct	_	_
+

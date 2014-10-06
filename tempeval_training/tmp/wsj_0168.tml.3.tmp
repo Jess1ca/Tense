@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT That) (NN amount))
+    (VP (VBZ is)
+      (ADJP (JJ convertible)
+        (PP (IN into)
+          (NP
+            (NP (NNS shares))
+            (PP (IN of)
+              (NP
+                (NP (NNP Meridian) (JJ common) (NN stock))
+                (PP (IN at)
+                  (NP
+                    (NP ($ $) (CD 2))
+                    (NP (DT a) (NN share)))))))))
+      (PP (IN during)
+        (NP (PRP$ its) (JJ one-year) (NN term))))
+    (. .)))
+

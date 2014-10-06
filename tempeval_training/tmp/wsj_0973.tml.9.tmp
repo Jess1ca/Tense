@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Marous))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN business))
+          (VP (MD will)
+            (VP (VB achieve)
+              (NP (JJR higher) (NNS sales))
+              (NP (DT this) (NN year))
+              (PP (IN than)
+                (NP
+                  (NP
+                    (NP (DT the) (NN company) (POS 's))
+                    (NN target) (NN goal))
+                  (PP (IN of)
+                    (NP (CD 8.5) (NN %))))))))))
+    (. .)))
+

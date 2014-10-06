@@ -1,0 +1,28 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (DT This))
+      (VP (VBZ means)
+        (SBAR
+          (S
+            (NP (NNP Nestle))
+            (VP (VBZ is)
+              (ADVP (RB now))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN candybar) (NN business))
+                  (PP (IN in)
+                    (NP (DT a) (JJ big) (NN way))))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Lisbeth) (NNP Echeandia))
+      (, ,)
+      (NP
+        (NP (NN publisher))
+        (PP (IN of)
+          (NP
+            (ADJP (NNP Orlando) (, ,) (JJ Fla.-based))
+            (NNP Confectioner) (NNP Magazine)))))
+    (. .)))
+

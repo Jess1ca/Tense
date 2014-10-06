@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (DT An) (JJ international) (NN land) (, ,) (NN sea)
+      (CC and)
+      (NN air) (NN force))
+    (VP (VBZ has)
+      (VP (VBN mobilized)
+        (PP (IN since)
+          (NP
+            (NP
+              (NP (NNP Iraq) (POS 's))
+              (NN invasion))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD was)
+                  (VP (VBN sparked)
+                    (PP (IN by)
+                      (NP
+                        (NP (NNS disputes))
+                        (PP (IN over)
+                          (NP (NN oil) (, ,) (NN land)
+                            (CC and)
+                            (NN repayment)))
+                        (PP (IN of)
+                          (NP (NN war) (NNS loans)))))))))))))
+    (. .)))
+

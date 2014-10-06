@@ -1,0 +1,19 @@
+1	Bush	_	NNP	NNP	_	2	nsubj	_	_
+2	held	_	VBD	VBD	_	0	root	_	_
+3	out	_	RP	RP	_	2	prt	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	prospect	_	NN	NN	_	2	dobj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	more	_	JJR	JJR	_	8	amod	_	_
+8	aid	_	NN	NN	_	6	pobj	_	_
+9	to	_	TO	TO	_	8	prep	_	_
+10	Jordan	_	NNP	NNP	_	9	pobj	_	_
+11	if	_	IN	IN	_	13	mark	_	_
+12	it	_	PRP	PRP	_	13	nsubj	_	_
+13	cooperates	_	VBZ	VBZ	_	2	advcl	_	_
+14	with	_	IN	IN	_	13	prep	_	_
+15	the	_	DT	DT	_	17	det	_	_
+16	trade	_	NN	NN	_	17	nn	_	_
+17	embargo	_	NN	NN	_	14	pobj	_	_
+18	.	_	.	.	_	2	punct	_	_
+

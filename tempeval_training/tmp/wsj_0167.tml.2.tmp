@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (NNP RMS))
+    (VP
+      (VP (VBZ distributes)
+        (NP (JJ electronic) (NNS devices)))
+      (CC and)
+      (VP (VBZ produces)
+        (NP (NN power) (NNS supplies)
+          (CC and)
+          (JJ plastic) (NN literature) (NNS displays))))
+    (. .)))
+

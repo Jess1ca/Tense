@@ -1,0 +1,15 @@
+1	``	_	``	``	_	7	punct	_	_
+2	These	_	DT	DT	_	3	det	_	_
+3	guys	_	NNS	NNS	_	7	nsubj	_	_
+4	simply	_	RB	RB	_	7	advmod	_	_
+5	do	_	VBP	VBP	_	7	aux	_	_
+6	n't	_	RB	RB	_	7	neg	_	_
+7	retire	_	VB	VB	_	0	root	_	_
+8	to	_	TO	TO	_	7	prep	_	_
+9	condos	_	NNS	NNS	_	8	pobj	_	_
+10	over	_	IN	IN	_	9	prep	_	_
+11	the	_	DT	DT	_	12	det	_	_
+12	Euphrates	_	NNP	NNP	_	10	pobj	_	_
+13	.	_	.	.	_	7	punct	_	_
+14	''	_	''	''	_	7	punct	_	_
+

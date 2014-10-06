@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (NNP GM))
+    (VP
+      (VP (VBD sought)
+        (NP (NNP U.S.) (JJ antitrust) (NN clearance))
+        (NP (JJ last) (NN week))
+        (S
+          (VP (TO to)
+            (VP (VB purchase)
+              (NP
+                (NP
+                  (QP (JJR more) (IN than) ($ $) (CD 15) (CD million)))
+                (PP (JJ worth) (IN of)
+                  (NP (NNP Jaguar) (NNS shares))))))))
+      (CC but)
+      (VP (VBZ does) (RB n't)
+        (VP (VB own)
+          (ADVP (DT any)
+            (CC yet))))
+      (, ,)
+      (PP (VBG according)
+        (PP (TO to)
+          (NP
+            (NP (NNP GM) (NNS officials))
+            (UCP
+              (ADVP (RB here))
+              (CC and)
+              (PP (IN at)
+                (NP
+                  (NP (DT the) (NN company) (POS 's))
+                  (NNP Detroit) (NN headquarters))))))))
+    (. .)))
+

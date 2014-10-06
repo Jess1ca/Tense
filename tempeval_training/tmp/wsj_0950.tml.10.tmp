@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN addition)))
+      (, ,)
+      (NP
+        (NP (NNP GM) (POS 's))
+        (NNP North) (NNP American) (NN vehicle) (NN production))
+      (VP (VBD fell)
+        (NP (CD 8.4) (NN %))
+        (PP (IN from)
+          (NP (DT a) (NN year) (IN ago)))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD hurt)
+              (NP
+                (NP (NNP Delco) (NNP Electronic) (POS 's))
+                (NNS earnings)))))))
+    (, ,)
+    (NP (DT a) (NN company) (NN spokesman))
+    (VP (VBD said))
+    (. .)))
+

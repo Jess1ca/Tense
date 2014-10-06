@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Other) (NNS commanders))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (NNS thousands))
+        (PP (IN of)
+          (NP (NNS guerrillas))))
+      (, ,))
+    (VP (VBD followed)
+      (NP (PRP him)))
+    (. .)))
+

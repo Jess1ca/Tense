@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ remains)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN seen)
+              (SBAR
+                (SBAR
+                  (WHNP (WRB how) (JJ much))
+                  (S
+                    (VP (VBP damage)
+                      (SBAR
+                        (S
+                          (NP (DT the) (JJ allied) (NN air) (NN campaign))
+                          (VP (VBD was)
+                            (ADJP (JJ able)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB inflict)
+                                    (PP (IN on)
+                                      (NP (DT the) (NNP Guard)))))))))))))
+                (, ,)
+                (CC and)
+                (SBAR (IN whether)
+                  (S
+                    (NP (NNP President) (NNP Hussein))
+                    (VP (MD will)
+                      (VP (VB commit)
+                        (NP
+                          (NP (PRP$ his)
+                            (ADJP (RBS most) (VBN valued))
+                            (NNS troops))
+                          (PP (TO to)
+                            (NP (DT a) (JJ fight-to-the-death) (NN finish))))))))))))))
+    (. .)))
+

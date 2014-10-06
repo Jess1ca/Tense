@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (PP (IN Under)
+      (NP (JJ certain) (NNS circumstances)))
+    (, ,)
+    (NP (DT the) (NNS rights))
+    (VP (MD would)
+      (VP (VB entitle)
+        (S
+          (NP (NNP Philip) (NNP Morris) (NNS holders))
+          (VP (TO to)
+            (VP (VB buy)
+              (NP
+                (NP (NNS shares))
+                (PP (IN of)
+                  (NP (CC either)
+                    (NP (DT the) (NN company))
+                    (CC or)
+                    (NP (PRP$ its) (NN acquirer)))))
+              (PP (IN for)
+                (NP (DT half) (NN price))))))))
+    (. .)))
+

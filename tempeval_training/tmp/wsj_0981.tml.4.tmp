@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN luxury) (NN airline)
+        (CC and)
+        (NN casino) (NN company))
+      (, ,)
+      (NP
+        (NP (CD 98.6) (NN %))
+        (: -)
+        (NP
+          (NP
+            (ADJP (VBN owned)
+              (PP (IN by)
+                (NP (NN investor))))
+            (NNP Kirk) (NNP Kerkorian))
+          (CC and)
+          (NP (PRP$ his) (NNP Tracinda) (NNP Corp.))))
+      (, ,))
+    (NP (RBR earlier) (DT this) (NN month))
+    (VP
+      (VP (VBD announced)
+        (NP (PRP$ its) (NNS agreements))
+        (S
+          (VP (TO to)
+            (VP (VB acquire)
+              (NP (DT the) (NNS properties))))))
+      (, ,)
+      (CC but)
+      (VP (VBD did) (RB n't)
+        (VP (VB disclose)
+          (NP (DT the) (NN purchase) (NN price)))))
+    (. .)))
+

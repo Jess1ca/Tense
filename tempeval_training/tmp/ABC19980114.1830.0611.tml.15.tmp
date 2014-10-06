@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (CD one) (NN point)))
+    (, ,)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP it))
+        (VP (VBD became)
+          (SBAR
+            (S
+              (NP (JJ clear) (NNS controllers))
+              (VP (MD could) (RB not)
+                (VP (VB contact)
+                  (NP (DT the) (NN plane)))))))))
+    (, ,)
+    (NP (NN someone))
+    (VP (VBD said)
+      (NP (DT a) (NN prayer)))
+    (. .)))
+

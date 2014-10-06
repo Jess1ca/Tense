@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (NNS People))
+    (VP (VBP are)
+      (VP
+        (VP (VBG reading)
+          (NP (DT the) (NNS boxes)))
+        (CC and)
+        (VP (VBG deciding)
+          (S
+            (NP (PRP they))
+            (VP (VB want)
+              (NP
+                (NP
+                  (NP (NN something))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ 's)
+                        (ADJP (`` `) (JJ healthy) ('' ')
+                          (PP (IN for)
+                            (NP (PRP you))))))))
+                (: --)
+                (NP
+                  (NP (NNS oats))
+                  (, ,)
+                  (NP (NN bran)))))))))
+    (. .) ('' '')))
+

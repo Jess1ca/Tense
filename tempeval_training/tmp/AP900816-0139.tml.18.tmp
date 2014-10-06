@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT a) (JJ long) (JJ verbal) (NN attack))
+        (VP (VBN read)
+          (PP (IN on)
+            (NP (JJ Iraqi) (NN television)))
+          (NP (NNP Thursday)))))
+    (, ,)
+    (NP (NNP Saddam))
+    (VP
+      (VP
+        (ADVP (RB repeatedly))
+        (VBD called)
+        (S
+          (NP (NNP Bush))
+          (`` ``)
+          (NP (DT a) (NN liar))
+          ('' '')))
+      (CC and)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (DT a) (JJ shooting) (NN war))
+            (VP (MD could)
+              (VP (VB produce)
+                (NP
+                  (NP (NN body) (NN bags) (NN courtesy))
+                  (PP (IN of)
+                    (NP (NNP Baghdad))))))))))
+    (. .)))
+

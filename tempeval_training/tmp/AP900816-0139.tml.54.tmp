@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Libyan) (NN leader) (NNP Moammar) (NNP Gadhafi))
+      (, ,)
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN letter))
+          (PP (TO to)
+            (NP (DT the) (NNP U.N.) (NNP Secretary-General)))))
+      (, ,))
+    (ADVP (RB also))
+    (VP (VBD called)
+      (PP (IN for)
+        (NP (DT an) (NN emergency) (NNP Security) (NNP Council) (NN meeting)))
+      (PP (IN in)
+        (NP (NNP Geneva)))
+      (S
+        (VP (TO to)
+          (VP (VB remove)
+            (NP (NNP U.S.) (NNS forces))))))
+    (. .)))
+

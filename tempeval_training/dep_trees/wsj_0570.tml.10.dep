@@ -1,0 +1,24 @@
+1	Gabelli	_	NNP	NNP	_	2	nn	_	_
+2	Group	_	NNP	NNP	_	3	nsubj	_	_
+3	began	_	VBD	VBD	_	0	root	_	_
+4	raising	_	VBG	VBG	_	3	xcomp	_	_
+5	its	_	PRP$	PRP$	_	8	poss	_	_
+6	Milton	_	NNP	NNP	_	8	nn	_	_
+7	Roy	_	NNP	NNP	_	8	nn	_	_
+8	stake	_	NN	NN	_	4	dobj	_	_
+9	in	_	IN	IN	_	8	prep	_	_
+10	July	_	NNP	NNP	_	9	pobj	_	_
+11	,	_	,	,	_	3	punct	_	_
+12	and	_	CC	CC	_	3	cc	_	_
+13	holds	_	VBZ	VBZ	_	3	conj	_	_
+14	14.6	_	CD	CD	_	15	num	_	_
+15	%	_	NN	NN	_	13	dobj	_	_
+16	,	_	,	,	_	3	punct	_	_
+17	according	_	VBG	VBG	_	3	conj	_	_
+18	to	_	TO	TO	_	17	pcomp	_	_
+19	a	_	DT	DT	_	22	det	_	_
+20	recent	_	JJ	JJ	_	22	amod	_	_
+21	SEC	_	NNP	NNP	_	22	nn	_	_
+22	filing	_	NN	NN	_	18	pobj	_	_
+23	.	_	.	.	_	3	punct	_	_
+

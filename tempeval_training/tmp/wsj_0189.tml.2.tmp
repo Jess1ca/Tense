@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Sales))
+      (PP (IN in)
+        (NP (DT the) (JJS latest) (NN period))))
+    (VP (VBD were)
+      (NP
+        (NP
+          (QP ($ $) (CD 1.76) (CD billion)))
+        (, ,)
+        (NP
+          (NP (DT a)
+            (ADJP (CD 13) (NN %))
+            (NN increase))
+          (PP (IN from)
+            (NP
+              (NP (JJ last) (NN year) (POS 's))
+              (QP ($ $) (CD 1.55) (CD billion)))))))
+    (. .)))
+

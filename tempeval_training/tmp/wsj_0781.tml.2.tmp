@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (NNP Intel))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP (JJ last) (NN week))
+          (NP (DT a) (NN customer))
+          (VP (VBD discovered)
+            (NP
+              (NP (CD two) (NNS flaws))
+              (PP (IN in)
+                (NP
+                  (NP
+                    (NP (PRP$ its) (CD 80486) (NN microprocessor) (NN chip) (POS 's))
+                    (`` ``) (NN floating-point) (NN unit) ('' ''))
+                  (, ,)
+                  (NP
+                    (NP (DT a) (NN set))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNS circuits))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (VBP do)
+                              (NP (JJ certain) (NNS calculations)))))))))))))))
+    (. .)))
+

@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN group))
+      (ADVP (RB currently))
+      (VP (VBZ holds)
+        (NP
+          (NP (NNP 3,027,330) (NNP Rally) (POS 's))
+          (NNS shares))))
+    (, ,)
+    (CC or)
+    (S
+      (NP
+        (NP (CD 45.2) (NN %))
+        (PP (IN of)
+          (NP (PRP$ its) (JJ commmon) (NNS shares))))
+      (ADJP (JJ outstanding)))
+    (. .)))
+

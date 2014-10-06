@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Police))
+    (VP (VBD found)
+      (NP
+        (NP
+          (QP (JJR more) (IN than) (CD 1,300))
+          (NNS pounds))
+        (PRN (-LRB- -LRB-)
+          (NP
+            (QP (CD 600) (CD kgs)))
+          (-RRB- -RRB-))
+        (PP (IN of)
+          (NP (JJ fertilizer-based) (NNS explosives))))
+      (NP (NNP Sunday))
+      (PP (IN in)
+        (NP
+          (NP (DT a)
+            (ADJP (JJ shed)
+              (PP (IN in)
+                (NP
+                  (NP (NNP Dundalk))
+                  (, ,)
+                  (NP (CD 50) (NNS miles)
+                    (PRN (-LRB- -LRB-)
+                      (NP
+                        (QP (CD 80) (CD kms)))
+                      (-RRB- -RRB-))))))
+            (NN south))
+          (PP (IN of)
+            (NP (NNP Belfast))))))
+    (. .)))
+

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The)
+          (NAC (NNP Avon) (, ,) (NNP Conn.) (, ,))
+          (NN company) (POS 's))
+        (NN stock))
+      (VP (VBD hit)
+        (NP (DT a) (NN high))
+        (PP (IN in)
+          (NP (CD 1983)))
+        (SBAR (IN after)
+          (S
+            (NP (PRP it))
+            (VP (VBD unveiled)
+              (NP (PRP$ its) (NNP Adam) (NN home) (NN computer)))))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (NP (DT the) (NN product))
+        (VP (VBD was)
+          (VP (VBN plagued)
+            (PP (IN with)
+              (NP (NNS glitches))))))
+      (CC and)
+      (S
+        (NP
+          (NP (DT the) (NN company) (POS 's))
+          (NNS fortunes))
+        (VP (VBD plunged))))
+    (. .)))
+

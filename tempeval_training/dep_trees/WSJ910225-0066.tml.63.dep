@@ -1,0 +1,26 @@
+1	Despite	_	IN	IN	_	16	prep	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	lack	_	NN	NN	_	1	pobj	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	any	_	DT	DT	_	7	det	_	_
+6	obvious	_	JJ	JJ	_	7	amod	_	_
+7	successors	_	NNS	NNS	_	4	pobj	_	_
+8	,	_	,	,	_	16	punct	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	Iraqi	_	JJ	JJ	_	11	amod	_	_
+11	leader	_	NN	NN	_	15	poss	_	_
+12	's	_	POS	POS	_	11	possessive	_	_
+13	internal	_	JJ	JJ	_	15	amod	_	_
+14	power	_	NN	NN	_	15	nn	_	_
+15	base	_	NN	NN	_	16	nsubj	_	_
+16	appeared	_	VBD	VBD	_	0	root	_	_
+17	to	_	TO	TO	_	19	aux	_	_
+18	be	_	VB	VB	_	19	aux	_	_
+19	narrowing	_	VBG	VBG	_	16	xcomp	_	_
+20	even	_	RB	RB	_	24	advmod	_	_
+21	before	_	IN	IN	_	24	mark	_	_
+22	the	_	DT	DT	_	23	det	_	_
+23	war	_	NN	NN	_	24	nsubj	_	_
+24	began	_	VBD	VBD	_	19	advcl	_	_
+25	.	_	.	.	_	16	punct	_	_
+

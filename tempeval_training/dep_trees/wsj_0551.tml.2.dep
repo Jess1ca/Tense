@@ -1,0 +1,11 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	transaction	_	NN	NN	_	4	nsubjpass	_	_
+3	is	_	VBZ	VBZ	_	4	auxpass	_	_
+4	expected	_	VBN	VBN	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	close	_	VB	VB	_	4	xcomp	_	_
+7	around	_	IN	IN	_	6	prep	_	_
+8	year	_	NN	NN	_	9	nn	_	_
+9	end	_	NN	NN	_	7	pobj	_	_
+10	.	_	.	.	_	4	punct	_	_
+

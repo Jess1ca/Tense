@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD took)
+        (NP
+          (NP (NNP Polly) (NNP Peck))
+          (, ,) (RB once)
+          (NP (DT a) (JJ small) (NN fabric) (NN wholesaler))))
+      (, ,)
+      (CC and)
+      (VP (VBD used)
+        (NP (PRP it))
+        (PP (IN at) (IN as)
+          (NP (DT a) (NN base)
+            (S
+              (VP (TO to)
+                (VP (VB build)
+                  (NP
+                    (NP (DT a) (NN conglomerate))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBZ has)
+                          (VP (VBN been)
+                            (VP (VBG doubling)
+                              (NP (PRP$ its) (NNS profits))
+                              (ADVP (RB annually))
+                              (PP (IN since)
+                                (NP (CD 1980))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (ADVP (RB Meanwhile))
+    (, ,)
+    (NP
+      (NP (DT the) (NNP U.S.) (NNS hopes))
+      (, ,)
+      (NP (JJ economic) (NNS sanctions))
+      (CC and)
+      (NP (DT an) (JJ international) (NNS arms) (NN embargo)))
+    (VP (MD will)
+      (VP (VB remain)
+        (PP (IN in)
+          (NP (NN effect)))
+        (SBAR (IN until)
+          (S
+            (NP (NNP Iraq))
+            (VP (VBZ pays)
+              (NP (NN war) (NNS reparations))
+              (PP (TO to)
+                (NP (NNP Kuwait)))
+              (S
+                (VP (TO to)
+                  (VP (VB cover)
+                    (NP (NN war) (NNS damages))))))))))
+    (. .)))
+

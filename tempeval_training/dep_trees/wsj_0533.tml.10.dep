@@ -1,0 +1,12 @@
+1	At	_	IN	IN	_	6	prep	_	_
+2	last	_	JJ	JJ	_	3	amod	_	_
+3	report	_	NN	NN	_	1	pobj	_	_
+4	,	_	,	,	_	6	punct	_	_
+5	Connaught	_	NNP	NNP	_	6	nsubj	_	_
+6	had	_	VBD	VBD	_	0	root	_	_
+7	21.8	_	CD	CD	_	8	number	_	_
+8	million	_	CD	CD	_	9	num	_	_
+9	shares	_	NNS	NNS	_	6	dobj	_	_
+10	outstanding	_	JJ	JJ	_	9	amod	_	_
+11	.	_	.	.	_	6	punct	_	_
+

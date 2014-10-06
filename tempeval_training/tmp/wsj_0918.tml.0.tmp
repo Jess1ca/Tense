@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (NNP Du) (NNP Pont) (NNP Co.))
+    (VP (VBD reported)
+      (SBAR (IN that)
+        (S
+          (NP (JJ third-quarter) (NN profit))
+          (VP (VBD grew)
+            (NP (DT a) (JJ robust) (CD 19) (NN %))
+            (PP (IN from)
+              (NP (DT a) (NN year) (IN ago)))
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN strength))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN company) (POS 's))
+                    (NNS operations)))))
+            (PP
+              (PP (IN in)
+                (NP (JJ various) (NNS chemicals)
+                  (CC and)
+                  (NNS fibers)))
+              (, ,)
+              (CC and)
+              (PP (IN in)
+                (NP (NN petroleum))))))))
+    (. .)))
+

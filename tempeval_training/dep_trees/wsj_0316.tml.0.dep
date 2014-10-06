@@ -1,0 +1,21 @@
+1	First	_	NNP	NNP	_	3	nn	_	_
+2	Security	_	NNP	NNP	_	3	nn	_	_
+3	Corp.	_	NNP	NNP	_	4	nsubj	_	_
+4	said	_	VBD	VBD	_	0	root	_	_
+5	it	_	PRP	PRP	_	7	nsubj	_	_
+6	tentatively	_	RB	RB	_	7	advmod	_	_
+7	agreed	_	VBD	VBD	_	4	ccomp	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	acquire	_	VB	VB	_	7	xcomp	_	_
+10	Deseret	_	NNP	NNP	_	11	nn	_	_
+11	Bancorp.	_	NNP	NNP	_	9	dobj	_	_
+12	for	_	IN	IN	_	11	prep	_	_
+13	stock	_	NN	NN	_	12	pobj	_	_
+14	valued	_	VBN	VBN	_	13	vmod	_	_
+15	at	_	IN	IN	_	14	prep	_	_
+16	about	_	RB	RB	_	17	quantmod	_	_
+17	$	_	$	$	_	15	pobj	_	_
+18	18	_	CD	CD	_	17	number	_	_
+19	million	_	CD	CD	_	17	number	_	_
+20	.	_	.	.	_	4	punct	_	_
+

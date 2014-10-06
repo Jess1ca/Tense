@@ -1,0 +1,17 @@
+(ROOT
+  (S (`` ``)
+    (NP (PRP We))
+    (VP (VBP believe)
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ his) (NNS words))
+          (VP (MD can) (RB not)
+            (VP (VB distract)
+              (NP (DT the) (NN world))
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (NNS facts))
+                  (PP (IN of)
+                    (NP (JJ Iraqi) (NN aggression))))))))))
+    (. .) ('' '')))
+

@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (DT The) (NNPS Iraqis))
+    (ADVP (RB also))
+    (VP (VBP possess)
+      (NP (NN chemical) (NNS weapons)))
+    (. .)))
+

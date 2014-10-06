@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Rally) (POS 's))
+      (NNP Inc.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD adopted)
+            (NP (DT a) (NNS shareholders) (NNS rights) (NN plan)
+              (S
+                (VP (TO to)
+                  (VP (VB protect)
+                    (NP (NNS shareholders))
+                    (PP (IN from)
+                      (NP (DT an)
+                        (ADJP (RB inadequately) (VBN priced))
+                        (NN takeover) (NN offer)))))))))))
+    (. .)))
+

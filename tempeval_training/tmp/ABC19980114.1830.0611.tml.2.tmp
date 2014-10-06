@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP ABC) (POS 's))
+      (NNP Lisa) (NNP Stark))
+    (VP (VBZ has)
+      (NP (JJR more)))
+    (. .)))
+

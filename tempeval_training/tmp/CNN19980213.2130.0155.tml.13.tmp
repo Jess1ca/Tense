@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (ADVP (RB Meanwhile))
+    (, ,)
+    (NP
+      (NP (NN secretary))
+      (PP (IN of)
+        (NP (NN state) (NN Madeleine) (NNP Albright) (, ,) (NNP Berger)
+          (CC and)
+          (NN defense) (NN secretary) (NNP William) (NNP Cohen))))
+    (VP (VBD announced)
+      (NP (NNS plans))
+      (S
+        (VP (TO to)
+          (VP (VB travel)
+            (PP (TO to)
+              (NP
+                (NP (DT an) (JJ unnamed) (NN city))
+                (PP (IN in)
+                  (NP (DT the) (NNP US) (NN heartland)))))
+            (NP (JJ next) (NN week))
+            (, ,)
+            (S
+              (VP (TO to)
+                (VP (VB explain)
+                  (PP (TO to)
+                    (NP (DT the) (JJ American) (NNS people)))
+                  (SBAR
+                    (WHADVP (RB just) (WRB why))
+                    (S
+                      (NP (JJ military) (NN force))
+                      (VP (MD will)
+                        (VP (VB be)
+                          (ADJP (JJ necessary))
+                          (SBAR (IN if)
+                            (S
+                              (NP (NN diplomacy))
+                              (VP (VBZ fails)))))))))))))))
+    (. .)))
+

@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Mr.) (NNP Bush))
+      (CC and)
+      (NP (PRP$ his) (NNS aides)))
+    (VP (VBD were)
+      (VP (VBG leaning)
+        (PP (IN toward)
+          (NP
+            (NP (DT a) (JJ military) (NN conclusion))
+            (PP (IN of)
+              (NP (DT the) (NN crisis)))))
+        (SBAR (RB even) (IN before)
+          (S
+            (NP
+              (NP (DT the) (JJS latest) (NNS reports))
+              (PP (IN of)
+                (NP
+                  (NP (JJ Iraqi) (NNS atrocities))
+                  (PP (IN in)
+                    (NP (NNP Kuwait))))))
+            (VP (VBD came)
+              (S
+                (VP (TO to)
+                  (VP (VB light)))))))))
+    (. .)))
+

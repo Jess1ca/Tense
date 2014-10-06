@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Nhek) (NNP Bunchhay))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP
+                (ADVP (RB closely))
+                (VBN involved)
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN search))
+                    (PP (IN for)
+                      (NP (NNP Howes)))))
+                (PP (IN before)
+                  (S
+                    (VP (VBG having)
+                      (S
+                        (VP (TO to)
+                          (VP (VB flee)
+                            (NP (DT the) (JJ Cambodian) (NN capital))
+                            (PP (IN after)
+                              (NP (DT a) (NN coup) (NN d'etat)))
+                            (NP (JJ last) (NN year)))))))))))))
+      (, ,))
+    (VP (VBD appeared)
+      (ADJP (JJ confident)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (MD would)
+              (VP (VB find)
+                (NP
+                  (NP (NNP Howes) (POS '))
+                  (NNS remains))))))))
+    (. .)))
+

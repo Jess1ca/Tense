@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (JJ Other) (NNS funds))
+    (VP (VBP hold)
+      (NP
+        (NP (DT a) (NN smattering))
+        (PP (IN of)
+          (NP (NN junk) (NNS bonds))))
+      (, ,)
+      (ADVP (RB too)))
+    (. .)))
+

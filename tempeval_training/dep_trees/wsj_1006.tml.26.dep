@@ -1,0 +1,19 @@
+1	Mr.	_	NNP	NNP	_	2	nn	_	_
+2	Bussieres	_	NNP	NNP	_	3	nsubj	_	_
+3	was	_	VBD	VBD	_	0	root	_	_
+4	president	_	NN	NN	_	8	nn	_	_
+5	and	_	CC	CC	_	4	cc	_	_
+6	chief	_	NN	NN	_	4	conj	_	_
+7	operating	_	VBG	VBG	_	8	amod	_	_
+8	officer	_	NN	NN	_	3	xcomp	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	Provigo	_	NNP	NNP	_	17	poss	_	_
+11	's	_	POS	POS	_	10	possessive	_	_
+12	Quebec	_	NNP	NNP	_	17	nn	_	_
+13	retail	_	NN	NN	_	17	amod	_	_
+14	and	_	CC	CC	_	13	cc	_	_
+15	wholesale	_	JJ	JJ	_	13	conj	_	_
+16	grocery	_	NN	NN	_	17	nn	_	_
+17	unit	_	NN	NN	_	9	pobj	_	_
+18	.	_	.	.	_	3	punct	_	_
+

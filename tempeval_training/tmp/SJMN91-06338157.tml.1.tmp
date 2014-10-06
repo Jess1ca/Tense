@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (S
+      (ADVP (RB Instead))
+      (, ,)
+      (NP (NNP Sununu))
+      (VP (VBD sought)
+        (S
+          (VP (TO to)
+            (VP (VB prove)
+              (PP (TO to)
+                (NP (DT the) (NN president)))
+              (SBAR
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP$ his) (NNS supporters))
+                    (VP (VBP outnumber)
+                      (NP (PRP$ his) (NNS critics)))))
+                (CC and)
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP he))
+                    (VP (MD should)
+                      (VP (VB remain)
+                        (PP (IN in)
+                          (NP (PRP$ his) (NN post.)))))))))))))
+    (: ;)
+    (S
+      (NP (CD One) (JJ senior) (NN official))
+      (NP (NNP Monday))
+      (VP (VBD described)
+        (NP (DT the) (NNP White) (NNP House))
+        (PP (IN as)
+          (NP (`` ``)
+            (NP (DT a) (NN collection))
+            (PP (IN of)
+              (NP (JJ small) (NNS groups)))
+            (PP (IN of)
+              (NP
+                (NP (NNS aides))
+                (VP (VBG holding)
+                  (NP (PRP$ their) (NNS breaths)))))
+            (, ,) ('' '')
+            (VP (VBG waiting)
+              (S
+                (VP (TO to)
+                  (VP (VB see)
+                    (SBAR (IN whether)
+                      (S
+                        (NP (NNP Sununu))
+                        (VP (VBZ survives))))))))))))
+    (. .)))
+

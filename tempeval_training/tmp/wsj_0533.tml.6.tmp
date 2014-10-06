@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (NNP Merieux) (NNS officials))
+    (VP (VBD said)
+      (NP (JJ last) (NN week))
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (ADJP (`` ``) (RB highly) (JJ confident) ('' '')
+              (SBAR
+                (S
+                  (NP (DT the) (NN offer))
+                  (VP (MD will)
+                    (VP (VB be)
+                      (VP (VBN approved)
+                        (SBAR (IN once)
+                          (S
+                            (NP (PRP it))
+                            (VP (VBZ submits)
+                              (NP
+                                (NP (NNS details))
+                                (PP (IN of)
+                                  (NP
+                                    (NP (PRP$ its) (VBN proposed) (NNS investments))
+                                    (PP (TO to)
+                                      (NP (JJ federal) (NNS regulators)))))))))))))))))))
+    (. .)))
+

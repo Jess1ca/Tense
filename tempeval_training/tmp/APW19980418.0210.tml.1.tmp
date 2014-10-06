@@ -1,0 +1,21 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (S
+        (VP (VBG Being)
+          (NP (CD 48))))
+      (VP (VBZ is)
+        (ADJP (RB too) (JJ early))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN retired)))))))
+    (, ,) ('' '')
+    (NP (DT a) (JJ fit-looking) (NNS Farkas))
+    (VP (VBD said)
+      (PP (IN on)
+        (NP
+          (NP (NN state) (NN TV) (POS 's))
+          (NN morning) (NN talk) (NN show))))
+    (. .)))
+

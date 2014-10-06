@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Twelve) (NNP Arab) (NNP League) (NNS nations))
+    (VP (VBD voted)
+      (PP (IN for)
+        (NP (DT an) (JJ Arab) (NN force)))
+      (S
+        (VP (TO to)
+          (VP (VB protect)
+            (NP (NNP Saudi) (NNP Arabia)))))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN vanguard))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP (NNP Syria) (POS 's))
+                (NN contingent))
+              (VP (VBG arriving)
+                (NP (NNP Tuesday)))))))
+      (, ,)
+      (PP (VBG according)
+        (PP (TO to)
+          (NP
+            (NP (JJ diplomatic) (NNS sources))
+            (PP (IN in)
+              (NP
+                (NP (NNP Riyadh))
+                (, ,)
+                (NP (DT the) (JJ Saudi) (NN capital))))))))
+    (. .)))
+

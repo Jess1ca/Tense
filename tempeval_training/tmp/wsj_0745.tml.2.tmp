@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN No.) (CD 1) (NNP U.S.) (NN auto) (NN maker))
+      (ADVP (RB then))
+      (VP (VBD wrote)
+        (NP (NNP Jaguar))
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBZ intends) (`` ``)
+              (S
+                (VP (TO to)
+                  (VP (VB go)
+                    (PP (TO to)
+                      (NP (DT that)
+                        (ADJP (CD 15) (NN %))
+                        (NN level)))
+                    (SBAR (IN once)
+                      (S
+                        (NP (PRP it))
+                        (VP (VBZ wins)
+                          (S
+                            (NP (DT the) (NNP U.S.) (NN clearance))
+                            (VP (TO to)
+                              (VP (VB go)
+                                (PP (IN beyond)
+                                  (NP
+                                    (QP ($ $) (CD 15) (CD million))))))))))))))))))
+    (, ,)
+    (NP (DT a) (NNP Jaguar) (NN spokesman))
+    (VP (VBD said)
+      (NP (NN yesterday)))
+    (. .)))
+

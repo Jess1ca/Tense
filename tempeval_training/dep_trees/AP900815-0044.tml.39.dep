@@ -1,0 +1,22 @@
+1	King	_	NNP	NNP	_	2	nn	_	_
+2	Hussein	_	NNP	NNP	_	5	nsubj	_	_
+3	was	_	VBD	VBD	_	5	aux	_	_
+4	reportedly	_	RB	RB	_	5	advmod	_	_
+5	carrying	_	VBG	VBG	_	0	root	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	message	_	NN	NN	_	5	dobj	_	_
+8	to	_	TO	TO	_	7	prep	_	_
+9	Bush	_	NNP	NNP	_	8	pobj	_	_
+10	from	_	IN	IN	_	5	prep	_	_
+11	Iraq	_	NNP	NNP	_	13	poss	_	_
+12	's	_	POS	POS	_	11	possessive	_	_
+13	Saddam	_	NNP	NNP	_	10	pobj	_	_
+14	,	_	,	,	_	13	punct	_	_
+15	with	_	IN	IN	_	19	prep	_	_
+16	whom	_	WP	WP	_	15	pobj	_	_
+17	the	_	DT	DT	_	18	det	_	_
+18	king	_	NN	NN	_	19	nsubj	_	_
+19	met	_	VBD	VBD	_	13	rcmod	_	_
+20	Monday	_	NNP	NNP	_	19	tmod	_	_
+21	.	_	.	.	_	5	punct	_	_
+

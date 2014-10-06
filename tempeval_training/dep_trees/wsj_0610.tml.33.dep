@@ -1,0 +1,13 @@
+1	Subcontractors	_	NNS	NNS	_	2	nsubj	_	_
+2	said	_	VBD	VBD	_	0	root	_	_
+3	they	_	PRP	PRP	_	5	nsubjpass	_	_
+4	were	_	VBD	VBD	_	5	auxpass	_	_
+5	told	_	VBN	VBN	_	2	ccomp	_	_
+6	that	_	IN	IN	_	11	mark	_	_
+7	equipment	_	NN	NN	_	8	nn	_	_
+8	orders	_	NNS	NNS	_	11	nsubjpass	_	_
+9	would	_	MD	MD	_	11	aux	_	_
+10	be	_	VB	VB	_	11	auxpass	_	_
+11	delayed	_	VBN	VBN	_	5	ccomp	_	_
+12	.	_	.	.	_	2	punct	_	_
+

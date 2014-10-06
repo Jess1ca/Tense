@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Sun) (POS 's))
+      (NNS results))
+    (VP (VBD were)
+      (ADJP (RB slightly) (JJR better))
+      (PP (IN than)
+        (NP (NNS expectations))))
+    (. .)))
+

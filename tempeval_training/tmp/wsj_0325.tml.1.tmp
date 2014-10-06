@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Los) (NNP Angeles) (NN thrift) (VBG holding) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD had)
+            (NP
+              (NP (DT a) (NN loss))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (QP ($ $) (CD 92.2) (CD million)))
+                  (, ,)
+                  (CC or)
+                  (NP
+                    (NP ($ $) (CD 6.98))
+                    (NP (DT a) (NN share)))
+                  (, ,))))
+            (PP (IN for)
+              (NP
+                (NP (DT the) (NN quarter))
+                (VP (VBN ended)
+                  (NP (NNP Sept.) (CD 30)))))))))
+    (. .)))
+

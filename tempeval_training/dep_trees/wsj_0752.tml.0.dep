@@ -1,0 +1,23 @@
+1	AEP	_	NNP	NNP	_	4	nn	_	_
+2	INDUSTRIES	_	NNPS	NNPS	_	4	nn	_	_
+3	Inc.	_	NNP	NNP	_	4	nn	_	_
+4	directors	_	NNS	NNS	_	5	nsubj	_	_
+5	authorized	_	VBD	VBD	_	0	root	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	3-for-2	_	JJ	JJ	_	8	amod	_	_
+8	split	_	NN	NN	_	5	dobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	the	_	DT	DT	_	17	det	_	_
+11	common	_	JJ	JJ	_	17	amod	_	_
+12	,	_	,	,	_	17	punct	_	_
+13	payable	_	JJ	JJ	_	17	amod	_	_
+14	Dec.	_	NNP	NNP	_	13	tmod	_	_
+15	7	_	CD	CD	_	14	num	_	_
+16	to	_	TO	TO	_	13	prep	_	_
+17	stock	_	NN	NN	_	9	pobj	_	_
+18	of	_	IN	IN	_	17	prep	_	_
+19	record	_	NN	NN	_	18	pobj	_	_
+20	Nov.	_	NNP	NNP	_	5	tmod	_	_
+21	22	_	CD	CD	_	20	num	_	_
+22	.	_	.	.	_	5	punct	_	_
+

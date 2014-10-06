@@ -1,0 +1,20 @@
+1	Total	_	JJ	JJ	_	2	amod	_	_
+2	assets	_	NNS	NNS	_	3	nsubj	_	_
+3	increased	_	VBD	VBD	_	0	root	_	_
+4	to	_	TO	TO	_	3	prep	_	_
+5	$	_	$	$	_	4	pobj	_	_
+6	12.7	_	CD	CD	_	7	number	_	_
+7	billion	_	CD	CD	_	5	num	_	_
+8	in	_	IN	IN	_	3	prep	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	latest	_	JJS	JJS	_	11	amod	_	_
+11	quarter	_	NN	NN	_	8	pobj	_	_
+12	from	_	IN	IN	_	3	prep	_	_
+13	$	_	$	$	_	12	pobj	_	_
+14	12.4	_	CD	CD	_	15	number	_	_
+15	billion	_	CD	CD	_	13	num	_	_
+16	a	_	DT	DT	_	17	det	_	_
+17	year	_	NN	NN	_	12	tmod	_	_
+18	earlier	_	RBR	RBR	_	17	advmod	_	_
+19	.	_	.	.	_	3	punct	_	_
+

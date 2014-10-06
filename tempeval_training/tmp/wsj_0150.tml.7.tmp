@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Primerica))
+      (, ,)
+      (ADJP (RB as) (VBN expected))
+      (, ,))
+    (ADVP (RB also))
+    (VP
+      (VP (VBD acquired)
+        (NP
+          (NP (JJ certain) (NNS assets))
+          (PP (IN of)
+            (NP (DT the) (NN agency)))))
+      (CC and)
+      (VP (VBD assumed)
+        (NP
+          (NP (JJ certain))
+          (PP (IN of)
+            (NP (PRP$ its) (NNS liabilities))))))
+    (. .)))
+

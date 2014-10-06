@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (PP (IN Because)
+      (PP (IN of)
+        (NP (DT the) (NN glitch))))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ does) (RB n't)
+            (VP (VB know)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP$ its) (NN machine))
+                  (VP (MD will)
+                    (VP (VB be)
+                      (ADJP (RB commercially) (JJ available)))))))))))
+    (. .)))
+

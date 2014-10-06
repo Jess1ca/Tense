@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Net) (NNS sales))
+      (PP (IN for)
+        (NP
+          (NP (DT this) (NN year) (POS 's))
+          (JJ third) (NN quarter))))
+    (VP (VBD were)
+      (NP
+        (QP ($ $) (CD 14) (CD million)))
+      (, ,)
+      (ADVP (RB down)
+        (PP (IN from)
+          (NP
+            (QP ($ $) (CD 21.4) (CD million)))
+          (NP (JJ last) (NN year)))))
+    (. .)))
+

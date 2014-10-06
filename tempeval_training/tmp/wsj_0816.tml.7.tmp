@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ less-than-robust) (JJ third-quarter) (NNS results))
+    (VP (VBD came)
+      (PP (IN amid)
+        (NP
+          (NP (VBN renewed) (NN concern))
+          (PP (IN about)
+            (NP
+              (NP
+                (NP (DT the) (NN volatility))
+                (PP (IN of)
+                  (NP (NN stock) (NNS prices))))
+              (CC and)
+              (NP
+                (NP (DT the) (NN role))
+                (PP (IN of)
+                  (NP (JJ computer-aided) (NN program) (NN trading)))))))))
+    (. .)))
+

@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Everything))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ happens)
+            (PP (IN in)
+              (NP (NNP Cuba)))))))
+    (VP (VBZ gets)
+      (NP
+        (NP (NNP America) (POS 's))
+        (NN attention)))
+    (. .)))
+

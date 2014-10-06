@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (ADVP (RB Finally))
+    (, ,)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (NNP Iraq))
+        (VP (VBD failed)
+          (S
+            (VP (TO to)
+              (VP (VB respond)
+                (PP (TO to)
+                  (NP (DT the) (NNP U.S.) (NN ultimatum)))))))))
+    (, ,)
+    (NP (NNP Mr.) (NNP Bush))
+    (VP (VBD let)
+      (SBAR
+        (S
+          (NP (DT the) (NN ground) (NN offensive))
+          (VP (VBP begin)
+            (PP (IN as)
+              (NP
+                (NP
+                  (ADJP (RB previously) (VBN planned))
+                  (NNP Saturday))
+                (NP (NN night))))))))
+    (. .)))
+

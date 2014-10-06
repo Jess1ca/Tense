@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNS Pro-republicans))
+    (VP (VBP hope)
+      (S
+        (VP (TO to)
+          (VP (VB have)
+            (NP (DT an) (JJ Australian) (NN president))
+            (PP (IN by)
+              (NP
+                (NP
+                  (NP (DT the) (NN opening))
+                  (PP (IN of)
+                    (NP (DT the) (CD 2000) (NNPS Olympics))))
+                (CC and)
+                (NP
+                  (NP (DT the) (JJ 100th) (NN anniversary))
+                  (PP (IN of)
+                    (NP (JJ Australian) (NN federation))))))))))
+    (. .)))
+

@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (S
+      (NP (CC Neither)
+        (NP (NNP Equus))
+        (CC nor)
+        (NP (NNP Tony) (NNP Lama)))
+      (VP (VBD gave)
+        (NP
+          (NP (DT a) (NN reason))
+          (PP (IN for)
+            (NP (DT the) (VBN changed) (NN offer))))))
+    (CC and)
+    (S
+      (NP (NNP Tony) (NNP Lama))
+      (VP (MD could) (RB n't)
+        (VP (VB be)
+          (VP (VBN reached)
+            (PP (IN for)
+              (NP (NN comment)))))))
+    (. .)))
+

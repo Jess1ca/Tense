@@ -1,0 +1,14 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	rate	_	NN	NN	_	6	nsubj	_	_
+3	for	_	IN	IN	_	2	prep	_	_
+4	adult	_	JJ	JJ	_	5	amod	_	_
+5	women	_	NNS	NNS	_	3	pobj	_	_
+6	rose	_	VBD	VBD	_	0	root	_	_
+7	0.4	_	CD	CD	_	8	num	_	_
+8	percent	_	NN	NN	_	6	dobj	_	_
+9	,	_	,	,	_	6	punct	_	_
+10	to	_	TO	TO	_	6	prep	_	_
+11	4.4	_	CD	CD	_	12	num	_	_
+12	percent	_	NN	NN	_	10	pobj	_	_
+13	.	_	.	.	_	6	punct	_	_
+

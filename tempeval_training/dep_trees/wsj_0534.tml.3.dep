@@ -1,0 +1,19 @@
+1	In	_	IN	IN	_	10	prep	_	_
+2	New	_	NNP	NNP	_	6	nn	_	_
+3	York	_	NNP	NNP	_	6	nn	_	_
+4	Stock	_	NNP	NNP	_	6	nn	_	_
+5	Exchange	_	NNP	NNP	_	6	nn	_	_
+6	trading	_	NN	NN	_	1	pobj	_	_
+7	Friday	_	NNP	NNP	_	10	tmod	_	_
+8	,	_	,	,	_	10	punct	_	_
+9	Conseco	_	NNP	NNP	_	10	nsubj	_	_
+10	closed	_	VBD	VBD	_	0	root	_	_
+11	at	_	IN	IN	_	10	prep	_	_
+12	$	_	$	$	_	11	pobj	_	_
+13	19.50	_	CD	CD	_	12	num	_	_
+14	,	_	,	,	_	10	punct	_	_
+15	down	_	RB	RB	_	10	advmod	_	_
+16	25	_	CD	CD	_	17	num	_	_
+17	cents	_	NNS	NNS	_	15	pobj	_	_
+18	.	_	.	.	_	10	punct	_	_
+

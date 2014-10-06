@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN funded)
+              (PP (IN by)
+                (NP (JJ voluntary) (NNS contributions)))
+              (PP (IN from))
+              (PP (IN within)
+                (CC and)
+                (IN outside)
+                (NP (DT the) (NN continent))))))))
+    (. .)))
+

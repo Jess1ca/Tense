@@ -1,0 +1,31 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PRP I))
+          (VP (VBD were)
+            (VP (VBG choosing)
+              (NP
+                (NP (DT the) (NNS people))
+                (PP (IN of)
+                  (NP (NN tomorrow))))))))
+      (, ,)
+      (NP (PRP I))
+      (VP (MD would)
+        (VP (VB have)
+          (VP (VBN chosen)
+            (NP
+              (NP (DT the) (NNS people))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBP are)
+                    (ADVP (RB now))
+                    (PP (IN on)
+                      (NP (DT the) (NN board)))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+

@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (PP (IN As)
+      (NP (DT a) (NN result)))
+    (, ,)
+    (NP (NNP Upjohn))
+    (VP (MD will)
+      (ADVP (RB likely))
+      (VP (VB trim)
+        (NP
+          (NP
+            (QP (RB only) (RB about) (CD 275) (TO to) (CD 350)))
+          (PP (IN of)
+            (NP (PRP$ its)
+              (QP (JJR more) (IN than) (CD 21,000))
+              (NNS jobs))))
+        (ADVP (RB world-wide))))
+    (. .)))
+

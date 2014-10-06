@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (NNP Parliamentary) (NN president) (NNP Rita) (NNP Suessmuth))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NNS People) (POS 's))
+            (NNP Union))
+          (ADVP (RB correctly))
+          (VP
+            (VP (VBD listed)
+              (NP (NNP Jacques) (FW de) (NNP Mathan))
+              (PP (IN as)
+                (S
+                  (VP (VBG having)
+                    (VP (VBN donated)
+                      (PP (IN about)
+                        (NP
+                          (NP (CD 274,500) (NNS marks))
+                          (PP (IN in)
+                            (NP (CD 1995))))))))))
+            (, ,)
+            (CC but)
+            (VP (VBD gave)
+              (NP (DT a) (JJ false) (NN address))
+              (PP (IN for)
+                (NP (PRP him))))))))
+    (. .)))
+

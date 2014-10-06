@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Stephen) (NNP Akerfeldt))
+      (, ,)
+      (NP (RB currently) (NN vice) (NN president) (NN finance))
+      (, ,))
+    (VP (MD will)
+      (VP (VB succeed)
+        (NP (NNP Mr.) (NNP McAlpine))))
+    (. .)))
+

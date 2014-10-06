@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP Montedison))
+    (ADVP (RB now))
+    (VP (VBZ owns)
+      (S
+        (NP
+          (NP
+            (QP (RB about) (CD 72))
+            (NN %))
+          (PP (IN of)
+            (NP
+              (NP (NNP Erbamont) (POS 's))
+              (NNS shares))))
+        (ADJP (JJ outstanding))))
+    (. .)))
+

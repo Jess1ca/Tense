@@ -1,0 +1,24 @@
+(ROOT
+  (S (CC Yet)
+    (, ,)
+    (ADVP (RB paradoxically))
+    (, ,)
+    (NP
+      (NP (DT the) (NN perception))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNP U.S.))
+          (VP (VBZ wants)
+            (S
+              (VP (TO to)
+                (VP (VB destroy)
+                  (NP (NNP Iraq)))))))))
+    (VP (MD may)
+      (VP (VB increase)
+        (NP
+          (NP (NNP Saddam) (NNP Hussein) (POS 's))
+          (NN support))
+        (PP (IN within)
+          (NP (DT the) (JJ Iraqi) (NN military)))))
+    (. .)))
+

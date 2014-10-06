@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ year-earlier) (NN quarter)))
+    (, ,)
+    (NP (DT the) (NN tax) (NN credit))
+    (VP (VBD was)
+      (NP
+        (QP ($ $) (CD 3.3) (CD million))))
+    (. .)))
+

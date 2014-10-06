@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (DT Each) (NN share) (NN point))
+    (VP (VBZ is)
+      (ADJP (IN worth)
+        (NP
+          (NP
+            (QP (RB about) ($ $) (CD 60) (CD million)))
+          (PP (IN in)
+            (NP (NNS sales))))))
+    (. .)))
+

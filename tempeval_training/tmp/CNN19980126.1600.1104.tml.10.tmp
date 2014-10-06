@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (ADJP (JJ excellent)
+              (PP (IN for)
+                (NP (DT the) (NN company))))))))
+    (. .)))
+

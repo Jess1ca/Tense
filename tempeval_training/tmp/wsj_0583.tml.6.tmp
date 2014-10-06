@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ expects)
+        (S
+          (VP (TO to)
+            (VP (VB post)
+              (NP
+                (NP (DT a) (NN loss))
+                (PP (IN of)
+                  (NP
+                    (QP (CD 6.4) (CD billion))
+                    (NNS yen))))
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN year))
+                  (VP (VBG ending)
+                    (NP (NN tomorrow))))))))))
+    (CC and)
+    (S
+      (NP (PRP$ its) (NNS liabilities))
+      (ADVP (RB currently))
+      (VP (VBP exceed)
+        (NP (PRP$ its) (NNS assets))
+        (PP (IN by)
+          (NP
+            (QP (RB about) (CD 13.8) (CD billion))
+            (NNS yen)))))
+    (. .)))
+

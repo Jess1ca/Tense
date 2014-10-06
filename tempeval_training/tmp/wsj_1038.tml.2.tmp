@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (ADVP
+      (NP (DT A) (NN year))
+      (RB ago))
+    (, ,)
+    (NP (NNP Benjamin) (NNP Franklin))
+    (VP (VBD had)
+      (NP
+        (NP (NN profit))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 1.8) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 23) (NNS cents))
+              (NP (DT a) (NN share)))))))
+    (. .)))
+

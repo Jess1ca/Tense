@@ -1,0 +1,23 @@
+1	Courtaulds	_	NNP	NNP	_	2	nn	_	_
+2	Chairman	_	NNP	NNP	_	10	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	Chief	_	NNP	NNP	_	8	nn	_	_
+5	Executive	_	NNP	NNP	_	8	nn	_	_
+6	Sir	_	NNP	NNP	_	8	nn	_	_
+7	Christopher	_	NNP	NNP	_	8	nn	_	_
+8	Hogg	_	NNP	NNP	_	2	conj	_	_
+9	will	_	MD	MD	_	10	aux	_	_
+10	remain	_	VB	VB	_	0	root	_	_
+11	in	_	IN	IN	_	10	prep	_	_
+12	both	_	DT	DT	_	13	det	_	_
+13	posts	_	NNS	NNS	_	11	pobj	_	_
+14	at	_	IN	IN	_	10	prep	_	_
+15	the	_	DT	DT	_	18	det	_	_
+16	surviving	_	VBG	VBG	_	18	amod	_	_
+17	chemical	_	NN	NN	_	18	nn	_	_
+18	company	_	NN	NN	_	14	pobj	_	_
+19	after	_	IN	IN	_	18	prep	_	_
+20	the	_	DT	DT	_	21	det	_	_
+21	spinoff	_	NN	NN	_	19	pobj	_	_
+22	.	_	.	.	_	10	punct	_	_
+

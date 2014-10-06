@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (NN addition))
+        (PP (TO to)
+          (NP (DT the) (JJ estimated) (CD 45,000) (NNS Marines)))
+        (S
+          (VP (TO to)
+            (ADVP (RB ultimately))
+            (VP (VB be)
+              (NP
+                (NP (NN part))
+                (PP (IN of)
+                  (NP
+                    (NP (NNP Operation) (NNP Desert) (NNP Shield))
+                    (, ,)
+                    (NP (NNP Stealth) (NN fighter) (NNS planes))
+                    (CC and)
+                    (NP (DT the) (NN aircraft) (NN carrier))))))))))
+    (NP (NNP John) (NNP F.) (NNP Kennedy))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (VP (VBN headed)
+        (PP (TO to)
+          (NP (NNP Saudi) (NNP Arabia)))
+        (S
+          (VP (TO to)
+            (VP (VB protect)
+              (NP (PRP it))
+              (PP (IN from)
+                (NP (JJ Iraqi) (NN expansionism))))))))
+    (. .)))
+

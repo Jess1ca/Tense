@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Robert) (NNP Mellor))
+      (, ,)
+      (NP
+        (NP (NNP Di) (NNP Giorgio) (POS 's))
+        (JJ executive) (NN vice) (NN president))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN company))
+          (VP (VBZ stands)
+            (S
+              (VP (TO to)
+                (VP (VB reap)
+                  (NP (JJR more) (NN money))
+                  (PP (IN through)
+                    (NP
+                      (NP (DT the) (NN sale))
+                      (PP (IN of)
+                        (NP
+                          (NP (JJ individual) (NNS units))
+                          (PP (TO to)
+                            (NP (NNS others)))))))
+                  (ADVP (IN than)
+                    (PP (IN by)
+                      (S
+                        (VP (VBG accepting)
+                          (NP
+                            (NP (NNP DIG) (POS 's))
+                            (NN offer)))))))))))))
+    (. .)))
+

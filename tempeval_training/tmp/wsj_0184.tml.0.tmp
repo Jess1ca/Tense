@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP Upjohn) (NNP Co.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB offer)
+              (NP (DT an) (JJ early) (NN retirement) (NN package))
+              (PP (TO to)
+                (NP
+                  (QP (RB as) (JJ many) (IN as) (CD 1,100))
+                  (NNS employees)))
+              (PP (IN in)
+                (NP
+                  (NP (DT a) (JJ cost-cutting) (NN move))
+                  (VP (VBN expected)
+                    (S
+                      (VP (TO to)
+                        (VP (VB result)
+                          (PP (IN in)
+                            (NP (DT a) (JJ fourth-quarter) (NN charge))))))))))))))
+    (. .)))
+

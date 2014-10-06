@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading)))
+    (NP (NNP Friday))
+    (, ,)
+    (NP (NNP Milton) (NNP Roy) (NNS shares))
+    (VP (VBD leaped)
+      (NP ($ $) (CD 2))
+      (, ,)
+      (PP (TO to)
+        (NP
+          (NP ($ $) (CD 18.375))
+          (NP (DT each))))
+      (, ,)
+      (SBAR (IN while)
+        (S
+          (NP (NNP Crane))
+          (VP (VBD sank)
+            (NP ($ $) (CD 1.125))
+            (, ,)
+            (PP (TO to)
+              (NP
+                (NP ($ $) (CD 21.125))
+                (NP (DT a) (NN share))))))))
+    (. .)))
+

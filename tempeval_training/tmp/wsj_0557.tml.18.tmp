@@ -1,0 +1,28 @@
+(ROOT
+  (SINV
+    (S
+      (NP (DT The) (JJ new) (NN candy))
+      (VP (VBZ bars) (, ,) (`` ``)
+        (S
+          (VP (VB make)
+            (NP (DT an) (JJ important) (NN contribution))
+            (PP (TO to)
+              (NP
+                (NP (PRP$ our) (NNP Nestle) (NNPS Foods) (NN commitment))
+                (PP (TO to)
+                  (NP (DT this)
+                    (ADJP (RB very) (JJ important))
+                    (JJ strategic) (NN unit)))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP C.) (NNP Alan) (NNP MacDonald))
+      (, ,)
+      (NP
+        (NP (NN president))
+        (PP (IN of)
+          (NP
+            (NP (NNP Nestle) (NNPS Foods))
+            (PP (IN in)
+              (NP (NNP Purchase) (, ,) (NNP N.Y.)))))))))
+

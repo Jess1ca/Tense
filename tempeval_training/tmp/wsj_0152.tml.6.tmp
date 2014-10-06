@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP Dow) (NNP Jones))
+    (VP
+      (VP (VBZ publishes)
+        (NP
+          (NP (DT The) (NNP Wall) (NNP Street) (NNP Journal))
+          (, ,)
+          (NP
+            (NP (NNP Barron) (POS 's))
+            (NN magazine))
+          (, ,)
+          (CC and)
+          (NP (NN community) (NNS newspapers))))
+      (CC and)
+      (VP (VBZ operates)
+        (NP (JJ financial) (NN news) (NNS services)
+          (CC and)
+          (NN computer) (NN data) (NNS bases))))
+    (. .)))
+

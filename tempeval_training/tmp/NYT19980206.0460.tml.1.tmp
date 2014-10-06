@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Bureau))
+      (PP (IN of)
+        (NP (NNP Labor) (NNPS Statistics))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN economy))
+          (VP (VBD added)
+            (NP (CD 358,000) (NNS jobs))
+            (NP (JJ last) (NN month))
+            (, ,)
+            (ADVP (RB far)
+              (PP (IN above)
+                (NP (DT the) (CD 235,000) (NN forecast))
+                (PP (IN by)
+                  (NP (NNS economists)))))))))
+    (. .)))
+

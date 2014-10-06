@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (DT The)
+      (NAC (NNP Menlo) (NNP Park) (, ,) (NNP Calif.) (, ,))
+      (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NN net))
+          (VP (VBD was)
+            (NP
+              (NP
+                (QP ($ $) (CD 7.4) (CD million)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP (CD 22) (NNS cents))
+                (NP (DT a) (NN share)))
+              (, ,)
+              (ADVP (RB down)
+                (PP (IN from)
+                  (NP
+                    (NP
+                      (QP ($ $) (CD 32.3) (CD million)))
+                    (, ,)
+                    (CC or)
+                    (NP
+                      (NP (CD 86) (NNS cents))
+                      (NP (DT a) (NN share)))
+                    (, ,))
+                  (NP (DT a) (NN year) (IN ago)))))))))
+    (. .)))
+

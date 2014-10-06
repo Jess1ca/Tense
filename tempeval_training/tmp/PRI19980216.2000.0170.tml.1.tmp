@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT The) (NN move))
+    (VP (VBD had)
+      (VP (VBN been)
+        (VP
+          (ADVP (RB widely))
+          (VBN expected)
+          (SBAR (IN after)
+            (S
+              (NP (JJ northern) (NNP Ireland) (NNS police))
+              (VP (VBD said)
+                (SBAR
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP believe)
+                      (SBAR
+                        (S
+                          (NP (DT the) (NNP IRA))
+                          (VP (VBD was)
+                            (ADVP (IN behind)
+                              (NP (CD two) (NNS killings))
+                              (PP (IN in)
+                                (NP (NNP Belfast))
+                                (NP (JJ last) (NN week))))))))))))))))
+    (. .)))
+

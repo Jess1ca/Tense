@@ -1,0 +1,8 @@
+1	An	_	DT	DT	_	2	det	_	_
+2	officially	_	NN	NN	_	3	nsubj	_	_
+3	sanctioned	_	VBN	VBN	_	0	root	_	_
+4	one	_	CD	CD	_	3	dobj	_	_
+5	,	_	,	,	_	3	punct	_	_
+6	too	_	RB	RB	_	3	advmod	_	_
+7	.	_	.	.	_	3	punct	_	_
+

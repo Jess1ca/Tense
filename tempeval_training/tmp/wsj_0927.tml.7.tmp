@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (JJ Other) (NNS firms))
+    (`` ``)
+    (VP (VBP are)
+      (VP (VBG dealing)
+        (PP (IN with)
+          (NP (DT the) (NNS masses)))))
+    (. .)))
+

@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP (NNP Upjohn))
+    (VP (VBZ is)
+      (VP (VBG offering)
+        (NP (DT a) (JJ one-time) (NN retirement) (NN bonus))
+        (NP
+          (ADJP (JJ equal)
+            (PP (TO to)
+              (NP
+                (NP (CD six) (NNS months))
+                (PP (IN of)
+                  (NP (NN base))))))
+          (NN pay))))
+    (. .)))
+

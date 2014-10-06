@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS withdrawals))
+    (VP (MD could)
+      (VP (VB spell)
+        (NP
+          (NP (NN trouble))
+          (PP (IN for)
+            (NP (DT the)
+              (ADJP
+                (QP ($ $) (CD 200) (CD billion)))
+              (NN junk) (NN market))))))
+    (. .)))
+

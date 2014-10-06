@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Ms.) (NNP Atimadi))
+    (VP (VBZ says)
+      (SBAR (IN that)
+        (S
+          (VP (VBZ is)
+            (NP
+              (NP (DT the) (JJ primary) (NN focus))
+              (PP (IN of)
+                (NP
+                  (NP (PRP$ her) (NN group))
+                  (, ,)
+                  (NP (NN peace))
+                  (CC and)
+                  (NP (NN justice)))))))))
+    (. .)))
+

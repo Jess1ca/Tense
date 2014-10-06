@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (S
+      (NP (NN Factory) (NNS owners))
+      (VP (VBP are)
+        (VP (VBG buying)
+          (NP (JJ new) (NN machinery))
+          (PP (IN at)
+            (NP (DT a) (JJ healthy) (NN rate)))
+          (NP (DT this) (NN fall)))))
+    (, ,)
+    (NP (JJ machine-tool) (NNS makers))
+    (VP (VBP say))
+    (. .)))
+

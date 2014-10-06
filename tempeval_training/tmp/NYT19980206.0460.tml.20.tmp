@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (JJR Lower) (NNS rates))
+    (VP (VBP have)
+      (VP (VBN helped)
+        (S
+          (VP
+            (VP (VB invigorate)
+              (NP
+                (NP
+                  (UCP (NN housing)
+                    (CC and)
+                    (JJ other))
+                  (JJ interest-sensitive) (NNS sectors))
+                (PP (IN of)
+                  (NP (DT the) (NN economy))))
+              (PP (IN by)
+                (S
+                  (VP (VBG making)
+                    (S
+                      (NP (NNS loans))
+                      (ADJP (RBR more) (JJ affordable)))))))
+            (, ,)
+            (CC and)
+            (VP (VB have)
+              (VP (VBN allowed)
+                (NP (NNS companies))
+                (S
+                  (VP (TO to)
+                    (VP (VB continue)
+                      (S
+                        (VP (VBG investing)
+                          (ADVP (RB heavily))
+                          (PP (IN in)
+                            (NP
+                              (ADJP (RBR more) (JJ efficient))
+                              (NN equipment))))))))))))))
+    (. .)))
+

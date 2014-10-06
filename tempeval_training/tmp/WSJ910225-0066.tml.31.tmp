@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBP are)
+        (ADJP (JJ likely)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (NP
+                  (NP (JJ additional) (JJ American) (NNS prisoners))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN war))
+                      (VP (VBN taken)))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBP are)
+        (NP
+          (NP (NNS signs))
+          (SBAR (IN that)
+            (S
+              (NP (NNP President) (NNP Hussein))
+              (VP (VBZ is)
+                (VP (VBG taking)
+                  (NP (NNP Kuwaiti) (NNS hostages)))))))))
+    (. .)))
+

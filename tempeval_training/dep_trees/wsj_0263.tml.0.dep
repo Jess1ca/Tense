@@ -1,0 +1,9 @@
+1	UNIFIRST	_	NNP	NNP	_	2	nn	_	_
+2	Corp.	_	NNP	NNP	_	3	nsubj	_	_
+3	declared	_	VBD	VBD	_	0	root	_	_
+4	a	_	DT	DT	_	7	det	_	_
+5	2-for-1	_	JJ	JJ	_	7	amod	_	_
+6	stock	_	NN	NN	_	7	nn	_	_
+7	split	_	NN	NN	_	3	dobj	_	_
+8	.	_	.	.	_	3	punct	_	_
+

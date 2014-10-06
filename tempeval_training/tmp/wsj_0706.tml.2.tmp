@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (PP (VBN Based)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (JJ current) (NN number))
+          (PP (IN of)
+            (NP (NNP La) (NNP Jolla) (NNS shares))))))
+    (, ,)
+    (NP (DT that))
+    (VP (VBZ gives)
+      (NP (DT the) (NN transaction))
+      (NP
+        (NP (DT a) (NN value))
+        (PP (IN of)
+          (NP
+            (QP ($ $) (CD 104) (CD million))))))
+    (. .)))
+

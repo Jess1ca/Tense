@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP Howard))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Queen) (NNP Elizabeth) (NNP II))
+          (VP (VBZ is)
+            (VP (VBG taking)
+              (NP
+                (NP (DT a) (JJ great) (NN interest))
+                (PP (IN in)
+                  (NP (DT the) (NN convention)))))))))
+    (. .)))
+

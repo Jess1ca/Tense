@@ -1,0 +1,34 @@
+(ROOT
+  (S (CC But)
+    (PRN (, ,)
+      (S
+        (NP (PRP he))
+        (VP (VBZ observes)))
+      (, ,))
+    (SBAR (IN while)
+      (S
+        (NP (NNS makers))
+        (VP (VBP suffer)
+          (NP (NNS losses))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (NN program) (NN trading))
+              (VP (VBZ drags)
+                (NP (DT the) (NN market))
+                (PRT (RP down))))))))
+    (, ,)
+    (NP (PRP they))
+    (ADVP (RB also))
+    (VP (VBP make)
+      (NP (NN money))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (NN program) (NN trading))
+          (VP (VBZ pushes)
+            (S
+              (NP (DT the) (NNS prices))
+              (ADJP (JJR higher)))))))
+    (. .)))
+

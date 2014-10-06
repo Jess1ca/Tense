@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Coleco) (NNPS Industries) (NNP Inc.))
+      (, ,)
+      (NP
+        (NP (DT a)
+          (ADJP (RB once) (JJ high-flying))
+          (NN toy) (NN maker))
+        (SBAR
+          (WHNP (WP$ whose) (NN stock))
+          (S
+            (VP (JJ peaked)
+              (PP (IN at)
+                (NP
+                  (NP ($ $) (CD 65))
+                  (NP (DT a) (NN share))))
+              (PP (IN in)
+                (NP (DT the) (JJ early) (NNS 1980s)))))))
+      (, ,))
+    (VP (VBD filed)
+      (NP
+        (NP (DT a) (NN Chapter) (CD 11) (NN reorganization) (NN plan))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBZ provides)
+              (NP
+                (NP (RB just) (CD 1.125) (NNS cents))
+                (NP (DT a) (NN share)))
+              (PP (IN for)
+                (NP (JJ common) (NNS stockholders))))))))
+    (. .)))
+

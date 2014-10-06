@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (PP (RB because) (IN of)
+            (S
+              (VP (VBG softening)
+                (NP (NNS sales)))))
+          (NP (PRP it))
+          (VP (VBZ is) (RB n't)
+            (PP (IN in)
+              (NP
+                (NP (NN compliance))
+                (PP (IN with)
+                  (NP (NNS requirements)))))
+            (SBAR (IN that)
+              (S
+                (NP (PRP it))
+                (VP (VBP maintain)
+                  (NP
+                    (NP
+                      (QP ($ $) (CD 3) (CD million)))
+                    (PP (IN in)
+                      (S
+                        (VP (VBG working)
+                          (NP (NN capital)))))))))))))
+    (. .)))
+

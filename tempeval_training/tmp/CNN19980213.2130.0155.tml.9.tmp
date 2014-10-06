@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD One) (NN contrary) (NN view))
+      (PP (IN of)
+        (NP (DT the) (NN issue))))
+    (VP (VBD presented)
+      (NP (PRP itself))
+      (PP (TO to)
+        (NP (DT the) (NN president)))
+      (SBAR (IN as)
+        (S
+          (NP (PRP he))
+          (VP (VBD arrived)
+            (PP (IN in)
+              (NP (NNP Philadelphia)))
+            (PP
+              (ADVP (RB later))
+              (IN in)
+              (NP (DT the) (NN day)))))))
+    (. .)))
+

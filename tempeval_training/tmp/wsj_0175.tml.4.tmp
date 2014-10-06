@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Sony) (POS 's))
+        (JJ planned) (NN acquisition))
+      (PP (IN of)
+        (NP
+          (NP (NNP Guber/Peters) (NNP Entertainment) (NNP Co.))
+          (PP (IN for)
+            (NP
+              (QP ($ $) (CD 200) (CD million)))))))
+    (VP (VBZ is)
+      (VP (VBN scheduled)
+        (S
+          (VP (TO to)
+            (VP (VB close)
+              (NP (NNP Monday)))))))
+    (. .)))
+

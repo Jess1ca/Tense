@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ Iraqi) (NN ambassador))
+        (PP (TO to)
+          (NP (NNP Greece))))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (PP (IN in)
+              (NP (NNP Athens)))
+            (NP
+              (NP (DT the) (NNPS Americans))
+              (CC and)
+              (NP (JJ other) (JJ stranded) (NNS foreigners)))
+            (VP (MD could)
+              (VP (VB leave) (`` ``)
+                (ADVP (RB as) (RB soon))
+                (PP (IN as)
+                  (NP
+                    (NP (DT the) (NNS threats))
+                    (PP (IN from)
+                      (NP (DT the) (NNP United) (NNPS States)))))))))))
+    (CC and)
+    (S
+      (NP (PRP$ its) (NNS allies))
+      (VP (VBP are)
+        (VP (VBN eliminated))))
+    (. .) ('' '')))
+

@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Louis) (NNP Gerstner) (NNP Jr.))
+      (, ,)
+      (NP
+        (NP (NN chairman)
+          (CC and)
+          (JJ chief) (NN executive) (NN officer))
+        (PP (IN of)
+          (NP
+            (ADJP (NNP New) (JJ York-based))
+            (NNP RJR))))
+      (, ,))
+    (VP (VBD called)
+      (S
+        (NP (DT the) (NN sale))
+        (NP
+          (NP
+            (NP (DT a) (`` ``) (JJ significant) (NN step) ('' ''))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN company) (POS 's))
+                (NN divestiture) (NN program))))
+          (, ,)
+          (CONJP (RB as) (RB well) (IN as))
+          (NP (DT a) (`` ``) (DT a) (JJ strategic) (NN divestiture)))))
+    (. .) ('' '')))
+

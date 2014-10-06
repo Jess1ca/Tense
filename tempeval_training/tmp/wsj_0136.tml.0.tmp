@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Oshkosh) (NNP Truck) (NNP Corp.))
+      (, ,)
+      (NP (NNP Oshkosh) (, ,) (NNP Wis.))
+      (, ,))
+    (VP (VBD estimated)
+      (SBAR
+        (S
+          (NP
+            (NP (NNS earnings))
+            (PP (IN for)
+              (NP
+                (NP (PRP$ its) (JJ fourth) (NN quarter))
+                (VP (VBN ended)
+                  (NP (NNP Sept.) (CD 30))))))
+          (VP (VBD fell)
+            (NP
+              (QP (CD 50) (NN %) (TO to) (CD 75) (NN %)))
+            (PP (IN below)
+              (NP
+                (NP (DT the) (JJ year-earlier)
+                  (QP ($ $) (CD 4.5) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (CD 51) (NNS cents))
+                  (NP (DT a) (NN share)))))))))
+    (. .)))
+

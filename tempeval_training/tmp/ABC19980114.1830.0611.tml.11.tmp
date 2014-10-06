@@ -1,0 +1,7 @@
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP (DT no) (NN response)))
+    (. .)))
+

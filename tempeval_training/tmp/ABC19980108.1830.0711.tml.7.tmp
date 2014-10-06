@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJR More) (NNS problems))
+      (PP (IN in)
+        (NP
+          (NP (NNP Hong) (NNP Kong))
+          (PP (IN for)
+            (NP (DT a) (NN place)))
+          (, ,)
+          (PP (IN for)
+            (NP
+              (NP (DT an) (NN economy))
+              (, ,)
+              (SBAR (IN that)
+                (S
+                  (NP (JJ many) (NNS experts))
+                  (VP (VBD thought)))))))))
+    (VP (VBD was)
+      (ADJP (RB once) (JJ invincible)))
+    (. .)))
+

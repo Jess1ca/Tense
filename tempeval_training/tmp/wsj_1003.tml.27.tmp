@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP National) (NNP Intergroup) (NN stock))
+    (VP (VBD closed)
+      (PP (IN at)
+        (NP ($ $) (CD 15)))
+      (, ,)
+      (S
+        (ADJP (JJ unchanged)))
+      (PP (IN in)
+        (NP
+          (NP (JJ composite) (NN trading))
+          (PP (IN on)
+            (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))))))
+    (. .)))
+

@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ first) (CD nine) (NNS months)))
+    (, ,)
+    (NP (NN net))
+    (VP (VBD was)
+      (NP
+        (QP ($ $) (CD 306) (CD million)))
+      (, ,)
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (NN loss))
+            (PP (IN of)
+              (NP
+                (NP
+                  (QP ($ $) (CD 195) (CD million)))
+                (PP (IN in)
+                  (NP (DT the) (CD 1988) (NN period)))))))))
+    (. .)))
+

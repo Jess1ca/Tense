@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT Some))
+      (PP (IN of)
+        (NP
+          (NP (NNP Sansui) (POS 's))
+          (JJ fellow) (NN audio-specialty) (NNS companies)))
+      (, ,)
+      (PP (JJ such) (IN as)
+        (NP
+          (NP (NNP Aiwa) (NNP Co.))
+          (CC and)
+          (NP (NNP Pioneer) (NNP Electric) (NNP Corp.))))
+      (, ,))
+    (VP (VBD responded)
+      (PP (TO to)
+        (NP (DT the) (NN challenge)))
+      (PP (IN by)
+        (S
+          (VP
+            (ADVP (RB quickly))
+            (VBG bringing)
+            (PRT (RP out))
+            (NP
+              (NP (JJ mini-component) (NNS products))
+              (PP (IN of)
+                (NP (PRP$ their) (JJ own)))))))
+      (, ,)
+      (PP
+        (PP (IN by)
+          (S
+            (VP (VBG moving)
+              (ADVP (RB heavily))
+              (PP (IN into)
+                (NP (DT the) (JJ booming) (JJ compact) (NN disk) (NNS businesses))))))
+        (CC or)
+        (PP (IN by)
+          (S
+            (VP (VBG diversifying)
+              (PP (IN into)
+                (NP (JJ other) (JJ consumer-electronics) (NNS fields)))))))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP (NN laser) (NNS disks))
+          (CC or)
+          (NP (JJ portable) (NN cassette) (NNS players)))))
+    (. .)))
+

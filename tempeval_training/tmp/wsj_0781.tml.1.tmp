@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Computer) (NNS experts))
+        (ADJP (JJ familiar)
+          (PP (IN with)
+            (NP (DT the) (NNS flaws)))))
+      (, ,)
+      (VP (VBN found)
+        (PP (IN in)
+          (NP
+            (NP (NNP Intel) (POS 's))
+            (CD 80486) (NN chip))))
+      (, ,))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (DT the) (NNS defects))
+          (VP
+            (VP (VBP do) (RB n't)
+              (VP (VB affect)
+                (NP (DT the) (JJ average) (NN user))))
+            (CC and)
+            (VP (VBP are)
+              (ADJP (JJ likely)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (VP (VBN cleared)
+                        (PRT (RP up))
+                        (PP (IN before)
+                          (S
+                            (NP (JJS most) (NNS computers))
+                            (VP (VBG using)
+                              (NP (DT the) (NN chip))
+                              (PP (IN as)
+                                (NP (PRP$ their) (`` ``) (NNS brains) ('' ''))))))))))))
+            (VP (VB appear)
+              (PP (IN on)
+                (NP (DT the) (NN market)))
+              (NP (RB sometime) (JJ next) (NN year)))))))
+    (. .)))
+

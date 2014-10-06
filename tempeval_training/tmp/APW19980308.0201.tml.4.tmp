@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (S
+      (NP (JJ Ethnic) (NNS Albanians))
+      (VP (VBP comprise)
+        (NP
+          (NP (CD 90) (NN percent))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN population))
+              (PP (IN in)
+                (NP (NNP Kosovo))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNP Serbs))
+      (VP (VBP maintain)
+        (NP (NN control))
+        (PP (IN through)
+          (NP (DT a) (JJ large) (NN military)
+            (CC and)
+            (NN police) (NN presence)))))
+    (. .)))
+

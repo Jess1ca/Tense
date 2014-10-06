@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (DT A) (NNP UN) (NN spokesman))
+    (VP
+      (VP (VBZ says)
+        (SBAR
+          (S
+            (NP (NNP UN) (NN secretary) (NN general) (NNP Kofi) (NNP Annan))
+            (VP (VBZ is)
+              (PP (IN on)
+                (NP
+                  (NP (DT the) (NN verge))
+                  (PP (IN of)
+                    (NP (DT a) (NN breakthrough)))))))))
+      (, ,)
+      (CC but)
+      (VP (VBD added)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's) (RB not)
+              (VP (VBN done)
+                (ADVP (RB yet))))))))
+    (. .)))
+

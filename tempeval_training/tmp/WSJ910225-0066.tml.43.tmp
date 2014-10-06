@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Bush))
+    (VP (VBD forestalled)
+      (NP (JJ further) (JJ diplomatic) (NN maneuvering))
+      (PP (IN by)
+        (S
+          (VP (VBG issuing)
+            (NP (DT an) (NN ultimatum))
+            (PP (IN on)
+              (S
+                (NP
+                  (NP (NN behalf))
+                  (PP (IN of)
+                    (NP (DT the) (NNS allies))))
+                (VP (VBG demanding)
+                  (SBAR (IN that)
+                    (S
+                      (NP (NNP Iraq))
+                      (VP (VB withdraw)
+                        (PP (IN within)
+                          (NP (DT a) (NN week))))))))))))
+      (, ,)
+      (PP (VBG starting)
+        (PP (IN at)
+          (NP (NN noon))
+          (NP (NNP Saturday)))))
+    (. .)))
+

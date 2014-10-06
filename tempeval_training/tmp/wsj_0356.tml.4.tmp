@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN company))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD was))))))
+    ('' '')
+    (VP (VBD concerned)
+      (PP (IN about)
+        (NP (DT the) (VBN announced) (NN intent)
+          (S
+            (VP (TO to)
+              (VP (VB acquire)
+                (NP
+                  (NP (NN control))
+                  (PP (IN of)
+                    (NP (DT the) (NN company))))
+                ('' '')
+                (PP (IN by)
+                  (NP (DT a) (JJ Sugarman-led) (NN group)))))))))
+    (. .)))
+

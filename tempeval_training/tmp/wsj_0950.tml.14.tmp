@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (NNP GMAC)))
+    (, ,)
+    (NP (NN net))
+    (VP (VBD dropped)
+      (NP (CD 3.1) (NN %))
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 234.5) (CD million))))
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 241.9) (CD million)))))
+    (. .)))
+

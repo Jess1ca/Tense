@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (NNP Kalashnikov))
+    (VP (VBD designed)
+      (NP
+        (NP (DT the) (NNP AK-47) (JJ automatic) (NN rifle))
+        (, ,)
+        (VP (VBN famed)
+          (PP (IN for)
+            (NP (PRP$ its) (NN reliability)
+              (CC and)
+              (NN effectiveness))))))
+    (. .)))
+

@@ -1,0 +1,24 @@
+1	Consolidated	_	NNP	NNP	_	3	nn	_	_
+2	Freightways	_	NNPS	NNPS	_	3	nn	_	_
+3	Inc.	_	NNP	NNP	_	4	nsubj	_	_
+4	reported	_	VBD	VBD	_	0	root	_	_
+5	a	_	DT	DT	_	8	det	_	_
+6	77	_	CD	CD	_	7	number	_	_
+7	%	_	NN	NN	_	8	amod	_	_
+8	drop	_	NN	NN	_	4	dobj	_	_
+9	in	_	IN	IN	_	4	prep	_	_
+10	third-quarter	_	JJ	JJ	_	12	amod	_	_
+11	net	_	JJ	JJ	_	12	amod	_	_
+12	income	_	NN	NN	_	9	pobj	_	_
+13	,	_	,	,	_	4	punct	_	_
+14	citing	_	VBG	VBG	_	4	vmod	_	_
+15	expected	_	JJ	JJ	_	16	amod	_	_
+16	losses	_	NNS	NNS	_	14	dobj	_	_
+17	in	_	IN	IN	_	14	prep	_	_
+18	its	_	PRP$	PRP$	_	22	poss	_	_
+19	Emery	_	NNP	NNP	_	22	nn	_	_
+20	Worldwide	_	NNP	NNP	_	22	nn	_	_
+21	shipping	_	NN	NN	_	22	nn	_	_
+22	business	_	NN	NN	_	17	pobj	_	_
+23	.	_	.	.	_	4	punct	_	_
+

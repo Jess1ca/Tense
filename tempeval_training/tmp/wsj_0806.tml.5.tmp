@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (MD will)
+      (VP (VB have)
+        (NP
+          (NP
+            (QP (CD 11.8) (CD million))
+            (NNS shares))
+          (ADJP (JJ outstanding)))
+        (PP (IN after)
+          (NP (DT the) (NN offering)))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (NNP Healthdyne))
+            (VP (VBG owning)
+              (NP
+                (NP
+                  (QP (RB about) (CD 65))
+                  (NN %))
+                (PP (IN of)
+                  (NP (DT the) (NN total)))))))))
+    (. .)))
+

@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Mr.) (NNP Schwarz))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ is)
+            (NP
+              (NP (NN president))
+              (PP (IN of)
+                (NP (NNP U.S.) (NNP Trust)))))))
+      (, ,))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN succeeded)
+          (PP (IN in)
+            (NP (DT that) (NN post)))
+          (PP (IN by)
+            (NP
+              (NP (NNP Jeffrey) (NNP S.) (NNP Maurer))
+              (, ,)
+              (NP (CD 42))
+              (, ,)
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBZ is)
+                    (NP
+                      (NP (JJ executive) (NN vice) (NN president))
+                      (PP (IN in)
+                        (NP
+                          (NP (NN charge))
+                          (PP (IN of)
+                            (NP
+                              (NP (DT the) (NN company) (POS 's))
+                              (NN asset-management) (NN group))))))))))))))
+    (. .)))
+

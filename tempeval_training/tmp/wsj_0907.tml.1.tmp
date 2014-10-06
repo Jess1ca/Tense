@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ year-earlier) (NN quarter)))
+    (, ,)
+    (NP (DT the) (NN automobile)
+      (CC and)
+      (NN trucking) (NN insurer))
+    (VP (VBD had)
+      (NP
+        (NP (NNS earnings))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 1.4) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 48) (NNS cents))
+              (NP (DT a) (NN share))))))
+      (PP (IN on)
+        (NP (DT a) (JJ restated) (NN basis)))
+      (, ,)
+      (PP (IN on)
+        (NP
+          (NP (NN revenue))
+          (PP (IN of)
+            (NP
+              (QP ($ $) (CD 16.5) (CD million)))))))
+    (. .)))
+

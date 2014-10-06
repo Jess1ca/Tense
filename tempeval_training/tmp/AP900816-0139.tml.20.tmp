@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD called)
+      (NP (NNP U.S.) (NNS soldiers))
+      (S
+        (VP (VBG massing)
+          (PP (IN in)
+            (NP (NNP Saudi) (NNP Arabia)))
+          (NP
+            (NP (DT the) (JJ real) (NNS occupiers))
+            (PP (IN in)
+              (NP (DT the) (NNP Persian) (NNP Gulf)))))))
+    (. .)))
+

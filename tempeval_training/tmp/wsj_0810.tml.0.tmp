@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP Cie.) (NNP de) (NNP Navigation) (NNP Mixte) (NNP Chairman) (NNP Marc) (NNP Fournier))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP$ his) (NN board))
+          (ADVP (RB unanimously))
+          (VP (VBD rejected)
+            (ADVP (RB as) (RB too) (JJ low))
+            (NP (DT the)
+              (ADJP
+                (ADJP
+                  (QP ($ $) (CD 1.77) (CD billion))
+                  (NN bid))
+                (PP (IN by)))
+              (NX (NNP Cie.) (NNP Financiere) (IN de) (NNP Paribas)))
+            (S
+              (VP (TO to)
+                (VP (VB bring)
+                  (NP (PRP$ its) (NN stake))
+                  (PP (IN in)
+                    (NP
+                      (NP (NNP Navigation) (NNP Mixte))
+                      (PP (TO to)
+                        (NP (CD 66.7) (NN %))))))))))))
+    (. .)))
+

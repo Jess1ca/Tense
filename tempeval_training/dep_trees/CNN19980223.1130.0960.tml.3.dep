@@ -1,0 +1,18 @@
+1	that	_	DT	DT	_	3	nsubjpass	_	_
+2	's	_	VBZ	VBZ	_	3	auxpass	_	_
+3	built	_	VBN	VBN	_	0	root	_	_
+4	up	_	RP	RP	_	3	prt	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	heck	_	NN	NN	_	3	dobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	a	_	DT	DT	_	9	det	_	_
+9	momentum	_	NN	NN	_	7	pobj	_	_
+10	and	_	CC	CC	_	6	cc	_	_
+11	that	_	IN	IN	_	14	mark	_	_
+12	momentum	_	NN	NN	_	14	nsubj	_	_
+13	will	_	MD	MD	_	14	aux	_	_
+14	look	_	VB	VB	_	6	conj	_	_
+15	to	_	TO	TO	_	16	aux	_	_
+16	increase	_	VB	VB	_	14	xcomp	_	_
+17	.	_	.	.	_	3	punct	_	_
+

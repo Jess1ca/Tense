@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT The) (NN group))
+    (VP (VBZ has)
+      (NP
+        (NP (NNS branches))
+        (PP (IN in)
+          (NP
+            (NP (NNP Pakistan) (, ,) (NNP Iran) (, ,) (NNP Europe) (, ,) (NNP Australia) (, ,))
+            (CC and)
+            (NP (NNP North) (NNP America))))))
+    (. .)))
+

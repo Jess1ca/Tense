@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJS latest) (NN quarter) (POS 's))
+      (NNS results))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VBD included)
+      (NP
+        (NP (DT a) (JJ pretax) (NN gain))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 13.7) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 20) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,))))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (VBG carrying) (NN value))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP
+                  (NP (DT the) (NN company) (POS 's))
+                  (NN investment))
+                (PP (IN in)
+                  (NP (NNP Conner) (NNPS Peripherals) (NNP Inc.))))
+              (CC and)
+              (NP
+                (NP
+                  (NP (DT a)
+                    (ADJP
+                      (QP ($ $) (CD 7.6) (CD million)))
+                    (NN gain))
+                  (, ,)
+                  (CC or)
+                  (NP
+                    (NP (CD 11) (NNS cents))
+                    (NP (DT a) (NN share)))
+                  (, ,))
+                (PP (IN from)
+                  (NP
+                    (NP (DT the) (NN sale))
+                    (PP (IN of)
+                      (NP
+                        (QP (CD one) (CD million))
+                        (NNP Conner) (NNS shares)))))))))))
+    (. .)))
+

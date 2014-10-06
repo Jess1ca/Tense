@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT An) (JJ ambitious) (NN expansion))
+    (VP (VBZ has)
+      (VP (VBN left)
+        (NP (FW Magna))
+        (PP (IN with)
+          (NP
+            (NP (JJ excess) (NN capacity))
+            (CC and)
+            (NP (DT a) (JJ heavy) (NN debt) (NN load))))
+        (SBAR (IN as)
+          (S
+            (NP (DT the) (JJ automotive) (NN industry))
+            (VP (VBZ enters)
+              (NP (DT a) (NN downturn)))))))
+    (. .)))
+

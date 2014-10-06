@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN north) (POS 's))
+            (JJ substantial) (JJ Catholic) (NN minority))
+          (VP (VBD demanded)
+            (NP
+              (NP (DT a) (NN settlement))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (MD would)
+                    (VP (VB promote)
+                      (NP
+                        (NP
+                          (NP (NNP Northern) (NNP Ireland) (POS 's))
+                          (JJ eventual) (NN unification))
+                        (PP (IN with)
+                          (NP (DT the) (JJ Irish) (NN Republic)))))))))))))
+    (. .)))
+

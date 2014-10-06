@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN offer))
+      (, ,)
+      (VP (VBN valued)
+        (PP (IN at)
+          (NP
+            (QP (RB about) ($ $) (CD 576) (CD million))))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (CD 33) (NN %))
+            (PP (IN of)
+              (NP (NNP Telerate)))))
+        (SBAR (IN that)
+          (S
+            (NP (NNP Dow) (NNP Jones))
+            (VP (VBZ does) (RB n't)
+              (ADVP (RB already))
+              (VP (VB own))))))
+      (, ,))
+    (VP (VBD had)
+      (VP (VBN been)
+        (VP (VBN set)
+          (S
+            (VP (TO to)
+              (VP (VB expire)
+                (NP (NNP Nov.) (CD 6))))))))
+    (. .)))
+

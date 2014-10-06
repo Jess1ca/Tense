@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN With)
+      (NP (JJ American) (NN astronaut) (NNP Jon) (NNP McBride)))
+    (, ,)
+    (NP (NNP Farkas))
+    (VP (VBD set)
+      (PRT (RP up))
+      (NP
+        (NP (DT an) (JJ American-Hungarian) (JJ joint) (NN venture))
+        (VP (VBN called)
+          (NP (NNP Orion) (CD 1980))))
+      (, ,)
+      (S
+        (VP (VBG manufacturing)
+          (NP (JJ space-travel) (JJ related) (NN technology)))))
+    (. .)))
+

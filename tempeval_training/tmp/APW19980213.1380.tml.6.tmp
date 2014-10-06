@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT A) (NN passerby))
+    (VP (VBD called)
+      (NP (NNS police))
+      (S
+        (VP (TO to)
+          (VP (VB report)
+            (NP (DT the) (NN body))
+            (PP (IN alongside)
+              (NP (DT the) (NN road)))))))
+    (. .)))
+

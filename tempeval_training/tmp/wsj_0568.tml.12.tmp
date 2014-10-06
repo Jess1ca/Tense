@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT The) (NN tax) (NNS payments))
+    (VP (MD will)
+      (VP (VB leave)
+        (NP
+          (NP (NNP Unisys))
+          (PP (IN with)
+            (NP
+              (QP ($ $) (CD 225) (CD million)))))
+        (PP (IN in)
+          (NP
+            (NP (NN loss) (NNS carry-forwards))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (MD will)
+                  (VP (VB cut)
+                    (NP (NN tax) (NNS payments))
+                    (PP (IN in)
+                      (NP (JJ future) (NNS quarters)))))))))))
+    (. .)))
+

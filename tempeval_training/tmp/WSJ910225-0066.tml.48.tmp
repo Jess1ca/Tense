@@ -1,0 +1,50 @@
+(ROOT
+  (S (CC And)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP
+          (NP (PRP he))
+          (CC and)
+          (NP (NNP President) (NNP Gorbachev)))
+        (VP (VBD spoke)
+          (PP (IN about)
+            (NP (DT the) (NN decision)))
+          (PP (IN in)
+            (NP
+              (NP (DT a) (NN talk))
+              (VP (VBG lasting)
+                (NP (RB nearly) (DT an) (NN hour))))))))
+    (, ,)
+    (NP (DT the) (NNP President))
+    (VP (VBD took)
+      (NP (NNS pains))
+      (S
+        (VP (TO to)
+          (VP (VB listen)
+            (PP (TO to)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (PRP$ his) (NN counterpart))
+                  (VP (VBD had)
+                    (S
+                      (VP (TO to)
+                        (VP (VB say)))))))))))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (NP (PRP he))
+          (ADVP (RB already))
+          (VP (VBD had)
+            (VP (VBN decided)
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (DT the) (JJ Soviet) (NN alternative))
+                    (PP (TO to)
+                      (NP (DT the) (JJ allied) (NN deadline))))
+                  (VP (VBD was)
+                    (ADJP (JJ unacceptable))))))))))
+    (. .)))
+

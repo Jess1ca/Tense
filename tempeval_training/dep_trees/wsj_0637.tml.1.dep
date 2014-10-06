@@ -1,0 +1,25 @@
+1	Proceeds	_	NNS	NNS	_	4	nsubjpass	_	_
+2	will	_	MD	MD	_	4	aux	_	_
+3	be	_	VB	VB	_	4	auxpass	_	_
+4	used	_	VBN	VBN	_	16	ccomp	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	reduce	_	VB	VB	_	4	xcomp	_	_
+7	short-term	_	JJ	JJ	_	8	amod	_	_
+8	debt	_	NN	NN	_	6	dobj	_	_
+9	at	_	IN	IN	_	6	prep	_	_
+10	the	_	DT	DT	_	14	det	_	_
+11	beer	_	NN	NN	_	14	nn	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	food	_	NN	NN	_	11	conj	_	_
+14	concern	_	NN	NN	_	9	pobj	_	_
+15	,	_	,	,	_	16	punct	_	_
+16	said	_	VBD	VBD	_	0	root	_	_
+17	Robert	_	NNP	NNP	_	18	nn	_	_
+18	Vaux	_	NNP	NNP	_	16	nsubj	_	_
+19	,	_	,	,	_	18	punct	_	_
+20	vice	_	NN	NN	_	21	nn	_	_
+21	president	_	NN	NN	_	18	appos	_	_
+22	,	_	,	,	_	21	punct	_	_
+23	finance	_	NN	NN	_	21	appos	_	_
+24	.	_	.	.	_	16	punct	_	_
+

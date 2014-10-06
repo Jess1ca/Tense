@@ -1,0 +1,11 @@
+1	Previously	_	RB	RB	_	6	advmod	_	_
+2	,	_	,	,	_	6	punct	_	_
+3	watch	_	NN	NN	_	4	nn	_	_
+4	imports	_	NNS	NNS	_	6	nsubjpass	_	_
+5	were	_	VBD	VBD	_	6	auxpass	_	_
+6	denied	_	VBN	VBN	_	0	root	_	_
+7	such	_	JJ	JJ	_	6	prep	_	_
+8	duty-free	_	JJ	JJ	_	9	amod	_	_
+9	treatment	_	NN	NN	_	7	dep	_	_
+10	.	_	.	.	_	6	punct	_	_
+

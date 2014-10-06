@@ -1,0 +1,30 @@
+(ROOT
+  (S (CC But)
+    (SBAR (IN as)
+      (S
+        (NP
+          (NP (NNS supporters))
+          (PP (IN of)
+            (NP (DT the) (JJ military) (NN leader))))
+        (VP (VBD gathered)
+          (PP (IN in)
+            (NP (DT the) (NN north))))))
+    (, ,)
+    (NP (NN riot) (NNS police))
+    (VP (VBD deployed)
+      (PP (IN in)
+        (NP
+          (NP (NNP Nigeria) (POS 's))
+          (JJ southern) (JJ commercial) (NN capital) (NNS Lagos)))
+      (, ,)
+      (S
+        (VP (TO to)
+          (VP (VB break)
+            (PRT (RP up))
+            (NP
+              (NP (DT a) (NN protest) (NN rally))
+              (VP (VBN called)
+                (PP (IN by)
+                  (NP (DT the) (JJ political) (NN opposition)))))))))
+    (. .)))
+

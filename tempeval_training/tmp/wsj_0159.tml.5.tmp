@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP Dunkin'))
+    (VP (VBZ has)
+      (VP (VBN set)
+        (NP (NNP Nov.) (CD 10))
+        (PP (IN as)
+          (NP
+            (NP (DT the) (NN deadline))
+            (PP (IN for)
+              (NP
+                (NP (DT the) (NN receipt))
+                (PP (IN of)
+                  (NP (DT any) (VBG competing) (NNS bids)))))))))
+    (. .)))
+

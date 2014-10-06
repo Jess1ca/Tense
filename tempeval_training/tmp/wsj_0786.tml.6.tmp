@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (ADVP
+      (NP (DT A) (JJ few) (NNS days))
+      (RB later))
+    (, ,)
+    (NP (NNP American) (NNP Medical))
+    (VP (VBD announced)
+      (NP
+        (ADJP (RB sharply) (JJR lower))
+        (NNS earnings))
+      (, ,)
+      (S
+        (VP (VBG taking)
+          (NP
+            (NP (NNS charges))
+            (PP (IN of)
+              (NP
+                (QP ($ $) (CD 24) (CD million)))))
+          (PP (IN for)
+            (NP
+              (NP (NN insurance) (NNS reserves))
+              (CC and)
+              (NP (VBN canceled) (JJ real) (NN estate) (NNS leases)))))))
+    (. .)))
+

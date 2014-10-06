@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (NNP Kalamazoo) (, ,) (JJ Mich.-based))
+        (NNP First))
+      (PP (IN of)
+        (NP (NNP America))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB eliminate)
+              (NP
+                (NP (DT the) (CD 13) (NN management) (NNS positions))
+                (PP (IN of)
+                  (NP (DT the) (JJ former) (NNP Midwest) (NNP Financial) (NN parent) (NN company)))))))))
+    (. .)))
+

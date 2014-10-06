@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Mark) (NNP Shepperd))
+      (, ,)
+      (NP
+        (NP (DT an) (NN analyst))
+        (PP (IN at)
+          (NP
+            (NP (NNP UBS) (NNP Phillips) (NNP amp) (NNP Drew))
+            (PP (IN in)
+              (NP (NNP London))))))
+      (, ,))
+    (VP (VBD said) (, ,) (`` ``)
+      (S
+        (NP (PRP I))
+        (VP (VBP suspect)
+          (SBAR
+            (S (-LRB- -LRB-)
+              (NP (DT the) (NN departure))
+              (-RRB- -RRB-)
+              (VP (MD will)
+                (VP (VB be)
+                  (ADJP (RB fairly) (JJ irrelevant)
+                    (PP (IN for)
+                      (NP (DT the) (NN company)))))))))))
+    (. .)))
+

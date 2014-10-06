@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBZ has) (RB n't)
+        (VP (VBN diversified)
+          (PP (IN beyond)
+            (NP (NN steel)))))
+      (, ,)
+      (CC nor)
+      (VP (VBZ has)
+        (NP (PRP it))
+        (VP (VBN linked)
+          (PRT (RP up))
+          (PP (IN with)
+            (NP (DT a) (JJ joint) (NN venture) (NN partner)))
+          (PP (TO to)
+            (NP (NN share) (NNS costs)
+              (CC and)
+              (NNS risks))))))
+    (. .)))
+

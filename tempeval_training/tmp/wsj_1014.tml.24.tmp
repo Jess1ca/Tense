@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (VP (VBN followed)
+        (PP (IN by)
+          (NP
+            (NP (NNP Stroh) (NNP Brewery) (NNP Co.))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ has)
+                  (VP (VBN agreed)
+                    (S
+                      (VP (TO to)
+                        (VP (VB sell)
+                          (NP (PRP$ its) (NNS assets))
+                          (PP (TO to)
+                            (NP (NNP Coors))))))))))))))
+    (. .)))
+

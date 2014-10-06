@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (NNP Iraq))
+    (VP (VBD was)
+      (ADJP (JJ ready)
+        (S
+          (VP (TO to)
+            (VP (VB withdraw))))))
+    (. .) ('' '')))
+

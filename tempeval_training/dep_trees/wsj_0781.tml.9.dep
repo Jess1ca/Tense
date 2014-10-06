@@ -1,0 +1,18 @@
+1	``	_	``	``	_	13	punct	_	_
+2	We	_	PRP	PRP	_	5	nsubj	_	_
+3	have	_	VBP	VBP	_	5	aux	_	_
+4	n't	_	RB	RB	_	5	neg	_	_
+5	modified	_	VBN	VBN	_	13	ccomp	_	_
+6	our	_	PRP$	PRP$	_	7	poss	_	_
+7	schedules	_	NNS	NNS	_	5	dobj	_	_
+8	in	_	IN	IN	_	5	prep	_	_
+9	any	_	DT	DT	_	10	det	_	_
+10	way	_	NN	NN	_	8	pobj	_	_
+11	,	_	,	,	_	13	punct	_	_
+12	''	_	''	''	_	13	punct	_	_
+13	said	_	VBD	VBD	_	0	root	_	_
+14	a	_	DT	DT	_	16	det	_	_
+15	Sun	_	NNP	NNP	_	16	nn	_	_
+16	spokesman	_	NN	NN	_	13	nsubj	_	_
+17	.	_	.	.	_	13	punct	_	_
+

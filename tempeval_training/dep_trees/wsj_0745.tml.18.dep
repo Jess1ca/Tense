@@ -1,0 +1,18 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	government	_	NN	NN	_	6	nsubj	_	_
+3	probably	_	RB	RB	_	6	advmod	_	_
+4	would	_	MD	MD	_	6	aux	_	_
+5	n't	_	RB	RB	_	6	neg	_	_
+6	give	_	VB	VB	_	0	root	_	_
+7	in	_	RP	RP	_	6	prt	_	_
+8	readily	_	RB	RB	_	6	advmod	_	_
+9	to	_	TO	TO	_	8	prep	_	_
+10	a	_	DT	DT	_	12	det	_	_
+11	hostile	_	JJ	JJ	_	12	amod	_	_
+12	foray	_	NN	NN	_	9	pobj	_	_
+13	by	_	IN	IN	_	6	prep	_	_
+14	Ford	_	NNP	NNP	_	13	pobj	_	_
+15	,	_	,	,	_	6	punct	_	_
+16	however	_	RB	RB	_	6	advmod	_	_
+17	.	_	.	.	_	6	punct	_	_
+

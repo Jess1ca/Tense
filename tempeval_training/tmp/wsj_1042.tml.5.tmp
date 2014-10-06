@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP Avon))
+    (ADVP (RB also))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB issue)
+              (NP
+                (NP (DT an) (JJ additional) (NN 243,677))
+                (PP (IN of)
+                  (NP (DT the) (NNP Class) (NNP C) (NNS warrants))))
+              (PP (TO to)
+                (NP
+                  (NP (NNS holders))
+                  (PP (IN of)
+                    (NP (PRP$ its)
+                      (UCP (NN Class) (DT A) (, ,) (NN Class) (NNP B)
+                        (CC and)
+                        (JJ unclassified))
+                      (NNS warrants))))))))))
+    (. .)))
+

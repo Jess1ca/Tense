@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT The) (JJS latest) (NNS results))
+    (VP (VBP include)
+      (NP
+        (NP (DT some) (JJ unusual) (NNS write-downs))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD had)
+              (NP
+                (NP (DT an) (JJ after-tax) (NN impact))
+                (PP (IN of)
+                  (NP
+                    (QP ($ $) (CD 4.9) (CD million))))))))))
+    (. .)))
+

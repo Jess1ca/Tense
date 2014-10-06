@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Kuchma))
+      (VP (VBD assured)
+        (NP (NNP Yeltsin))
+        (SBAR (IN that)
+          (S
+            (NP (NNP Ukraine))
+            (VP (MD would) (RB not)
+              (VP (VB join)
+                (NP (NNP NATO))))))))
+    (, ,)
+    (S
+      (NP
+        (NP (NNP Yeltsin) (POS 's))
+        (NN spokesman) (NNP Sergei) (NNP Yastrzhembsky))
+      (VP (VBD said)))
+    (, ,)
+    (PP (VBG according)
+      (PP (TO to)
+        (NP (DT the) (NNP Interfax) (NN news) (NN agency))))
+    (. .)))
+

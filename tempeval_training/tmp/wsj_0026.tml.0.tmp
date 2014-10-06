@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP White) (NNP House))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP President) (NNP Bush))
+          (VP (VBZ has)
+            (VP (VBN approved)
+              (NP (JJ duty-free) (NN treatment))
+              (PP (IN for)
+                (NP
+                  (NP (NNS imports))
+                  (PP (IN of)
+                    (NP
+                      (NP (JJ certain) (NNS types))
+                      (PP (IN of)
+                        (NP
+                          (NP (NNS watches))
+                          (SBAR
+                            (WHNP (WDT that))
+                            (S
+                              (VP (VBP are) (RB n't)
+                                (VP (VBN produced)
+                                  (PP (IN in) (`` ``)
+                                    (NP (JJ significant) (NNS quantities))
+                                    ('' ''))
+                                  (PP (IN in)
+                                    (NP
+                                      (NP (DT the) (NNP U.S.))
+                                      (, ,)
+                                      (NP (DT the) (NNP Virgin) (NNPS Islands))
+                                      (CC and)
+                                      (NP (JJ other) (NNP U.S.) (NNS possessions)))))))))))))))))))
+    (. .)))
+

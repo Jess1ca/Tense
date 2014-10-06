@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT the) (NN bond) (NN market))
+        (, ,)
+        (NP
+          (NP (DT a) (JJ sensitive) (NN barometer))
+          (PP (IN of)
+            (NP (NN inflation) (NN anxiety))))))
+    (, ,)
+    (NP (NNS prices))
+    (VP (VBD edged)
+      (PRT (RP up))
+      (, ,)
+      (S
+        (VP (VBG pushing)
+          (PRT (RP down))
+          (NP
+            (NP (DT the) (NN yield))
+            (PP (IN on)
+              (NP (DT the) (JJ benchmark) (JJ 30-year) (NNP Treasury) (NN bond))))
+          (PP (TO to)
+            (NP (CD 5.92) (NN percent)))
+          (PP (IN from)
+            (NP (CD 5.93) (NN percent))))))
+    (. .)))
+

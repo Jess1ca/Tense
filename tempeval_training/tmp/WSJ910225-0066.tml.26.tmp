@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (ADVP (RB Certainly))
+    (NP (NNP Saddam) (NNP Hussein))
+    (VP (VBZ continues)
+      (S
+        (VP (TO to)
+          (VP (VB implore)
+            (NP (PRP$ his) (NN country)
+              (S
+                (VP (TO to)
+                  (VP (VB fight)
+                    (PRT (RP on))))))))))
+    (. .)))
+

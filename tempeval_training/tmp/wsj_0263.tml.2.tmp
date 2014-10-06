@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (DT The) (NN dividend))
+    (VP (VBD had)
+      (VP (VBN been)
+        (NP
+          (NP (CD five) (NNS cents))
+          (NP (DT a) (NN share)))))
+    (. .)))
+

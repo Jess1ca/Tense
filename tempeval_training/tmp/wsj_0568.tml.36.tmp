@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG Reflecting)
+        (NP (DT the) (NN concern))))
+    (, ,)
+    (NP (NNP Unisys) (NN stock))
+    (VP (VBD fell)
+      (NP (DT a) (JJ further) (CD 75) (NNS cents))
+      (PP (TO to)
+        (NP
+          (NP ($ $) (CD 16.25))
+          (PP (IN in)
+            (NP (JJ composite) (NN trading)))
+          (NP (NNP Friday))))
+      (PP (IN on)
+        (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange))))
+    (. .)))
+

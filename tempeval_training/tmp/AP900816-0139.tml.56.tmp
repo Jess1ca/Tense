@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NN Thirty-two))
+        (PP (IN of)
+          (NP (DT the) (NNP 159) (NNP U.N.) (NNS members))))
+      (VP (VBD had)
+        (VP (VBN filed)
+          (NP (NN compliance) (NNS reports))
+          (PP (IN by)
+            (NP (NNP Wednesday))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT all))
+      (VP (VBD were)
+        (VP (VBG honoring)
+          (NP (DT the) (NNP sanctions) (NNP Iraq)))))
+    (. .)))
+

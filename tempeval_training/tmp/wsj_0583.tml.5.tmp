@@ -1,0 +1,11 @@
+(ROOT
+  (S (CC But)
+    (NP (NNS analysts))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (NNP Sansui))
+          (VP (VBZ is)
+            (NP (DT a) (JJ special) (NN case))))))
+    (. .)))
+

@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (CD One) (JJ big) (NN question))
+    (ADVP (RB now))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ likely) (NN role))
+        (PP (IN of)
+          (NP
+            (NP (NNP Mr.) (NNP Fournier) (POS 's))
+            (NNS allies)))))
+    (. .)))
+

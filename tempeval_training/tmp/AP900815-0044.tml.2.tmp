@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP President) (NNP Bush))
+      (PP (IN on)
+        (NP (NNP Tuesday))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNP United) (NNPS States))
+          (VP (MD may)
+            (VP (VB extend)
+              (NP (PRP$ its) (JJ naval) (NN quarantine))
+              (PP (TO to)
+                (NP
+                  (NP
+                    (NP (NNP Jordan) (POS 's))
+                    (NNP Red) (NNP Sea) (NN port))
+                  (PP (IN of)
+                    (NP (NNP Aqaba)))))
+              (S
+                (VP (TO to)
+                  (VP (VB shut)
+                    (PRT (RP off))
+                    (NP
+                      (NP (NNP Iraq) (POS 's))
+                      (JJ last) (JJ unhindered) (NN trade) (NN route))))))))))
+    (. .)))
+

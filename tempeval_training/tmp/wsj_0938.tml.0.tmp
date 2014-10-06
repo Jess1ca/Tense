@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (NNP Cineplex) (NNP Odeon) (NNP Corp.) (NNS directors))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP
+              (NP (DT the) (NN company) (POS 's))
+              (NX
+                (NX (NN chairman))
+                (CC and)
+                (NX (JJ chief) (NN executive))))
+            (, ,)
+            (NP (NNP Garth) (NNP Drabinsky))
+            (, ,))
+          (VP (VBZ is)
+            (VP (VBG considering)
+              (S
+                (VP (VBG bidding)
+                  (NP
+                    (NP
+                      (QP (CD 780.6) (CD million))
+                      (JJ Canadian) (NNS dollars))
+                    (PRN (-LRB- -LRB-)
+                      (NP
+                        (QP ($ US$) (CD 666) (CD million)))
+                      (-RRB- -RRB-)))
+                  (S
+                    (VP (TO to)
+                      (VP (VB acquire)
+                        (NP (DT the) (NN company))))))))))))
+    (. .)))
+

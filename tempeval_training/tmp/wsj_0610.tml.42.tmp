@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ one-time) (NN charge))
+        (PP (IN of)
+          (NP
+            (QP ($ $) (CD 14.8) (CD million)))))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJS latest) (NN quarter))
+          (VP (VBG covering)
+            (NP
+              (NP (DT the) (NN disposition))
+              (PP (IN of)
+                (NP (JJ certain) (NNS assets))))))))
+    (. .)))
+

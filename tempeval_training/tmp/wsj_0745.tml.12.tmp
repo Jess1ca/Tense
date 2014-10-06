@@ -1,0 +1,14 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT The) (JJ golden) (NN share))
+      (VP (VBZ is)
+        (NP (DT a) (JJ single) (NN share))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (NP (DT the) (JJ magic) (NN share))))
+    (. .) ('' '')))
+

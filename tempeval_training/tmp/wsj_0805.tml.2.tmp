@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (NP (NNP CMS))
+    (VP (VBD reported)
+      (NP
+        (NP (JJ third-quarter) (NN net))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 68.2) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 83) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,)
+            (ADVP (RB up)
+              (PP (IN from)
+                (NP
+                  (NP
+                    (QP ($ $) (CD 66.8) (CD million)))
+                  (, ,)
+                  (CC or)
+                  (NP
+                    (NP (CD 81) (NNS cents))
+                    (NP (DT a) (NN share)))
+                  (, ,))
+                (NP (DT a) (NN year) (IN ago))))))))
+    (. .)))
+

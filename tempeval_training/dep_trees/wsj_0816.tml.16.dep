@@ -1,0 +1,14 @@
+1	In	_	IN	IN	_	8	prep	_	_
+2	major	_	JJ	JJ	_	4	amod	_	_
+3	market	_	NN	NN	_	4	nn	_	_
+4	activity	_	NN	NN	_	1	pobj	_	_
+5	:	_	:	:	_	8	punct	_	_
+6	Stock	_	NNP	NNP	_	7	nn	_	_
+7	prices	_	NNS	NNS	_	8	nsubj	_	_
+8	fell	_	VBD	VBD	_	0	root	_	_
+9	sharply	_	RB	RB	_	8	advmod	_	_
+10	in	_	IN	IN	_	8	prep	_	_
+11	active	_	JJ	JJ	_	12	amod	_	_
+12	trading	_	NN	NN	_	10	pobj	_	_
+13	.	_	.	.	_	8	punct	_	_
+

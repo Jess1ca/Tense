@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT the) (CD nine) (NNS months)))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD reported)
+      (NP
+        (NP
+          (NP (DT a) (JJ net) (NN loss))
+          (PP (IN of)
+            (NP ($ $) (CD 608,413))))
+        (, ,)
+        (CC or)
+        (NP
+          (NP (CD 39) (NNS cents))
+          (NP (DT a) (NN share))))
+      (, ,)
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP
+            (NP
+              (NP (JJ year-earlier) (JJ net) (NN income))
+              (PP (IN of)
+                (NP ($ $) (CD 967,809))))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 62) (NNS cents))
+              (NP (DT a) (NN share)))))))
+    (. .)))
+

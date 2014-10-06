@@ -1,0 +1,18 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (VBP do) (RB n't)
+        (ADVP (RB just))
+        (VP (VB arrive))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (JJ four-star) (NNP Gen.) (NNP John) (NNP Dailey))
+      (, ,)
+      (NP
+        (NP (JJ assistant) (NN commandant))
+        (PP (IN of)
+          (NP (DT the) (NNP U.S.) (NNP Marine) (NNP Corps)))))
+    (. .)))
+

@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (ADVP (RB Then))
+    (, ,)
+    (PP (IN after)
+      (S
+        (VP (VBG extending)
+          (NP (PRP$ its) (NN offer))
+          (NP (CD four) (NNS times))
+          (S
+            (VP (VBG waiting)
+              (PP (IN for)
+                (NP (DT a) (JJ congressional) (NN tax) (NN ruling))))))))
+    (, ,)
+    (NP (NNP IMA))
+    (NP (RB early) (DT this) (NN month))
+    (VP (VBD lowered)
+      (NP (PRP$ its) (NN offer))
+      (PP (TO to)
+        (NP
+          (NP ($ $) (CD 26.50))
+          (NP (DT a) (NN share))))
+      (PP (IN amid)
+        (NP
+          (NP (NN turbulence))
+          (PP (IN in)
+            (NP (DT the) (NN junk) (NN bond) (NN market))))))
+    (. .)))
+

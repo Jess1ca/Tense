@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP Oshkosh) (NNP Truck))
+    (VP (VBD attributed)
+      (NP (DT the) (NN downturn))
+      (PP (IN in)
+        (NP (PRP$ its) (NNS earnings)))
+      (PP (TO to)
+        (NP
+          (NP (JJR higher) (NN start-up) (NNS costs))
+          (PP (IN of)
+            (NP
+              (NP (PRP$ its) (JJ new) (NN chassis) (NN division))
+              (, ,)
+              (NP (DT a) (JJR softer) (NN motor-home) (NN market))
+              (CC and)
+              (NP
+                (NP (JJR higher) (JJ administrative) (NNS costs))
+                (PP (IN of)
+                  (NP
+                    (NP (NN compliance))
+                    (PP (IN with)
+                      (NP (NN government) (NN contractor) (NNS regulations)))))))))))
+    (. .)))
+

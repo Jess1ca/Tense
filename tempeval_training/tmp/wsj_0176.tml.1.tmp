@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN spokeswoman))
+      (PP (IN for)
+        (NP (NNP Crum) (NNP amp) (NNP Forster))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNS employees))
+          (VP (VBD were)
+            (VP (VBN told)
+              (NP (RB early) (DT this) (NN week))
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (JJ numerous) (NN staff) (NNS functions))
+                    (PP (IN for)
+                      (NP (DT the) (JJ personal) (NN insurance) (NNS lines))))
+                  (VP (VBD were)
+                    (VP (VBG going)
+                      (S
+                        (VP (TO to)
+                          (VP (VB be)
+                            (VP (VBN centralized)
+                              (PP (IN as)
+                                (NP (DT a) (JJ cost-cutting) (NN move))))))))))))))))
+    (. .)))
+

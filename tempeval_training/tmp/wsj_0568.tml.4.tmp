@@ -1,0 +1,16 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT The) (NN quarter))
+      (VP (VBD was)
+        (ADJP (JJ terrible))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN future))
+      (VP (VBZ looks)
+        (ADJP (NN anything)
+          (CC but)
+          (VBG encouraging))))
+    (. .) ('' '')))
+

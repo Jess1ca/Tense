@@ -1,0 +1,16 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	thrift	_	NN	NN	_	7	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	holders	_	NNS	NNS	_	2	conj	_	_
+6	had	_	VBD	VBD	_	7	aux	_	_
+7	suspended	_	VBN	VBN	_	0	root	_	_
+8	their	_	PRP$	PRP$	_	9	poss	_	_
+9	lawsuits	_	NNS	NNS	_	7	dobj	_	_
+10	as	_	IN	IN	_	7	prep	_	_
+11	part	_	NN	NN	_	10	pobj	_	_
+12	of	_	IN	IN	_	11	prep	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	agreement	_	NN	NN	_	12	pobj	_	_
+15	.	_	.	.	_	7	punct	_	_
+

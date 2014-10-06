@@ -1,0 +1,11 @@
+1	In	_	IN	IN	_	5	prep	_	_
+2	Singapore	_	NNP	NNP	_	1	pobj	_	_
+3	,	_	,	,	_	5	punct	_	_
+4	stocks	_	NNS	NNS	_	5	nsubj	_	_
+5	hit	_	VBD	VBD	_	0	root	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	five	_	CD	CD	_	8	num	_	_
+8	year	_	NN	NN	_	9	nsubj	_	_
+9	low	_	JJ	JJ	_	5	xcomp	_	_
+10	.	_	.	.	_	5	punct	_	_
+

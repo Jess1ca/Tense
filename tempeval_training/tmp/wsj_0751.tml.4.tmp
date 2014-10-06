@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS thrifts))
+    (VP (VBD agreed)
+      (PP (TO to)
+        (NP (DT the) (NN transaction)))
+      (PP (IN in)
+        (NP (NNP August) (CD 1988))))
+    (. .)))
+

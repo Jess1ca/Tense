@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBP worry)
+      (SBAR (IN that)
+        (S
+          (SBAR (IN if)
+            (S
+              (NP (DT the) (NN government))
+              (VP (VBZ applies)
+                (NP (NN asset-forfeiture) (NNS laws))
+                (ADVP (RB broadly)))))
+          (, ,)
+          (NP (DT the) (JJS best) (NN defense) (NNS lawyers))
+          (VP (MD will)
+            (VP (VB be)
+              (ADJP (JJ unwilling)
+                (S
+                  (VP (TO to)
+                    (VP (VB take)
+                      (NP (JJ criminal) (NNS cases))
+                      (SBAR (IN unless)
+                        (S
+                          (NP (PRP they))
+                          (VP (VBP are)
+                            (VP (VBN assured)
+                              (PP (IN of)
+                                (S
+                                  (VP (VBG being)
+                                    (VP (VBN paid))))))))))))))))))
+    (. .)))
+

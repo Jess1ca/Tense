@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS Analysts))
+      (VP (VBD were)
+        (VP (VBG predicting)
+          (NP (CD 1990) (NNP BellSouth) (NNS earnings))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN range))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (NP ($ $) (CD 3.90))
+                    (NP (DT a) (NN share)))
+                  (, ,)
+                  (CC or)
+                  (NP
+                    (QP ($ $) (CD 1.9) (CD billion))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (ADVP (RB now))
+      (NP (DT those) (NNS estimates))
+      (VP (VBP are)
+        (VP (VBG being)
+          (VP (VBN scaled)
+            (ADVP (RB back))))))
+    (. .)))
+

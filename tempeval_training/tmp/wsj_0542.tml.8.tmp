@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (NNP Dow) (NNP Jones))
+    (VP (VBZ has)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ believes)
+              (SBAR
+                (S
+                  (NP (DT the)
+                    (ADJP ($ $) (JJ 18-a-share))
+                    (NN price))
+                  (VP (VBZ is)
+                    (ADJP (JJ fair)
+                      (PP (TO to)
+                        (NP
+                          (NP (NNP Telerate) (POS 's))
+                          (NN minority) (NNS shareholders))))))))))))
+    (. .)))
+

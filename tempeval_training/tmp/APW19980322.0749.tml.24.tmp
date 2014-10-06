@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (DT An) (JJ elderly) (JJ Catholic) (NN man))
+    (VP (VBD was)
+      (VP (VBN hospitalized)
+        (PP (IN from)
+          (NP (NNS cuts)))
+        (SBAR (IN after)
+          (S
+            (NP (DT a) (JJ Protestant) (NN gasoline) (NN bomb))
+            (VP (VBD landed)
+              (PP (IN in)
+                (NP (PRP$ his) (JJ back) (NN yard))))))))
+    (. .)))
+

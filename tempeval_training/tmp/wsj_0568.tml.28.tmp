@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP Securities) (NNS analysts))
+    (VP (VBD were)
+      (ADJP (RB even) (RBR more) (JJ cautious))
+      (, ,)
+      (S
+        (VP (VBG having)
+          (VP (VBN been)
+            (VP (VBN burned)
+              (ADVP (RB repeatedly))
+              (PP (IN on)
+                (NP (NNP Unisys)))))))
+      (NP (DT this) (NN year)))
+    (. .)))
+

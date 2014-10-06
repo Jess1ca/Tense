@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (NNP Nestle) (NNP S.A.))
+    (VP (VBZ is)
+      (VP (VBN based)
+        (PP (IN in)
+          (NP (NNP Vevey) (, ,) (NNP Switzerland)))))
+    (. .)))
+

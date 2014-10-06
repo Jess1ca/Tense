@@ -1,0 +1,26 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT The) (NNS information-systems) (NN industry))
+      (VP (VBZ is)
+        (ADVP (RB still))
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (NP (DT a) (NN high-growth) (NN business))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBP 're)
+        (ADJP (JJ confident)
+          (SBAR (IN that)
+            (S
+              (NP (PRP we))
+              (VP (VBP have)
+                (NP (JJ tremendous) (NNS assets))
+                (PP (IN as)
+                  (NP (DT a) (NN company)))))))))
+    (. .)))
+

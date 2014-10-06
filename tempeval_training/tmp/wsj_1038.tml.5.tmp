@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT The) (NN plan))
+    (VP (MD may)
+      (VP (VB include)
+        (S
+          (VP
+            (VP (VBG selling)
+              (NP (NNS branches)))
+            (, ,)
+            (VP (VBG consolidating)
+              (CC or)
+              (VBG eliminating)
+              (NP (NNS departments)))
+            (, ,)
+            (CC and)
+            (VP
+              (VP (VBG winding)
+                (PRT (RP down)))
+              (CC or)
+              (VP (VBG disposing)
+                (PP (IN of)
+                  (NP (JJ unprofitable) (NNS units)))
+                (PP (IN within)
+                  (NP (CD 18) (NNS months)))))))))
+    (. .)))
+

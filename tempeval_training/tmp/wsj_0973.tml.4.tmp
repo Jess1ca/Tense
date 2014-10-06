@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (S
+      (PP (IN In)
+        (NP (DT the) (JJ past) (CD 20) (NNS months)))
+      (ADVP (RB alone))
+      (, ,)
+      (NP
+        (NP (NNP Paul) (NNP E.) (NNP Lego))
+        (, ,)
+        (NP
+          (NP (NN president))
+          (CC and)
+          (NP (JJ chief) (VBG operating) (NN officer)))
+        (, ,))
+      (VP (VBD said)
+        (NP
+          (NP (DT the) (NN divestiture))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP ($ $) (CD 300) (CD million)))
+              (PP (IN of)
+                (NP (NN slow-growth))))))))
+    (, ,)
+    (NP (JJ low-profit) (NNS businesses))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP
+          (ADVP (RBR more) (IN than))
+          (VBN offset)
+          (PP (IN by)
+            (NP
+              (NP
+                (QP ($ $) (CD 600) (CD million)))
+              (PP (IN in)
+                (NP (JJ profitable) (NNS acquisitions))))))))
+    (. .)))
+

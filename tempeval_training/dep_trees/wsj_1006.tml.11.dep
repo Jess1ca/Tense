@@ -1,0 +1,8 @@
+1	Investors	_	NNS	NNS	_	4	nsubj	_	_
+2	and	_	CC	CC	_	1	cc	_	_
+3	analysts	_	NNS	NNS	_	1	conj	_	_
+4	applauded	_	VBD	VBD	_	0	root	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	news	_	NN	NN	_	4	dobj	_	_
+7	.	_	.	.	_	4	punct	_	_
+

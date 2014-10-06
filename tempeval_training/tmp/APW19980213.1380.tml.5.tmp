@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN store) (NN owner) (POS 's))
+        (NN body))
+      (VP (VBD was)
+        (VP (VBN found)
+          (PP (IN with)
+            (NP
+              (NP (DT the) (NNS arms)
+                (CC and)
+                (NN head))
+              (VP (VBN cut)
+                (PRT (RP off))))))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS parts))
+      (VP (VBD stuffed)
+        (PP (IN in)
+          (NP (JJ separate) (NN garbage) (NNS bags)))))
+    (. .)))
+

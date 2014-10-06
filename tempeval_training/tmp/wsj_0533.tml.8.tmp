@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Institut) (NNP Merieux))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (ADVP (RB already))
+          (VP (VBZ holds)
+            (NP
+              (NP (DT a)
+                (ADJP (CD 12.5) (NN %))
+                (NN stake))
+              (PP (IN in)
+                (NP (NNP Connaught)))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (PP (IN at)
+            (NP
+              (NP (DT the) (NN close))
+              (PP (IN of)
+                (NP (NN business)))))
+          (NP (NNP Thursday))
+          (, ,)
+          (NP
+            (NP
+              (NP (CD 5,745,188) (NNS shares))
+              (PP (IN of)
+                (NP (NNP Connaught))))
+            (CC and)
+            (NP
+              (NP
+                (ADJP
+                  (QP ($ C$) (CD 44.3) (CD million)))
+                (NN face) (NN amount))
+              (PP (IN of)
+                (NP (NNS debentures)))
+              (, ,)
+              (ADJP (JJ convertible)
+                (PP (IN into)
+                  (NP (CD 1,826,596) (JJ common) (NNS shares))))
+              (, ,)))
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBN tendered)
+                (PP (TO to)
+                  (NP (PRP$ its) (NN offer)))))))))
+    (. .)))
+

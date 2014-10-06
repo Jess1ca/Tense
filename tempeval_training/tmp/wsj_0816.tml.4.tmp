@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS Analysts))
+      (VP (VBP have)
+        (VP (VBN complained)
+          (SBAR (IN that)
+            (S
+              (NP (JJ third-quarter) (JJ corporate) (NNS earnings))
+              (VP (VBP have) (RB n't)
+                (VP (VBN been)
+                  (ADJP (RB very) (JJ good)))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT the) (NN effect))
+      (VP (VBD hit)
+        (NP (NN home))
+        (NP (RB particularly) (JJ hard) (NN yesterday))))
+    (. .)))
+

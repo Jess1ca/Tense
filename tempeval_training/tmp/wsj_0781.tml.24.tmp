@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ late) (NNP September)))
+    (, ,)
+    (NP (NNP IBM))
+    (VP (VBD began)
+      (S
+        (VP (VBG shipping)
+          (NP
+            (NP (DT a) (JJ plug-in) (NN card))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ converts)
+                  (NP (PRP$ its) (NNP PS/2) (NN model) (CD 70-A21))
+                  (PP (IN from)
+                    (NP (DT a) (CD 80386) (NN machine)))
+                  (PP (TO to)
+                    (NP (DT an) (CD 80486) (NN machine))))))))))
+    (. .)))
+

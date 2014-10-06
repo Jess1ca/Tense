@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (ADVP (RB Previously))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD advertised)
+      (PP (IN at)
+        (NP (DT the)
+          (ADJP
+            (QP ($ $) (CD 2) (CD million)))
+          (NN level))))
+    (. .)))
+

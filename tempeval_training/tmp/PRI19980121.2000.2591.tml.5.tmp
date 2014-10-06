@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJS Most))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN city) (POS 's))
+          (NNS monuments))))
+    (VP (VBD were)
+      (VP (VBN destroyed) (, ,)
+        (PP (VBG including)
+          (NP
+            (NP (DT a) (JJ magnificent) (JJ tiled) (NN mosque))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD dominated)
+                  (NP (DT the) (NN skyline))
+                  (PP (IN for)
+                    (NP (NNS centuries))))))))))
+    (. .)))
+

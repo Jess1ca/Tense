@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (NNP Conseco) (NNP Inc.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (VP (VBG calling)
+              (PP (IN for)
+                (NP
+                  (NP (DT the) (NN redemption))
+                  (PP (IN on)
+                    (NP
+                      (NP (NNP Dec.) (CD 7))
+                      (PP (IN of)
+                        (NP
+                          (NP (PDT all) (DT the) (CD 800,000) (VBG remaining) (NNS shares))
+                          (ADJP (JJ outstanding))
+                          (PP (IN of)
+                            (NP
+                              (NP (PRP$ its)
+                                (ADJP ($ $) (CD 1.875))
+                                (NN Series))
+                              (NP
+                                (NP (DT A) (JJ convertible) (VBN preferred) (NN stock))
+                                (PP (IN at)
+                                  (NP
+                                    (NP ($ $) (CD 26.805))
+                                    (NP (DT a) (NN share))))))))))))))))))
+    (. .)))
+

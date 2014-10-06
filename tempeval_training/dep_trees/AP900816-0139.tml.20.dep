@@ -1,0 +1,17 @@
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	called	_	VBD	VBD	_	0	root	_	_
+3	U.S.	_	NNP	NNP	_	4	nn	_	_
+4	soldiers	_	NNS	NNS	_	2	dobj	_	_
+5	massing	_	VBG	VBG	_	2	xcomp	_	_
+6	in	_	IN	IN	_	5	prep	_	_
+7	Saudi	_	NNP	NNP	_	8	nn	_	_
+8	Arabia	_	NNP	NNP	_	6	pobj	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	real	_	JJ	JJ	_	11	amod	_	_
+11	occupiers	_	NNS	NNS	_	5	dobj	_	_
+12	in	_	IN	IN	_	11	prep	_	_
+13	the	_	DT	DT	_	15	det	_	_
+14	Persian	_	NNP	NNP	_	15	nn	_	_
+15	Gulf	_	NNP	NNP	_	12	pobj	_	_
+16	.	_	.	.	_	2	punct	_	_
+

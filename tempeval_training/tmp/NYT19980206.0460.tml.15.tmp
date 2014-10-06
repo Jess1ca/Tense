@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG accounting)
+          (PP (IN for)
+            (NP (DT a) (JJ small) (JJ downward) (NN revision)))
+          (NP (NNP Friday))
+          (PP (TO to)
+            (NP
+              (NP (NNP December) (POS 's))
+              (NNS figures))))))
+    (, ,)
+    (NP (DT the) (NN economy))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBG creating)
+          (NP (NNS jobs))
+          (PP (IN at)
+            (NP
+              (NP (DT a) (NN rate))
+              (PP (IN of)
+                (NP
+                  (NP (CD 358,000))
+                  (NP (DT a) (NN month))
+                  (PP (IN for)
+                    (NP (DT the) (JJ last) (CD four) (NNS months)))
+                  (SBAR
+                    (S
+                      (NP
+                        (NP (CD _)
+                          (CC and)
+                          (CD 381,000))
+                        (PP (IN over)
+                          (NP (DT the) (JJ last) (CD three) (NNS months))))
+                      (VP (VBZ _)
+                        (PP (IN after)
+                          (S
+                            (VP (VBG averaging)
+                              (NP (CD 242,000))
+                              (PP (IN for)
+                                (NP
+                                  (NP (DT the) (JJ first) (CD nine) (NNS months))
+                                  (PP (IN of)
+                                    (NP (CD 1997))))))))))))))))))
+    (. .)))
+

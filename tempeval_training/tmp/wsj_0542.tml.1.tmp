@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN offer))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP
+            (NP (NNP Telerate) (POS 's))
+            (CD two) (JJ independent) (NNS directors))
+          (VP (VBP have)
+            (VP (VBN rejected)
+              (S
+                (ADJP (RB as) (JJ inadequate)))))))
+      (, ,))
+    (ADVP (RB previously))
+    (VP (VBD had)
+      (VP (VBN been)
+        (VP (VBN scheduled)
+          (S
+            (VP (TO to)
+              (VP (VB expire)
+                (PP (IN at)
+                  (NP (NN midnight)))
+                (NP (NNP Friday))))))))
+    (. .)))
+

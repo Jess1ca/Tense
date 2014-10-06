@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP HEALTHDYNE) (NNP Inc.))
+      (, ,)
+      (NP (NNP Atlanta))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (PRP$ its) (NN subsidiary))
+            (, ,)
+            (NP (NNP Home) (NNP Nutritional) (NNPS Services) (NNP Inc.))
+            (, ,))
+          (VP (VBD registered)
+            (PP (IN with)
+              (NP (DT the) (NNPS Securities)
+                (CC and)
+                (NNP Exchange) (NNP Commission)))
+            (NP
+              (NP (DT an) (JJ initial) (JJ public) (NN offering))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (QP (CD four) (CD million))
+                    (NNS shares))
+                  (PP (IN of)
+                    (NP (JJ common))))))))))
+    (. .)))
+

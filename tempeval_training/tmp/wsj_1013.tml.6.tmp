@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS results))
+    (VP (VBP include)
+      (NP
+        (NP (DT a)
+          (ADJP
+            (QP ($ $) (CD 130.2) (CD million)))
+          (NN write-down))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNS securities))
+            (PP (IN in)
+              (NP (DT the) (JJ high-yield) (NN portfolio))))))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (JJR lower))
+          (PP (IN of)
+            (NP (PRP$ their) (NN cost)
+              (CC or)
+              (NN market) (NN value))))))
+    (. .)))
+

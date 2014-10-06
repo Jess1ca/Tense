@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (NN tender) (NN offer) (NN supplement)))
+    (, ,)
+    (NP (NNP Dow) (NNP Jones))
+    (VP
+      (VP (VBZ discloses)
+        (NP (DT the) (JJ different) (NN growth) (NNS forecasts)))
+      (CC but)
+      (VP (VBZ says)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ views)
+              (NP (DT the)
+                (ADJP (CD 20) (NN %))
+                (NN growth) (NN rate))
+              (PP (`` ``)
+                (PP (IN as)
+                  (NP
+                    (NP (DT a) (JJ hoped-for) (NN goal))
+                    ('' '')
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP Telerate) (POS 's))
+                        (NN management)))
+                    (`` ``)))
+                (CC and)
+                (RB not)
+                (PP (IN as)
+                  (NP
+                    (NP (DT a) (JJ realistic) (NN basis))
+                    (PP (IN on)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (TO to)
+                            (VP (VB project)
+                              (NP
+                                (NP (DT the) (NN company) (POS 's))
+                                (JJ likely) (JJ future) (NN performance)))))))))))))))
+    (. .) ('' '')))
+

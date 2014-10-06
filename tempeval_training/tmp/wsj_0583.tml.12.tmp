@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP Sansui))
+    (VP (VBD was)
+      (ADVP (RB once))
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (NNP Japan) (POS 's))
+            (JJ premier) (NNS makers)))
+        (PP (IN of)
+          (NP (JJ expensive) (, ,) (JJ high-quality) (NN stereo) (NN gear)))
+        (PP (IN for)
+          (NP (NNS audiophiles)))))
+    (. .)))
+

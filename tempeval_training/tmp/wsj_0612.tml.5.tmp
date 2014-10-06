@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (VBN Rated)
+          (S
+            (ADJP (JJ single-A-3)
+              (PP (IN by)
+                (NP (NNP Moody) (POS 's))))))
+        (CC and)
+        (VP
+          (ADJP (JJ triple-B))
+          (PP (IN by)
+            (NP (NNP SampP))))))
+    (, ,)
+    (NP (DT the) (NN issue))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN sold)
+          (PP (IN through)
+            (NP
+              (NP (NNS underwriters))
+              (VP (VBN led)
+                (PP (IN by)
+                  (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNPS Markets)))))))))
+    (. .)))
+

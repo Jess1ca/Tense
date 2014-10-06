@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Fournier))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (JJ exceptional) (NN gain))
+          (VP (MD would)
+            (VP (VB mean)
+              (ADVP
+                (ADVP (RB nearly) (RB twice))
+                (PP (IN as)
+                  (NP (JJ high) (DT a) (NN dividend))
+                  (NP (DT this) (NN year) (IN as))))
+              (ADVP (RB last)))))))
+    (. .)))
+

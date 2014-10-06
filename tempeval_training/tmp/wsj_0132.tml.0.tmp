@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP N.V.) (NNP DSM))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (JJ net) (NN income))
+            (PP (IN in)
+              (NP (DT the) (JJ third) (NN quarter))))
+          (VP (VBD jumped)
+            (NP (CD 63) (NN %))
+            (SBAR (IN as)
+              (S
+                (NP (DT the) (NN company))
+                (VP (VBD had)
+                  (NP
+                    (ADJP (RB substantially) (JJR lower))
+                    (JJ extraordinary) (NNS charges))
+                  (S
+                    (VP (TO to)
+                      (VP (VB account)
+                        (PP (IN for)
+                          (NP (DT a) (NN restructuring) (NN program)))))))))))))
+    (. .)))
+

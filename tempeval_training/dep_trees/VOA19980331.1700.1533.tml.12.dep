@@ -1,0 +1,21 @@
+1	You	_	PRP	PRP	_	10	nsubj	_	_
+2	may	_	MD	MD	_	10	aux	_	_
+3	,	_	,	,	_	10	punct	_	_
+4	in	_	IN	IN	_	10	prep	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	year	_	NN	NN	_	4	pobj	_	_
+7	or	_	CC	CC	_	6	cc	_	_
+8	two	_	CD	CD	_	6	conj	_	_
+9	,	_	,	,	_	10	punct	_	_
+10	save	_	VB	VB	_	0	root	_	_
+11	a	_	DT	DT	_	14	det	_	_
+12	few	_	JJ	JJ	_	14	amod	_	_
+13	more	_	JJR	JJR	_	14	amod	_	_
+14	lives	_	NNS	NNS	_	10	dobj	_	_
+15	if	_	IN	IN	_	17	mark	_	_
+16	you	_	PRP	PRP	_	17	nsubj	_	_
+17	do	_	VBP	VBP	_	10	advcl	_	_
+18	sickest	_	NN	NN	_	17	dobj	_	_
+19	first	_	RB	RB	_	17	advmod	_	_
+20	.	_	.	.	_	10	punct	_	_
+

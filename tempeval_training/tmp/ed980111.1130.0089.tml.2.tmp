@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NN Yesterday))
+    (NP (NNP New) (NNP York) (NN governor) (NNP George) (NNP Pataki))
+    (VP (VBD toured)
+      (NP
+        (NP (CD five) (NNS counties))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP have)
+              (VP (VBN been)
+                (VP (VBN declared)
+                  (PP (IN under)
+                    (NP
+                      (NP (DT a) (NN state))
+                      (PP (IN of)
+                        (NP (NN emergency))))))))))))
+    (. .)))
+

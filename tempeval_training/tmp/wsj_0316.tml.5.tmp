@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (ADJP (NNP Salt) (NNP Lake))
+      (NNP City-based) (NNP First) (NNP Security) (, ,)
+      (PP (IN with)
+        (NP
+          (NP
+            (QP ($ $) (CD 5.4) (CD billion)))
+          (PP (IN in)
+            (NP (NNS assets)))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (SBAR
+          (S
+            (NP (DT the) (NN agreement))
+            (VP (VBZ is)
+              (ADJP (JJ subject)
+                (PP (TO to)
+                  (NP
+                    (UCP (NN shareholder)
+                      (CC and)
+                      (JJ regulatory))
+                    (NN approval)))))))
+        (, ,)
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBZ hopes)
+              (S
+                (VP (TO to)
+                  (VP (VB complete)
+                    (NP (DT the) (NN transaction))
+                    (NP (RB early) (JJ next) (NN year))))))))))
+    (. .)))
+

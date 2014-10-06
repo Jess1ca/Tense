@@ -1,0 +1,21 @@
+1	Some	_	DT	DT	_	2	det	_	_
+2	analysts	_	NNS	NNS	_	3	nsubj	_	_
+3	say	_	VBP	VBP	_	0	root	_	_
+4	he	_	PRP	PRP	_	5	nsubj	_	_
+5	appeared	_	VBD	VBD	_	3	ccomp	_	_
+6	to	_	TO	TO	_	8	aux	_	_
+7	be	_	VB	VB	_	8	aux	_	_
+8	relying	_	VBG	VBG	_	5	xcomp	_	_
+9	on	_	IN	IN	_	8	prep	_	_
+10	a	_	DT	DT	_	14	det	_	_
+11	smaller	_	JJR	JJR	_	14	amod	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	smaller	_	JJR	JJR	_	11	conj	_	_
+14	circle	_	NN	NN	_	9	pobj	_	_
+15	of	_	IN	IN	_	14	prep	_	_
+16	close	_	JJ	JJ	_	17	amod	_	_
+17	advisers	_	NNS	NNS	_	15	pobj	_	_
+18	and	_	CC	CC	_	17	cc	_	_
+19	relatives	_	NNS	NNS	_	17	conj	_	_
+20	.	_	.	.	_	3	punct	_	_
+

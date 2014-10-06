@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP John) (NNP M.) (NNP McNamara))
+      (, ,)
+      (NP
+        (NP (JJ chief) (JJ financial) (NN officer))
+        (PP (IN of)
+          (NP (NNP Milton) (NNP Roy))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN company))
+          (VP (VBZ has)
+            (NP
+              (NP (DT no) (NN comment))
+              (PP (IN on)
+                (NP
+                  (NP (NNP Crane) (POS 's))
+                  (NN filing))))))))
+    (. .)))
+

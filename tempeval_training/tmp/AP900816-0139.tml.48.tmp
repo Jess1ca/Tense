@@ -1,0 +1,20 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (NP
+          (NP
+            (NP (PRP$ our) (JJ only) (NN outlet))
+            (PP (TO to)
+              (NP (DT the) (NN sea))))
+          (CC and)
+          (NP
+            (NP (DT the) (NN rest))
+            (PP (IN of)
+              (NP (DT the) (NN world)))))))
+    (, ,) ('' '')
+    (NP (NNP Hussein))
+    (VP (VBD said))
+    (. .)))
+

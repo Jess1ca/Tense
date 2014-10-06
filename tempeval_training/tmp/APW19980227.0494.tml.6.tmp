@@ -1,0 +1,21 @@
+(ROOT
+  (S (CC But)
+    (NP (PRP$ his) (JJ sweeping) (NN statement))
+    (VP
+      (VP (VBD contained)
+        (NP (DT no) (NNS details)))
+      (, ,)
+      (CC and)
+      (VP (VBD gave)
+        (NP
+          (NP (DT no) (NN indication))
+          (PP (IN of)
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (NP (DT the) (NNS disputes))
+                (VP (MD could)
+                  (VP (VB be)
+                    (VP (VBN resolved))))))))))
+    (. .)))
+

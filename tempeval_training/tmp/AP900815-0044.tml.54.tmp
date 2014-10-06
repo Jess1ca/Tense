@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNP Iraq))
+    (VP (VBZ boasts)
+      (NP
+        (NP (DT an) (NN army))
+        (PP (IN of)
+          (NP
+            (QP (CD 1) (CD million))
+            (NNS members)))))
+    (. .)))
+

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ British)
+        (CC and)
+        (JJ Irish) (NNS governments))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBP cosponsor)
+            (NP
+              (NP (DT the) (JJ multi-party) (NNS talks))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBP are)
+                    (VP (VBN supposed)
+                      (S
+                        (VP (TO to)
+                          (VP (VB conclude)
+                            (PP (IN by)
+                              (NP (NNP May))))))))))))))
+      (, ,))
+    (VP (VBD invited)
+      (S
+        (NP (NNP Sinn) (NNP Fein))
+        (VP (TO to)
+          (VP (VB rejoin)
+            (ADVP
+              (NP (CD two) (NNS weeks))
+              (RB ago))))))
+    (. .)))
+

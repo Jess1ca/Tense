@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP
+      (QP (RB Nearly) (CD 9,000))
+      (NNPS Soviets))
+    (VP (VBD were)
+      (PP (IN among)
+        (NP
+          (NP (DT the) (NNS hundreds))
+          (PP (IN of)
+            (NP
+              (NP (NNS thousands))
+              (PP (IN of)
+                (NP
+                  (NP (NNS foreigners))
+                  (VP (VBN trapped)
+                    (PP (IN in)
+                      (NP (NNP Iraq)
+                        (CC and)
+                        (NNP Kuwait)))))))))))
+    (. .)))
+

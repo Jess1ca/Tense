@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (NNP Upjohn) (NNS officials))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (MD could) (RB n't)
+            (VP (VB estimate)
+              (NP
+                (NP (DT the) (NN size))
+                (PP (IN of)
+                  (NP (DT the) (NN charge))))
+              (SBAR (IN until)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP determine)
+                    (SBAR
+                      (WHNP
+                        (WHNP (WDT which) (NNS employees))
+                        (PRN (, ,)
+                          (CC and)
+                          (WHNP (WRB how) (JJ many))
+                          (, ,)))
+                      (S
+                        (VP (MD will)
+                          (VP (VB participate)
+                            (PP (IN in)
+                              (NP (DT the) (NN retirement) (NN plan)))))))))))))))
+    (. .)))
+

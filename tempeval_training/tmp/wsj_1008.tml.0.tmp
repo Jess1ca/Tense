@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP Lawrence) (NNP Insurance) (NNP Group) (NNP Inc.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD acquired)
+            (NP
+              (NP (NNP United) (NNP Republic) (NNP Reinsurance) (NNP Co.))
+              (, ,)
+              (NP (DT a) (NNP Houston) (NN property)
+                (CC and)
+                (NN casualty) (NN reinsurance) (NN company))
+              (, ,))
+            (PP (IN from)
+              (NP
+                (NP (NNP United) (NNPS Savings) (NNP Association))
+                (PP (IN of)
+                  (NP (NNP Texas)))))
+            (PP (IN for)
+              (NP
+                (QP ($ $) (CD 28) (CD million))))))))
+    (. .)))
+

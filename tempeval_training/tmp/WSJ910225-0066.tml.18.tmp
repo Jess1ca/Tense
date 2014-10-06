@@ -1,0 +1,67 @@
+(ROOT
+  (S
+    (NP
+      (NAC (NNP Secretary)
+        (PP (IN of)
+          (NP (NNP State))))
+      (NNP James) (NNP Baker))
+    (VP (VBD said)
+      (PP (IN on)
+        (NP
+          (NP (NNP ABC-TV) (POS 's))
+          (`` ``)
+          (NP
+            (NP (DT This) (NN Week))
+            (PP (IN With)
+              (NP (NNP David) (NNP Brinkley))))
+          ('' '')))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN series))
+            (PP (IN of)
+              (S
+                (NP (NNP United) (NNPS Nations) (NNS resolutions))
+                (VP (VBG condemning)
+                  (NP
+                    (NP
+                      (NP (NNP Iraq) (POS 's))
+                      (NN invasion))
+                    (PP (IN of)
+                      (NP (NNP Kuwait))))))))
+          (`` ``)
+          (VP (VBP imply)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (DT the) (NN restoration))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN peace)
+                        (CC and)
+                        (NN stability))
+                      (PP (IN in)
+                        (NP (DT the) (NNP Gulf))))))
+                (VP (MD would)
+                  (VP (VB be)
+                    (ADJP
+                      (ADJP
+                        (NP
+                          (NP (DT a) (NN heck))
+                          (PP (IN of)
+                            (NP (DT a) (NN lot))))
+                        (JJR easier))
+                      (SBAR (IN if)
+                        (S
+                          (NP
+                            (NP (PRP he))
+                            (CC and)
+                            (NP (DT that) (NN leadership)))
+                          (VP (VBD were) (RB not)
+                            (PP (IN in)
+                              (NP
+                                (NP (NN power))
+                                (PP (IN in)
+                                  (NP (NNP Iraq)))))))))))))))))
+    (. .) ('' '')))
+

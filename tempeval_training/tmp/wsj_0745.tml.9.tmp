@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (MD would) (RB n't)
+      (VP (VB specify)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (PRP it))
+            (VP (VBD was))))))
+    (. .)))
+

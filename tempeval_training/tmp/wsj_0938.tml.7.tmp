@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP She))
+      (VP
+        (VP (VBD declined)
+          (S
+            (VP (TO to)
+              (VP (VB identify)
+                (NP (JJ other) (NNS bidders))))))
+        (CC but)
+        (VP (VBD said)
+          (SBAR
+            (S
+              (NP
+                (NP (NNP Mr.) (NNP Drabinsky) (POS 's))
+                (NN offer))
+              (`` ``)
+              (VP (VBZ is)
+                (NP (DT all) (NN cash))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (PP (IN for)
+          (NP
+            (NP (DT all))
+            (PP (IN of)
+              (NP (DT the) (NN company)))))))
+    (. .) ('' '')))
+

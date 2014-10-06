@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Antar))
+    (VP (VBZ is)
+      (VP (VBG being)
+        (VP (VBN investigated)
+          (PP (IN by)
+            (NP
+              (NP (DT a) (JJ federal) (JJ grand) (NN jury))
+              (PP (IN in)
+                (NP (NNP Newark)))))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (NNS prosecutors))
+              (VP (VBP have)
+                (VP (VBN told)
+                  (NP (PRP him))
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP they))
+                      (VP (MD may)
+                        (ADVP (RB soon))
+                        (VP (VB seek)
+                          (NP (DT an) (NN indictment))
+                          (PP (IN on)
+                            (NP (NN racketeering)
+                              (CC and)
+                              (NNS securities) (NN fraud) (NNS charges))))))))))))))
+    (. .)))
+

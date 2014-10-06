@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ His) (NN promise))
+      (PP (TO to)
+        (NP
+          (NP (DT half) (NN unemployment))
+          (PP (IN by)
+            (NP (DT the) (NN year)
+              (QP (CD two) (CD thousand)))))))
+    (VP (VBZ has)
+      (ADVP (RB now))
+      (VP (VBN been)
+        (VP (VBN abandoned))))
+    (. .)))
+

@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT A) (NNP Reuters) (NN spokesman))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN departure))
+          (VP (VBZ reflects) (`` ``)
+            (NP
+              (NP (DT no) (NN change))
+              (PP (IN in)
+                (NP (NN strategy)
+                  (CC or)
+                  (NNS profits))))))))
+    (. .) ('' '')))
+

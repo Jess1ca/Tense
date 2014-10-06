@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NNP Dataproducts) (NNS officials))
+    (VP
+      (VP (VBD declined)
+        (S
+          (VP (TO to)
+            (VP (VB comment)))))
+      (, ,)
+      (CC and)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBD had) (RB not)
+              (ADVP (RB yet))
+              (VP (VBN seen)
+                (NP
+                  (NP (DT a) (NN suit))
+                  (VP (VBN filed)
+                    (PP (IN in)
+                      (NP (JJ federal) (NN court)))
+                    (PP (IN by)
+                      (NP
+                        (NP (NNP DPC) (NNP Acquisition))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (VBZ seeks)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB nullify)
+                                    (NP
+                                      (NP (DT a) (JJ standstill) (NN agreement))
+                                      (PP (IN between)
+                                        (NP (NNP DPC) (NNP Acquisition)
+                                          (CC and)
+                                          (NNPS Dataproducts))))))))))))))))))))
+    (. .)))
+

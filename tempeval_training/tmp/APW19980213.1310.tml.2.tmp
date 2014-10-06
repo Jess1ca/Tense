@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (JJ Spontaneous) (NN applause))
+    (VP (VBD echoed)
+      (PP (IN through)
+        (NP
+          (NP (DT the) (NN chamber))
+          (CC and)
+          (NP (JJ public) (NNS galleries))))
+      (PP (IN as)
+        (NP
+          (NP (DT the) (JJ crucial) (NN vote))
+          (VP (VBN passed)
+            (PP (IN by)
+              (NP (DT a) (JJ wide) (NN margin)))))))
+    (. .)))
+

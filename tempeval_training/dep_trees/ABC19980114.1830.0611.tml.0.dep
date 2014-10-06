@@ -1,0 +1,25 @@
+1	In	_	IN	IN	_	9	prep	_	_
+2	Washington	_	NNP	NNP	_	1	pobj	_	_
+3	today	_	NN	NN	_	9	tmod	_	_
+4	,	_	,	,	_	9	punct	_	_
+5	the	_	DT	DT	_	8	det	_	_
+6	Federal	_	NNP	NNP	_	8	nn	_	_
+7	Aviation	_	NNP	NNP	_	8	nn	_	_
+8	Administration	_	NNP	NNP	_	9	nsubj	_	_
+9	released	_	VBD	VBD	_	0	root	_	_
+10	air	_	NN	NN	_	13	nn	_	_
+11	traffic	_	NN	NN	_	13	nn	_	_
+12	control	_	NN	NN	_	13	nn	_	_
+13	tapes	_	NNS	NNS	_	9	dobj	_	_
+14	from	_	IN	IN	_	9	prep	_	_
+15	the	_	DT	DT	_	16	det	_	_
+16	night	_	NN	NN	_	14	pobj	_	_
+17	the	_	DT	DT	_	21	det	_	_
+18	TWA	_	NNP	NNP	_	21	nn	_	_
+19	Flight	_	NNP	NNP	_	21	nn	_	_
+20	eight	_	CD	CD	_	21	num	_	_
+21	hundred	_	NN	NN	_	22	nsubj	_	_
+22	went	_	VBD	VBD	_	9	dep	_	_
+23	down	_	RP	RP	_	22	prt	_	_
+24	.	_	.	.	_	9	punct	_	_
+

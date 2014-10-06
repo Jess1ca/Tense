@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP Savin))
+    (VP (VBD cited) (`` ``)
+      (NP (DT a) (JJ general) (NN softening))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN demand))
+          (PP (IN for)
+            (NP (NN office) (NNS products)))))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN market) (NNS segments))
+          (SBAR
+            (WHPP (IN in)
+              (WHNP (WDT which)))
+            (S
+              (NP (NNP Savin))
+              (VP (VBZ competes)))))))
+    (. .) ('' '')))
+

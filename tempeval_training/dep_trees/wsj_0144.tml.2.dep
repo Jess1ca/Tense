@@ -1,0 +1,13 @@
+1	But	_	CC	CC	_	3	cc	_	_
+2	revenue	_	NN	NN	_	3	nsubj	_	_
+3	declined	_	VBD	VBD	_	0	root	_	_
+4	to	_	TO	TO	_	3	prep	_	_
+5	$	_	$	$	_	4	pobj	_	_
+6	3	_	CD	CD	_	7	number	_	_
+7	billion	_	CD	CD	_	5	num	_	_
+8	from	_	IN	IN	_	3	prep	_	_
+9	$	_	$	$	_	8	pobj	_	_
+10	3.2	_	CD	CD	_	11	number	_	_
+11	billion	_	CD	CD	_	9	num	_	_
+12	.	_	.	.	_	3	punct	_	_
+

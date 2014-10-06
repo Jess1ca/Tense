@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT the) (JJ northern) (NNP California) (NN town))
+        (PP (IN of)
+          (NP (NNP Rio) (NNP Nido)))))
+    (, ,)
+    (NP (NNS officials))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (DT a) (NN football) (NN field))
+          (VP (VBD sized)
+            (SBAR
+              (S
+                (NP
+                  (NP (NN slab))
+                  (PP (IN of)
+                    (NP (NN hillside))))
+                (VP (MD could)
+                  (ADVP (RB still))
+                  (VP
+                    (VP (VB break)
+                      (ADVP (RB loose))
+                      (PP (IN at)
+                        (NP (DT any) (NN time))))
+                    (CC and)
+                    (VP (VB destroy)
+                      (NP (DT an) (JJ entire) (NN neighborhood)))))))))))
+    (. .)))
+

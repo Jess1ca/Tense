@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS acceptances))
+    (VP (VBP give)
+      (NP (NNP Orkem))
+      (NP
+        (NP (DT a) (VBG controlling)
+          (ADJP (CD 53.2) (NN %))
+          (NN stake))
+        (PP (IN in)
+          (NP (DT the) (NN company)))))
+    (. .)))
+

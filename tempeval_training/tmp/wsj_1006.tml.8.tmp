@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Nadeau))
+    (ADVP (RB also))
+    (VP (VBZ is)
+      (NP
+        (NP (NN chairman)
+          (CC and)
+          (NN chief) (NN executive))
+        (PP (IN of)
+          (NP
+            (NP (NNP Unigesco) (NNP Inc.))
+            (, ,)
+            (NP
+              (NP (NNP Provigo) (POS 's))
+              (VBG controlling) (NN shareholder))))))
+    (. .)))
+

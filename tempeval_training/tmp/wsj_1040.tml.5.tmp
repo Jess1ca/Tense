@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading)))
+    (NP (NN yesterday))
+    (, ,)
+    (NP
+      (NP (NNP Oneida) (POS 's))
+      (NNS shares))
+    (VP (VBD closed)
+      (PP (IN at)
+        (NP
+          (NP ($ $) (CD 18.375))
+          (NP (DT a) (NN share))))
+      (, ,)
+      (ADVP (JJ unchanged)))
+    (. .)))
+

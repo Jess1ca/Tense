@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNS Subcontractors))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBD were)
+            (VP (VBN told)
+              (SBAR (IN that)
+                (S
+                  (NP (NN equipment) (NNS orders))
+                  (VP (MD would)
+                    (VP (VB be)
+                      (VP (VBN delayed)))))))))))
+    (. .)))
+

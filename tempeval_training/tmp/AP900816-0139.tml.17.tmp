@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (NNP Saddam))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (PP (IN under)
+          (NP
+            (NP
+              (NP (JJ international) (NN quarantine))
+              (PP (IN since)
+                (NP (PRP$ his) (NNP Aug.) (CD 2) (NN power-grab))))
+            (, ,)
+            (CC or)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (PRP he))
+                (VP (VBZ calls)
+                  (NP
+                    (NP (DT an) (`` ``) (JJ eternal) (NN merger) ('' ''))
+                    (PP (IN with)
+                      (NP (NNP Kuwait)))))))))))
+    (. .)))
+

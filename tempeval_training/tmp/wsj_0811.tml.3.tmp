@@ -1,0 +1,7 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ zero-coupon) (JJ subordinated) (NNS notes))
+    (VP (VBP have)
+      (NP (DT no) (JJ periodic) (NN interest) (NNS payments)))
+    (. .)))
+

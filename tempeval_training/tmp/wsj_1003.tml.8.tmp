@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (JJ Third-quarter) (NNS sales))
+    (VP (VBD dropped)
+      (NP (CD 11) (NN %))
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 1.27) (CD billion))))
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 1.43) (CD billion)))
+        (NP (DT a) (NN year) (IN ago))))
+    (. .)))
+

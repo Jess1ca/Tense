@@ -1,0 +1,27 @@
+1	Analysts	_	NNS	NNS	_	2	nsubj	_	_
+2	are	_	VBP	VBP	_	0	root	_	_
+3	skeptical	_	JJ	JJ	_	2	acomp	_	_
+4	Provigo	_	NNP	NNP	_	6	nsubj	_	_
+5	will	_	MD	MD	_	6	aux	_	_
+6	be	_	VB	VB	_	3	ccomp	_	_
+7	able	_	JJ	JJ	_	6	acomp	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	sell	_	VB	VB	_	7	xcomp	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	non-food	_	JJ	JJ	_	12	amod	_	_
+12	businesses	_	NNS	NNS	_	9	dobj	_	_
+13	as	_	IN	IN	_	9	prep	_	_
+14	a	_	DT	DT	_	15	det	_	_
+15	group	_	NN	NN	_	13	pobj	_	_
+16	for	_	IN	IN	_	15	prep	_	_
+17	at	_	IN	IN	_	20	advmod	_	_
+18	least	_	JJS	JJS	_	17	pobj	_	_
+19	book	_	NN	NN	_	20	nn	_	_
+20	value	_	NN	NN	_	16	pobj	_	_
+21	,	_	,	,	_	2	punct	_	_
+22	and	_	CC	CC	_	2	cc	_	_
+23	are	_	VBP	VBP	_	24	aux	_	_
+24	expecting	_	VBG	VBG	_	2	conj	_	_
+25	write-downs	_	NNS	NNS	_	24	dobj	_	_
+26	.	_	.	.	_	2	punct	_	_
+

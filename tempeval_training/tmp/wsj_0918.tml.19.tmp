@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT the) (VBN diversifed) (NNS businesses) (NN segment))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ includes)
+              (NP (NNS herbicides)))))))
+    (, ,)
+    (NP (NN profit))
+    (VP (VBD grew)
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 64) (CD million))))
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 27) (CD million)))))
+    (. .)))
+

@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN controller))
+      (PP (IN at)
+        (NP (NNP Boston) (NN center))))
+    (VP (VBZ tries)
+      (S
+        (VP (TO to)
+          (VP (VB raise)
+            (NP (NNP TWA))
+            (NP
+              (QP (CD eight) (CD hundred)))))))
+    (. .)))
+

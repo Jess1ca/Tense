@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (ADVP (RB Separately))
+    (, ,)
+    (NP (NNP Citadel))
+    (VP (VBD posted)
+      (NP
+        (NP (DT a) (JJ third-quarter) (JJ net) (NN loss))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 2.3) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 68) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,))))
+      (PP (FW versus)
+        (NP
+          (NP (JJ net) (NN income))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP ($ $) (CD 5.3) (CD million)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP ($ $) (CD 1.61))
+                (NP (DT a) (NN share)))
+              (, ,)
+              (ADVP
+                (NP (DT a) (NN year))
+                (RBR earlier)))))))
+    (. .)))
+

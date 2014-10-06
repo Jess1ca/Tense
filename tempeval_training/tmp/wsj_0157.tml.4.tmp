@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (DT The) (NN stock))
+    (VP (MD would)
+      (VP (VB be)
+        (VP (VBN redeemed)
+          (PP (IN in)
+            (NP
+              (NP (CD five) (NNS years))
+              (, ,)
+              (ADJP (JJ subject)
+                (PP (TO to)
+                  (NP
+                    (NP (NNS terms))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (VBG surviving) (NN company) (POS 's))
+                        (NN debt)))))))))))
+    (. .)))
+

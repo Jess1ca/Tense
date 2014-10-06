@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Qantas) (POS '))
+      (NNP India) (NN manager) (NNP Khursheed) (NNP Lam))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN airline))
+          (VP (VBD was)
+            (VP (VBG working)
+              (ADVP (RB closely)
+                (PP (IN with)
+                  (NP (DT the) (JJ Australian) (NNP Tourist) (NNP Commission))))
+              (S
+                (VP (TO to)
+                  (VP (VB develop)
+                    (NP
+                      (NP (JJR greater) (NN awareness))
+                      (PP (IN of)
+                        (NP (NNP Australia))))
+                    (PP (IN in)
+                      (NP (DT the) (JJ Indian) (NN market)))))))))))
+    (. .)))
+

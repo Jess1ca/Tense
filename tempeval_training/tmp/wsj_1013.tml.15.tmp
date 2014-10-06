@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Thomas) (NNP Spiegel))
+      (, ,)
+      (NP
+        (NP (NNP Columbia) (POS 's))
+        (NN chairman))
+      (, ,))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP (DT a) (NN statement)))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN thrift))
+          (VP (VBD was) ('' '')
+            (NP (NNS disappointed))
+            ('' '')
+            (PP (IN by)
+              (NP
+                (NP (DT the) (NNS effects))
+                (PP (IN of)
+                  (NP (DT the) (VBG accounting) (NNS changes)))))))))
+    (. .)))
+

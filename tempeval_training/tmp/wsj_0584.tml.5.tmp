@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP LIN))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ expects)
+              (S
+                (VP (TO to)
+                  (VP (VB borrow)
+                    (NP (DT the) (NN money)
+                      (S
+                        (VP (TO to)
+                          (VP (VB pay)
+                            (NP (DT the) (NN dividend))))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP (NNS commitments))
+        (PP (IN from)
+          (NP (NNS banks))))
+      (ADVP (RB still))
+      (VP (VBP have) (RB n't)
+        (VP (VBN been)
+          (VP (VBN obtained)))))
+    (. .)))
+

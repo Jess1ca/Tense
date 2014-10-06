@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJS latest) (NN quarter)))
+    (, ,)
+    (NP (NNP Aetna))
+    (VP (VBD had)
+      (NP (DT a)
+        (ADJP
+          (QP ($ $) (CD 23) (CD million)))
+        (NN loss))
+      (PP (IN on)
+        (NP (PRP$ its) (JJ auto/homeowners) (NN line)))
+      (, ,)
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP
+            (NP (NNS earnings))
+            (PP (IN of)
+              (NP
+                (QP ($ $) (CD 33) (CD million))))
+            (NP (JJ last) (NN year))))))
+    (. .)))
+

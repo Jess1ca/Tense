@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (JJ composite) (NN trading))
+        (NP (NNP Friday))
+        (PP (IN on)
+          (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))))
+    (, ,)
+    (NP (NNP BellSouth) (NNS shares))
+    (VP (VBD fell)
+      (NP (CD 87.5) (NNS cents))
+      (PP (TO to)
+        (NP ($ $) (CD 52.125))))
+    (. .)))
+

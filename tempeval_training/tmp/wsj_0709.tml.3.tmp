@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT the) (JJ comparable) (JJ year-ago) (NN quarter))
+        (, ,)
+        (NP
+          (NP (DT the) (JJ second) (NN quarter))
+          (VP (VBN ended)
+            (NP (NNP Oct.) (CD 31))))))
+    (, ,)
+    (NP (NNP Service) (NNP Corp.))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (NN loss))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP (RB about) ($ $) (CD 12.5) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 26) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,))))
+      (PP (IN on)
+        (NP
+          (NP (NN revenue))
+          (PP (IN of)
+            (NP
+              (QP ($ $) (CD 175.4) (CD million)))))))
+    (. .)))
+

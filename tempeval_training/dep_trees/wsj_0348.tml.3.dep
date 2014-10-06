@@ -1,0 +1,27 @@
+1	Ogden	_	NNP	NNP	_	2	nn	_	_
+2	Projects	_	NNPS	NNPS	_	17	nsubj	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	whose	_	WP$	WP$	_	5	poss	_	_
+5	shares	_	NNS	NNS	_	6	nsubj	_	_
+6	began	_	VBD	VBD	_	2	rcmod	_	_
+7	trading	_	NN	NN	_	6	dobj	_	_
+8	on	_	IN	IN	_	6	prep	_	_
+9	the	_	DT	DT	_	13	det	_	_
+10	New	_	NNP	NNP	_	13	nn	_	_
+11	York	_	NNP	NNP	_	13	nn	_	_
+12	Stock	_	NNP	NNP	_	13	nn	_	_
+13	Exchange	_	NNP	NNP	_	8	pobj	_	_
+14	in	_	IN	IN	_	6	prep	_	_
+15	August	_	NNP	NNP	_	14	pobj	_	_
+16	,	_	,	,	_	2	punct	_	_
+17	closed	_	VBD	VBD	_	0	root	_	_
+18	yesterday	_	NN	NN	_	17	tmod	_	_
+19	at	_	IN	IN	_	17	prep	_	_
+20	$	_	$	$	_	19	pobj	_	_
+21	26.875	_	CD	CD	_	20	num	_	_
+22	,	_	,	,	_	17	punct	_	_
+23	down	_	RB	RB	_	17	advmod	_	_
+24	75	_	CD	CD	_	25	num	_	_
+25	cents	_	NNS	NNS	_	23	pobj	_	_
+26	.	_	.	.	_	17	punct	_	_
+

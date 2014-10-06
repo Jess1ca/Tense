@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP Kyle) (NNP Technology) (NNP Corp.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT a) (NNP Seattle) (NN investor))
+          (VP (VBZ has)
+            (VP (VBN signed)
+              (NP
+                (NP (DT a) (NN letter))
+                (PP (IN of)
+                  (NP (NN intent))))
+              (S
+                (VP (TO to)
+                  (VP (VB buy)
+                    (NP (DT the) (NN company))
+                    (PP (IN for)
+                      (NP
+                        (NP
+                          (QP (RB about) ($ $) (CD 3.1) (CD million)))
+                        (, ,)
+                        (CC or)
+                        (NP
+                          (NP ($ $) (CD 1.20))
+                          (NP (DT a) (NN share)))))))))))))
+    (. .)))
+

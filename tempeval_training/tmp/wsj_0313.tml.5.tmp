@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP Ocean) (NNP Drilling))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB offer)
+              (NP
+                (NP
+                  (QP (CD 15) (NN %) (TO to) (CD 20) (NN %)))
+                (PP (IN of)
+                  (NP (DT the) (NN contract-drilling) (NN business))))
+              (PP (IN through)
+                (NP
+                  (NP (DT an) (JJ initial) (JJ public) (NN offering))
+                  (PP (IN in)
+                    (NP (DT the) (JJ near) (NN future))))))))))
+    (. .)))
+

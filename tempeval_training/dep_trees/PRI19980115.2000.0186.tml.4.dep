@@ -1,0 +1,15 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	bonds	_	NNS	NNS	_	3	nsubj	_	_
+3	became	_	VBD	VBD	_	0	root	_	_
+4	worthless	_	JJ	JJ	_	3	acomp	_	_
+5	when	_	WRB	WRB	_	10	advmod	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	bankrupt	_	JJ	JJ	_	8	amod	_	_
+8	thrift	_	NN	NN	_	10	nsubjpass	_	_
+9	was	_	VBD	VBD	_	10	auxpass	_	_
+10	seized	_	VBN	VBN	_	3	advcl	_	_
+11	by	_	IN	IN	_	10	prep	_	_
+12	government	_	NN	NN	_	13	nn	_	_
+13	regulators	_	NNS	NNS	_	11	pobj	_	_
+14	.	_	.	.	_	3	punct	_	_
+

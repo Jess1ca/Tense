@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Antar))
+    (PRN (, ,)
+      (S
+        (NP (DT the) (NNP SEC))
+        (VP (VBD said)))
+      (, ,))
+    (VP (VBD made)
+      (NP
+        (QP (JJR more) (IN than) ($ $) (CD 60) (CD million)))
+      (PP (IN from)
+        (NP
+          (NP (DT the) (NN sale))
+          (PP (IN of)
+            (NP
+              (NP (PRP$ his) (NNS shares))
+              (PP (IN between)
+                (NP (CD 1985)
+                  (CC and)
+                  (CD 1987))))))))
+    (. .)))
+

@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (DT The) (NN prospectus))
+    (VP (VBD did) (RB n't)
+      (VP (VB include)
+        (NP (JJ many) (NNS details))
+        (PP (IN about)
+          (NP (DT the) (NN studio)
+            (CC and)
+            (NN theme) (NN park)))
+        (, ,)
+        (SBAR (IN although)
+          (S
+            (NP
+              (NP (JJ conceptual) (NNS drawings))
+              (, ,)
+              (VP (VBN released)
+                (NP (DT this) (NN month)))
+              (, ,))
+            (VP (VBP show)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP it))
+                  (VP (MD may)
+                    (VP (VB feature)
+                      (NP
+                        (NP (JJ several) (`` ``) (VBN themed) ('' '') (NNS areas))
+                        (ADJP (JJ similar)
+                          (PP (TO to)
+                            (NP
+                              (NP (DT those))
+                              (VP (VBN found)
+                                (PP (IN at)
+                                  (NP
+                                    (NP (NNS parks))
+                                    (VP (VBN built)
+                                      (PP (IN by)
+                                        (NP (NNP Walt) (NNP Disney) (NNP Co.))))))))))))))))))))
+    (. .)))
+

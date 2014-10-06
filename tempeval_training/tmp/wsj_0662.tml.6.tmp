@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN transaction))
+      (VP (VBZ is)
+        (ADJP (JJ subject)
+          (PP (TO to)
+            (NP (NN approval))))
+        (PP (IN by)
+          (NP
+            (NP (DT a) (NN panel))
+            (PP (IN of)
+              (NP (JJ disinterested) (NNS directors)))))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said) (, ,)
+      (S
+        (VP (VBG adding)
+          (SBAR (IN that)
+            (S
+              (NP (NN shareholder) (NN approval))
+              (VP (VBZ is) (RB n't)
+                (VP (VBN needed))))))))
+    (. .)))
+

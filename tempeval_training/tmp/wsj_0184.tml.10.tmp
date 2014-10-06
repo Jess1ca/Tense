@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (JJ composite) (NN trading))
+        (PP (IN on)
+          (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))))
+    (NP (NN yesterday))
+    (, ,)
+    (NP (NNP Upjohn) (NNS shares))
+    (VP (VBD rose)
+      (NP (CD 87.5) (NNS cents))
+      (PP (TO to)
+        (NP
+          (NP ($ $) (CD 38.875))
+          (NP (RB apiece)))))
+    (. .)))
+

@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Paribas))
+      (ADVP (RB still))
+      (VP (VBZ needs)
+        (NP (DT the) (NN go-ahead))
+        (PP (IN from)
+          (NP
+            (NP (DT the) (FW Commission) (FW des) (FW Operations) (FW de) (FW Bourse))
+            (, ,)
+            (NP (DT a) (NN government) (JJ regulatory) (NN agency))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNS analysts))
+      (VP (VBD said)
+        (SBAR (IN that)
+          (S
+            (VP (VBZ is)
+              (VP (VBN considered)
+                (S
+                  (ADJP (JJ likely)))))))))
+    (. .)))
+

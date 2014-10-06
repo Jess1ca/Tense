@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP believe)
+      (NP
+        (NP (NN ah))
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (MD will)
+              (VP (VB be)
+                (ADVP (RB always) (RB up)
+                  (S
+                    (VP (VBG going)
+                      (PRT (RP up)
+                        (CC and)
+                        (RP up))
+                      (NP (NN ah))
+                      (ADVP (RB forever)))))))))))
+    (. .)))
+

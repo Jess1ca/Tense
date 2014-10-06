@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Profit))
+      (PP (IN for)
+        (NP (PRP$ its) (JJ commercial) (NN insurance) (NN division))))
+    (VP (VBD fell)
+      (NP (CD 30) (NN %))
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 59) (CD million))))
+      (, ,)
+      (S
+        (VP (VBG reflecting)
+          (NP
+            (NP (JJR higher) (NN catastrophe) (NNS losses))
+            (CC and)
+            (NP (DT the) (NN price) (NN war)))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (JJ property/casualty) (NN market))
+              (PP (IN for)
+                (NP
+                  (QP (RB nearly) (CD three))
+                  (NNS years))))))))
+    (. .)))
+

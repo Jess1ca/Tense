@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP
+      (QP (IN At) (JJS least) (CD 51))
+      (NNS people))
+    (VP (VBD were)
+      (VP (VBN reported)
+        (S
+          (VP (VBN killed)
+            (PP (IN in)
+              (NP
+                (NP
+                  (NP (NNS clashes))
+                  (PP (IN between)
+                    (NP (NNP Serb) (NNS police))))
+                (CC and)
+                (NP
+                  (NP (JJ ethnic) (NNS Albanians))
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (JJ troubled) (NN region))
+                      (PP (IN in)
+                        (NP (JJ recent) (NNS days))))))))))))
+    (. .)))
+

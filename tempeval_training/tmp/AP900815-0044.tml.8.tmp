@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP U.S.) (JJ military) (NN buildup))
+      (PP (IN in)
+        (NP (NNP Saudi) (NNP Arabia))))
+    (VP (VBD continued)
+      (PP (IN at)
+        (NP (NN fever) (NN pace)))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (JJ Syrian) (NNS troops))
+          (VP
+            (ADVP (RB now)
+              (NP
+                (NP (NN part))
+                (PP (IN of)
+                  (NP (DT a) (JJ multinational) (NN force)))))
+            (VBN camped)
+            (PRT (RP out))
+            (PP (IN in)
+              (NP (DT the) (NN desert)
+                (S
+                  (VP (TO to)
+                    (VP (VB guard)
+                      (NP (DT the) (JJ Saudi) (NN kingdom))
+                      (PP (IN from)
+                        (NP (DT any) (JJ new) (NN thrust)))
+                      (PP (IN by)
+                        (NP (NNP Iraq))))))))))))
+    (. .)))
+

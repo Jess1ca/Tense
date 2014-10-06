@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT a) (NN letter))
+        (PP (TO to)
+          (NP
+            (NP (NNP President) (NNP Hashemi) (NNP Rafsanjani))
+            (PP (IN of)
+              (NP (NNP Iran)))
+            (, ,)
+            (VP (VBN read)
+              (PP (IN by)
+                (NP
+                  (NP (DT a) (NN broadcaster))
+                  (PP (IN over)
+                    (NP (NNP Baghdad) (NN radio))))))))))
+    (, ,)
+    (NP (NNP Saddam))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (MD will)
+            (VP
+              (VP (VB begin)
+                (S
+                  (VP (VBG withdrawing)
+                    (NP (NNS troops))
+                    (PP (IN from)
+                      (NP
+                        (NP (JJ Iranian) (NN territory))
+                        (PP (IN on)
+                          (NP (NNP Friday))))))))
+              (CC and)
+              (VP (VB release)
+                (NP
+                  (NP (JJ Iranian) (NNS prisoners))
+                  (PP (IN of)
+                    (NP (NN war))))))))))
+    (. .)))
+

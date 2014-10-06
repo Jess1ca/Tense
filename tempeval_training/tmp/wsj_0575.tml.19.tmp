@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (ADVP (RB Rather))
+    (PRN (, ,)
+      (S
+        (NP (NNP Mr.) (NNP Perlman))
+        (VP (VBD said)))
+      (, ,))
+    (NP (NNP Control) (NNP Data))
+    (VP
+      (VP (VBZ intends)
+        (S
+          (VP (TO to)
+            (VP (VB bid)
+              (PP (IN for)
+                (NP (DT the) (JJ coming) (NNP Minnesota) (NN lottery) (NN contract)))))))
+      (CC and)
+      (VP (VBZ is)
+        (VP (VBG seeking)
+          (NP
+            (NP (JJ new) (NNS applications))
+            (PP (IN for)
+              (NP (DT the) (NN technology))))
+          (ADVP (RB overseas))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB where))
+            (`` ``)
+            (S
+              (NP (EX there))
+              (VP (VBZ is)
+                (NP
+                  (NP (JJ great) (NN interest))
+                  (PP (IN in)
+                    (NP
+                      (NP (NNS games))
+                      (PP (IN of)
+                        (NP (NN skill))))))))))))
+    (. .) ('' '')))
+

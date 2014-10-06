@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP Analyst))
+    (VP (VBP estimate)
+      (NP
+        (NP (DT the) (NN value))
+        (PP (IN of)
+          (NP (DT the) (NNP BellSouth) (NN proposal))))
+      (PP (IN at)
+        (NP
+          (NP
+            (QP (RB about) ($ $) (CD 115) (TO to) ($ $) (CD 125)))
+          (NP (DT a) (NN share)))))
+    (. .)))
+

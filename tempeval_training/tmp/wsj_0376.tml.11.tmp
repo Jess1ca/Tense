@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (SBAR (IN Though)
+      (S
+        (NP (NNP Mr.) (NNP Packer))
+        (VP (VBZ has)
+          (ADVP (IN since))
+          (VP (VBN sold)
+            (NP (PRP$ his) (NN stake))))))
+    (, ,)
+    (NP (NNP Courtaulds))
+    (VP (VBZ is)
+      (VP (VBG moving)
+        (S
+          (VP (TO to)
+            (VP (VB keep)
+              (S
+                (NP (PRP$ its) (JJ institutional) (NNS shareholders))
+                (ADJP (JJ happy))))))))
+    (. .)))
+

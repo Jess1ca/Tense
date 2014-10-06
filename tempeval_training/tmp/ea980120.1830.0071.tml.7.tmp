@@ -1,0 +1,15 @@
+(ROOT
+  (S (CC And)
+    (ADVP (RB right) (IN across)
+      (PP (IN from)
+        (NP (DT the) (JJ Cuban) (JJ revolutionary) (NN icon) (NNP Che) (NNP Guevara))))
+    (, ,)
+    (NP (PRP they))
+    (ADVP (RB now))
+    (VP (VBP have)
+      (NP
+        (NP (DT a) (JJ giant) (NN portrait))
+        (PP (IN of)
+          (NP (NNP Jesus)))))
+    (. .)))
+

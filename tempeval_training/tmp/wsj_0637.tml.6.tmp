@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Vaux))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN share) (NN issue))
+          (VP (VBZ is)
+            (NP
+              (NP (NN part))
+              (PP (IN of)
+                (NP (DT a) (NN strategy)
+                  (S
+                    (VP (TO to)
+                      (VP (VB strengthen)
+                        (NP
+                          (NP (NNP Labatt) (POS 's))
+                          (NN balance) (NN sheet))
+                        (PP (IN in)
+                          (NP
+                            (NP (NN anticipation))
+                            (PP (IN of)
+                              (NP (NNS acquisitions)))))
+                        (S
+                          (VP (TO to)
+                            (VP (VB be)
+                              (VP (VBN made)
+                                (PP (IN during)
+                                  (NP (DT the) (JJ next)
+                                    (QP (CD 12) (TO to) (CD 18))
+                                    (NNS months)))))))))))))))))
+    (. .)))
+

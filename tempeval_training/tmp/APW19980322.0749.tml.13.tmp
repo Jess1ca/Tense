@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Northern) (NNP Ireland) (POS 's))
+        (JJS biggest) (JJ Protestant) (NN party))
+      (, ,)
+      (NP (DT the) (NNP Ulster) (NNP Unionists))
+      (, ,))
+    (VP (VBZ is)
+      (VP (VBG threatening)
+        (S
+          (VP (TO to)
+            (VP (VB push)
+              (PP (IN for)
+                (NP
+                  (NP (NNP Sinn) (NNP Fein) (POS 's))
+                  (NN expulsion)))
+              (ADVP (RB once) (RB again)))))))
+    (. .)))
+

@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN space)))
+    (, ,)
+    (NP (DT some))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (JJ female) (NNS pilots))
+          (VP (VBD were)
+            (VP (VBN held)
+              (PRT (RP up))
+              (PP (IN until)
+                (NP (RB now)))
+              (PP (IN by)
+                (NP
+                  (NP (DT the) (NN lack))
+                  (PP (IN of)
+                    (S
+                      (VP (VBG piloting)
+                        (NP
+                          (NP (NNS opportunities))
+                          (PP (IN for)
+                            (NP (PRP them))))
+                        (PP (IN in)
+                          (NP (DT the) (NN military)))))))))))))
+    (. .)))
+

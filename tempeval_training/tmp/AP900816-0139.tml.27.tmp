@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP Egypt) (, ,) (NNP Syria) (, ,) (NNP Morocco)
+      (CC and)
+      (NNP Bangladesh))
+    (ADVP (RB also))
+    (VP (VBD committed)
+      (NP (NN ground) (NNS troops))
+      (, ,)
+      (PP (TO to)
+        (NP (DT a)
+          (ADJP (RB much) (JJR lesser))
+          (NN degree))))
+    (. .)))
+

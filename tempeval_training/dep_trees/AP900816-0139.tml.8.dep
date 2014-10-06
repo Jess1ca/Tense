@@ -1,0 +1,20 @@
+1	Iraqi	_	JJ	JJ	_	3	amod	_	_
+2	military	_	JJ	JJ	_	3	amod	_	_
+3	authorities	_	NNS	NNS	_	4	nsubj	_	_
+4	ordered	_	VBD	VBD	_	18	ccomp	_	_
+5	all	_	DT	DT	_	6	det	_	_
+6	Americans	_	NNPS	NNPS	_	4	dobj	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	Britons	_	NNPS	NNPS	_	6	conj	_	_
+9	in	_	IN	IN	_	6	prep	_	_
+10	Kuwait	_	NNP	NNP	_	9	pobj	_	_
+11	to	_	TO	TO	_	12	aux	_	_
+12	assemble	_	VB	VB	_	4	xcomp	_	_
+13	at	_	IN	IN	_	12	prep	_	_
+14	a	_	DT	DT	_	15	det	_	_
+15	hotel	_	NN	NN	_	13	pobj	_	_
+16	,	_	,	,	_	18	punct	_	_
+17	officials	_	NNS	NNS	_	18	nsubj	_	_
+18	said	_	VBD	VBD	_	0	root	_	_
+19	.	_	.	.	_	18	punct	_	_
+

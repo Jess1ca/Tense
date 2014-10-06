@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (QP (CD Seventy-five) (CD million))
+        (NNS copies))
+      (PP (IN of)
+        (NP (DT the) (NN rifle))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN built)
+          (SBAR (IN since)
+            (S
+              (NP (PRP it))
+              (VP (VBD entered)
+                (NP (NN production))
+                (PP (IN in)
+                  (NP (NNP February) (CD 1947)))
+                (, ,)
+                (S
+                  (VP (VBG making)
+                    (S
+                      (NP (PRP it))
+                      (NP
+                        (NP (NN history) (POS 's))
+                        (ADJP (RBS most) (RB widely) (JJ distributed))
+                        (NN weapon)))))))))))
+    (. .)))
+

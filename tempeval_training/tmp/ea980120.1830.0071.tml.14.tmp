@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (NN Today))
+    (, ,)
+    (NP
+      (NP (JJ Cuban) (NN television))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ clings)
+            (PP (TO to)
+              (NP (DT the) (NNP Communist) (NNP Party) (NN line))))))
+      (, ,))
+    (ADVP (RB actually))
+    (VP (VBD began)
+      (S
+        (VP (TO to)
+          (VP (VB promote)
+            (NP (PRP$ its) (JJ papal) (NN coverage))))))
+    (. .)))
+

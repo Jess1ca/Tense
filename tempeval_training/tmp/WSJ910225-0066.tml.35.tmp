@@ -1,0 +1,29 @@
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (NNP Robert) (NNP Gates))
+      (, ,)
+      (NP
+        (NP (NNP Mr.) (NNP Bush) (POS 's))
+        (JJ deputy) (JJ national) (NN security) (NN adviser))
+      (, ,))
+    (VP (VBD asserted)
+      (PP (IN in)
+        (NP
+          (NP (DT an) (NN interview))
+          (PP (IN on)
+            (NP (DT the) (NNP Cable) (NNP News) (NNP Network)))))
+      (SBAR (IN that)
+        (S
+          (NP (JJ Iraqi) (NNS troops))
+          (VP (VBP have)
+            (VP (VBN set)
+              (NP (NN fire))
+              (PP (TO to)
+                (NP (`` ``)
+                  (NP (JJ large) (NNS sections))
+                  ('' '')
+                  (PP (IN of)
+                    (NP (NNP Kuwait) (NNP City))))))))))
+    (. .)))
+

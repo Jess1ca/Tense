@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (DT The) (NN dollar))
+    (VP (VBD soared)
+      (PP (IN against)
+        (NP
+          (NP (DT the) (NN pound))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD was)
+                (PP (IN at)
+                  (NP
+                    (NP ($ $) (CD 1.5765))
+                    (PP (VBN compared)
+                      (PP (IN with)
+                        (NP ($ $) (CD 1.6145))))))
+                (NP (NNP Wednesday))))))))
+    (. .)))
+

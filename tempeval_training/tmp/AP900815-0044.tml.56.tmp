@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Iraq))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD invaded)
+            (NP
+              (NP (NNP Kuwait))
+              (PP (RB because) (IN of)
+                (NP (NNS disputes))))
+            (PP (IN over)
+              (NP (NN oil)
+                (CC and)
+                (NN money)))))))
+    (. .)))
+

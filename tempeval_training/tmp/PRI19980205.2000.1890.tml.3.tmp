@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG Posing)
+        (PP (IN for)
+          (NP
+            (NP (NNS photographers))
+            (PP (IN with)
+              (NP (NNP Clinton)))))))
+    (, ,)
+    (NP (NNP Blair))
+    (VP (VBD pledged)
+      (S
+        (VP (TO to)
+          (VP (VB stand)
+            (VP (VBN united)
+              (PP (IN with)
+                (NP
+                  (NP (DT the) (NN president))
+                  (PP (IN against)
+                    (NP (NNP Iraq)))))))))
+      (, ,)
+      (S
+        (VP (VBG warning)
+          (NP (NNP Saddam) (NNP Hussein))
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP (DT the) (NN threat))
+                (PP (IN of)
+                  (NP (NN force))))
+              (VP (VBZ is)
+                (ADJP (JJ real))))))))
+    (. .)))
+

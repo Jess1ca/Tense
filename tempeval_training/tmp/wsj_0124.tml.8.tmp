@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP American) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading)))
+    (, ,)
+    (NP (NNP Citadel) (NNS shares))
+    (VP (VBD closed)
+      (NP (NN yesterday))
+      (PP (IN at)
+        (NP ($ $) (CD 45.75)))
+      (, ,)
+      (ADVP (RB down)
+        (NP (CD 25) (NNS cents))))
+    (. .)))
+

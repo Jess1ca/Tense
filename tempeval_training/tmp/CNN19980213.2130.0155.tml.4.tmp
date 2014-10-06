@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT a) (NN bit))
+        (PP (IN of)
+          (NP (NN television) (NN diplomacy)))))
+    (, ,)
+    (NP
+      (NP (NNP Iraq) (POS 's))
+      (JJ deputy) (JJ foreign) (NN minister))
+    (VP (VBD responded)
+      (PP (IN from)
+        (NP (NNP Baghdad)))
+      (PP (IN in)
+        (NP
+          (QP (JJR less) (IN than) (CD one) (NN hour))))
+      (, ,)
+      (S
+        (VP (VBG saying)
+          (SBAR
+            (S
+              (NP (NNP Washington))
+              (VP (MD would)
+                (VP (VB break)
+                  (NP (JJ international) (NN law))
+                  (PP (IN by)
+                    (S
+                      (VP (VBG attacking)
+                        (PP (IN without)
+                          (NP (NNP UN) (NN approval)))))))))))))
+    (. .)))
+

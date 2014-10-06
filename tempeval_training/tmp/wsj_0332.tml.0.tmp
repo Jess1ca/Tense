@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Orkem) (NNP S.A.))
+        (, ,)
+        (NP (DT a) (JJ French) (JJ state-controlled) (NN chemical) (NN manufacturer))
+        (, ,))
+      (VP (VBZ is)
+        (VP (VBG making)
+          (NP
+            (NP (DT a) (JJ friendly) (NN bid))
+            (PP (IN of)
+              (NP
+                (NP (CD 470) (NNS pence))
+                (PRN (-LRB- -LRB-)
+                  (NP ($ $) (CD 7.43))
+                  (-RRB- -RRB-))
+                (NP (DT a) (NN share)))))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (CD 59.2) (NN %))
+              (PP (IN of)
+                (NP (NNP U.K.) (NN specialty) (NN chemical) (NN group) (NNP Coates) (NNPS Brothers) (NNP PLC)))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ does) (RB n't)
+                    (ADVP (RB already))
+                    (VP (VB own))))))))))
+    (, ,)
+    (NP (DT the) (CD two) (NNS sides))
+    (VP (VBD said))
+    (. .)))
+

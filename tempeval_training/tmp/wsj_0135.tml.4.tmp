@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN company) (POS 's))
+      (NN stock))
+    (VP (VBD fell)
+      (NP ($ $) (CD 1.125))
+      (PP (TO to)
+        (NP ($ $) (CD 13.625)))
+      (PP (IN in)
+        (NP (JJ over-the-counter) (NN trading)))
+      (NP (NN yesterday)))
+    (. .)))
+

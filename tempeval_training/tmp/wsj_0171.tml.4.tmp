@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNP Valley) (NNP Federal))
+    (ADVP (RB also))
+    (VP
+      (VP (VBD added)
+        (NP
+          (QP ($ $) (CD 18) (CD million)))
+        (PP (TO to)
+          (NP (NN realestate) (NN loan) (NNS reserves))))
+      (CC and)
+      (VP (VBD eliminated)
+        (NP
+          (NP
+            (QP ($ $) (CD 9.9) (CD million)))
+          (PP (IN of)
+            (NP (JJ good) (NN will))))))
+    (. .)))
+

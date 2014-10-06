@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (IN Despite)
+      (NP
+        (NP (DT the) (JJ recent) (NN possibility))
+        (PP (IN of)
+          (NP
+            (NP (JJ military) (NN conflict))
+            (PP (IN with)
+              (NP (NNP Iraq)))))))
+    (, ,)
+    (NP (NN oil) (NNS prices))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBG falling) (, ,)
+          (SBAR (IN that)
+            (S
+              (VP (VBZ 's)
+                (PP (RB because) (IN of)
+                  (NP
+                    (NP (DT a) (JJ worldwide) (NN glut))
+                    (PP (IN of)
+                      (NP (NN oil)))))))))))
+    (. .)))
+

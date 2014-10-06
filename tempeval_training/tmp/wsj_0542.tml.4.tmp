@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Delaware) (NNP Chancery) (NNP Court) (NN litigation)))
+    (, ,)
+    (NP (NNP Telerate))
+    (VP (VBZ has)
+      (VP (VBN criticized)
+        (NP
+          (NP (NNP Dow) (NNP Jones))
+          (PP (IN for)
+            (S
+              (VP (RB not) (VBG disclosing)
+                (SBAR (IN that)
+                  (S
+                    (NP
+                      (NP (NNP Telerate) (POS 's))
+                      (NN management))
+                    (VP (VBZ expects)
+                      (NP
+                        (NP (DT the) (NN company) (POS 's))
+                        (NN revenue))
+                      (S
+                        (VP (TO to)
+                          (VP (VB increase)
+                            (PP (IN by)
+                              (NP (CD 20) (NN %)))
+                            (ADVP (RB annually)))))
+                      (, ,)
+                      (SBAR (IN while)
+                        (S
+                          (NP
+                            (NP (NNP Dow) (NNP Jones))
+                            (PP (VBN based)
+                              (PP
+                                (NP
+                                  (NP (PRP$ its) (NNS projections))
+                                  (PP (IN of)
+                                    (NP
+                                      (NP (NNP Telerate) (POS 's))
+                                      (NN performance))))
+                                (IN on)
+                                (NP (DT a)
+                                  (ADJP (CD 12) (NN %))
+                                  (NN revenue) (NN growth)))))
+                          (VP (VBD forecast)))))))))))))
+    (. .)))
+

@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (ADVP (RB Separately))
+    (, ,)
+    (NP (NNP UniFirst))
+    (VP (VBD reported)
+      (SBAR (IN that)
+        (S
+          (NP (JJ net) (NN income))
+          (VP (VBD rose)
+            (NP (CD 21) (NN %))
+            (PP (TO to)
+              (NP
+                (NP
+                  (QP ($ $) (CD 3) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (CD 29) (NNS cents))
+                  (NP (DT a) (NN share)))))
+            (S
+              (VP (VBN adjusted)
+                (PP (IN for)
+                  (NP (DT the) (NN split)))))
+            (, ,)
+            (PP (IN for)
+              (NP
+                (NP (DT the) (JJ fourth) (NN quarter))
+                (VP (VBN ended)
+                  (NP (NNP Aug.) (CD 26)))))))))
+    (. .)))
+

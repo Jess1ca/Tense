@@ -1,0 +1,26 @@
+1	That	_	DT	DT	_	2	nsubj	_	_
+2	's	_	VBZ	VBZ	_	0	root	_	_
+3	largely	_	RB	RB	_	2	advmod	_	_
+4	because	_	IN	IN	_	9	mark	_	_
+5	of	_	IN	IN	_	9	prep	_	_
+6	defensive	_	JJ	JJ	_	7	amod	_	_
+7	measures	_	NNS	NNS	_	5	pobj	_	_
+8	they	_	PRP	PRP	_	9	nsubj	_	_
+9	adopted	_	VBD	VBD	_	2	advcl	_	_
+10	after	_	IN	IN	_	9	prep	_	_
+11	the	_	DT	DT	_	13	det	_	_
+12	1987	_	CD	CD	_	13	num	_	_
+13	crash	_	NN	NN	_	10	pobj	_	_
+14	,	_	,	,	_	9	punct	_	_
+15	when	_	WRB	WRB	_	18	advmod	_	_
+16	individual	_	JJ	JJ	_	17	amod	_	_
+17	investors	_	NNS	NNS	_	18	nsubj	_	_
+18	fled	_	VBD	VBD	_	9	advcl	_	_
+19	the	_	DT	DT	_	23	det	_	_
+20	market	_	NN	NN	_	23	nn	_	_
+21	and	_	CC	CC	_	20	cc	_	_
+22	trading	_	NN	NN	_	20	conj	_	_
+23	activity	_	NN	NN	_	24	nsubj	_	_
+24	dwindled	_	VBD	VBD	_	18	ccomp	_	_
+25	.	_	.	.	_	2	punct	_	_
+

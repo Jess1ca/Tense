@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (NNP Sony) (NNP Corp.))
+    (VP (VBD completed)
+      (NP (PRP$ its) (NN tender) (NN offer))
+      (PP (IN for)
+        (NP (NNP Columbia) (NNPS Pictures) (NNP Entertainment) (NNP Inc.)))
+      (, ,)
+      (PP (IN with)
+        (S
+          (NP (NNP Columbia) (NNS shareholders))
+          (VP (VBG tendering)
+            (S
+              (NP
+                (NP (CD 99.3) (NN %))
+                (PP (IN of)
+                  (NP (DT all) (JJ common) (NNS shares))))
+              (ADJP (JJ outstanding)
+                (PP (IN by)
+                  (NP (DT the) (NNP Tuesday) (NN deadline)))))))))
+    (. .)))
+

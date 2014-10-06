@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP IBM))
+      (VP (VBZ has)
+        (NP (DT no) (NNS plans)
+          (S
+            (VP (TO to)
+              (VP (VB recall)
+                (NP (PRP$ its) (JJ add-on) (NNS cards))))))))
+    (, ,)
+    (NP (DT the) (NN spokeswoman))
+    (VP
+      (VP (VBD said))
+      (, ,)
+      (CC and)
+      (VP (MD could)
+        (ADVP (RB probably))
+        (VP (VB circumvent)
+          (NP (DT the) (NNS bugs))
+          (PP (IN without)
+            (NP (JJ long) (NN product) (NNS delays))))))
+    (. .)))
+

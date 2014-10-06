@@ -1,0 +1,16 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP They))
+      (VP (VBP do) (RB n't)
+        (VP (VB want)
+          (S
+            (VP (TO to)
+              (VP (VB play)
+                (PP (IN with)
+                  (NP (PRP us)))))))))
+    (, ,) ('' '')
+    (NP (CD one) (NNP U.S.) (NN crew) (NN chief))
+    (VP (VBD said))
+    (. .)))
+

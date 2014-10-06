@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT The) (NN plan))
+    (VP
+      (VP (VBD was)
+        (VP (VBN filed)
+          (ADVP (RB jointly))
+          (PP (IN with)
+            (NP
+              (NP (JJ unsecured) (NNS creditors))
+              (PP (IN in)
+                (NP
+                  (NP (JJ federal) (NN bankruptcy) (NN court))
+                  (PP (IN in)
+                    (NP (NNP New) (NNP York)))))))))
+      (CC and)
+      (VP (MD must)
+        (VP (VB be)
+          (VP (VBN approved)
+            (PP (IN by)
+              (NP (DT the) (NN court)))))))
+    (. .)))
+

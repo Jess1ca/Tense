@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (MD will)
+      (ADVP (RB also))
+      (VP (VB help)
+        (ADVP (RBR further))
+        (S
+          (VP (VB improve)
+            (NP (NNS communications)
+              (CC and)
+              (NN collaboration))
+            (PP (IN at)
+              (NP
+                (NP (DT all) (NNS levels))
+                (PP (IN in)
+                  (NP (DT an) (NN organisation)))))))))
+    (. .)))
+

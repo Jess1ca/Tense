@@ -1,0 +1,19 @@
+1	The	_	DT	DT	_	4	det	_	_
+2	revised	_	VBN	VBN	_	4	amod	_	_
+3	LIN-BellSouth	_	NNP	NNP	_	4	nn	_	_
+4	agreement	_	NN	NN	_	5	nsubj	_	_
+5	boosts	_	VBZ	VBZ	_	0	root	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	dollar	_	NN	NN	_	8	nn	_	_
+8	amount	_	NN	NN	_	5	dobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	special	_	JJ	JJ	_	12	amod	_	_
+12	dividend	_	NN	NN	_	9	pobj	_	_
+13	LIN	_	NNP	NNP	_	14	nsubj	_	_
+14	promises	_	VBZ	VBZ	_	12	rcmod	_	_
+15	to	_	TO	TO	_	16	aux	_	_
+16	pay	_	VB	VB	_	14	xcomp	_	_
+17	shareholders	_	NNS	NNS	_	16	dobj	_	_
+18	.	_	.	.	_	5	punct	_	_
+

@@ -1,0 +1,17 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT This) (NN convention))
+      (VP (MD will)
+        (VP (VB be)
+          (VP (VBN seen)
+            (PP (IN as)
+              (NP
+                (NP (DT a) (NN turning) (NN point))
+                (PP (IN in)
+                  (NP (PRP$ our) (NN history)))))))))
+    (, ,) ('' '')
+    (NP (JJ Australian) (NNP Republican) (NNP Movement) (NN spokeswoman) (NNP Mary) (NNP Delahunty))
+    (VP (VBD said))
+    (. .)))
+

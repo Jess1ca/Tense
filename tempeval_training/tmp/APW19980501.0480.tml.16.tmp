@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (SBAR (IN Whether)
+      (S
+        (NP (DT this))
+        (VP (MD would)
+          (VP (VB prove)
+            (ADJP (JJ positive)
+              (CC or)
+              (RB otherwise))
+            (PP (IN towards)
+              (NP
+                (NP (NN society))
+                (PP (IN in)
+                  (NP (DT the) (NN future)))))))))
+    (VP (VBZ is)
+      (ADVP (RB yet))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN seen))))))
+    (. .)))
+

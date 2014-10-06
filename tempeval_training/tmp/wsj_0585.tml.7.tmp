@@ -1,0 +1,20 @@
+(ROOT
+  (NP
+    (NP (JJ Other) (NN market-maker) (NNS gripes))
+    (: :)
+    (S
+      (NP (NN Program) (NN trading))
+      (ADVP (RB also))
+      (VP (VBZ causes)
+        (S
+          (NP (DT the) (NNP Nasdaq) (NNP Composite) (NNP Index))
+          (VP (TO to)
+            (VP (VB lose)
+              (NP (NN ground))
+              (PP (IN against)
+                (NP
+                  (NP (JJ other) (NNS segments))
+                  (PP (IN of)
+                    (NP (DT the) (NN stock) (NN market))))))))))
+    (. .)))
+

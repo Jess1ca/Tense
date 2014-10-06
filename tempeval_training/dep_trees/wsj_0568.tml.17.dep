@@ -1,0 +1,14 @@
+1	In	_	IN	IN	_	6	prep	_	_
+2	addition	_	NN	NN	_	1	pobj	_	_
+3	,	_	,	,	_	6	punct	_	_
+4	Unisys	_	NNP	NNP	_	6	nsubj	_	_
+5	must	_	MD	MD	_	6	aux	_	_
+6	deal	_	VB	VB	_	0	root	_	_
+7	with	_	IN	IN	_	6	prep	_	_
+8	its	_	PRP$	PRP$	_	12	poss	_	_
+9	increasingly	_	RB	RB	_	10	advmod	_	_
+10	oppressive	_	JJ	JJ	_	12	amod	_	_
+11	debt	_	NN	NN	_	12	nn	_	_
+12	load	_	NN	NN	_	7	pobj	_	_
+13	.	_	.	.	_	6	punct	_	_
+

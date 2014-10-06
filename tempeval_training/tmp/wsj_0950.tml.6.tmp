@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP GM) (NNP Class) (NNP E))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ represents)
+            (NP
+              (NP (DT a) (NN dividend) (NN interest))
+              (PP (IN in)
+                (NP (NNP EDS) (NN profit)))))))
+      (, ,))
+    (VP (VBD fell)
+      (NP (CD 75) (NNS cents))
+      (PP (TO to)
+        (NP ($ $) (CD 52.25)))
+      (PP (IN on)
+        (NP (DT the) (NNP Big) (NNP Board))))
+    (. .)))
+

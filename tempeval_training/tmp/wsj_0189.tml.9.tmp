@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT the) (NN year)))
+    (PRN (, ,)
+      (S
+        (NP (JJ pet) (NN food) (NN volume))
+        (VP (VBD was)
+          (ADJP (JJ flat))))
+      (, ,))
+    (NP (DT the) (NN company))
+    (VP (VBD said))
+    (. .)))
+

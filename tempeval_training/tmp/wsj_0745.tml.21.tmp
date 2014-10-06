@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT This) (NN week))
+    (, ,)
+    (NP (DT the) (NNP U.S.) (NN auto) (NN giant))
+    (VP (VBD paid)
+      (PP (IN for)
+        (NP
+          (NP (CD 10)
+            (NAC (NNP House)
+              (PP (IN of)
+                (NP (NNPS Commons))))
+            (NNS members))
+          (CC and)
+          (NP (CD two)
+            (NAC (NNP House)
+              (PP (IN of)
+                (NP (NNPS Lords))))
+            (NNS members))))
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB fly)
+              (PP (TO to)
+                (NP (NNP Detroit))))
+            (CC and)
+            (VP (VB tour)
+              (NP (PRP$ its) (NNS operations))
+              (ADVP (RB there)))))))
+    (. .)))
+

@@ -1,0 +1,17 @@
+(ROOT
+  (S (CC And)
+    (NP (NNP Unisys))
+    (VP (VBZ is)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (ADJP
+                (ADJP (RB little) (JJR better))
+                (PP (IN than)
+                  (NP (NN break))))
+              (ADVP (RB even))
+              (PP (IN in)
+                (NP (DT the) (JJ fourth) (NN quarter))))))))
+    (. .)))
+

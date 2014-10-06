@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (NNP Guber/Peters))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN locked)
+          (PP (IN in)
+            (NP (NN litigation)))
+          (PP (IN with)
+            (NP
+              (NP (NNP Warner) (NNPS Communications) (NNP Inc.))
+              (PP (IN in)
+                (NP (DT an) (NN attempt)))))
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (PRT (RP out))
+                (PP (IN of)
+                  (NP
+                    (NP (DT an) (JJ exclusive) (NN production) (NN contract))
+                    (PP (IN with)
+                      (NP (NNP Warner)))))))))))
+    (. .)))
+

@@ -1,0 +1,18 @@
+1	Shearson	_	NNP	NNP	_	8	nsubj	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	Merrill	_	NNP	NNP	_	4	nn	_	_
+4	Lynch	_	NNP	NNP	_	1	conj	_	_
+5	and	_	CC	CC	_	1	cc	_	_
+6	Goldman	_	NNP	NNP	_	7	nn	_	_
+7	Sachs	_	NNP	NNP	_	1	conj	_	_
+8	say	_	VBP	VBP	_	0	root	_	_
+9	they	_	PRP	PRP	_	10	nsubj	_	_
+10	do	_	VBP	VBP	_	8	ccomp	_	_
+11	so	_	RB	RB	_	12	advmod	_	_
+12	only	_	RB	RB	_	10	advmod	_	_
+13	for	_	IN	IN	_	10	prep	_	_
+14	customers	_	NNS	NNS	_	13	pobj	_	_
+15	,	_	,	,	_	10	punct	_	_
+16	however	_	RB	RB	_	10	advmod	_	_
+17	.	_	.	.	_	8	punct	_	_
+

@@ -1,0 +1,18 @@
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	made	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	estimates	_	NNS	NNS	_	2	dobj	_	_
+5	based	_	VBN	VBN	_	2	prep	_	_
+6	on	_	IN	IN	_	5	pcomp	_	_
+7	data	_	NNS	NNS	_	6	pobj	_	_
+8	collected	_	VBN	VBN	_	7	vmod	_	_
+9	from	_	IN	IN	_	8	prep	_	_
+10	more	_	JJR	JJR	_	11	mwe	_	_
+11	than	_	IN	IN	_	13	quantmod	_	_
+12	a	_	DT	DT	_	13	quantmod	_	_
+13	dozen	_	NN	NN	_	16	num	_	_
+14	big	_	JJ	JJ	_	16	amod	_	_
+15	junk	_	NN	NN	_	16	nn	_	_
+16	funds	_	NNS	NNS	_	9	pobj	_	_
+17	.	_	.	.	_	2	punct	_	_
+

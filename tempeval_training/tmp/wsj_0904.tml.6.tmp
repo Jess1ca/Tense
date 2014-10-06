@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Net))
+      (PP (IN for)
+        (NP (DT the) (JJ year-earlier) (CD nine) (NNS months))))
+    (ADVP (RB also))
+    (VP (VBD included)
+      (NP
+        (NP (DT a) (NN gain))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 9.7) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 15) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,))))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (VBG carrying) (NN value))
+          (PP (IN of)
+            (NP (DT the) (NNP Conner) (NN investment))))))
+    (. .)))
+

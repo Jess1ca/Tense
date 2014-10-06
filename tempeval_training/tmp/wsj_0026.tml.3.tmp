@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Timex))
+    (VP (VBD had)
+      (VP (VBN requested)
+        (NP (JJ duty-free) (NN treatment))
+        (PP (IN for)
+          (NP
+            (NP (JJ many) (NNS types))
+            (PP (IN of)
+              (NP
+                (NP (NNS watches))
+                (, ,)
+                (VP (VBN covered)
+                  (PP (IN by)
+                    (NP (CD 58) (JJ different) (NNP U.S.) (NN tariff) (NNS classifications))))))))))
+    (. .)))
+

@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT Those))
+    (VP (VBD included)
+      (NP
+        (NP (NNS costs))
+        (VP (VBN associated)
+          (PP (IN with)
+            (NP
+              (NP (DT the) (JJ potential) (NNP Valley) (NNP Federal) (NNPS Savings)
+                (CC and)
+                (NNP Loan) (NNP Association) (NN acquisition))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBD was)
+                    (VP (VBN terminated)
+                      (PP (IN on)
+                        (NP (NNP Sept.) (CD 27) (, ,) (CD 1989))))))))))))
+    (. .)))
+

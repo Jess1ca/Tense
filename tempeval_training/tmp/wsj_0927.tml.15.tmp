@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT this) (NN year) (POS 's))
+        (JJ third) (NN quarter)))
+    (, ,)
+    (PP (IN for)
+      (NP (NN example)))
+    (, ,)
+    (NP (NN net))
+    (VP (VBD was)
+      (NP
+        (NP
+          (QP ($ $) (CD 10.5) (CD million)))
+        (, ,)
+        (CC or)
+        (NP
+          (NP ($ $) (CD 1.05))
+          (NP (DT a) (NN share)))
+        (, ,))
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP
+            (NP
+              (QP ($ $) (CD 10.3) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP ($ $) (CD 1.02))
+              (NP (DT a) (NN share)))
+            (, ,))
+          (NP (DT a) (NN year) (RBR earlier)))))
+    (. .)))
+

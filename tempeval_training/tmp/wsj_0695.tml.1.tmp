@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNP Giant))
+    (VP (VBZ has)
+      (NP
+        (NP (NNS interests))
+        (PP (IN in)
+          (NP (NN cement) (NN making)
+            (CC and)
+            (NN newsprint)))))
+    (. .)))
+

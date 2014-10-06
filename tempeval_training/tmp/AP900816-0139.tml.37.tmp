@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT The) (VBN combined) (NNS operations))
+    (VP (VBP are)
+      (VP (VBN designed)
+        (S
+          (VP (TO to)
+            (VP (VB isolate)
+              (CC and)
+              (VB strangle)
+              (NP (NNP Iraq))
+              (SBAR (IN until)
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ retreats)
+                    (PP (IN from)
+                      (NP (NNP Kuwait)))))))))))
+    (. .)))
+

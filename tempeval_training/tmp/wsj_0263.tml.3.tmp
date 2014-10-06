@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN split))
+        (CC and)
+        (NP (JJ quarterly) (NN dividend)))
+      (VP (MD will)
+        (VP (VB be)
+          (ADJP (JJ payable)
+            (NP (NNP Jan.) (CD 3))
+            (PP (TO to)
+              (NP
+                (NP (NN stock))
+                (PP (IN of)
+                  (NP (NN record))))))
+          (NP (NNP Nov.) (CD 16)))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said))
+    (. .)))
+

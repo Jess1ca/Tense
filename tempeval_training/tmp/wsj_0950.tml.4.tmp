@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Earnings))
+      (PP (IN for)
+        (NP (NNP GM) (JJ common) (NN stock))))
+    (, ,)
+    (S
+      (VP (VBG reflecting)
+        (NP
+          (NP (DT the) (NN performance))
+          (PP (IN of)
+            (NP
+              (NP (NNP GM) (POS 's))
+              (JJ core) (JJ automotive) (NNS operations))))))
+    (, ,)
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN disclosed)
+          (NP (DT this) (NN morning)))))
+    (. .)))
+

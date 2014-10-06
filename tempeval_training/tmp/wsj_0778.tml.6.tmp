@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (DT A) (NN seizure))
+    (ADVP (RB also))
+    (VP (MD would)
+      (VP (VB make)
+        (S
+          (NP (DT the) (NN case))
+          (NP
+            (NP (DT the) (JJS largest))
+            (: --)
+            (CC and)
+            (NP
+              (NP (CD one))
+              (PP (IN of)
+                (NP (DT the) (JJ first))))
+            (: --)
+            (SBAR
+              (WHPP (IN in)
+                (WHNP (WDT which)))
+              (S
+                (NP
+                  (NP (NNS lawyers) (POS '))
+                  (NNS fees))
+                (VP (VBP have)
+                  (VP (VBN been)
+                    (VP (VBN confiscated)
+                      (PP (IN in)
+                        (NP
+                          (NP (DT a) (NN prosecution))
+                          (ADJP (JJ unrelated)
+                            (PP (TO to)
+                              (NP (NNS drugs)))))))))))))))
+    (. .)))
+

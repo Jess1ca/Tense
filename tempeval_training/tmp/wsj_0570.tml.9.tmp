@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP Thermo) (NNP Electron))
+    (VP (VBD acquired)
+      (NP
+        (NP
+          (QP (DT some) (CD 6))
+          (NN %))
+        (PP (IN of)
+          (NP
+            (NP (NNP Milton) (NNP Roy) (POS 's))
+            (JJ common) (NN stock))))
+      (PP (IN before)
+        (S
+          (VP
+            (VP (VBG throwing)
+              (PP (IN in)
+                (NP (DT the) (NN towel))))
+            (CC and)
+            (VP (VBG reducing)
+              (NP (PRP$ its) (NN stake))
+              (PP (IN in)
+                (NP (JJ early) (NNP September))))))))
+    (. .)))
+

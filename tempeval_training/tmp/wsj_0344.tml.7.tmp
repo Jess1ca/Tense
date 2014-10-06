@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP U.K.) (NNS sales))
+      (PP (IN for)
+        (NP
+          (NP (JJ last) (NN year) (POS 's))
+          (NN quarter))))
+    (VP (VBD were)
+      (NP
+        (QP (RB about) ($ $) (CD 3) (CD million))))
+    (. .)))
+

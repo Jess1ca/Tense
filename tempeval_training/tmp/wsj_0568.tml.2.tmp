@@ -1,0 +1,9 @@
+(ROOT
+  (S (`` ``)
+    (NP (NNP Unisys))
+    (VP (VBZ is)
+      (VP (VBG getting)
+        (S
+          (VP (VBN clobbered)))))
+    (. .)))
+

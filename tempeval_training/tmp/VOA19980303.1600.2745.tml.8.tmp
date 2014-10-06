@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (PRP We))
+    (PP (IN in)
+      (NP (NN fact)))
+    (VP (VBP have)
+      (VP (VBN seen)
+        (NP
+          (NP (NN hate) (NN group) (NNS numbers))
+          (VP
+            (VP (VBG dropping)
+              (PP (IN through)
+                (NP (DT the) (NNS nineties)))
+              (, ,)
+              (ADVP (RB uh)))
+            (PRN (CC but)
+              (NP
+                (NP
+                  (NP (DT this) (NN year))
+                  (SBAR
+                    (S
+                      (NP (PRP they))
+                      (VP (VBD jumped)
+                        (PRT (RP up))
+                        (NP
+                          (INTJ (UH uh))
+                          (NP (CD twenty) (NN percent)))))))
+                (, ,) (RB quite)
+                (NP (DT a) (JJ dramatic) (NN rise))))))))
+    (. .)))
+

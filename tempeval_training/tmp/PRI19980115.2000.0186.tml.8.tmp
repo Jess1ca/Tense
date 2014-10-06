@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ means)
+      (S
+        (NP (DT the) (NNS convictions))
+        (VP (VB stand) (, ,)
+          (S
+            (NP (DT a) (NN ruling))
+            (ADJP (JJ likely)
+              (S
+                (VP (TO to)
+                  (VP (VB send)
+                    (NP
+                      (NP (NNP Keating) (POS 's))
+                      (NNS lawyers))
+                    (ADVP (RB back)
+                      (PP (TO to)
+                        (NP
+                          (NP (NN state) (NN court))
+                          (SBAR
+                            (WHADVP (WRB where))
+                            (S
+                              (NP (PRP they))
+                              (VP (MD must)
+                                (VP (VB start)
+                                  (PRT (RP over))
+                                  (PP (IN with)
+                                    (NP (DT a) (JJ new) (NN appeal))))))))))))))))))
+    (. .)))
+

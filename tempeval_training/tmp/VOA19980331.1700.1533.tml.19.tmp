@@ -1,0 +1,7 @@
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (NNP VOA) (NNP Today)))
+    (. .)))
+

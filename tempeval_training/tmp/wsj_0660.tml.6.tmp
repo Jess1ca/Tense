@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS companies))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN transaction))
+          (VP (VBZ is)
+            (VP (VBG being)
+              (VP (VBN structured)
+                (NP (DT this) (NN way))
+                (SBAR (IN because)
+                  (S
+                    (NP
+                      (NP (DT the) (NNS laws))
+                      (PP (IN of)
+                        (NP (DT the) (NNP Netherlands) (NNPS Antilles)))
+                      (, ,)
+                      (SBAR
+                        (WHPP (IN under)
+                          (WHNP (WDT which)))
+                        (S
+                          (NP (NNP Erbamont))
+                          (VP (VBZ is)
+                            (VP (VBN organized)))))
+                      (, ,))
+                    (VP (VBP do) (RB n't)
+                      (VP (VB provide)
+                        (PP (IN for)
+                          (NP (NN merger) (NNS transactions)))))))))))))
+    (. .)))
+

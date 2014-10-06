@@ -1,0 +1,10 @@
+(ROOT
+  (S (`` ``)
+    (NP (PRP They))
+    (VP (VBD intended)
+      (S
+        (VP (TO to)
+          (VP (VB rob)
+            (NP (DT the) (NN place))))))
+    (. .)))
+

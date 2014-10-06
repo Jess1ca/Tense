@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (NNP Anheuser))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (PRP$ its) (JJ new) (NN strategy))
+            (PRN (: --)
+              (VP
+                (VP (VBN started)
+                  (PP (IN in)
+                    (NP (DT some) (NNS markets)))
+                  (NP (JJ last) (NN month)))
+                (CC and)
+                (VP (VBN expected)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (VP (VBN applied)
+                          (ADVP (RB soon))
+                          (PP (IN in)
+                            (NP (VBN selected) (NNS markets) (JJ nationwide)))))))))
+              (: --)))
+          (VP (MD will)
+            (VP (VB mean)
+              (NP (JJ lower-than-anticipated) (NNS earnings))
+              (PP
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (JJ last) (NN half))
+                    (PP (IN of)
+                      (NP (CD 1989)))))
+                (CC and)
+                (PP (IN for)
+                  (NP (CD 1990)))))))))
+    (. .)))
+

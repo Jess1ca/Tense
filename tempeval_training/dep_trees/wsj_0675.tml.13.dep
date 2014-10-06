@@ -1,0 +1,24 @@
+1	But	_	CC	CC	_	6	cc	_	_
+2	the	_	DT	DT	_	4	det	_	_
+3	new	_	JJ	JJ	_	4	amod	_	_
+4	pact	_	NN	NN	_	6	nsubj	_	_
+5	will	_	MD	MD	_	6	aux	_	_
+6	force	_	VB	VB	_	0	root	_	_
+7	huge	_	JJ	JJ	_	8	amod	_	_
+8	debt	_	NN	NN	_	6	dobj	_	_
+9	on	_	IN	IN	_	6	prep	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	new	_	JJ	JJ	_	12	amod	_	_
+12	firm	_	NN	NN	_	9	pobj	_	_
+13	and	_	CC	CC	_	6	cc	_	_
+14	could	_	MD	MD	_	16	aux	_	_
+15	still	_	RB	RB	_	16	advmod	_	_
+16	fail	_	VB	VB	_	6	conj	_	_
+17	to	_	TO	TO	_	18	aux	_	_
+18	thwart	_	VB	VB	_	16	xcomp	_	_
+19	rival	_	JJ	JJ	_	22	amod	_	_
+20	suitor	_	NN	NN	_	22	nn	_	_
+21	McCaw	_	NNP	NNP	_	22	nn	_	_
+22	Cellular	_	NNP	NNP	_	18	dobj	_	_
+23	.	_	.	.	_	6	punct	_	_
+

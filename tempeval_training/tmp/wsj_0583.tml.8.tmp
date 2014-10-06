@@ -1,0 +1,24 @@
+(ROOT
+  (S (CC But)
+    (PP (IN by)
+      (NP (DT all) (NNS accounts)))
+    (NP (JJ foreign) (NNS companies))
+    (VP (VBP have)
+      (VP (VBN bought)
+        (NP
+          (NP (RB only) (DT a) (JJ relative) (NN handful))
+          (PP (IN of)
+            (NP (JJ Japanese) (NNS companies))))
+        (NP (DT this) (NN year))
+        (, ,)
+        (SBAR (IN while)
+          (S
+            (NP (JJ Japanese) (NNS companies))
+            (VP (VBP have)
+              (VP (VBN acquired)
+                (NP
+                  (NP (NNS hundreds))
+                  (PP (IN of)
+                    (NP (JJ foreign) (NNS companies))))))))))
+    (. .)))
+

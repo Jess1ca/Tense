@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN effect)))
+    (, ,)
+    (S
+      (NP (DT the) (NN treaty))
+      (VP (VBZ amounts)
+        (PP (TO to)
+          (NP
+            (NP (JJ Russian) (NN recognition))
+            (PP (IN of)
+              (NP
+                (NP (NNP Ukraine) (POS 's))
+                (NN sovereignty)
+                (CC and)
+                (NNS borders)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ Ukrainian) (NN parliament))
+      (VP (VBZ has)
+        (ADVP (RB already))
+        (VP (VBN ratified)
+          (NP (PRP it)))))
+    (. .)))
+

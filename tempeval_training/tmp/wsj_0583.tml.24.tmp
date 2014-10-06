@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (NNP Sansui))
+    (PRN (, ,)
+      (S
+        (NP (PRP he))
+        (VP (VBD said)))
+      (, ,))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ perfect) (NN fit))
+        (PP (IN for)
+          (NP
+            (NP
+              (NP (NNP Polly) (NNP Peck) (POS 's))
+              (NN electronics) (NNS operations))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBP make)
+                  (NP
+                    (NP (NNS televisions))
+                    (, ,)
+                    (NP (NN videocassette) (NNS recorders))
+                    (, ,)
+                    (NP (NNS microwaves))
+                    (CC and)
+                    (NP (JJ other) (NNS products)))
+                  (PP (IN on)
+                    (NP
+                      (NP (DT an) (`` ``) (JJ original) (NN equipment) (NN maker) ('' '') (NN basis))
+                      (PP (IN for)
+                        (NP
+                          (NP (NN sale))
+                          (PP (IN under)
+                            (NP
+                              (NP (JJ other) (NNS companies) (POS '))
+                              (NN brand) (NNS names))))))))))))))
+    (. .)))
+

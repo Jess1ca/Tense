@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (NN tax) (NN credit))
+        (PP (IN of)
+          (NP
+            (QP ($ $) (CD 1.4) (CD million))))))
+    (. .)))
+

@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (DT No) (NN woman))
+    (VP (VBZ has)
+      (ADVP (RB actually))
+      (VP (VBN been)
+        (PP (IN in)
+          (NP
+            (NP (NN charge))
+            (PP (IN of)
+              (NP (DT a) (NN mission)))))
+        (PP (IN until)
+          (NP (RB now)))))
+    (. .)))
+

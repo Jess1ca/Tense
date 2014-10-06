@@ -1,0 +1,17 @@
+(ROOT
+  (S (CC But)
+    (NP (NNS economists))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN wage) (NN increase))
+          (VP (VBD was) (RB not)
+            (ADJP (JJ enough)
+              (S
+                (VP (TO to)
+                  (VP (VB raise)
+                    (NP (DT any) (NNS concerns))
+                    (PP (IN about)
+                      (NP (JJR higher) (NN inflation)))))))))))
+    (. .)))
+

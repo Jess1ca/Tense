@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (NNP Iraq))
+    (VP (VBZ has)
+      (VP (VBN called)
+        (S
+          (NP (PRP them))
+          (`` ``)
+          (ADJP (JJ restrictees)))))
+    (. .) ('' '')))
+

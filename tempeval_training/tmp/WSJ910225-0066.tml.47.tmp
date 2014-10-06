@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG cabling)
+          (NP (NN world) (NNS leaders))
+          (PP (IN about)
+            (NP (PRP$ his) (NN intention)
+              (S
+                (VP (TO to)
+                  (VP (VB give)
+                    (NP (NNP Saddam) (NNP Hussein))
+                    (NP (DT a) (JJ final) (NN deadline)
+                      (S
+                        (VP (TO to)
+                          (VP (VB exit)
+                            (NP (NNP Kuwait))))))))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD offered)
+      (NP (PRP him))
+      (NP (DT a) (NN week))
+      (S
+        (VP (TO to)
+          (VP (VB withdraw)
+            (ADVP (RB fully)))))
+      (, ,)
+      (PP (RB instead)
+        (PP (IN of)
+          (NP
+            (NP (DT the) (CD four) (NNS days))
+            (SBAR
+              (S
+                (NP (PRP he))
+                (ADVP (RB originally))
+                (VP (VBD considered))))))
+        (, ,) (RB because)
+        (PP (IN of)
+          (NP
+            (NP (NNS objections))
+            (PP (IN from)
+              (NP
+                (NP (DT some) (JJ European) (NNS partners))
+                (SBAR (IN that)
+                  (S
+                    (NP (CD four) (NNS days))
+                    (VP (VBD seemed)
+                      (ADJP (JJ punitive)
+                        (CC and)
+                        (JJ unrealistic)))))))))))
+    (. .)))
+

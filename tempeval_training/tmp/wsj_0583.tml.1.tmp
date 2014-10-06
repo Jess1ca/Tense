@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Polly) (NNP Peck))
+      (, ,)
+      (NP (DT a) (JJ fast-growing) (JJ British) (NN conglomerate))
+      (, ,))
+    (VP (MD will)
+      (VP (VB pay)
+        (NP
+          (NP
+            (QP (CD 15.6) (CD billion))
+            (NNS yen))
+          (PRN (-LRB- -LRB-)
+            (NP
+              (QP ($ $) (CD 110) (CD million)))
+            (-RRB- -RRB-)))
+        (PP (IN for)
+          (NP
+            (NP
+              (QP (CD 39) (CD million))
+              (JJ new) (NNS shares))
+            (PP (IN of)
+              (NP
+                (NP (NNP Sansui))
+                (, ,)
+                (NP
+                  (NP (DT a) (JJ well-known) (NN maker))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN high-fidelity) (JJ audio) (NN equipment))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBD failed)
+                            (S
+                              (VP (TO to)
+                                (VP (VB adjust)
+                                  (PP (TO to)
+                                    (NP (VBG changing) (NN market) (NNS conditions))))))))))))))))))
+    (. .)))
+

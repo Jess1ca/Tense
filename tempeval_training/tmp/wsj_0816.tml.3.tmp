@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT The) (NN dollar))
+    (VP
+      (VP (VBD rose)
+        (ADVP (RB modestly))
+        (PP (IN against)
+          (NP
+            (NP (DT the) (NN mark))
+            (CC and)
+            (NP (DT the) (NN yen)))))
+      (, ,)
+      (CC but)
+      (VP (VBD soared)
+        (PP (IN against)
+          (NP
+            (NP (DT the) (NN pound))
+            (PP (VBG following)
+              (NP
+                (NP (DT the) (NN resignation))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (NP (NNP Britain) (POS 's))
+                      (NN chancellor))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NNP Exchequer))
+                        (, ,)
+                        (NP (NNP Nigel) (NNP Lawson))))))))))))
+    (. .)))
+

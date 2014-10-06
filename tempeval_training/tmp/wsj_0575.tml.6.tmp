@@ -1,0 +1,23 @@
+(ROOT
+  (S (IN So)
+    (NP (PRP$ its) (JJ senior) (NNS executives))
+    (VP (VBP are)
+      (VP (VBG talking)
+        (ADVP (RB openly))
+        (PP (IN about)
+          (S
+            (ADVP (RB possibly))
+            (VP (VBG buying)
+              (PRT (RP back))
+              (NP
+                (NP (DT some))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (NP (DT the) (NN company) (POS 's))
+                      (QP ($ $) (CD 172.5) (CD million)))
+                    (PP (IN in)
+                      (NP (VBN subordinated) (JJ convertible) (NNS debentures))))))
+              (NP (JJ next) (NN year)))))))
+    (. .)))
+

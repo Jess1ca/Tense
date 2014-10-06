@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (NNP U.S.) (NNS commanders))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (CD 5,500) (JJ Iraqi) (NNS prisoners))
+          (VP (VBD were)
+            (VP (VBN taken)
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (JJ first) (NNS hours))
+                  (PP (IN of)
+                    (NP (DT the) (NN ground) (NN war)))))
+              (, ,)
+              (SBAR (IN though)
+                (S
+                  (NP (DT some) (JJ military) (NNS officials))
+                  (ADVP (RB later))
+                  (VP (VBD said)
+                    (SBAR
+                      (S
+                        (NP (DT the) (NN total))
+                        (VP (MD may)
+                          (VP (VB have)
+                            (VP (VBN climbed)
+                              (PP (IN above)
+                                (NP (CD 8,000))))))))))))))))
+    (. .)))
+

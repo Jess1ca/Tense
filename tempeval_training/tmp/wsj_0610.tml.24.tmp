@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP General) (NNP Mills))
+    (, ,)
+    (ADVP (RB meanwhile))
+    (, ,)
+    (VP (VBZ finds)
+      (S
+        (NP (PRP itself))
+        (ADJP (VBN constrained)
+          (PP (IN from)
+            (S
+              (VP (VBG boosting)
+                (NP (NNS sales))
+                (ADVP
+                  (ADVP (RBR further))
+                  (SBAR (IN because)
+                    (S
+                      (NP (PRP$ its) (NNS plants))
+                      (VP (VBP are)
+                        (VP (VBG operating)
+                          (PP (IN at)
+                            (NP (NN capacity))))))))))))))
+    (. .)))
+

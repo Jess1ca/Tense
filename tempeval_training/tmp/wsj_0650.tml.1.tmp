@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (DT the) (NNS debentures))
+            (VP (VBP are)
+              (VP (VBG being)
+                (VP (VBN issued)
+                  (PP (IN at)
+                    (NP
+                      (NP (DT an) (NN issue) (NN price))
+                      (PP (IN of)
+                        (NP
+                          (NP ($ $) (CD 849))
+                          (PP (IN for)
+                            (NP (DT each)
+                              (ADJP ($ $) (CD 1,000))
+                              (JJ principal) (NN amount)))))))))))))
+      (CC and)
+      (VP (VBP are)
+        (ADJP (JJ convertible)
+          (PP (IN at)
+            (ADVP
+              (NP (DT any) (NN time))
+              (RB prior))))
+        (PP (TO to)
+          (NP (NN maturity)))
+        (PP (IN at)
+          (NP
+            (NP (DT a) (NN conversion) (NN price))
+            (PP (IN of)
+              (NP
+                (NP ($ $) (CD 25))
+                (NP (DT a) (NN share))))))))
+    (. .)))
+

@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP Esselte) (NNP AB))
+    (VP (VBD sold)
+      (NP (DT the) (NN minority) (NN stake))
+      (PP
+        (ADVP
+          (NP (CD five) (NNS years))
+          (RB ago))
+        (IN in)
+        (NP (DT a)
+          (ADJP
+            (QP ($ $) (CD 40) (CD million)))
+          (JJ international) (NN share) (NN offering))))
+    (. .)))
+

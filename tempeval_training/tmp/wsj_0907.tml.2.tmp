@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT an) (NN interview)))
+    (, ,)
+    (NP
+      (NP (NNP W.) (NNP Brent) (NNP LeGere))
+      (, ,)
+      (NP (NN chairman)
+        (CC and)
+        (JJ chief) (NN executive) (NN officer))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ expects)
+            (S
+              (NP
+                (NP (NN revenue))
+                (PP (IN in)
+                  (NP (DT the) (JJS latest) (NN quarter))))
+              (VP (TO to)
+                (VP (VB total)
+                  (NP
+                    (QP (RB about) ($ $) (CD 28) (CD million))))))))))
+    (. .)))
+

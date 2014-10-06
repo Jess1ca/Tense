@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Southern) (NNP Poverty) (NNP Law) (NNP Center))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ civil) (NNS rights) (NN monitoring) (NN group))
+        (VP (VBN based)
+          (PP (IN in)
+            (NP (NNP Montgomery) (, ,) (NNP Alabama)))))
+      (, ,))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN monitored)
+        (NP (JJ such) (NNS groups))
+        (PP (IN as)
+          (NP (DT the) (NNP Ku) (NNP Klux) (NNP Klan)))))
+    (. .)))
+

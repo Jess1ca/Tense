@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP MCA))
+    (VP (VBZ holds)
+      (NP
+        (NP
+          (NP (NN half))
+          (PP (IN of)
+            (NP
+              (NP (NNP Cineplex) (POS 's))
+              (NN equity))))
+        (CC and)
+        (NP
+          (NP (CD 33) (NN %))
+          (PP (IN of)
+            (NP (PRP$ its) (NN voting) (NNS rights)))))
+      (PP (IN through)
+        (NP (VBN restricted) (NN voting) (NNS shares)))
+      (, ,)
+      (SBAR (IN while)
+        (S
+          (NP (NNP Bronfman) (NNS interests))
+          (VP (VBP hold)
+            (NP
+              (NP
+                (QP (RB about) (CD 24))
+                (NN %))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN company) (POS 's))
+                  (NN equity))))))))
+    (. .)))
+

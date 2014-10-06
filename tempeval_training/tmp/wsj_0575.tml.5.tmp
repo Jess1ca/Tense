@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (, ,)
+    (PP (VBG following)
+      (NP
+        (NP (NN asset) (NNS sales))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD shrank)
+              (NP (NN revenue))
+              (PP (IN by)
+                (NP
+                  (QP (JJR more) (IN than) (NN one-third)))
+                (NP (DT this) (NN year) (RB alone))))))))
+    (, ,)
+    (NP (NNP Control) (NNP Data))
+    (VP (VBZ is)
+      (ADJP (JJ flush)
+        (PP (IN with)
+          (NP (NN cash)))))
+    (. .)))
+

@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP Continental) (NNP Baking) (NN business))
+      (VP (VBD benefited)
+        (PP
+          (PP (IN from)
+            (NP
+              (NP (JJR higher) (NNS margins))
+              (PP (IN on)
+                (NP (NN bread)))))
+          (CC and)
+          (PP (IN on)
+            (NP (VBN increased) (NN cake) (NNS sales))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD added))
+    (. .)))
+

@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS Foodstuffs))
+      (VP (VBP are)
+        (PP (IN among)
+          (NP
+            (NP (DT the) (NNS goods))
+            (VP (VBG being)
+              (VP (VBN blocked)
+                (PP (IN from)
+                  (NP (NN entry)))))))))
+    (: ;)
+    (S
+      (NP (NNP Iraq))
+      (VP (VBZ imports)
+        (PP (IN about)
+          (NP
+            (NP (NNS three-quarters))
+            (PP (IN of)
+              (NP (PRP$ its) (NN food)))))))
+    (. .)))
+

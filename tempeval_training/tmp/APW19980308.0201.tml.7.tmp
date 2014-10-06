@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Turkey))
+      (, ,)
+      (VP (VBN worried)
+        (PP (IN about)
+          (NP
+            (NP (JJ civil) (NN war))
+            (PP (IN in)
+              (NP (NNP Kosovo) (NNP spilling)))))
+        (PP (TO to)
+          (NP (DT the) (JJ whole) (NNS Balkans))))
+      (, ,))
+    (VP (VBD urged)
+      (NP (DT all) (NNP Balkan) (NNS states))
+      (S
+        (VP (TO to)
+          (VP (VB sign)
+            (NP (DT a) (JJ joint) (NN declaration))
+            (SBAR (IN that)
+              (S
+                (NP (DT the) (NNP Kosovo) (NN crisis))
+                (VP (VB be)
+                  (VP (VBN solved)
+                    (UCP
+                      (ADVP (RB peacefully))
+                      (CC and)
+                      (PP (IN without)
+                        (NP
+                          (NP (DT any) (NN change))
+                          (PP (IN of)
+                            (NP (NNS borders))))))))))))))
+    (. .)))
+

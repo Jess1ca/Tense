@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Long-term) (NN interest) (NNS rates))
+      (, ,)
+      (NP
+        (NP (DT an) (JJ important) (NN indicator))
+        (PP (IN of)
+          (NP (JJ economic) (NN stability))))
+      (, ,))
+    (VP (VBP have)
+      (VP (VBN fallen)
+        (PP (IN in)
+          (NP (DT the) (JJ last) (JJ few) (NNS months)))))
+    (. .)))
+

@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP ADDIS) (NNP ABABA) (, ,) (NNP Ethiopia))
+      (PRN (-LRB- -LRB-)
+        (NP (NNP AP))
+        (-RRB- -RRB-)))
+    (VP (VBD _)
+      (SBAR
+        (S
+          (NP
+            (NP (DT The) (NNP Organization))
+            (PP (IN of)
+              (NP (NNP African) (NNP Unity))))
+          (VP (VBD said)
+            (NP (NNP Friday))
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (MD would)
+                  (VP (VB investigate)
+                    (NP
+                      (NP (DT the) (JJ Hutu-organized) (NN genocide))
+                      (PP (IN of)
+                        (NP
+                          (NP
+                            (QP (JJR more) (IN than) (CD 500,000))
+                            (NN minority) (NNS Tutsis))
+                          (PP (IN in)
+                            (NP (NNP Rwanda))))))
+                    (ADVP
+                      (NP (RB nearly) (CD four) (NNS years))
+                      (RB ago))))))))))
+    (. .)))
+

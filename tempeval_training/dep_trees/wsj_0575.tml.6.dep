@@ -1,0 +1,27 @@
+1	So	_	IN	IN	_	6	dep	_	_
+2	its	_	PRP$	PRP$	_	4	poss	_	_
+3	senior	_	JJ	JJ	_	4	amod	_	_
+4	executives	_	NNS	NNS	_	6	nsubj	_	_
+5	are	_	VBP	VBP	_	6	aux	_	_
+6	talking	_	VBG	VBG	_	0	root	_	_
+7	openly	_	RB	RB	_	6	advmod	_	_
+8	about	_	IN	IN	_	6	prep	_	_
+9	possibly	_	RB	RB	_	10	advmod	_	_
+10	buying	_	VBG	VBG	_	8	pcomp	_	_
+11	back	_	RP	RP	_	10	prt	_	_
+12	some	_	DT	DT	_	10	dobj	_	_
+13	of	_	IN	IN	_	12	prep	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	company	_	NN	NN	_	13	pobj	_	_
+16	's	_	POS	POS	_	15	possessive	_	_
+17	$	_	$	$	_	15	num	_	_
+18	172.5	_	CD	CD	_	19	number	_	_
+19	million	_	CD	CD	_	17	num	_	_
+20	in	_	IN	IN	_	15	prep	_	_
+21	subordinated	_	VBN	VBN	_	23	amod	_	_
+22	convertible	_	JJ	JJ	_	23	amod	_	_
+23	debentures	_	NNS	NNS	_	20	pobj	_	_
+24	next	_	JJ	JJ	_	25	amod	_	_
+25	year	_	NN	NN	_	10	tmod	_	_
+26	.	_	.	.	_	6	punct	_	_
+

@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNP Du) (NNP Pont))
+    (ADVP (RB also))
+    (VP (VBD announced)
+      (NP (NNS plans))
+      (PP (IN for)
+        (NP (DT a) (JJ 3-for-1) (NN stock) (NN split)))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (NP (DT the) (JJ initial) (JJR higher) (NN dividend))
+          (VP (MD will)
+            (VP (VB be)
+              (VP (VBN paid)
+                (PP (IN on)
+                  (NP (JJ pre-split) (NNS shares)))))))))
+    (. .)))
+

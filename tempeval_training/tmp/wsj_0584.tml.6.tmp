@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN Under)
+      (NP (JJ previous) (NNS terms)))
+    (, ,)
+    (NP (NNS holders))
+    (VP (MD would)
+      (VP (VB have)
+        (VP (VBN received)
+          (NP
+            (NP (DT a) (NN dividend))
+            (PP (IN of)
+              (NP
+                (NP
+                  (QP (RB only) ($ $) (CD 20)))
+                (NP (DT a) (NN share))))))))
+    (. .)))
+

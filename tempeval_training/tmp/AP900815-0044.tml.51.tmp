@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP U.S.) (NNS allies))
+      (CC and)
+      (NP (JJ other) (NNP U.N.) (NNS members)))
+    (VP (VBP have)
+      (VP (VBD objected)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NNP Security) (NNP Council) (NN embargo) (NN resolution))
+            (VP (VBD did) (RB not)
+              (ADVP (RB specifically))
+              (VP (VB authorize)
+                (NP (PDT such) (DT a) (JJ naval) (NN operation))))))))
+    (. .)))
+

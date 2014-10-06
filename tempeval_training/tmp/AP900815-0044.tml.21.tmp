@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (ADVP (RB _))
+    (NP (DT The) (NNP Soviet) (NNP Foreign) (NNP Ministry))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (JJ Soviet) (NNS women) (, ,) (NNS children)
+            (CC and)
+            (NNS invalids))
+          (VP (MD would)
+            (VP (VB be)
+              (VP (VBN permitted)
+                (S
+                  (VP (TO to)
+                    (VP (VB leave)
+                      (NP (NNP Iraq)))))))))))
+    (. .)))
+

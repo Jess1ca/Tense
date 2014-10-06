@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (JJ one-time) (NN provision))
+          (VP (MD would)
+            (ADVP (RB substantially))
+            (VP (VB eliminate)
+              (NP (DT all) (JJ future) (NNS losses))
+              (PP (IN at)
+                (NP (DT the) (NN unit))))))))
+    (. .)))
+

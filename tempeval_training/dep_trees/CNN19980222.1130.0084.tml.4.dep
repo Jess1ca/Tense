@@ -1,0 +1,17 @@
+1	He	_	PRP	PRP	_	3	nsubjpass	_	_
+2	's	_	VBZ	VBZ	_	3	auxpass	_	_
+3	expected	_	VBN	VBN	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	meet	_	VB	VB	_	3	xcomp	_	_
+6	with	_	IN	IN	_	5	prep	_	_
+7	Iraqi	_	JJ	JJ	_	12	amod	_	_
+8	deputy	_	JJ	JJ	_	12	amod	_	_
+9	prime	_	JJ	JJ	_	12	amod	_	_
+10	minister	_	NN	NN	_	12	nn	_	_
+11	Tariq	_	NNP	NNP	_	12	nn	_	_
+12	Aziz	_	NNP	NNP	_	6	pobj	_	_
+13	later	_	RBR	RBR	_	15	advmod	_	_
+14	this	_	DT	DT	_	15	det	_	_
+15	afternoon	_	NN	NN	_	5	dobj	_	_
+16	.	_	.	.	_	3	punct	_	_
+

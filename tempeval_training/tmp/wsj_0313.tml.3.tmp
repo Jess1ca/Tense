@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (DT The) (JJS latest) (NN period))
+    (VP (VBD had)
+      (NP
+        (NP (NN profit))
+        (PP (IN from)
+          (NP
+            (NP (VBG continuing) (NNS operations))
+            (PP (IN of)
+              (NP
+                (QP ($ $) (CD 4) (CD million))))))))
+    (. .)))
+

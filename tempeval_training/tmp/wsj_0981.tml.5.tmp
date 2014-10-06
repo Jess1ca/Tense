@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (VBN proposed) (NN stock) (NN offering))
+      (CC and)
+      (NP
+        (NP (NN issuance))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP (RB nearly) (CD 1.8) (CD million))
+              (JJ common) (NNS shares))
+            (PP (IN in)
+              (NP
+                (NP (NN connection))
+                (PP (IN with)
+                  (NP (DT the) (NN land) (NN purchase)))))))))
+    (VP (MD will)
+      (VP (VB bring)
+        (S
+          (NP
+            (NP (NNP MGM) (NNP Grand) (POS 's))
+            (JJ total) (NNS shares))
+          (ADJP (JJ outstanding)
+            (PP (TO to)
+              (NP
+                (NP
+                  (QP (CD 28.7) (CD million)))
+                (, ,)
+                (SBAR
+                  (WHPP (IN of)
+                    (WHNP (WDT which)))
+                  (S
+                    (NP (CD 72) (NN %))
+                    (VP (MD will)
+                      (VP (VB be)
+                        (VP (VBN owned)
+                          (PP (IN by)
+                            (NP (NNP Mr.) (NNP Kerkorian)
+                              (CC and)
+                              (NNP Tracinda)))
+                          (, ,)
+                          (PP (VBG according)
+                            (PP (TO to)
+                              (NP (DT the) (NN prospectus)))))))))))))))
+    (. .)))
+

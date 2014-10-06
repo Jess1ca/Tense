@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Thompson))
+    (VP
+      (VP (VBZ calls)
+        (S
+          (VP (VBG discounting)
+            (NP (`` ``)
+              (NP
+                (NP (DT a) (NN loser) (POS 's))
+                (NN game))
+              (PP (IN for)
+                (NP (NN anyone)))
+              (PP (IN without)
+                (NP (DT a) (JJ dominant) (NN market) (NN share)))))))
+      (, ,) ('' '')
+      (CC and)
+      (VP (VBD projected)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP
+                (NP (NNP Anheuser) (POS 's))
+                (NN statement))
+              (PP (IN of)
+                (NP (NN intent))))
+            (VP (MD could)
+              (ADVP (RB simply))
+              (VP (VB be)
+                (NP
+                  (NP (DT a) (NN means))
+                  (PP (IN of)
+                    (S
+                      (VP (VBG warning)
+                        (NP (NNS competitors))
+                        (S
+                          (VP (TO to)
+                            (VP
+                              (VP (VB ease)
+                                (PRT (RP up))
+                                (PP (IN on)
+                                  (NP (NN price-cutting))))
+                              (CC or)
+                              (VP (VB face)
+                                (NP (DT a)
+                                  (ADJP (JJ costly)
+                                    (CC and)
+                                    (JJ fruitless))
+                                  (NN battle))))))))))))))))
+    (. .)))
+

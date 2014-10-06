@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP TWA) (CD eight))
+      (NP (CD hundred) (NN climb)))
+    (VP (VBP maintain)
+      (NP
+        (QP (CD one) (CD five))
+        (CD thousand)))
+    (. .)))
+

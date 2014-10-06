@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNS Analysts))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP expect)
+            (S
+              (NP (NNP McCaw))
+              (VP (TO to)
+                (VP (VB escalate)
+                  (NP (DT the) (NN bidding))
+                  (ADVP (RB again)))))))))
+    (. .)))
+

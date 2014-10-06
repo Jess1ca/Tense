@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (DT This) (NN move))
+    (VP (VBZ comes)
+      (ADVP (RB barely))
+      (NP (DT a) (NN month))
+      (SBAR (IN after)
+        (S
+          (NP (NNP Qantas))
+          (VP (VBD suspended)
+            (NP
+              (NP (DT a) (NN number))
+              (PP (IN of)
+                (NP
+                  (NP (NNS services))
+                  (PP (IN between)
+                    (NP (NNP Australia) (, ,) (NNP Indonesia) (, ,) (NNP Thailand)
+                      (CC and)
+                      (NNP Malaysia))))))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN wake))
+                (PP (IN of)
+                  (NP (DT the) (JJ Asian) (JJ economic) (NN crisis)))))))))
+    (. .)))
+

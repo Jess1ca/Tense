@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (JJ Special) (NNS events))
+    (VP (VBP are)
+      (VP (VBG being)
+        (VP (VBN organized)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NNP European) (NNP Commission))
+              (CC and)
+              (NP (JJ individual) (NNS nations))))
+          (PP (IN in)
+            (NP
+              (NP (NNP Europe))
+              (, ,)
+              (NP (NNP North) (NNP America))
+              (, ,)
+              (CC and)
+              (NP
+                (NP (JJ other) (NNS parts))
+                (PP (IN of)
+                  (NP (DT the) (NN world)))))))))
+    (. .)))
+

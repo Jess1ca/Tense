@@ -1,0 +1,23 @@
+1	Only	_	RB	RB	_	5	advmod	_	_
+2	McCaw	_	NNP	NNP	_	4	poss	_	_
+3	's	_	POS	POS	_	2	possessive	_	_
+4	proposal	_	NN	NN	_	5	nsubj	_	_
+5	requires	_	VBZ	VBZ	_	0	root	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	company	_	NN	NN	_	5	dobj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	begin	_	VB	VB	_	7	vmod	_	_
+10	an	_	DT	DT	_	12	det	_	_
+11	auction	_	NN	NN	_	12	nn	_	_
+12	process	_	NN	NN	_	9	dobj	_	_
+13	in	_	IN	IN	_	12	prep	_	_
+14	June	_	NNP	NNP	_	13	pobj	_	_
+15	1994	_	CD	CD	_	14	num	_	_
+16	for	_	IN	IN	_	9	prep	_	_
+17	remaining	_	VBG	VBG	_	18	amod	_	_
+18	shares	_	NNS	NNS	_	16	pobj	_	_
+19	at	_	IN	IN	_	18	prep	_	_
+20	third-party	_	JJ	JJ	_	21	amod	_	_
+21	prices	_	NNS	NNS	_	19	pobj	_	_
+22	.	_	.	.	_	5	punct	_	_
+

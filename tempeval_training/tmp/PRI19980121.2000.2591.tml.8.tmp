@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (SBAR (RB Even) (IN though)
+      (S
+        (NP (DT this) (NN city))
+        (VP (VBZ is)
+          (PP (IN in)
+            (NP (NNP Afghanistan))))))
+    (, ,)
+    (NP (JJS most) (NNS people))
+    (VP
+      (VP
+        (ADVP (RB here))
+        (VBP speak)
+        (NP
+          (NP (DT a) (NN dialect))
+          (PP (IN of)
+            (NP (DT the) (JJ Persian) (NN language)))))
+      (, ,)
+      (CC and)
+      (VP (VBP have)
+        (S
+          (VP
+            (ADVP (RB long))
+            (VBG standing)
+            (NP (JJ cultural) (NNS ties))
+            (PP (IN with)
+              (NP (JJ neighboring) (NNP Iran)))))))
+    (. .)))
+

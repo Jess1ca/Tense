@@ -1,0 +1,18 @@
+1	Ocean	_	NNP	NNP	_	2	nn	_	_
+2	Drilling	_	NNP	NNP	_	3	nsubj	_	_
+3	said	_	VBD	VBD	_	0	root	_	_
+4	it	_	PRP	PRP	_	7	nsubj	_	_
+5	wo	_	MD	MD	_	7	aux	_	_
+6	n't	_	RB	RB	_	7	neg	_	_
+7	hold	_	VB	VB	_	3	ccomp	_	_
+8	any	_	DT	DT	_	9	det	_	_
+9	shares	_	NNS	NNS	_	7	dobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	the	_	DT	DT	_	13	det	_	_
+12	new	_	JJ	JJ	_	13	amod	_	_
+13	company	_	NN	NN	_	10	pobj	_	_
+14	after	_	IN	IN	_	7	prep	_	_
+15	the	_	DT	DT	_	16	det	_	_
+16	restructuring	_	NN	NN	_	14	pobj	_	_
+17	.	_	.	.	_	3	punct	_	_
+

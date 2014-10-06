@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP Sansui))
+    (VP
+      (VP (VBD was)
+        (ADVP (RB late))
+        (PP (IN into)
+          (NP (DT the) (JJ mini-component) (NN business))))
+      (CC and)
+      (VP (VBD failed)
+        (S
+          (VP (TO to)
+            (VP (VB branch)
+              (PP (IN into)
+                (NP (JJ other) (JJ new) (NNS businesses))))))))
+    (. .)))
+

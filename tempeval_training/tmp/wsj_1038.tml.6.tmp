@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (ADVP (RB Initially))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP
+              (VP (VB close)
+                (NP (PRP$ its) (JJ commercial) (NN real-estate) (VBG lending) (NN division)))
+              (, ,)
+              (CC and)
+              (VP (VB stop)
+                (S
+                  (VP (VBG originating)
+                    (NP (JJ new) (NNS leases))
+                    (PP (IN at)
+                      (NP (PRP$ its) (JJ commercial) (NN lease) (NN subsidiary)))))))))))
+    (. .)))
+

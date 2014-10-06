@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (PRP$ their) (JJ joint) (NN statement))
+        (, ,)
+        (VP (VBN released)
+          (PP (IN by)
+            (NP (DT the) (NNP Kremlin))))))
+    (, ,)
+    (NP (DT the) (CD two) (NNS leaders))
+    (ADVP (RB also))
+    (VP (VBD pledged)
+      (S
+        (VP (TO to)
+          (VP (VB consult)
+            (NP (DT each) (JJ other))
+            (ADVP (RB regularly))
+            (PP (IN on)
+              (NP (PRP$ their) (NNS approaches)))
+            (PP
+              (PP (TO to)
+                (NP
+                  (NP (NNS relations))
+                  (PP (IN with)
+                    (NP (NNP NATO)))))
+              (CC and)
+              (PRN (, ,)
+                (PP (IN in)
+                  (ADJP (JJ particular)))
+                (, ,))
+              (PP
+                (NP (PRP$ their) (NN action))
+                (IN within)
+                (NP
+                  (NP (DT the) (NN framework))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNP NATO) (POS 's))
+                      (NNP Partnership) (IN for) (NNP Peace) (NN program))))))))))
+    (. .)))
+

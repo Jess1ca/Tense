@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Reupke))
+    (VP (VBD was)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (CD three) (NNS executives))
+            (PP (IN on)
+              (NP
+                (NP (NNP Reuters) (POS 's))
+                (JJ eight-person) (NN executive) (NN committee)))))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD did) (RB n't)
+              (ADVP (RB also))
+              (VP (VB serve)
+                (PP (IN on)
+                  (NP
+                    (NP
+                      (NP (DT the) (NN company) (POS 's))
+                      (NN board))
+                    (PP (IN of)
+                      (NP (NNS directors)))))))))))
+    (. .)))
+

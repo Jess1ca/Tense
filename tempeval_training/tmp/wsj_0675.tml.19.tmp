@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (NNP GM))
+    (VP (VBD confirmed)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD received)
+            (NP (NNP U.S.) (JJ antitrust) (NN clearance)
+              (S
+                (VP (TO to)
+                  (VP (VB boost)
+                    (NP (PRP$ its) (NN holding))))))))))
+    (. .)))
+

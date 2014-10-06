@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (NNP President) (NNP Clinton))
+    (VP (VBD welcomed)
+      (NP (DT the) (NN job) (NNS figures))
+      (PP (IN at)
+        (NP (DT a) (NN news) (NN conference)))
+      (NP (NNP Friday)))
+    (. .)))
+

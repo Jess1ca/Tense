@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Bush))
+      (VP (VBD was)
+        (VP (VBN expected)
+          (S
+            (VP (TO to)
+              (VP (VB authorize)
+                (NP (JJ naval) (NNS commanders))
+                (S
+                  (VP (TO to)
+                    (VP (VB use) (`` ``)
+                      (S
+                        (NP (DT the) (JJ minimum) (NN force))
+                        (ADJP (JJ necessary)))
+                      ('' '')
+                      (S
+                        (VP (TO to)
+                          (VP (VB interdict)
+                            (NP (NNS shipments))
+                            (PP (TO to)
+                              (CC and)
+                              (IN from)
+                              (NP (NNP Iraq)))))))))))))))
+    (, ,)
+    (NP (DT a) (NNP U.S.) (NN official))
+    (VP (VBD said))
+    (. .)))
+

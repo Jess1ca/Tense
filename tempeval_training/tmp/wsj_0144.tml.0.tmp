@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Travelers) (NNP Corp.) (POS 's))
+      (JJ third-quarter) (JJ net) (NN income))
+    (VP (VBD rose)
+      (NP (CD 11) (NN %))
+      (, ,)
+      (SBAR (RB even) (IN though)
+        (S
+          (NP
+            (NP (NNS claims))
+            (VP (VBG stemming)
+              (PP (IN from)
+                (NP (NNP Hurricane) (NNP Hugo)))))
+          (VP (VBD reduced)
+            (NP (NNS results))
+            (NP
+              (QP ($ $) (CD 40) (CD million)))))))
+    (. .)))
+

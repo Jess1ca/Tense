@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP Oil) (NNS prices))
+    (VP (VBP have)
+      (VP (VBN come)
+        (PRT (RP down))
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NN middle))
+            (PP (IN of)
+              (NP (NNP October)))))
+        (PP (IN from)
+          (NP
+            (NP (DT a) (JJ twenty-two)
+              (ADJP (NN dollar) (NN barrel))
+              (NN level))
+            (ADVP (IN down)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (CD fourteen) (NNS dollars))
+                  (SBAR
+                    (S
+                      (NP (PRP we))
+                      (VP (VBP 're)
+                        (VP (VBG seeing)
+                          (NP (NN today)))))))))))))
+    (. .)))
+

@@ -1,0 +1,38 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP She))
+      (VP (VBZ is) (, ,)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (MD can)
+              (VP (VB assure)
+                (NP (PRP you))
+                (, ,)
+                (PP (IN from)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (PRP I))
+                      (VP (VBP 've)
+                        (VP (VBN been)
+                          (VP (VBN told)))))))))))))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBZ 's)
+      (VP
+        (VP (VBG following)
+          (NP (DT the) (NN thing))
+          (ADVP (RB very) (RB closely)))
+        (CC and)
+        (VP (VBG taking)
+          (NP
+            (NP (DT the) (NN view))
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (VBZ 's)
+                  (NP (PRP$ our) (NN business)))))))))
+    (. .)))
+

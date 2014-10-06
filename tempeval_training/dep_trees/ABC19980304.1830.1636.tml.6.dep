@@ -1,0 +1,14 @@
+1	No	_	DT	DT	_	2	det	_	_
+2	woman	_	NN	NN	_	5	nsubj	_	_
+3	has	_	VBZ	VBZ	_	5	aux	_	_
+4	actually	_	RB	RB	_	5	advmod	_	_
+5	been	_	VBN	VBN	_	0	root	_	_
+6	in	_	IN	IN	_	5	prep	_	_
+7	charge	_	NN	NN	_	6	pobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	mission	_	NN	NN	_	8	pobj	_	_
+11	until	_	IN	IN	_	5	prep	_	_
+12	now	_	RB	RB	_	11	pobj	_	_
+13	.	_	.	.	_	5	punct	_	_
+

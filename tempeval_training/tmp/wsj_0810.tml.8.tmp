@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ is)
+      (ADJP (JJ due) (RB mostly)
+        (PP (TO to)
+          (NP
+            (NP (NNS payments))
+            (PP (IN from)
+              (NP (NNP Allianz)))))
+        (PP (IN for)
+          (NP
+            (NP (JJS most))
+            (PP (IN of)
+              (NP
+                (NP (DT the)
+                  (ADJP (CD 50) (NN %))
+                  (NN stake))
+                (SBAR
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ has)
+                      (VP (VBN agreed)
+                        (S
+                          (VP (TO to)
+                            (VP (VB acquire)
+                              (PP (IN in)
+                                (NP
+                                  (NP (NNP Navigation) (NNP Mixte) (POS 's))
+                                  (NN insurance) (NN business))))))))))))))))
+    (. .)))
+

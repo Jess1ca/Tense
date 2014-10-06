@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP International) (NNP Women) (POS 's))
+        (NN Day))
+      (VP (VBZ is)
+        (NP
+          (NP (DT this))
+          (VP (VBG coming)
+            (NP (NNP Sunday))))))
+    (, ,)
+    (S
+      (NP (NNP March))
+      (ADJP (JJ eighth)))
+    (. .)))
+

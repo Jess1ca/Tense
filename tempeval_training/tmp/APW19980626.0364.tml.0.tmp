@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP BONN) (, ,) (NNP Germany) (-LRB- -LRB-) (NNP AP) (-RRB- -RRB-))
+      (VP (VBD _)
+        (SBAR
+          (S
+            (NP
+              (NP (DT A) (JJ phony) (NN address))
+              (VP (VBN listed)
+                (PP (IN on)
+                  (NP
+                    (NP (NN disclosure) (NNS forms))
+                    (PP (IN for)
+                      (NP (DT a) (JJ French) (NN donor)))))))
+            (VP (MD will)
+              (VP (VB cost)
+                (NP
+                  (NP
+                    (NP (DT the) (JJ far-right) (JJ German) (NNS People) (POS 's))
+                    (NNP Union))
+                  (PP (IN about)
+                    (NP
+                      (NP (CD 549,000) (NNS marks))
+                      (PRN (-LRB- -LRB-)
+                        (NP (NN dlrs) (CD 305,000))
+                        (-RRB- -RRB-)))))))))))
+    (, ,)
+    (NP (NN parliament))
+    (VP (VBD said)
+      (NP (NNP Friday)))
+    (. .)))
+

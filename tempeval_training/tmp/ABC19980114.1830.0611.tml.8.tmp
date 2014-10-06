@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (ADVP (RB just))
+      (VBD went)
+      (PRT (VBP down)))
+    (. .)))
+

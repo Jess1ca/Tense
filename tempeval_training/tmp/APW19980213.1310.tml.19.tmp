@@ -1,0 +1,47 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (RB no) (JJ secret))
+        (SBAR (IN that)
+          (S
+            (NP (PRP she))
+            (VP (VBZ 's)
+              (VP (VBN indicated)
+                (PP (TO to)
+                  (NP (PRP me)))))))))
+    (: ...)
+    (S
+      (NP (PRP she))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (JJ 20th) (NN century) (NN democrat))
+          (, ,)
+          (SBAR
+            (S
+              (VP (VBZ understands)
+                (SBAR (IN that)
+                  (S
+                    (NP
+                      (NP (DT the) (NN role))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT the) (NN crown))
+                          (PP (IN in)
+                            (NP (NNP Australia))))))
+                    (VP (VBZ rests)
+                      (PP (IN in)
+                        (NP
+                          (NP (DT the) (NNS hands))
+                          (PP (IN of)
+                            (NP (DT the) (JJ Australian) (NNS people)))))
+                      (SBAR (IN as)
+                        (S
+                          (NP (PRP it))
+                          (VP (VBZ has)
+                            (VP
+                              (PP (IN for)
+                                (NP (RB almost) (DT a) (CD hundred) (NNS years))))))))))))))))
+    (. .) ('' '')))
+

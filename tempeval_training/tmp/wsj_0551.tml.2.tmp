@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (DT The) (NN transaction))
+    (VP (VBZ is)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB close)
+              (PP (IN around)
+                (NP (NN year) (NN end))))))))
+    (. .)))
+

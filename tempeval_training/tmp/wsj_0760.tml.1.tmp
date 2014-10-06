@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (VBG Operating) (NN profit))
+      (PP (IN for)
+        (NP (DT the) (NNS abrasives) (, ,) (NN engineering) (NNS materials)
+          (CC and)
+          (NN petroleum) (NNS services) (NN concern))))
+    (VP (VBD was)
+      (NP
+        (NP
+          (QP ($ $) (CD 19.2) (CD million)))
+        (, ,)
+        (CC or)
+        (NP
+          (NP (CD 91) (NNS cents))
+          (NP (DT a) (NN share)))
+        (, ,)
+        (ADVP (RB up)
+          (NP (CD 3) (NN %))
+          (PP (IN from)
+            (NP
+              (NP
+                (QP ($ $) (CD 18.7) (CD million)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP (CD 87) (NNS cents))
+                (NP (DT a) (NN share))))))))
+    (. .)))
+

@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ British) (NN government))
+    (VP (VBZ has)
+      (ADVP (RB formally))
+      (VP (VBN called)
+        (PP (IN for)
+          (NP
+            (NP (NNP Sinn) (NNP Fein))
+            (, ,)
+            (NP
+              (NP (DT the) (NNP IRA) (POS 's))
+              (JJ political) (NN wing))
+            (, ,)))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN expelled)
+                (PP (IN from)
+                  (NP
+                    (NP (DT the) (JJ multiparty) (NN peace) (NNS talks))
+                    (PP (IN on)
+                      (NP (JJ northern) (NNP Ireland)))))))))))
+    (. .)))
+

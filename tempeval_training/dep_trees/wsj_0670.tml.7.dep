@@ -1,0 +1,22 @@
+1	In	_	IN	IN	_	6	prep	_	_
+2	fiscal	_	JJ	JJ	_	3	amod	_	_
+3	1989	_	CD	CD	_	1	pobj	_	_
+4	,	_	,	,	_	6	punct	_	_
+5	it	_	PRP	PRP	_	6	nsubj	_	_
+6	had	_	VBD	VBD	_	0	root	_	_
+7	sales	_	NNS	NNS	_	6	dobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	about	_	RB	RB	_	10	quantmod	_	_
+10	$	_	$	$	_	8	pobj	_	_
+11	40	_	CD	CD	_	10	number	_	_
+12	million	_	CD	CD	_	10	number	_	_
+13	and	_	CC	CC	_	7	cc	_	_
+14	an	_	DT	DT	_	16	det	_	_
+15	operating	_	VBG	VBG	_	16	amod	_	_
+16	loss	_	NN	NN	_	7	conj	_	_
+17	of	_	IN	IN	_	16	prep	_	_
+18	$	_	$	$	_	17	pobj	_	_
+19	1.5	_	CD	CD	_	20	number	_	_
+20	million	_	CD	CD	_	18	num	_	_
+21	.	_	.	.	_	6	punct	_	_
+

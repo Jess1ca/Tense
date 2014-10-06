@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Nhek) (NNP Bunchhay))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (ADVP (RB now))
+          (VP (VBD believed)
+            (SBAR
+              (S
+                (NP (NNP Howes))
+                (VP (VBD had)
+                  (VP (VBN been)
+                    (VP (VBN killed)
+                      (PP (IN within)
+                        (NP
+                          (NP (DT a) (NN week))
+                          (PP (IN of)
+                            (NP (PRP$ his) (NN capture)))))
+                      (PP (IN by)
+                        (NP
+                          (NP (DT a) (NNP Khmer) (NNP Rouge) (NN faction))
+                          (ADJP (JJ loyal)
+                            (PP (TO to)
+                              (NP
+                                (NP (NNP Pol) (NNP Pot))
+                                (, ,) (RB then)
+                                (NP
+                                  (NP (DT the) (NN guerrilla) (NN group) (POS 's))
+                                  (NN leader))))))))))))))))
+    (. .)))
+

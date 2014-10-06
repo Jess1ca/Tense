@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ year-ago) (NN period)))
+    (, ,)
+    (NP (NNP Bethlehem))
+    (VP (VBD earned)
+      (NP
+        (NP
+          (QP ($ $) (CD 101.4) (CD million)))
+        (, ,)
+        (CC or)
+        (NP
+          (NP ($ $) (CD 1.27))
+          (NP (DT a) (NN share)))
+        (, ,))
+      (PP (VBG including)
+        (NP
+          (NP (DT a)
+            (ADJP
+              (QP ($ $) (CD 3.8) (CD million)))
+            (NN gain))
+          (PP (IN from)
+            (NP
+              (NP (JJ early) (NN retirement))
+              (PP (IN of)
+                (NP (NN debt))))))))
+    (. .)))
+

@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (S
+      (PP (IN Of)
+        (NP (NN course)))
+      (, ,)
+      (NP (EX there))
+      (VP (VBD were)
+        (NP
+          (NP (JJ sell) (NNS programs))
+          (PP (IN in)
+            (NP (JJ past) (NNS years))))
+        (, ,)
+        (ADVP (RB too))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBP seem)
+        (S
+          (VP (TO to)
+            (VP (VB hurt)
+              (NP (NN market) (NNS makers))
+              (ADVP (RBR more) (RB painfully))
+              (NP (DT these) (NNS days)))))))
+    (. .)))
+

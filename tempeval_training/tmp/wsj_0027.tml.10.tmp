@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Mr.) (NNP Stronach))
+          (VP (MD will)
+            (ADVP (RB personally))
+            (VP (VB direct)
+              (NP (DT the)
+                (NX
+                  (NX (NN restructuring))
+                  (, ,)
+                  (NX
+                    (NX (NNS assisted))
+                    (PP (IN by)
+                      (NP (NNP Manfred) (NNP Gingl))))
+                  (, ,)
+                  (NX (NN president))
+                  (CC and)
+                  (NX (JJ chief) (NN executive)))))))))
+    (. .)))
+

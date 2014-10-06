@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ financial) (NN assistance))
+      (PP (IN from)
+        (NP
+          (NP (DT the) (NNP World) (NNP Bank))
+          (CC and)
+          (NP (DT the) (NNP International) (NNP Monetary) (NNP Fund)))))
+    (VP (VBP are) (RB not)
+      (VP (VBG helping)))
+    (. .)))
+

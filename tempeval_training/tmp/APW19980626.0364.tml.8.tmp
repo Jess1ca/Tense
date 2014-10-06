@@ -1,0 +1,7 @@
+(ROOT
+  (NP
+    (NP (NNP UR))
+    (PRN (-LRB- -LRB-)
+      (NP (NNP pfg-xx))
+      (-RRB- -RRB-))))
+

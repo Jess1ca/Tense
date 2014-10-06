@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP
+      (NP (PRP$ its) (NN equity))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ net) (NN income))
+          (PP (IN of)
+            (NP (NNP National) (NNP Steel))))))
+    (VP (VBD declined)
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 6.3) (CD million))))
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 10.9) (CD million))))
+      (PP (IN as)
+        (NP
+          (NP (DT a) (NN result))
+          (PP (IN of)
+            (NP
+              (NP (JJR softer) (NN demand)
+                (CC and)
+                (JJ lost) (NNS orders))
+              (PP (VBG following)
+                (NP
+                  (NP (VBN prolonged) (NN labor) (NNS talks))
+                  (CC and)
+                  (NP (DT a) (VBN threatened) (NN strike)))))))))
+    (. .)))
+

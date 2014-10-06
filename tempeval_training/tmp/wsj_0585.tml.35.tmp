@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (PP
+      (NP (CD Eight) (NN trading) (NNS days))
+      (IN after)
+      (NP
+        (NP
+          (NP (NNP Oct.) (CD 12))
+          (, ,)
+          (NP
+            (NP (DT the) (NN day))
+            (PP (IN before)
+              (NP (DT the) (NN stock) (NN market) (NN plunge))))
+          (, ,))
+        (PP (IN for)
+          (NP (NN instance)))))
+    (, ,)
+    (NP (DT the) (NNP Nasdaq) (NNP Composite))
+    (VP (VBD had)
+      (VP (VBN fallen)
+        (NP (CD 4.3) (NN %))
+        (, ,)
+        (PP (VBN compared)
+          (PP (IN with)
+            (NP
+              (NP
+                (NP (CD 3.3) (NN %))
+                (PP (IN for)
+                  (NP (DT the) (NNP SampP) (CD 500))))
+              (, ,)
+              (NP
+                (NP (CD 3.5) (NN %))
+                (PP (IN for)
+                  (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (NNP Composite) (NNP Index))))
+              (CC and)
+              (NP
+                (NP (CD 3.6) (NN %))
+                (PP (IN for)
+                  (NP (DT the) (JJ industrial) (NN average)))))))))
+    (. .)))
+

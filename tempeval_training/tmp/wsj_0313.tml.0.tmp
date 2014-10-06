@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (NNP Ocean) (NNP Drilling) (NN amp) (NNP Exploration) (NNP Co.))
+    (VP
+      (VP (MD will)
+        (VP (VB sell)
+          (NP (PRP$ its) (VBG contract-drilling) (NN business))))
+      (, ,)
+      (CC and)
+      (VP (VBD took)
+        (NP (DT a)
+          (ADJP
+            (QP ($ $) (CD 50.9) (CD million)))
+          (NN loss))
+        (PP (IN from)
+          (NP (JJ discontinued) (NNS operations)))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (JJ third) (NN quarter))
+            (PP (RB because) (IN of)
+              (NP (DT the) (JJ planned) (NN sale)))))))
+    (. .)))
+

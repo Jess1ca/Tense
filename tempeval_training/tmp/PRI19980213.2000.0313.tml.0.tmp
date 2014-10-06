@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Officials))
+      (PP (IN in)
+        (NP (NNP California))))
+    (VP (VBP are)
+      (VP (VBG warning)
+        (NP (NNS residents))
+        (SBAR (IN that)
+          (S
+            (NP (VBG oncoming) (NNS rains))
+            (VP (MD will)
+              (VP (VB cause)
+                (NP
+                  (ADJP (JJ dangerous)
+                    (CC and)
+                    (JJ unpredictable))
+                  (NNS landslides))))))))
+    (. .)))
+

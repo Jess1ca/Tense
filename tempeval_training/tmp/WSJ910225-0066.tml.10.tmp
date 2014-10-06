@@ -1,0 +1,45 @@
+(ROOT
+  (UCP
+    (PP (IN If)
+      (ADVP (RB so)))
+    (, ,)
+    (CC and)
+    (SBAR (IN if)
+      (S
+        (NP (PRP it))
+        (VP (VBZ appears)
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (JJ American) (NN goal))
+              (ADVP (RB actually))
+              (VP (VBZ is)
+                (S
+                  (VP (TO to)
+                    (VP (VB destroy)
+                      (NP (DT the) (JJ Iraqi) (NN regime))
+                      (ADVP (RB even))
+                      (PP (IN at)
+                        (NP
+                          (NP (DT the) (NN cost))
+                          (PP (IN of)
+                            (S
+                              (VP
+                                (ADVP (RB badly))
+                                (VBG hurting)
+                                (NP (JJ Iraqi) (NN society)))))))))))
+              (PRN (, ,)
+                (SINV (`` ``)
+                  (S
+                    (NP
+                      (NP (DT the) (VBG lingering) (NN cost))
+                      (PP (IN of)
+                        (NP (DT that))))
+                    (VP (MD could)
+                      (VP (VB be)
+                        (ADJP (JJ high)))))
+                  (, ,) ('' '')
+                  (VP (VBZ worries)
+                    (NP (JJ former) (JJ national) (NN security) (NN adviser)))
+                  (NP (NNP Zbigniew) (NNP Brzezinski))
+                  (. .))))))))))
+

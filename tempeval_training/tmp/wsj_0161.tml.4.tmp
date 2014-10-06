@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (ADVP
+      (NP (DT A) (NN year))
+      (RBR earlier))
+    (, ,)
+    (NP (JJ net) (NN income))
+    (VP (VBD was)
+      (NP
+        (NP
+          (QP ($ $) (CD 2.1) (CD million)))
+        (, ,)
+        (CC or)
+        (NP
+          (NP (CD six) (NNS cents))
+          (NP (DT a) (NN share)))
+        (, ,))
+      (PP (IN on)
+        (NP
+          (NP (NN revenue))
+          (PP (IN of)
+            (NP
+              (QP ($ $) (CD 169.9) (CD million)))))))
+    (. .)))
+

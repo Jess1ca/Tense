@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (ADVP (RB also))
+    (VP (VBD retained)
+      (NP
+        (NP
+          (NP (NN attorney))
+          (NP (NNP Martin) (NNP P.) (NNP Levin)))
+        (, ,)
+        (NP
+          (NP (DT a) (NN director))
+          (PP (IN of)
+            (NP (DT the) (NN company))))
+        (CC and)
+        (NP
+          (NP (JJ former) (NN head))
+          (PP (IN of)
+            (NP (DT the) (NNP Times-Mirror) (NNP Publishing) (NNP Group)))))
+      (, ,)
+      (PP (IN as)
+        (NP (DT an) (NN adviser))))
+    (. .)))
+

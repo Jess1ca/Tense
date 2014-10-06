@@ -1,0 +1,23 @@
+(ROOT
+  (S (CC But)
+    (NP (NNS investors))
+    (VP (VBP are)
+      (VP (VBG approaching)
+        (NP (DT the) (NNS changes))
+        (PP (IN with)
+          (NP
+            (NP (NN caution) (NNS shares))
+            (PP (IN of)
+              (NP (NNP AT)
+                (CC and)
+                (NNP T)))
+            (ADVP (RB down)
+              (NP
+                (QP (RB nearly) (CD four)))
+              (PP (IN at)
+                (NP
+                  (NP (NN sixty-one))
+                  (CC and)
+                  (NP (DT a) (NN half)))))))))
+    (. .)))
+

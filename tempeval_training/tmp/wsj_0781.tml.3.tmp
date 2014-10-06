@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (NNP Friday)))
+    (, ,)
+    (NP (NNP Intel))
+    (VP (VBD began)
+      (S
+        (VP (VBG notifying)
+          (NP (NNS customers))
+          (PP (IN about)
+            (NP
+              (NP (DT the) (NNS bugs))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBP cause)
+                    (S
+                      (NP (DT the) (NN chip))
+                      (VP (TO to)
+                        (VP (VB give)
+                          (NP (JJ wrong) (NNS answers))
+                          (PP (IN for)
+                            (NP (DT some) (JJ mathematical) (NNS calculations))))))))))))))
+    (. .)))
+

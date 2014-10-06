@@ -1,0 +1,34 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP You))
+      (VP (VBP get)
+        (SBAR
+          (S
+            (NP (DT a) (NN news) (NN item))
+            (PRN (, ,)
+              (S
+                (NP (PRP it))
+                (VP (VBZ hits)))
+              (, ,))
+            (NP (PRP you))
+            (VP
+              (VP (VBP have)
+                (NP (JJ strong) (NNS redemptions))
+                (UCP
+                  (NP (DT that) (NN day))
+                  (CC and)
+                  (PP (IN for)
+                    (NP
+                      (NP (CD two) (NNS days))
+                      (VP (VBG following))))))
+              (: --) (RB then)
+              (VP (VBP go)
+                (ADVP (RB back)
+                  (PP (TO to)
+                    (ADJP (JJ normal))))))))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP (NNP Mr.) (NNP Litvack))
+    (. .)))
+

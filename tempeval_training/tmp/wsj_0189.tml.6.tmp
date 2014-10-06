@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Ralston))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP$ its) (NN restructuring) (NNS costs))
+          (VP (VBP include)
+            (NP
+              (NP (DT the) (NN phase-out))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (NP (DT a) (NN battery) (NN facility))
+                    (PP (IN in)
+                      (NP (NNP Greenville) (, ,) (NNP N.C.))))
+                  (, ,)
+                  (NP
+                    (NP (DT the) (JJ recent) (NN closing))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT a) (NNP Hostess) (NN cake) (NN bakery))
+                        (PP (IN in)
+                          (NP (NNP Cincinnati))))))
+                  (CC and)
+                  (NP
+                    (NP (DT a) (NN reduction))
+                    (PP (IN in)
+                      (NP (NN staff)))))))
+            (PP (IN throughout)
+              (NP (DT the) (NN company)))))))
+    (. .)))
+

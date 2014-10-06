@@ -1,0 +1,12 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	debentures	_	NNS	NNS	_	3	nsubj	_	_
+3	are	_	VBP	VBP	_	0	root	_	_
+4	available	_	JJ	JJ	_	3	acomp	_	_
+5	through	_	IN	IN	_	4	prep	_	_
+6	Goldman	_	NNP	NNP	_	5	pobj	_	_
+7	,	_	,	,	_	6	punct	_	_
+8	Sachs	_	NNP	NNP	_	10	nn	_	_
+9	amp	_	NNP	NNP	_	10	nn	_	_
+10	Co.	_	NNP	NNP	_	6	appos	_	_
+11	.	_	.	.	_	3	punct	_	_
+

@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Society) (NNP Corp.))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (ADVP (RB also))
+            (NP (DT a) (NN bank)))))
+      (, ,))
+    (VP (VBD agreed)
+      (PP (IN in)
+        (NP (NNP June)))
+      (S
+        (VP (TO to)
+          (VP (VB buy)
+            (NP
+              (NP (NNP Trustcorp))
+              (PP (IN for)
+                (NP
+                  (NP
+                    (QP (CD 12.4) (CD million))
+                    (NNS shares))
+                  (PP (IN of)
+                    (NP (NN stock))))))
+            (PP (IN with)
+              (NP
+                (NP (DT a) (NN market) (NN value))
+                (PP (IN of)
+                  (NP
+                    (QP (RB about) ($ $) (CD 450) (CD million))))))))))
+    (. .)))
+

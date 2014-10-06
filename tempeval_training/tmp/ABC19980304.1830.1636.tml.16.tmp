@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (JJ Many) (NNP NASA) (NNS watchers))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (JJ female) (NNS astronauts))
+          (VP (VBP have)
+            (VP (VBN become)
+              (NP
+                (NP (NN part))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN agency) (POS 's))
+                    (NN routine)))))))))
+    (. .)))
+

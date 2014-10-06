@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Last) (NNP Friday) (POS 's))
+      (NN announcement))
+    (VP (VBD was)
+      (NP (DT the) (JJ first) (NN official) (NN word))
+      (SBAR
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN project))
+            (VP (VBD was)
+              (PP (IN in)
+                (NP (NN trouble))))))
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP
+                (NP (DT the) (NN company) (POS 's))
+                (NNS plans))
+              (PP (IN for)
+                (NP
+                  (NP (DT a) (NN surge))
+                  (PP (IN in)
+                    (NP (NN market) (NN share))))))
+            (VP (MD may)
+              (VP (VB have)
+                (VP (VBN been)
+                  (ADJP (RB overly) (JJ optimistic)))))))))
+    (. .)))
+

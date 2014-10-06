@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP Courtaulds) (NNP Chairman)
+      (CC and)
+      (NNP Chief) (NNP Executive) (NNP Sir) (NNP Christopher) (NNP Hogg))
+    (VP (MD will)
+      (VP (VB remain)
+        (PP (IN in)
+          (NP (DT both) (NNS posts)))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (VBG surviving) (NN chemical) (NN company))
+            (PP (IN after)
+              (NP (DT the) (NN spinoff)))))))
+    (. .)))
+

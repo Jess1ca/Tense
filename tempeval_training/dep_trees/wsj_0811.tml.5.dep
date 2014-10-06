@@ -1,0 +1,23 @@
+1	In	_	IN	IN	_	8	prep	_	_
+2	addition	_	NN	NN	_	1	pobj	_	_
+3	,	_	,	,	_	8	punct	_	_
+4	each	_	DT	DT	_	5	det	_	_
+5	note	_	NN	NN	_	8	nsubjpass	_	_
+6	can	_	MD	MD	_	8	aux	_	_
+7	be	_	VB	VB	_	8	auxpass	_	_
+8	converted	_	VBN	VBN	_	0	root	_	_
+9	into	_	IN	IN	_	8	prep	_	_
+10	Blockbuster	_	NNP	NNP	_	13	nn	_	_
+11	Entertainment	_	NNP	NNP	_	13	nn	_	_
+12	common	_	JJ	JJ	_	13	amod	_	_
+13	stock	_	NN	NN	_	9	pobj	_	_
+14	at	_	IN	IN	_	8	prep	_	_
+15	a	_	DT	DT	_	16	det	_	_
+16	rate	_	NN	NN	_	14	pobj	_	_
+17	of	_	IN	IN	_	16	prep	_	_
+18	13.851	_	CD	CD	_	19	num	_	_
+19	shares	_	NNS	NNS	_	17	pobj	_	_
+20	per	_	IN	IN	_	19	prep	_	_
+21	note	_	NN	NN	_	20	pobj	_	_
+22	.	_	.	.	_	8	punct	_	_
+

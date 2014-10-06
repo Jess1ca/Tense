@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT The) (NN accord))
+    (VP
+      (VP (VBZ helps)
+        (S
+          (NP (NNP RJR))
+          (VP (VB pay)
+            (PRT (RP off))
+            (NP (NN debt)))))
+      (CC and)
+      (VP (VBZ boosts)
+        (NP
+          (NP
+            (NP (NNP Nestle) (POS 's))
+            (ADJP (CD 7) (NN %))
+            (NN share))
+          (PP (IN of)
+            (NP (DT the) (NNP U.S.) (NN candy) (NN market))))
+        (PP (TO to)
+          (NP (CD 12) (NN %)))))
+    (. .)))
+

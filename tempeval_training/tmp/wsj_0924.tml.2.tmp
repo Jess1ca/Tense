@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Rights))
+      (VP (VBN attached)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN company) (POS 's))
+            (JJ common) (NNS shares)))))
+    (VP (VBD were)
+      (VP (VBN issued)
+        (SBAR (IN that)
+          (S
+            (VP (VBP are)
+              (VP (VBN triggered)
+                (SBAR (IN if)
+                  (S
+                    (NP (DT a) (JJ hostile) (NN bidder))
+                    (VP (VBZ acquires)
+                      (S
+                        (NP
+                          (NP
+                            (QP (JJR more) (IN than) (CD 20))
+                            (NN %))
+                          (PP (IN of)
+                            (NP (DT the) (NNS shares))))
+                        (ADJP (JJ outstanding))))))))))))
+    (. .)))
+

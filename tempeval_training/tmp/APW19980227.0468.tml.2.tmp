@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (PP
+      (ADVP (RB Together))
+      (IN with)
+      (NP (PRP$ its) (NNS derivatives)))
+    (, ,)
+    (NP (DT the) (NNP Kalashnikov) (NN rifle))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN used)
+          (PP (IN by)
+            (NP
+              (NP
+                (NP (DT the) (NNS police)
+                  (CC and)
+                  (NNS armies))
+                (PP (IN of)
+                  (NP (CD 55) (NNS countries))))
+              (CC and)
+              (NP
+                (NP (DT an) (NN assortment))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS guerrillas))
+                    (, ,)
+                    (NP (NNS terrorists))
+                    (CC and)
+                    (NP (RB just) (JJ plain) (NNS thugs)))))))
+          (PP (IN around)
+            (NP (DT the) (NN globe))))))
+    (. .)))
+

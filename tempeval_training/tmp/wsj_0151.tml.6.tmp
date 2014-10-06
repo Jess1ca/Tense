@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD added) (, ,) (`` ``)
+      (S
+        (S
+          (NP (DT This))
+          (VP (VBZ has)
+            (NP (NN nothing)
+              (S
+                (VP (TO to)
+                  (VP (VB do)
+                    (PP (IN with)
+                      (NP (NNP Marty) (NNP Ackerman)))))))))
+        (CC and)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is) (RB not)
+            (VP (VBN designed) (, ,)
+              (ADVP (RB particularly))
+              (, ,)
+              (S
+                (VP (TO to)
+                  (VP (VB take)
+                    (S
+                      (NP (DT the) (NN company))
+                      (ADJP (JJ private)))))))))))
+    (. .) ('' '')))
+

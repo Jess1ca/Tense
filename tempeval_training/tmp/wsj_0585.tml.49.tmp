@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (NNP LIN))
+    (ADVP (RB now))
+    (VP (VBZ plans)
+      (S
+        (VP (TO to)
+          (VP (VB dole)
+            (PRT (RP out))
+            (NP
+              (NP
+                (NP ($ $) (CD 42))
+                (NP (DT a) (NN share)))
+              (PP (IN in)
+                (NP (NN cash)))
+              (, ,)
+              (ADVP (RB up)
+                (PP (IN from)
+                  (NP (DT the) (JJR earlier)
+                    (ADJP ($ $) (CD 20))
+                    (NN amount)))))))))
+    (. .)))
+

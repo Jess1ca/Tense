@@ -1,0 +1,18 @@
+1	Coast	_	NNP	NNP	_	4	nn	_	_
+2	Savings	_	NNP	NNP	_	4	nn	_	_
+3	Financial	_	NNP	NNP	_	4	nn	_	_
+4	Inc.	_	NNP	NNP	_	5	nsubj	_	_
+5	reported	_	VBD	VBD	_	0	root	_	_
+6	a	_	DT	DT	_	8	det	_	_
+7	third-quarter	_	JJ	JJ	_	8	amod	_	_
+8	loss	_	NN	NN	_	5	dobj	_	_
+9	,	_	,	,	_	5	punct	_	_
+10	citing	_	VBG	VBG	_	5	vmod	_	_
+11	a	_	DT	DT	_	16	det	_	_
+12	previously	_	RB	RB	_	13	advmod	_	_
+13	announced	_	VBN	VBN	_	16	amod	_	_
+14	capital	_	NN	NN	_	16	nn	_	_
+15	restructuring	_	VBG	VBG	_	16	amod	_	_
+16	program	_	NN	NN	_	10	dobj	_	_
+17	.	_	.	.	_	5	punct	_	_
+

@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP O'SMACH) (, ,) (NNP Cambodia))
+      (PRN (-LRB- -LRB-)
+        (NP (NNP AP))
+        (-RRB- -RRB-)))
+    (VP (VBD _)
+      (SBAR
+        (S
+          (NP
+            (NP (DT The) (JJ top) (NN commander))
+            (PP (IN of)
+              (NP (DT a) (JJ Cambodian) (NN resistance) (NN force))))
+          (VP (VBD said)
+            (NP (NNP Thursday))
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP (VBZ has)
+                  (VP (VBN sent)
+                    (NP (DT a) (NN team)
+                      (S
+                        (VP (TO to)
+                          (VP (VB recover)
+                            (NP
+                              (NP (DT the) (NNS remains))
+                              (PP (IN of)
+                                (NP
+                                  (NP (DT a) (JJ British) (NN mine) (NN removal) (NN expert))
+                                  (VP (VBN kidnapped)
+                                    (CC and)
+                                    (VBN presumed)
+                                    (S
+                                      (VP (VBN killed)
+                                        (PP (IN by)
+                                          (NP (NNP Khmer) (NNP Rouge) (NNS guerrillas))
+                                          (ADVP
+                                            (NP (RB almost) (CD two) (NNS years))
+                                            (RB ago)))))))))))))))))))))
+    (. .)))
+

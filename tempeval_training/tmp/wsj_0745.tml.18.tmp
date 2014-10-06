@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT The) (NN government))
+    (ADVP (RB probably))
+    (VP (MD would) (RB n't)
+      (VP (VB give)
+        (PRT (RP in))
+        (ADVP (RB readily)
+          (PP (TO to)
+            (NP (DT a) (JJ hostile) (NN foray))))
+        (PP (IN by)
+          (NP (NNP Ford)))
+        (, ,)
+        (ADVP (RB however))))
+    (. .)))
+

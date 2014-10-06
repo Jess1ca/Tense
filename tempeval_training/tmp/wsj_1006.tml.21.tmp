@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT all) (CD three) (JJ non-food) (NNS operations))
+          (VP (VBP are)
+            (ADJP (JJ profitable))))))
+    (. .)))
+

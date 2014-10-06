@@ -1,0 +1,9 @@
+(ROOT
+  (S (`` ``)
+    (NP
+      (NP (NNP Kellogg) (POS 's))
+      (JJ main) (NN problem))
+    (VP (VBZ is)
+      (NP (NN life) (NN style)))
+    (. .)))
+

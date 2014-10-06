@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (NNP Cilcorp))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNS businesses)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBN acquired))))))
+          (VP (VBD had)
+            (NP
+              (NP (NN revenue))
+              (PP (IN of)
+                (NP
+                  (QP ($ $) (CD 76) (CD million)))))
+            (PP (IN for)
+              (NP
+                (NP (DT the) (NN year))
+                (VP (VBN ended)
+                  (NP (NNP March) (CD 31)))))))))
+    (. .)))
+

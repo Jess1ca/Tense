@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NN Revenue))
+    (VP (VBD totaled)
+      (NP
+        (NP
+          (QP ($ $) (CD 1.01) (CD billion)))
+        (, ,)
+        (NP (DT a)
+          (ADJP (CD 43) (NN %))
+          (NN increase)))
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 704.4) (CD million))))
+      (, ,)
+      (S
+        (VP (VBG reflecting)
+          (NP
+            (NP
+              (NP (DT the) (NN company) (POS 's))
+              (NN acquisition))
+            (PP (IN of)
+              (NP (NNP Emery))))
+          (NP (RBR earlier) (DT this) (NN year)))))
+    (. .)))
+

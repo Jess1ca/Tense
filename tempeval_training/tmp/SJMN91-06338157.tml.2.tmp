@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (CD One) (NNP GOP) (NN source))
+    (, ,)
+    (S
+      (VP (VBG reporting)
+        (PP (IN on)
+          (NP
+            (NP (DT a) (NN call))
+            (PP (IN from)
+              (NP
+                (NP (DT the) (NN chief))
+                (PP (IN of)
+                  (NP (NN staff)))))))
+        (PP (TO to)
+          (NP (DT a) (JJ Republican) (NN leader)))))
+    (, ,)
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Sununu))
+          (VP (VBD lamented)
+            (SBAR (IN that) (`` ``)
+              (S
+                (S
+                  (NP (DT the) (NN noose))
+                  (VP (VBZ is)
+                    (VP (VBG tightening)
+                      (PP (IN around)
+                        (NP (PRP$ my) (NN neck))))))
+                (, ,)
+                (CC and)
+                (S
+                  (NP (PRP I))
+                  (VP (VBP need)
+                    (NP (PRP$ your) (NN help))))))))))
+    (. .) ('' '')))
+

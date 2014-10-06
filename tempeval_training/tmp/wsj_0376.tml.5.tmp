@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Courtaulds) (POS '))
+      (NN spinoff))
+    (VP (VBZ reflects)
+      (NP (NN pressure))
+      (PP (IN on)
+        (NP (JJ British) (NN industry)))
+      (S
+        (VP (TO to)
+          (VP (VB boost)
+            (NP (NN share) (NNS prices))
+            (PP (IN beyond)
+              (NP
+                (NP (DT the) (NN reach))
+                (PP (IN of)
+                  (NP (JJ corporate) (NNS raiders)))))))))
+    (. .)))
+

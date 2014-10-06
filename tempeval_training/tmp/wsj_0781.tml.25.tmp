@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT An) (NNP IBM) (NN spokeswoman))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN company))
+          (VP
+            (VP (VBD told)
+              (NP (NNS customers))
+              (NP (NNP Monday))
+              (PP (IN about)
+                (NP (DT the) (NNS bugs))))
+            (CC and)
+            (VP
+              (ADVP (RB temporarily))
+              (VBD stopped)
+              (S
+                (VP (VBG shipping)
+                  (NP (DT the) (NN product)))))))))
+    (. .)))
+

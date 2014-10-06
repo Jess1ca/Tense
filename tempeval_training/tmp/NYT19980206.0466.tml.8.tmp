@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (VP (VBN pleased)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNP Ms.) (NNP Currie) (POS 's))
+              (NNS lawyers))
+            (VP (VBD stated)
+              (ADVP (RB unambiguously))
+              (NP (DT this) (NN morning))
+              (S
+                (VP (VBG _)
+                  (ADJP (RB unambiguously) (JJ _))
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP she))
+                      (VP (VBZ 's) (RB not)
+                        (ADJP (JJ aware)
+                          (PP (IN of)
+                            (NP (DT any) (JJ unethical) (NN conduct))))))))))))))
+    (. .)))
+

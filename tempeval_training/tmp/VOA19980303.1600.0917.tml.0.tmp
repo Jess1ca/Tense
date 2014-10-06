@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP Nigerian) (NN security) (NNS forces))
+    (VP (VBD clashed)
+      (PP (IN in)
+        (NP (NNP Lagos)))
+      (PP (IN with)
+        (NP
+          (NP (JJ anti-government) (NNS demonstrators))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD were)
+                (VP (VBG protesting)
+                  (NP
+                    (NP (NNS calls))
+                    (PP (IN for)
+                      (NP (JJ military) (NN leader) (NNP Sani) (NNP Abacha))))
+                  (S
+                    (VP (TO to)
+                      (VP (VB run)
+                        (PP (IN for)
+                          (NP (NN president)))))))))))))
+    (. .)))
+

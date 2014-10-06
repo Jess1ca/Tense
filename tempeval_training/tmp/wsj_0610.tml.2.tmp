@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN company) (POS 's))
+      (NN president))
+    (VP (VBD quit)
+      (ADVP (RB suddenly)))
+    (. .)))
+

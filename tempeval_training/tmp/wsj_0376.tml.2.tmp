@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN establishment))
+      (PP (IN of)
+        (NP (DT the) (JJ separate) (NN company))))
+    (, ,)
+    (S
+      (VP (TO to)
+        (VP (VB be)
+          (VP (VBN called)
+            (NP (NNP Courtaulds) (NNP Textiles))))))
+    (, ,)
+    (VP (MD could)
+      (VP (VB be)
+        (ADJP (JJ effective))
+        (ADVP
+          (ADVP (RB as) (RB early))
+          (PP (IN as)
+            (NP
+              (NP (JJ next) (NN year) (POS 's))
+              (JJ first) (NN quarter))))))
+    (. .)))
+

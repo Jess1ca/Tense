@@ -1,0 +1,19 @@
+(ROOT
+  (S (CC But)
+    (NP (NNP Mr.) (NNP Schwarz))
+    (VP (VBZ welcomes)
+      (NP
+        (NP (DT the) (NN competition))
+        (PP (IN in)
+          (NP
+            (NP (NNP U.S.) (NNP Trust) (POS 's))
+            (NN flagship) (NNS businesses))))
+      (, ,)
+      (S
+        (VP (VBG calling)
+          (S
+            (NP (PRP it))
+            (`` ``)
+            (ADJP (JJ flattery))))))
+    (. .) ('' '')))
+

@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ new) (NN study))
+      (VP (VBN written)
+        (PP (IN by)
+          (NP (NNP Mark) (NNP Potach))))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ edits)
+            (NP
+              (NP (DT the) (NNP Southern) (NNP Poverty) (NNP Law) (NNP Center) (POS 's))
+              (NNP Intelligence) (NNP Report)))))
+      (, ,))
+    (VP (VBZ warns)
+      (SBAR (IN that)
+        (S
+          (NP (JJ such) (NNS groups))
+          (VP (VBD grew)
+            (ADVP (RB rapidly))
+            (NP (JJ last) (NN year))
+            (, ,)
+            (PP (RB mostly) (IN by)
+              (S
+                (VP (VBG recruiting)
+                  (NP (JJR younger) (NNS members)))))))))
+    (. .)))
+

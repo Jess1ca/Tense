@@ -1,0 +1,24 @@
+(ROOT
+  (S (CC And)
+    (ADVP (RB uh))
+    (NP (PRP we))
+    (VP (VBP 've)
+      (VP
+        (ADVP (RB already))
+        (VBN challenged) (, ,)
+        (ADVP (RB very) (RB strongly))
+        (, ,)
+        (SBAR
+          (WHNP
+            (NP
+              (NP (DT the) (NN uh))
+              (NP (DT the) (NNS terms)))
+            (WHPP (IN in)
+              (WHNP (WDT which))))
+          (S
+            (NP (DT this))
+            (VP (VBZ has)
+              (VP (VBN been)
+                (VP (VBN presented))))))))
+    (. .)))
+

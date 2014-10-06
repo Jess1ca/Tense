@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD blamed)
+      (NP
+        (NP (DT a) (NN number))
+        (PP (IN of)
+          (NP
+            (NP (NNS factors))
+            (PP (IN for)
+              (NP (DT the) (NNS earnings) (NN decline))))))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP (JJR softer) (NNS sales))
+          (PP (IN of)
+            (NP (NNS joint-implants))))))
+    (. .)))
+

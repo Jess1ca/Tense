@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN been)
+        (VP (VBN rumored)
+          (SBAR (IN that)
+            (S
+              (NP (NNP Ocean) (NNP Drilling))
+              (VP (MD would)
+                (VP (VB sell)
+                  (NP (DT the) (NN unit)
+                    (S
+                      (VP (TO to)
+                        (VP (VB concentrate)
+                          (PP (IN on)
+                            (NP (PRP$ its) (NN core) (NN oil)
+                              (CC and)
+                              (NN gas) (NN business))))))))))))))
+    (. .)))
+

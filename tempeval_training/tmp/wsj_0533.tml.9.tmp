@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP
+        (NP (DT the) (NN close))
+        (PP (IN of)
+          (NP (NN business)))))
+    (NP (NNP Thursday))
+    (, ,)
+    (NP (NNP Ciba-Geigy)
+      (CC and)
+      (NNP Chiron))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (CD 11,580) (JJ common) (NNS shares))
+          (VP (VBD had)
+            (VP (VBN been)
+              (VP (VBN tendered)
+                (PP (TO to)
+                  (NP (PRP$ their) (NN offer)))))))))
+    (. .)))
+

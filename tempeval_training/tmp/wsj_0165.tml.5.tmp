@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (ADJP (NNP New) (JJ York-based))
+      (NNP POP) (NNP Radio))
+    (VP (VBZ provides)
+      (PRN (, ,)
+        (PP (IN through)
+          (NP (DT a) (JJ national) (, ,) (JJ in-store) (NN network)))
+        (, ,))
+      (NP
+        (NP (DT a) (VBN customized) (NN music) (, ,) (NN information)
+          (CC and)
+          (VBG advertising) (NN service))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ simulates)
+              (NP (JJ live) (NN radio)))))))
+    (. .)))
+

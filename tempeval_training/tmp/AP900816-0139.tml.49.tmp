@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (ADVP (RB also))
+      (VP (VBD said)
+        (PP (IN of)
+          (NP (NN trade)))
+        (PP (IN with)
+          (NP (NNP Iraq)))))
+    (: :) (`` ``)
+    (S
+      (NP (EX There))
+      (VP (VBP are)
+        (NP
+          (NP (DT no) (NNS shipments))
+          (PP (IN at)
+            (NP (DT the) (NN moment))))))
+    (. .) ('' '')))
+

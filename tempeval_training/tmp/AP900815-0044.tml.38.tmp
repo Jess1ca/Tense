@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNS Truckloads))
+        (PP (IN of)
+          (NP (NNS goods))))
+      (VP (VBD rolled)
+        (PP (IN into)
+          (NP (NNP Iraq)))
+        (PP (IN from)
+          (NP (NNP Jordan)))
+        (PP (IN on)
+          (NP (NNP Tuesday)))))
+    (CC and)
+    (S
+      (NP (JJ Iraqi-bound) (NN cargo))
+      (VP (VBD was)
+        (VP (VBN unloaded)
+          (PP (IN from)
+            (NP
+              (NP (NNS ships))
+              (PP (IN at)
+                (NP (DT the) (NNP Red) (NNP Sea) (JJ port) (NN ofAqaba)))))
+          (PP (IN despite)
+            (NP (DT the) (JJ U.N.-ordered) (NNS sanctions))))))
+    (. .)))
+

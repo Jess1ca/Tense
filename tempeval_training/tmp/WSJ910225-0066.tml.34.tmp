@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP U.S.) (NNS officials))
+    (VP (VBP say)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNS hundreds))
+            (PP (IN of)
+              (NP (NNP Kuwaiti) (NN oil) (NNS wells))))
+          (ADVP (RB now))
+          (VP (MD may)
+            (VP (VB have)
+              (VP (VBN been)
+                (VP (VBN set)
+                  (ADVP (RB afire)))))))))
+    (. .)))
+

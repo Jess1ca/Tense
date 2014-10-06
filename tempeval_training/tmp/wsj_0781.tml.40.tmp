@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (DT The) (CD 486))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN descendant))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (JJ long) (NN series))
+            (PP (IN of)
+              (NP (NNP Intel) (NNS chips)))))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD began)
+              (S
+                (VP (VBG dominating)
+                  (NP (DT the) (NN market))
+                  (ADVP (RB ever))))
+              (SBAR (IN since)
+                (S
+                  (NP (NNP IBM))
+                  (VP (VBD picked)
+                    (NP (DT the) (JJ 16-bit) (CD 8088) (NN chip))
+                    (PP (IN for)
+                      (NP (PRP$ its) (JJ first) (JJ personal) (NN computer)))))))))))
+    (. .)))
+

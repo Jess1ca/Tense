@@ -1,0 +1,25 @@
+1	He	_	PRP	PRP	_	2	nsubj	_	_
+2	said	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	north	_	NN	NN	_	8	poss	_	_
+5	's	_	POS	POS	_	4	possessive	_	_
+6	substantial	_	JJ	JJ	_	8	amod	_	_
+7	Catholic	_	JJ	JJ	_	8	amod	_	_
+8	minority	_	NN	NN	_	9	nsubj	_	_
+9	demanded	_	VBD	VBD	_	2	ccomp	_	_
+10	a	_	DT	DT	_	11	det	_	_
+11	settlement	_	NN	NN	_	9	dobj	_	_
+12	that	_	WDT	WDT	_	14	nsubj	_	_
+13	would	_	MD	MD	_	14	aux	_	_
+14	promote	_	VB	VB	_	11	rcmod	_	_
+15	Northern	_	NNP	NNP	_	16	nn	_	_
+16	Ireland	_	NNP	NNP	_	19	poss	_	_
+17	's	_	POS	POS	_	16	possessive	_	_
+18	eventual	_	JJ	JJ	_	19	amod	_	_
+19	unification	_	NN	NN	_	14	dobj	_	_
+20	with	_	IN	IN	_	19	prep	_	_
+21	the	_	DT	DT	_	23	det	_	_
+22	Irish	_	JJ	JJ	_	23	amod	_	_
+23	Republic	_	NN	NN	_	20	pobj	_	_
+24	.	_	.	.	_	2	punct	_	_
+

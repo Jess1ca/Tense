@@ -1,0 +1,13 @@
+(ROOT
+  (S (`` ``)
+    (PP (IN In)
+      (NP (DT some) (NNS industries)))
+    (, ,)
+    (PP (IN like)
+      (NP (NNS pharmaceuticals)))
+    (, ,)
+    (NP (NNS acquisitions))
+    (VP (VBP make)
+      (NP (NN sense)))
+    (. .) ('' '')))
+

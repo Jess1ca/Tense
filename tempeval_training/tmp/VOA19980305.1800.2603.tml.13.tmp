@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (NNP Women))
+    (VP (VBP have)
+      (VP (VBN become)
+        (NP
+          (NP (DT the) (JJ sole) (NN support))
+          (PP (IN of) (PRP$ their) (NNS families)))))
+    (. .)))
+

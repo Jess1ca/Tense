@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (DT The) (NN application))
+    (VP (MD will)
+      (VP (VB create)
+        (NP (DT the) (JJ necessary) (NN framework)
+          (CC and)
+          (NN infrastructure)
+          (S
+            (VP (TO to)
+              (VP (VB support)
+                (NP
+                  (NP (JJ electronic) (NN commerce)
+                    (PRN (-LRB- -LRB-)
+                      (ADJP (JJ e-commerce))
+                      (-RRB- -RRB-))
+                    (NNS initiatives))
+                  (PP (IN in)
+                    (NP (DT the) (NN country))))))))))
+    (. .)))
+

@@ -1,0 +1,24 @@
+(ROOT
+  (S (CC And)
+    (SBAR (IN while)
+      (S
+        (NP (NNP Polly) (NNP Peck))
+        (VP (VBZ is) (RB n't)
+          (VP (VBG jettisoning)
+            (NP
+              (NP (DT the) (JJ existent) (JJ top-management) (NN structure))
+              (PP (IN of)
+                (NP (NNP Sansui))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBG bringing)
+        (PP (IN in)
+          (NP (DT a) (JJ former) (NNP Toshiba) (NNP Corp.) (NN executive)))
+        (NP (RB as)
+          (NX
+            (NX (JJ executive) (NN vice) (NN president))
+            (CC and)
+            (NX (JJ chief) (VBG operating) (NN officer))))))
+    (. .)))
+

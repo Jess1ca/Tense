@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP First))
+      (PP (IN of)
+        (NP (NNP America)))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (ADVP (RB now))
+          (VP (VBZ has)
+            (NP
+              (NP (CD 45) (NNS banks))
+              (CC and)
+              (NP
+                (NP
+                  (QP ($ $) (CD 12.5) (CD billion)))
+                (PP (IN in)
+                  (NP (NNS assets))))))))
+      (, ,))
+    (VP (VBD announced)
+      (NP (DT an) (NN agreement)
+        (S
+          (VP (TO to)
+            (VP (VB acquire)
+              (NP (DT the)
+                (NAC (NNP Peoria) (, ,) (NNP Ill.) (, ,))
+                (NN bank) (VBG holding) (NN company))
+              (PP (IN in)
+                (NP (NNP January))))))))
+    (. .)))
+

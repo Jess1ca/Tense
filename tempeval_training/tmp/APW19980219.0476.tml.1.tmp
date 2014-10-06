@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Gen.) (NNP Nhek) (NNP Bunchhay))
+      (, ,)
+      (NP
+        (NP (DT a) (NN loyalist))
+        (PP (IN of)
+          (NP (JJ ousted) (JJ Cambodian) (NNP Prime) (NNP Minister) (NNP Prince) (NNP Norodom) (NNP Ranariddh))))
+      (, ,))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP
+          (NP (DT an) (NN interview))
+          (PP (IN with)
+            (NP (DT The) (NNP Associated) (NNP Press)))))
+      (PP (IN at)
+        (NP (PRP$ his) (NN hilltop) (NN headquarters)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (VBZ hopes)
+            (S
+              (VP (TO to)
+                (VP (VB recover)
+                  (NP
+                    (NP (DT the) (NNS remains))
+                    (PP (IN of)
+                      (NP (NNP Christopher) (NNPS Howes))))
+                  (PP (IN within)
+                    (NP (DT the) (JJ next) (CD two) (NNS weeks))))))))))
+    (. .)))
+

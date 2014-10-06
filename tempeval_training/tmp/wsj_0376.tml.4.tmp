@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Courtaulds) (POS '))
+      (NNS shares))
+    (VP (VBD rose)
+      (NP (CD 15) (NNS pence))
+      (PP (TO to)
+        (NP (CD 362) (NNS pence)))
+      (, ,)
+      (S
+        (VP (VBG valuing)
+          (NP (DT the) (JJ entire) (NN company))
+          (PP (IN at)
+            (NP
+              (QP (RB about) (# #) (CD 1.44) (CD billion)))))))
+    (. .)))
+

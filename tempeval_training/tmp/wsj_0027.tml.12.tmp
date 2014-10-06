@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (FW Magna))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Mr.) (NNP McAlpine))
+          (VP (VBD resigned)
+            (S
+              (VP (TO to)
+                (VP (VB pursue)
+                  (NP (DT a) (VBG consulting) (NN career)))))
+            (, ,)
+            (PP (IN with)
+              (NP (FW Magna)))
+            (PP (IN as)
+              (NP
+                (NP (CD one))
+                (PP (IN of)
+                  (NP (PRP$ his) (NNS clients)))))))))
+    (. .)))
+

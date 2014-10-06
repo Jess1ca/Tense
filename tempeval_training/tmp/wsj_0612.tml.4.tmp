@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN issue))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (ADJP (JJ puttable))
+            (ADVP (RB back))
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN company))
+                (PP (IN in)
+                  (NP (CD 1999))))))))
+      (, ,))
+    (VP (VBD was)
+      (VP (VBN priced)
+        (PP (IN at)
+          (NP
+            (NP (DT a) (NN spread))
+            (PP (IN of)
+              (NP
+                (NP (CD 110) (NN basis) (NNS points))
+                (PP (IN above)
+                  (NP
+                    (NP (DT the) (NNP Treasury) (POS 's))
+                    (JJ 10-year) (NN note)))))))))
+    (. .)))
+

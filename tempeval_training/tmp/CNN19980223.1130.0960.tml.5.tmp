@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (JJ Weakened) (NN oil) (NNS prices))
+    (VP (VBP have)
+      (ADVP (RB already))
+      (VP (VBN made)
+        (S
+          (ADJP
+            (NP (NN life))
+            (JJR easier)))
+        (PP (IN for)
+          (NP
+            (NP (NNS motorists))
+            (PP (IN at)
+              (NP (DT the) (NN gas) (NN pump)))))))
+    (. .)))
+

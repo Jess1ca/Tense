@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS directors))
+      (VP
+        (VP (VBD did) (RB n't)
+          (VP (VB indicate)
+            (NP
+              (NP (DT the) (NN source))
+              (PP (IN of)
+                (NP (NN financing))))
+            (PP (IN for)
+              (NP
+                (NP (NNP Mr.) (NNP Drabinsky) (POS 's))
+                (JJ new) (NN proposal)))))
+        (, ,)
+        (CC but)
+        (VP (VBD said)
+          (NP (NNP MCA)))))
+    (CC and)
+    (S
+      (NP (DT the) (NNP Bronfman) (NNS associates))
+      (VP (VBD agreed)
+        (PP (IN in)
+          (NP (NN principle)))
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB buy)
+                (PP (IN for)
+                  (NP
+                    (QP ($ $) (CD 57) (CD million)))))
+              (CC and)
+              (VP
+                (ADVP (RB then))
+                (VB lease)
+                (PRT (RP back))
+                (PP (TO to)
+                  (NP (NNP Cineplex))))
+              (NP
+                (NP (PRP$ its) (JJ 18-screen) (NN theater) (NN complex))
+                (PP (IN in)
+                  (NP
+                    (NP (NNP Universal) (NNP City))
+                    (, ,)
+                    (NP (NNP Calif.))
+                    (, ,))))
+              (SBAR (IN if)
+                (S
+                  (NP (NNP Mr.) (NNP Drabinsky))
+                  (VP (VBZ succeeds)
+                    (PP (IN in)
+                      (NP (DT an) (NN offer)))))))))))
+    (. .)))
+

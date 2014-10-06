@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS figures))
+    (VP (VBP include)
+      (NP
+        (NP
+          (NP
+            (QP ($ $) (CD 15) (CD million)))
+          (PP (IN in)
+            (NP
+              (NP (NNS costs))
+              (VP (VBN related)
+                (PP (TO to)
+                  (NP (DT a) (NN blast) (NN furnace) (NN outage)))))))
+        (CC and)
+        (NP
+          (NP
+            (QP ($ $) (CD 8) (CD million)))
+          (PP (IN in)
+            (NP
+              (NP (NNS losses))
+              (PP (IN from)
+                (NP
+                  (NP (JJ unauthorized) (NN work) (NNS outages))
+                  (PP (IN at)
+                    (NP
+                      (NP (DT the) (NN company) (POS 's))
+                      (NN coal) (NNS operations))))))))))
+    (. .)))
+

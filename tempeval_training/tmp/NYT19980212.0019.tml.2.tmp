@@ -1,0 +1,26 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP It))
+      (VP (VBZ looks)
+        (SBAR (RB as) (IN though)
+          (S
+            (NP (PRP they))
+            (VP (VBD panicked))))))
+    (, ,) ('' '')
+    (NP
+      (NP (DT a) (NN detective))
+      (, ,)
+      (NP
+        (NP (NN speaking))
+        (PP (IN on)
+          (NP
+            (NP (NN condition))
+            (PP (IN of)
+              (NP (NN anonymity))))))
+      (, ,))
+    (VP (VBD said)
+      (PP (IN of)
+        (NP (DT the) (NNS robbers))))
+    (. .)))
+

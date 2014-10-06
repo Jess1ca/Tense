@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (PP (IN Since)
+      (NP (NNP Tuesday)))
+    (, ,)
+    (NP (DT the) (NNS shares))
+    (VP (VBP have)
+      (VP (VBN gained)
+        (NP
+          (QP (RB nearly) (CD 4))
+          (NN %))))
+    (. .)))
+

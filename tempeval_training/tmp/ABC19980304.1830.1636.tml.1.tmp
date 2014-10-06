@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP Air) (NNP Force) (NNP Lieutenant) (NNP Colonel) (NNP Eileen) (NNP Collins))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN named)
+          (NP
+            (NP (NN commander))
+            (PP (IN of)
+              (NP (DT the) (NNP Space) (NNP Shuttle) (NNP Columbia))))
+          (PP (IN for)
+            (NP
+              (NP (DT a) (NN mission))
+              (PP (IN in)
+                (NP (NNP December))))))))
+    (. .)))
+

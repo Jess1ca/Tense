@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Dow) (NNP Jones))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ owns)
+            (NP
+              (NP
+                (QP (RB about) (CD 64) (CD million)))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (NP (NNP Telerate) (POS 's))
+                    (QP (CD 95) (CD million))
+                    (JJ common) (NNS shares))
+                  (ADJP (JJ outstanding))))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP
+            (QP (RB about) (CD 24,000))
+            (NNS shares))
+          (VP (VBP have)
+            (VP (VBN been)
+              (VP (VBN tendered)
+                (PP (IN under)
+                  (NP (PRP$ its) (NN offer)))))))))
+    (. .)))
+

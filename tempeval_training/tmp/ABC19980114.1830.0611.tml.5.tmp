@@ -1,0 +1,18 @@
+(ROOT
+  (NP
+    (NP
+      (NP (NNP TWA) (POS 's))
+      (ADJP
+        (QP (CD eight) (CD hundred)))
+      (JJ heavy) (NN climb)
+      (CC and)
+      (NN maintain) (NN one))
+    (NP
+      (NP
+        (QP (CD five) (CD thousand))
+        (NN leavin))
+      (: -)
+      (NP
+        (QP (CD three) (CD thousand))))
+    (. .)))
+

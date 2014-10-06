@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The)
+        (ADJP (JJ Kearny) (, ,) (JJ N.J.-based))
+        (NN maker))
+      (PP (IN of)
+        (NP
+          (NP (NN hair) (NNS accessories))
+          (CC and)
+          (NP (JJ other) (JJ cosmetic) (NNS products)))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD cut)
+            (S
+              (NP (DT the) (NN dividend))
+              (ADJP (JJ due)
+                (PP (TO to)
+                  (NP
+                    (NP
+                      (NP (PRP$ its) (JJ third-quarter) (NN loss))
+                      (PP (IN of)
+                        (NP ($ $) (CD 992,000))))
+                    (, ,)
+                    (CC or)
+                    (NP
+                      (NP (CD 15) (NNS cents))
+                      (NP (DT a) (NN share)))))))))))
+    (. .)))
+

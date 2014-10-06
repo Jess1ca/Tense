@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NNP Provigo))
+    (VP (VBD was)
+      (NP
+        (NP (DT the)
+          (ADJP (RBS most) (JJ active))
+          (JJ industrial) (NN stock))
+        (PP (IN on)
+          (NP (DT the) (NNP Montreal) (NNP Exchange))))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (PRP it))
+          (VP (VBD closed)
+            (PP (IN at)
+              (NP
+                (NP ($ C$) (CD 9.75))
+                (PRN (-LRB- -LRB-)
+                  (NP ($ US$) (CD 8.32))
+                  (-RRB- -RRB-))))
+            (, ,)
+            (ADVP (RB up)
+              (NP (CD 75) (JJ Canadian) (NNS cents)))))))
+    (. .)))
+

@@ -1,0 +1,9 @@
+1	It	_	PRP	PRP	_	2	nsubj	_	_
+2	has	_	VBZ	VBZ	_	0	root	_	_
+3	about	_	RB	RB	_	5	quantmod	_	_
+4	12.3	_	CD	CD	_	5	number	_	_
+5	million	_	CD	CD	_	6	num	_	_
+6	shares	_	NNS	NNS	_	2	dobj	_	_
+7	outstanding	_	JJ	JJ	_	6	amod	_	_
+8	.	_	.	.	_	2	punct	_	_
+

@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (DT The) (NN embargo))
+    (VP (VBZ is)
+      (VP (VBN meant)
+        (S
+          (VP (TO to)
+            (VP (VB cripple)
+              (NP (NNP Iraq))
+              (PP (IN by)
+                (S
+                  (VP (VBG cutting)
+                    (PRT (RP off))
+                    (NP
+                      (NP (PRP$ its) (NNS exports))
+                      (PP (IN of)
+                        (NP (NN oil)
+                          (CC and)
+                          (NNS imports)))
+                      (PP (IN of)
+                        (NP (NN food)
+                          (CC and)
+                          (JJ military) (NNS supplies))))))))))))
+    (. .)))
+

@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP Acquisition))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP
+              (QP (CD 2.2) (CD million))
+              (NNS shares))
+            (, ,)
+            (CC or)
+            (NP
+              (NP
+                (QP (RB about) (CD 38.5))
+                (NN %))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NNS shares))
+                  (ADJP (JJ outstanding)))))
+            (, ,))
+          (VP (VBP have)
+            (VP (VBN been)
+              (VP (VBN tendered)
+                (PP (IN under)
+                  (NP (PRP$ its) (NN offer)))))))))
+    (. .)))
+

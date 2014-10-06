@@ -1,0 +1,13 @@
+1	Later	_	RB	RB	_	5	advmod	_	_
+2	,	_	,	,	_	5	punct	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	controller	_	NN	NN	_	5	nsubj	_	_
+5	asks	_	VBZ	VBZ	_	0	root	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	Eastwind	_	NNP	NNP	_	8	nn	_	_
+8	pilot	_	NN	NN	_	5	dobj	_	_
+9	for	_	IN	IN	_	8	prep	_	_
+10	more	_	JJR	JJR	_	11	amod	_	_
+11	details	_	NNS	NNS	_	9	pobj	_	_
+12	.	_	.	.	_	5	punct	_	_
+

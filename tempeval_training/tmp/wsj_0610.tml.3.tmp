@@ -1,0 +1,22 @@
+(ROOT
+  (S (CC And)
+    (ADVP (RB now))
+    (NP (NNP Kellogg))
+    (VP (VBZ is)
+      (ADVP (RB indefinitely))
+      (VP (VBG suspending)
+        (NP (NN work))
+        (PP (IN on)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (VBD was)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (NP (DT a)
+                        (ADJP
+                          (QP ($ $) (CD 1) (CD billion)))
+                        (NN cereal) (NN plant)))))))))))
+    (. .)))
+

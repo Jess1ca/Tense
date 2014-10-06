@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (NNP Anheuser-Busch) (NNP Cos.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ plans)
+            (S
+              (VP (TO to)
+                (VP
+                  (ADVP (RB aggressively))
+                  (VB discount)
+                  (NP (PRP$ its) (JJ major) (NN beer) (NNS brands)))))
+            (, ,)
+            (S
+              (VP (VBG setting)
+                (NP
+                  (NP (DT the) (NN stage))
+                  (PP (IN for)
+                    (NP (DT a)
+                      (ADJP (RB potentially) (VBG bruising))
+                      (NN price) (NN war))))))
+            (SBAR (IN as)
+              (S
+                (NP
+                  (NP (DT the) (VBG maturing) (NN industry) (POS 's))
+                  (NN growth))
+                (VP (VBZ continues)
+                  (S
+                    (VP (TO to)
+                      (VP (VB slow)))))))))))
+    (. .)))
+

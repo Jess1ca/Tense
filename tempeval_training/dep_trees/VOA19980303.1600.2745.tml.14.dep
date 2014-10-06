@@ -1,0 +1,14 @@
+1	Mark	_	NNP	NNP	_	2	nn	_	_
+2	Potach	_	NNP	NNP	_	3	nsubj	_	_
+3	says	_	VBZ	VBZ	_	0	root	_	_
+4	such	_	JJ	JJ	_	5	amod	_	_
+5	members	_	NNS	NNS	_	9	nsubjpass	_	_
+6	are	_	VBP	VBP	_	9	auxpass	_	_
+7	also	_	RB	RB	_	9	advmod	_	_
+8	intensely	_	RB	RB	_	9	advmod	_	_
+9	attracted	_	VBN	VBN	_	3	ccomp	_	_
+10	to	_	TO	TO	_	9	prep	_	_
+11	apocalyptical	_	JJ	JJ	_	12	amod	_	_
+12	fantasies	_	NNS	NNS	_	10	pobj	_	_
+13	.	_	.	.	_	3	punct	_	_
+

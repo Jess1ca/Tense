@@ -1,0 +1,22 @@
+1	When	_	WRB	WRB	_	3	advmod	_	_
+2	strategically	_	NNP	NNP	_	3	nsubj	_	_
+3	implemented	_	VBD	VBD	_	9	advcl	_	_
+4	,	_	,	,	_	9	punct	_	_
+5	an	_	DT	DT	_	7	det	_	_
+6	intranet	_	NN	NN	_	7	nn	_	_
+7	solution	_	NN	NN	_	9	nsubj	_	_
+8	will	_	MD	MD	_	9	aux	_	_
+9	provide	_	VB	VB	_	0	root	_	_
+10	the	_	DT	DT	_	11	det	_	_
+11	ability	_	NN	NN	_	9	dobj	_	_
+12	to	_	TO	TO	_	13	aux	_	_
+13	mediate	_	VB	VB	_	11	vmod	_	_
+14	mission-critical	_	NN	NN	_	13	dobj	_	_
+15	,	_	,	,	_	14	punct	_	_
+16	decision	_	NN	NN	_	18	nn	_	_
+17	support	_	NN	NN	_	18	nn	_	_
+18	functions	_	NNS	NNS	_	14	appos	_	_
+19	in	_	IN	IN	_	18	prep	_	_
+20	organisations	_	NNS	NNS	_	19	pobj	_	_
+21	.	_	.	.	_	9	punct	_	_
+

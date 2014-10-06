@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Nadeau))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (MD could) (RB n't)
+            (ADVP (RB yet))
+            (VP (VB say)
+              (SBAR (IN if)
+                (S
+                  (NP (DT the) (NN sale) (NNS prices))
+                  (VP (MD would)
+                    (VP (VB match)
+                      (NP (NN book) (NNS values)))))))))))
+    (. .)))
+

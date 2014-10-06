@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Indonesian) (NN currency))
+    (VP (VBZ has)
+      (VP (VBN lost)
+        (NP
+          (NP (CD twenty) (CD six) (NN percent))
+          (PP (IN of)
+            (NP (PRP$ its) (NN value))))))
+    (. .)))
+

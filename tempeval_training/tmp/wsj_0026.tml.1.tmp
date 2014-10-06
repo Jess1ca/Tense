@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (DT The) (NN action))
+    (VP (VBD came)
+      (PP (IN in)
+        (NP (NN response)))
+      (PP (TO to)
+        (NP
+          (NP (DT a) (NN petition))
+          (VP (VBN filed)
+            (PP (IN by)
+              (NP
+                (NP (NNP Timex) (NNP Inc.))
+                (PP (IN for)
+                  (NP
+                    (NP (NNS changes))
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (NNP U.S.) (NNP Generalized) (NNP System))
+                        (PP (IN of)
+                          (NP (NNP Preferences)))))))))
+            (PP (IN for)
+              (NP
+                (NP (NNS imports))
+                (PP (IN from)
+                  (NP (VBG developing) (NNS nations)))))))))
+    (. .)))
+

@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBZ has)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ wants)
+              (S
+                (VP (TO to)
+                  (VP (VB boost)
+                    (NP (JJ non-GM) (NN revenue))
+                    (PP (TO to)
+                      (NP
+                        (NP
+                          (QP (IN at) (JJS least) (CD 50))
+                          (NN %))
+                        (PP (IN of)
+                          (NP (PRP$ its) (JJ total) (NN business)))))
+                    (PP (IN by)
+                      (NP
+                        (NP (DT the) (NN end))
+                        (PP (IN of)
+                          (NP (CD 1990)))))))))))))
+    (. .)))
+

@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT a) (JJ stunning) (NN shift))
+        (PP (IN in)
+          (NP (NN direction)))))
+    (, ,)
+    (NP (NNP Provigo) (NNP Inc.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB sell)
+              (NP (PDT all) (PRP$ its) (JJ non-food) (NNS operations))
+              (S
+                (VP (TO to)
+                  (VP (VB concentrate)
+                    (ADVP (RB solely))
+                    (PP (IN on)
+                      (NP (PRP$ its)
+                        (ADJP (NN retail)
+                          (CC and)
+                          (JJ wholesale))
+                        (NN grocery) (NN business)))))))))))
+    (. .)))
+

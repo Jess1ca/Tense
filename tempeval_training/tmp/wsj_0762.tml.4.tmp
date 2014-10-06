@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ national) (JJ over-the-counter) (NN trading)))
+    (NP (NN yesterday))
+    (, ,)
+    (NP (NNP Cambrex) (NNS shares))
+    (VP (VBD rose)
+      (NP (CD 50) (NNS cents))
+      (S
+        (VP (TO to)
+          (VP (VB close)
+            (PP (IN at)
+              (NP
+                (NP ($ $) (CD 13))
+                (NP (DT a) (NN share))))))))
+    (. .)))
+

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN offer))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ values)
+            (NP
+              (NP (DT the) (NN whole))
+              (PP (IN of)
+                (NP (NNP Coates))))
+            (PP (IN at)
+              (NP
+                (QP (# #) (CD 301) (CD million)))))))
+      (, ,))
+    (VP (VBZ has)
+      (ADVP (RB already))
+      (VP (VBN been)
+        (VP (VBN accepted)
+          (PP (IN by)
+            (NP
+              (NP (NNP Coates) (NNS executives))
+              (CC and)
+              (NP (JJ other) (NNS shareholders))))
+          (S
+            (VP (VBG owning)
+              (NP
+                (NP (CD 12.4) (NN %))
+                (PP (IN of)
+                  (NP (DT the) (NN company)))))))))
+    (. .)))
+

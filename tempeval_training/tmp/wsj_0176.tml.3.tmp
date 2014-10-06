@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (PP (IN By)
+      (NP (NN comparison)))
+    (, ,)
+    (PP (IN for)
+      (NP (DT the) (JJ first) (CD nine) (NNS months)))
+    (, ,)
+    (NP (NNP Xerox))
+    (VP (VBD earned)
+      (NP
+        (NP
+          (QP ($ $) (CD 492) (CD million)))
+        (, ,)
+        (CC or)
+        (NP
+          (NP ($ $) (CD 4.55))
+          (NP (DT a) (NN share)))
+        (, ,))
+      (PP (IN on)
+        (NP
+          (NP (NN revenue))
+          (PP (IN of)
+            (NP
+              (QP ($ $) (CD 12.97) (CD billion)))))))
+    (. .)))
+

@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (ADVP (RB Uh))
+    (, ,)
+    (NP (EX there))
+    (VP (VBP are)
+      (ADVP (RB over)
+        (NP
+          (NP (JJ fifty) (CD thousand) (NNS CDs))
+          (NP (DT a) (NN year))))
+      (VP (VBN sold)
+        (PP (IN with)
+          (NP
+            (NP (JJ uh) (NNS lyrics))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBP are)
+                  (ADJP (RB quite) (RB uh) (JJ unbelievable)))))))))
+    (. .)))
+

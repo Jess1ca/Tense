@@ -1,0 +1,23 @@
+1	And	_	CC	CC	_	18	cc	_	_
+2	in	_	IN	IN	_	18	prep	_	_
+3	San	_	NNP	NNP	_	4	nn	_	_
+4	Francisco	_	NNP	NNP	_	2	pobj	_	_
+5	,	_	,	,	_	18	punct	_	_
+6	a	_	DT	DT	_	7	det	_	_
+7	mansion	_	NN	NN	_	18	nsubj	_	_
+8	overlooking	_	VBG	VBG	_	7	vmod	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	Pacific	_	NNP	NNP	_	11	nn	_	_
+11	Ocean	_	NNP	NNP	_	8	dobj	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	the	_	DT	DT	_	16	det	_	_
+14	Golden	_	NNP	NNP	_	16	nn	_	_
+15	Gate	_	NNP	NNP	_	16	nn	_	_
+16	Bridge	_	NNP	NNP	_	11	conj	_	_
+17	is	_	VBZ	VBZ	_	18	aux	_	_
+18	slipping	_	VBG	VBG	_	0	root	_	_
+19	toward	_	IN	IN	_	18	prep	_	_
+20	the	_	DT	DT	_	21	det	_	_
+21	sea	_	NN	NN	_	19	pobj	_	_
+22	.	_	.	.	_	18	punct	_	_
+

@@ -1,0 +1,25 @@
+1	Mr.	_	NNP	NNP	_	2	nn	_	_
+2	Roberts	_	NNP	NNP	_	3	nsubj	_	_
+3	continues	_	VBZ	VBZ	_	0	root	_	_
+4	as	_	IN	IN	_	3	prep	_	_
+5	treasurer	_	NN	NN	_	4	pobj	_	_
+6	,	_	,	,	_	3	punct	_	_
+7	and	_	CC	CC	_	3	cc	_	_
+8	Mr.	_	NNP	NNP	_	9	nn	_	_
+9	Wonham	_	NNP	NNP	_	10	nsubj	_	_
+10	remains	_	VBZ	VBZ	_	3	conj	_	_
+11	responsible	_	JJ	JJ	_	10	acomp	_	_
+12	for	_	IN	IN	_	11	prep	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	offices	_	NNS	NNS	_	12	pobj	_	_
+15	of	_	IN	IN	_	14	prep	_	_
+16	comptroller	_	NN	NN	_	23	nn	_	_
+17	,	_	,	,	_	16	punct	_	_
+18	planning	_	NN	NN	_	16	conj	_	_
+19	,	_	,	,	_	16	punct	_	_
+20	marketing	_	NN	NN	_	16	conj	_	_
+21	and	_	CC	CC	_	16	cc	_	_
+22	general	_	NN	NN	_	16	conj	_	_
+23	services	_	NNS	NNS	_	15	pobj	_	_
+24	.	_	.	.	_	3	punct	_	_
+

@@ -1,0 +1,21 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (MD should) (RB not)
+        (VP (VB be)
+          (VP (VBG seeing)
+            (ADVP (DT any) (RBR more))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Bill) (NNP Rash))
+      (, ,)
+      (NP
+        (NP
+          (NP (NNP Intel) (POS 's))
+          (NN director))
+        (PP (IN for)
+          (NP (DT the) (CD 486) (NN chip)))))
+    (. .)))
+

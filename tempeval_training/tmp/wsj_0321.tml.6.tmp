@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (NNP Mesa))
+    (VP (VBZ flies)
+      (PP (TO to)
+        (NP
+          (NP (CD 42) (NNS cities))
+          (PP (IN in)
+            (NP (NNP New) (NNP Mexico) (, ,) (NNP Arizona) (, ,) (NNP Wyoming) (, ,) (NNP Colorado)
+              (CC and)
+              (NNP Texas))))))
+    (. .)))
+

@@ -1,0 +1,14 @@
+1	Their	_	PRP$	PRP$	_	2	poss	_	_
+2	solution	_	NN	NN	_	4	nsubj	_	_
+3	would	_	MD	MD	_	4	aux	_	_
+4	require	_	VB	VB	_	0	root	_	_
+5	a	_	DT	DT	_	6	det	_	_
+6	compromise	_	NN	NN	_	4	dobj	_	_
+7	between	_	IN	IN	_	6	prep	_	_
+8	the	_	DT	DT	_	10	det	_	_
+9	two	_	CD	CD	_	10	num	_	_
+10	nations	_	NNS	NNS	_	12	poss	_	_
+11	'	_	POS	POS	_	10	possessive	_	_
+12	parliaments	_	NNS	NNS	_	7	pobj	_	_
+13	.	_	.	.	_	4	punct	_	_
+

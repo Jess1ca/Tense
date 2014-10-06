@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (JJ Soviet) (NNS officials))
+    (ADVP (RB also))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (JJ Soviet) (NNS women) (, ,) (NNS children)
+            (CC and)
+            (NNS invalids))
+          (VP (MD would)
+            (VP (VB be)
+              (VP (VBN allowed)
+                (S
+                  (VP (TO to)
+                    (VP (VB leave)
+                      (NP (NNP Iraq)))))))))))
+    (. .)))
+

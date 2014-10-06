@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD added)
+      (ADVP
+        (NP (CD one))
+        (RBR more))
+      (NP (NN today)))
+    (. .)))
+

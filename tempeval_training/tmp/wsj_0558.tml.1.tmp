@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NN Catastrophe) (NNS losses))
+    (VP (VBD reduced)
+      (NP
+        (NP (NNP Aetna) (POS 's))
+        (JJ net) (NN income))
+      (PP (IN by)
+        (NP
+          (QP ($ $) (CD 50) (CD million))))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP
+            (QP ($ $) (CD 36) (CD million)))
+          (PP (IN from)
+            (NP (NNP Hugo))))))
+    (. .)))
+

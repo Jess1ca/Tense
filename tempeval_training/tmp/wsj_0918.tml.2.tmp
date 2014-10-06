@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP Du) (NNP Pont))
+    (, ,)
+    (PP (IN unlike)
+      (NP
+        (NP (NNS companies))
+        (VP (VBN hurt)
+          (ADVP (RB badly))
+          (PP (IN by)
+            (NP
+              (NP (JJ sharp) (NN price) (NNS declines))
+              (PP (IN for)
+                (NP (JJ basic) (NNS chemicals)
+                  (CC and)
+                  (NNS plastics))))))))
+    (, ,)
+    (VP (VBZ is)
+      (VP (VBG benefiting)
+        (PP (IN from)
+          (NP
+            (NP (PRP$ its) (JJ broad) (NN range))
+            (PP (IN of)
+              (NP (NNS businesses)))))))
+    (. .)))
+

@@ -1,0 +1,23 @@
+1	Earnings	_	NNS	NNS	_	19	nsubjpass	_	_
+2	for	_	IN	IN	_	1	prep	_	_
+3	GM	_	NNP	NNP	_	5	nn	_	_
+4	common	_	JJ	JJ	_	5	amod	_	_
+5	stock	_	NN	NN	_	2	pobj	_	_
+6	,	_	,	,	_	19	punct	_	_
+7	reflecting	_	VBG	VBG	_	19	vmod	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	performance	_	NN	NN	_	7	dobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	GM	_	NNP	NNP	_	15	poss	_	_
+12	's	_	POS	POS	_	11	possessive	_	_
+13	core	_	JJ	JJ	_	15	amod	_	_
+14	automotive	_	JJ	JJ	_	15	amod	_	_
+15	operations	_	NNS	NNS	_	10	pobj	_	_
+16	,	_	,	,	_	19	punct	_	_
+17	will	_	MD	MD	_	19	aux	_	_
+18	be	_	VB	VB	_	19	auxpass	_	_
+19	disclosed	_	VBN	VBN	_	0	root	_	_
+20	this	_	DT	DT	_	21	det	_	_
+21	morning	_	NN	NN	_	19	tmod	_	_
+22	.	_	.	.	_	19	punct	_	_
+

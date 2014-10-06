@@ -1,0 +1,13 @@
+1	Lawyers	_	NNS	NNS	_	6	nsubj	_	_
+2	for	_	IN	IN	_	1	prep	_	_
+3	the	_	DT	DT	_	5	det	_	_
+4	two	_	CD	CD	_	5	num	_	_
+5	sides	_	NNS	NNS	_	2	pobj	_	_
+6	were	_	VBD	VBD	_	0	root	_	_
+7	n't	_	RB	RB	_	6	neg	_	_
+8	immediately	_	RB	RB	_	9	advmod	_	_
+9	available	_	JJ	JJ	_	6	acomp	_	_
+10	for	_	IN	IN	_	9	prep	_	_
+11	comment	_	NN	NN	_	10	pobj	_	_
+12	.	_	.	.	_	6	punct	_	_
+

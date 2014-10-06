@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT a) (JJ first) (NN step)))
+    (, ,)
+    (NP (NNP Dresdner) (NNP Bank))
+    (VP (MD will)
+      (VP (VB buy)
+        (NP
+          (NP (CD 32.99) (NN %))
+          (PP (IN of)
+            (NP (NNP BIP))))
+        (PP (IN for)
+          (NP
+            (NP
+              (NP (CD 1,015) (JJ French) (NNS francs))
+              (PRN (-LRB- -LRB-)
+                (NP ($ $) (CD 162))
+                (-RRB- -RRB-))
+              (NP (DT a) (NN share)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP
+                (QP (CD 528) (CD million))
+                (NNS francs))
+              (PRN (-LRB- -LRB-)
+                (NP
+                  (QP ($ $) (CD 84.7) (CD million)))
+                (-RRB- -RRB-)))))))
+    (. .)))
+

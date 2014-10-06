@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN investigation))
+      (VP (MD will)
+        (VP (VB consider)
+          (NP
+            (NP
+              (NP (DT the) (NN role))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (NP (`` ``) (JJ internal)
+                      (CC and)
+                      (JJ external) (NNS forces))
+                    (ADVP (RB prior)
+                      (PP (TO to)
+                        (NP (DT the) (NN genocide)))))
+                  (CC and)
+                  (ADVP (RB subsequently))
+                  (, ,)
+                  (CC and)
+                  (NP
+                    (NP (DT the) (NN role))
+                    (PP (IN of)
+                      (NP (DT the) (NNP United) (NNPS Nations)))))))
+            (CC and)
+            (NP
+              (NP (PRP$ its) (NNS agencies))
+              (CC and)
+              (NP (DT the) (NNP OAU))))
+          (ADVP (RB before))
+          (, ,)
+          (PP (IN during)
+            (CC and)
+            (IN after)
+            (NP (DT the) (NN genocide))))))
+    (, ,) ('' '')
+    (NP (DT the) (NNP OAU))
+    (VP (VBD said))
+    (. .)))
+

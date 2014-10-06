@@ -1,0 +1,19 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (NNP Mr.) (NNP Lortie))
+      (VP (VBD felt)
+        (ADJP (RBR less) (JJ pertinent))))
+    (, ,) ('' '')
+    (NP (NNP Mr.) (NNP Nadeau))
+    (VP (VBD said) (, ,)
+      (PP (VBN given)
+        (NP (DT the) (NN decision)
+          (S
+            (VP (TO to)
+              (VP (VB dump)
+                (NP
+                  (NP (NNP Provigo) (POS 's))
+                  (JJ non-food) (NNS operations))))))))
+    (. .)))
+

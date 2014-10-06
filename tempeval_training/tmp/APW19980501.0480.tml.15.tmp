@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN art))
+      (PP (IN of)
+        (NP (NN socialising))))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (VP (VBG experiencing)
+        (NP
+          (NP (DT a) (NN change))
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (NNP Net/virtual) (NNS relationships))
+              (VP (VBP are)
+                (ADVP (RB fast))
+                (VP (VBG overtaking)
+                  (CC or)
+                  (VBG becoming)
+                  (NP
+                    (NP (NN parallel))
+                    (PP (IN with)
+                      (NP (DT the) (JJ normal) (JJ human) (NNS relationships)))))))))))
+    (. .)))
+

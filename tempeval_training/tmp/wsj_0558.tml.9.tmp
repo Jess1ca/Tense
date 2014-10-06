@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP
+      (NP
+        (NP (NNP Aetna) (POS 's))
+        (NN employee) (NNS benefits) (NN division))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ includes)
+            (NP (PRP$ its) (NN group) (NN health) (NN insurance) (NNS operations)))))
+      (, ,))
+    (VP (VBD posted)
+      (NP (DT a)
+        (ADJP (CD 34) (NN %))
+        (NN profit) (NN gain))
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 106) (CD million)))))
+    (. .)))
+

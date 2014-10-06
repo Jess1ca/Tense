@@ -1,0 +1,10 @@
+1	Construction	_	NNP	NNP	_	3	nsubjpass	_	_
+2	is	_	VBZ	VBZ	_	3	auxpass	_	_
+3	set	_	VBN	VBN	_	0	root	_	_
+4	to	_	TO	TO	_	5	aux	_	_
+5	begin	_	VB	VB	_	3	xcomp	_	_
+6	in	_	IN	IN	_	5	prep	_	_
+7	early	_	JJ	JJ	_	8	amod	_	_
+8	1991	_	CD	CD	_	6	pobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+

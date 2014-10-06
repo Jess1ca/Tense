@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Such) (NN risk))
+      (VP (VBG taking)))
+    (VP (VBZ is)
+      (NP
+        (NP (DT an) (JJ everyday) (NN matter))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (JJ brash) (NNP Mr.) (NNP Nadir))
+            (, ,)
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBZ is)
+                  (NP
+                    (NP
+                      (NP
+                        (ADJP (CD 25) (NN %))
+                        (NN owner))
+                      (PP (IN of)
+                        (NP (NNP Polly) (NNP Peck))))
+                    (CONJP (RB as) (RB well) (IN as))
+                    (NP (PRP$ its) (NN chairman))))))))))
+    (. .)))
+

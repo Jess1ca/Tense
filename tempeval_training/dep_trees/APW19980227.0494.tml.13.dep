@@ -1,0 +1,16 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	Russian	_	JJ	JJ	_	3	amod	_	_
+3	leadership	_	NN	NN	_	6	nsubj	_	_
+4	has	_	VBZ	VBZ	_	6	aux	_	_
+5	staunchly	_	RB	RB	_	6	advmod	_	_
+6	opposed	_	VBN	VBN	_	0	root	_	_
+7	the	_	DT	DT	_	9	det	_	_
+8	western	_	JJ	JJ	_	9	amod	_	_
+9	alliance	_	NN	NN	_	11	poss	_	_
+10	's	_	POS	POS	_	9	possessive	_	_
+11	expansion	_	NN	NN	_	6	dobj	_	_
+12	into	_	IN	IN	_	6	prep	_	_
+13	Eastern	_	NNP	NNP	_	14	nn	_	_
+14	Europe	_	NNP	NNP	_	12	pobj	_	_
+15	.	_	.	.	_	6	punct	_	_
+

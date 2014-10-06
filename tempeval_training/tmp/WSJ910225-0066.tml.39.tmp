@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (S
+      (UCP
+        (ADVP (RB Then))
+        (, ,)
+        (NP (DT a) (NN week))
+        (CC or)
+        (ADVP (RB so) (RB ago))))
+    (, ,)
+    (NP (NNP Gen.) (NNP Schwarzkopf))
+    (ADVP (RB secretly))
+    (VP (VBD picked)
+      (NP (NNP Saturday))
+      (NP (NN night))
+      (PP (IN as)
+        (NP (DT the) (JJ optimal) (NN time)))
+      (S
+        (VP (TO to)
+          (VP (VB start)
+            (NP (DT the) (NN offensive))))))
+    (. .)))
+

@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (PP (IN Under)
+      (NP
+        (NP (NNS terms))
+        (PP (IN of)
+          (NP (DT the) (JJ new) (NN proposal)))))
+    (, ,)
+    (NP
+      (NP (NNP Equus))
+      (, ,)
+      (VP (VBN managed)
+        (PP (IN by)
+          (NP
+            (NP (NNP Equus) (NNP Capital) (NNP Corp.))
+            (, ,)
+            (NP (NNP Houston)))))
+      (, ,))
+    (VP (MD would)
+      (VP (VB pay)
+        (NP
+          (NP
+            (ADJP ($ $) (CD 12))
+            (NN cash))
+          (CC and)
+          (NP
+            (NP (CD one) (JJ new) (JJ preferred) (NN share))
+            (PP (IN with)
+              (NP
+                (NP (DT a) (NN liquidation) (NN preference))
+                (PP (IN of)
+                  (NP ($ $) (CD 1.65)))))))
+        (NP
+          (NP (DT a) (NN share))
+          (PP (IN for)
+            (NP
+              (NP (DT each))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (NP (NNP Tony) (NNP Lama) (POS 's))
+                    (QP (CD 2.1) (CD million))
+                    (NNS shares))
+                  (ADJP (JJ outstanding)))))))))
+    (. .)))
+

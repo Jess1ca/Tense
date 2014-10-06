@@ -1,0 +1,17 @@
+1	Average	_	JJ	JJ	_	3	amod	_	_
+2	hourly	_	JJ	JJ	_	3	amod	_	_
+3	earnings	_	NNS	NNS	_	9	nsubj	_	_
+4	of	_	IN	IN	_	3	prep	_	_
+5	production	_	NN	NN	_	8	nn	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	nonsupervisory	_	NN	NN	_	5	conj	_	_
+8	employees	_	NNS	NNS	_	4	pobj	_	_
+9	rose	_	VBD	VBD	_	0	root	_	_
+10	4	_	CD	CD	_	11	num	_	_
+11	cents	_	NNS	NNS	_	9	dobj	_	_
+12	,	_	,	,	_	9	punct	_	_
+13	to	_	TO	TO	_	9	prep	_	_
+14	$	_	$	$	_	13	pobj	_	_
+15	12.51	_	CD	CD	_	14	num	_	_
+16	.	_	.	.	_	9	punct	_	_
+

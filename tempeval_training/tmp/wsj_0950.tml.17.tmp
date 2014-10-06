@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (NNP GMAC) (NNS profits))
+    (VP (VBP are)
+      (VP
+        (VP (VBN combined)
+          (PP (IN with)
+            (NP (NNS earnings)))
+          (PP (IN from)
+            (NP
+              (NP (DT the) (NN rest))
+              (PP (IN of)
+                (NP
+                  (NP (NNP GM) (POS 's))
+                  (NNS operations))))))
+        (CC and)
+        (VP (VBN attributed)
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN company) (POS 's))
+              (JJ traditional) (JJ common) (NN stock))))))
+    (. .)))
+

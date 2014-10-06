@@ -1,0 +1,7 @@
+(ROOT
+  (S
+    (NP (NNS Terms))
+    (VP (VBD were) (RB n't)
+      (VP (VBN disclosed)))
+    (. .)))
+

@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (PP (VBG According)
+      (PP (TO to)
+        (NP (NN department) (NN policy))))
+    (, ,)
+    (NP (NNS prosecutors))
+    (VP (MD must)
+      (VP (VB make)
+        (NP (DT a) (JJ strong) (NN showing))
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNS lawyers) (POS '))
+              (NNS fees))
+            (VP (VBD came)
+              (PP (IN from)
+                (NP
+                  (NP (NNS assets))
+                  (VP (VBN tainted)
+                    (PP (IN by)
+                      (NP (JJ illegal) (NNS profits)))
+                    (SBAR (IN before)
+                      (S
+                        (NP
+                          (NP (DT any) (NNS attempts))
+                          (PP (IN at)
+                            (NP (NN seizure))))
+                        (VP (VBP are)
+                          (VP (VBN made)))))))))))))
+    (. .)))
+

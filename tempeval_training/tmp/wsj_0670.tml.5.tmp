@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT The) (NN agreement))
+    (ADVP (RB also))
+    (VP (VBZ provides)
+      (PP (IN for)
+        (NP
+          (NP (JJ potential) (NNS payments))
+          (PP (IN of)
+            (NP (JJ additional) (NNS proceeds)))))
+      (PP (TO to)
+        (NP
+          (NP (NNP National) (NNP Aluminum))
+          (PP (IN over)
+            (NP (DT the) (JJ next) (CD two) (NNS years)))))
+      (, ,)
+      (PP (VBG depending)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN plant) (POS 's))
+            (VBG shipping) (NNS levels)))))
+    (. .)))
+

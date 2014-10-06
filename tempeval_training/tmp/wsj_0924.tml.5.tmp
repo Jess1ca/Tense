@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ net) (NN loss))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ C$) (CD 2.3) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 14) (JJ Canadian) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,)
+            (ADVP
+              (NP (DT a) (NN year))
+              (RB ago))))))
+    (. .)))
+

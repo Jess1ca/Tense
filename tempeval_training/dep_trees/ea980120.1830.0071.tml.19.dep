@@ -1,0 +1,23 @@
+1	But	_	CC	CC	_	5	cc	_	_
+2	now	_	RB	RB	_	5	advmod	_	_
+3	we	_	PRP	PRP	_	5	nsubj	_	_
+4	're	_	VBP	VBP	_	5	aux	_	_
+5	going	_	VBG	VBG	_	0	root	_	_
+6	to	_	TO	TO	_	7	aux	_	_
+7	go	_	VB	VB	_	5	xcomp	_	_
+8	back	_	RP	RP	_	7	prt	_	_
+9	to	_	TO	TO	_	7	prep	_	_
+10	New	_	NNP	NNP	_	11	nn	_	_
+11	York	_	NNP	NNP	_	9	pobj	_	_
+12	,	_	,	,	_	11	punct	_	_
+13	where	_	WRB	WRB	_	16	advmod	_	_
+14	Diane	_	NNP	NNP	_	15	nn	_	_
+15	Sawyer	_	NNP	NNP	_	16	nsubj	_	_
+16	has	_	VBZ	VBZ	_	11	rcmod	_	_
+17	the	_	DT	DT	_	18	det	_	_
+18	rest	_	NN	NN	_	16	dobj	_	_
+19	of	_	IN	IN	_	18	prep	_	_
+20	the	_	DT	DT	_	21	det	_	_
+21	news	_	NN	NN	_	19	pobj	_	_
+22	.	_	.	.	_	5	punct	_	_
+

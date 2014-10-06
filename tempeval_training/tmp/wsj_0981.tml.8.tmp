@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN company))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ estimates)
+              (SBAR
+                (S
+                  (NP (DT the) (NNP Desert) (NNP Inn) (NN remodeling))
+                  (VP (MD will)
+                    (VP (VB cost)
+                      (NP
+                        (QP (RB about) ($ $) (CD 32) (CD million))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN refurbishment))
+        (PP (IN of)
+          (NP (DT the) (CD three) (NN DC-8-62) (NN aircraft)))
+        (, ,)
+        (VP (VBN made)
+          (PP (IN by)
+            (NP (NNP McDonnell) (NNP Douglas) (NNP Corp.))))
+        (, ,))
+      (VP (MD will)
+        (VP (VB cost)
+          (PP (IN around)
+            (NP
+              (QP ($ $) (CD 24.5) (CD million)))))))
+    (. .)))
+

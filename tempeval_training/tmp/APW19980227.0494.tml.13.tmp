@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ Russian) (NN leadership))
+    (VP (VBZ has)
+      (ADVP (RB staunchly))
+      (VP (VBN opposed)
+        (NP
+          (NP (DT the) (JJ western) (NN alliance) (POS 's))
+          (NN expansion))
+        (PP (IN into)
+          (NP (NNP Eastern) (NNP Europe)))))
+    (. .)))
+

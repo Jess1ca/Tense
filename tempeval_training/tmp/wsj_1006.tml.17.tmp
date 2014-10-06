@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNS Sales))
+    (VP (VBD were)
+      (NP
+        (QP ($ C$) (CD 4.2) (CD billion)))
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP
+            (QP ($ C$) (CD 3.7) (CD billion))))))
+    (. .)))
+

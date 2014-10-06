@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Baby) (NNP Ruth)
+        (CC and)
+        (NNP Butterfinger))
+      (VP (VBP are) (DT both)
+        (PP (IN among)
+          (NP
+            (NP (DT the) (JJ top-selling) (CD 15) (NN chocolate) (NNS bars))
+            (PP (IN in)
+              (NP (DT the) (NNP U.S.)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP
+        (NP
+          (NP (NNP RJR) (POS 's))
+          (JJ overall) (NN share))
+        (PP (IN of)
+          (NP (DT the)
+            (ADJP
+              (QP (RB roughly) ($ $) (CD 5.1) (CD billion)))
+            (NN market))))
+      (VP (VBZ is)
+        (NP
+          (QP (JJR less) (IN than) (CD 5))
+          (NN %))))
+    (. .)))
+

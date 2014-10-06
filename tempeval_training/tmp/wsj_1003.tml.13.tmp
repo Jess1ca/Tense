@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (ADVP (RB Still))
+    (, ,)
+    (NP
+      (NP (NNP Bethlehem) (POS 's))
+      (JJ core) (JJ basic) (NN steel) (NNS operations))
+    (VP (VBD experienced)
+      (NP (DT a) (JJ steep) (NN drop))
+      (PP (IN in)
+        (NP (NN operating) (NN profit)))
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 58.6) (CD million))))
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 186.4) (CD million)))
+        (ADVP
+          (NP (DT a) (NN year))
+          (RB ago))
+        (, ,)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT the) (NN industry))
+            (VP (VBD enjoyed)
+              (NP (JJ strong) (NN demand)
+                (CC and)
+                (NN pricing)))))))
+    (. .)))
+

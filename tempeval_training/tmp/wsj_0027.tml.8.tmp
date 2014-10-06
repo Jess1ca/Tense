@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNS Analysts))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Mr.) (NNP Stronach))
+          (VP (VBZ wants)
+            (S
+              (VP (TO to)
+                (VP (VB resume)
+                  (NP (DT a)
+                    (ADJP (RBR more) (JJ influential))
+                    (NN role))
+                  (PP (IN in)
+                    (S
+                      (VP (VBG running)
+                        (NP (DT the) (NN company))))))))))))
+    (. .)))
+

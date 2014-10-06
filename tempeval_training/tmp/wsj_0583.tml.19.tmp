@@ -1,0 +1,27 @@
+(ROOT
+  (S (CC But)
+    (SBAR (RB even)
+      (S
+        (NP
+          (NP (DT a) (JJ Japanese) (NN company))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ looks)
+                (PP (IN like)
+                  (NP (DT a) (NN dog)))))))
+        (VP (MD may)
+          (VP (VB turn)
+            (PRT (RP out))
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (NP
+                    (NP (DT a) (JJ good) (NN investment))
+                    (PP (IN for)
+                      (NP (DT a) (JJ foreign) (NN concern)))))))))))
+    (, ,)
+    (NP (DT some) (NN management) (NNS consultants))
+    (VP (VBP maintain))
+    (. .)))
+

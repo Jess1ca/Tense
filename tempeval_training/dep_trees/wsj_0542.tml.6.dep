@@ -1,0 +1,22 @@
+1	Telerate	_	NNP	NNP	_	2	nn	_	_
+2	shares	_	NNS	NNS	_	3	nsubj	_	_
+3	fell	_	VBD	VBD	_	0	root	_	_
+4	50	_	CD	CD	_	5	num	_	_
+5	cents	_	NNS	NNS	_	3	dobj	_	_
+6	on	_	IN	IN	_	3	prep	_	_
+7	Friday	_	NNP	NNP	_	6	pobj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	close	_	VB	VB	_	3	xcomp	_	_
+10	at	_	IN	IN	_	9	prep	_	_
+11	$	_	$	$	_	10	pobj	_	_
+12	20	_	CD	CD	_	11	num	_	_
+13	each	_	DT	DT	_	11	dep	_	_
+14	in	_	IN	IN	_	9	prep	_	_
+15	New	_	NNP	NNP	_	20	nn	_	_
+16	York	_	NNP	NNP	_	20	nn	_	_
+17	Stock	_	NNP	NNP	_	20	nn	_	_
+18	Exchange	_	NNP	NNP	_	20	nn	_	_
+19	composite	_	JJ	JJ	_	20	amod	_	_
+20	trading	_	NN	NN	_	14	pobj	_	_
+21	.	_	.	.	_	3	punct	_	_
+

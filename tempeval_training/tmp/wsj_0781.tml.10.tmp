@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (S
+      (S
+        (VP (TO To)
+          (VP (VB switch)
+            (PP (TO to)
+              (NP
+                (NP (DT another) (NN vendor) (POS 's))
+                (NNS chips))))))
+      (, ,) (`` ``)
+      (VP (MD would) (RB not)
+        (ADVP (RB definitely))
+        (VP (VB be)
+          (NP (DT an) (NN option))))
+      (, ,) ('' ''))
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+

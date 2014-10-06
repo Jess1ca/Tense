@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN company))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (ADVP (RB currently))
+          (VP (VBZ has)
+            (NP
+              (NP
+                (QP (CD 13.5) (CD million))
+                (JJ common) (NNS shares))
+              (ADJP (JJ outstanding))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ has)
+            (NP
+              (NP (DT no) (JJ specific) (NNS plans))
+              (PP (IN for)
+                (NP (DT the) (NNS shares))))))))
+    (. .)))
+

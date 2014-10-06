@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (CD 88) (JJ mutual) (NNS funds))
+      (VP (VBG investing)
+        (ADVP (RB solely))
+        (PP (IN in)
+          (NP (NN junk) (NNS bonds)))))
+    (VP (VBP hold)
+      (NP
+        (NP (NNS assets))
+        (PP (IN of)
+          (NP
+            (QP (RB about) ($ $) (CD 32) (CD billion))))))
+    (. .)))
+

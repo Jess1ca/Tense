@@ -1,0 +1,17 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	company	_	NN	NN	_	3	nsubj	_	_
+3	said	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	holders	_	NNS	NNS	_	6	nsubj	_	_
+6	represent	_	VBP	VBP	_	3	ccomp	_	_
+7	52	_	CD	CD	_	8	num	_	_
+8	%	_	NN	NN	_	6	dobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	the	_	DT	DT	_	12	det	_	_
+11	face	_	NN	NN	_	12	nn	_	_
+12	amount	_	NN	NN	_	9	pobj	_	_
+13	of	_	IN	IN	_	12	prep	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	debentures	_	NNS	NNS	_	13	pobj	_	_
+16	.	_	.	.	_	3	punct	_	_
+

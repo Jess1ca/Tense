@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT The) (NN government))
+    (VP (VBZ is)
+      (VP (VBG sharpening)
+        (NP
+          (NP
+            (NP (PRP$ its) (JJS newest) (NN weapon))
+            (PP (IN against)
+              (NP (JJ white-collar) (NNS defendants))))
+          (: :)
+          (NP (DT the) (NN power)
+            (S
+              (VP (TO to)
+                (VP (VB prevent)
+                  (NP (PRP them))
+                  (PP (IN from)
+                    (S
+                      (VP (VBG paying)
+                        (NP (PRP$ their) (JJ legal) (NNS bills))))))))))))
+    (. .)))
+

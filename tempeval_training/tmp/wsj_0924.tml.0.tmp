@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (NNP Dominion) (NNP Textile) (NNP Inc.) (NNS holders))
+    (VP (VBD adopted)
+      (NP (DT a) (JJ shareholder-rights) (NN plan))
+      (PP (IN at)
+        (NP (DT the) (JJ annual) (NN meeting))))
+    (. .)))
+

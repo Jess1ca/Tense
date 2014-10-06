@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Japanese) (NN government) (NNS officials))
+      (, ,)
+      (ADJP (JJ eager)
+        (S
+          (VP (TO to)
+            (VP (VB rebut)
+              (NP
+                (NP (JJ foreign) (NN criticism))
+                (PP (IN of)
+                  (NP (JJ Japanese) (NNS investments))))
+              (ADVP (RB overseas))))))
+      (, ,))
+    (VP (VBD hailed)
+      (NP (DT the) (NN transaction))
+      (SBAR (IN as)
+        (S
+          (NP (NN proof) (NNS foreigners))
+          (VP (MD can)
+            (VP (VB make)
+              (NP (JJ similar) (NNS investments))
+              (PP (IN in)
+                (NP (NNP Japan))))))))
+    (. .)))
+

@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ fiscal) (CD 1988)))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD earned)
+      (NP
+        (NP
+          (QP ($ $) (CD 17.3) (CD million)))
+        (, ,)
+        (CC or)
+        (NP
+          (NP ($ $) (CD 1.92))
+          (NP (DT a) (NN share)))
+        (, ,))
+      (PP (IN on)
+        (NP
+          (NP (NN revenue))
+          (PP (IN of)
+            (NP
+              (QP ($ $) (CD 352.9) (CD million)))))))
+    (. .)))
+

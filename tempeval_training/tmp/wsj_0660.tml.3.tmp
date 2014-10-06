@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN Under)
+      (NP (DT the) (NN pact)))
+    (, ,)
+    (NP (NN Montedision))
+    (VP (MD will)
+      (VP (VB make)
+        (S
+          (NP
+            (NP (DT a)
+              (ADJP ($ $) (JJ 37-a-share))
+              (NN tender) (NN offer))
+            (PP (IN for)
+              (NP (NNP Erbamont) (NN stock))))
+          (ADJP (JJ outstanding)))))
+    (. .)))
+

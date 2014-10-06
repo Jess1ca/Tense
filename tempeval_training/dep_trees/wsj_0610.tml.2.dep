@@ -1,0 +1,8 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	company	_	NN	NN	_	4	poss	_	_
+3	's	_	POS	POS	_	2	possessive	_	_
+4	president	_	NN	NN	_	5	nsubj	_	_
+5	quit	_	VBD	VBD	_	0	root	_	_
+6	suddenly	_	RB	RB	_	5	advmod	_	_
+7	.	_	.	.	_	5	punct	_	_
+

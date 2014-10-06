@@ -1,0 +1,13 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	Indonesian	_	NNP	NNP	_	3	nn	_	_
+3	currency	_	NN	NN	_	5	nsubj	_	_
+4	has	_	VBZ	VBZ	_	5	aux	_	_
+5	lost	_	VBN	VBN	_	0	root	_	_
+6	twenty	_	CD	CD	_	8	num	_	_
+7	six	_	CD	CD	_	8	num	_	_
+8	percent	_	NN	NN	_	5	dobj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	its	_	PRP$	PRP$	_	11	poss	_	_
+11	value	_	NN	NN	_	9	pobj	_	_
+12	.	_	.	.	_	5	punct	_	_
+

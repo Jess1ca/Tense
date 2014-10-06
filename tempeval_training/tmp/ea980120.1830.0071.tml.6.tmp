@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Revolution) (NNP Square)))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD put)
+      (PRT (RP up))
+      (NP (DT a) (JJ giant) (NN cross))
+      (NP (NN today)))
+    (. .)))
+

@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Primerica))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD had)
+            (VP (VBN owned)
+              (NP
+                (NP
+                  (QP (RB nearly) (CD 70))
+                  (NN %))
+                (PP (IN of)
+                  (NP (NNP Williams))))))))
+      (, ,))
+    (VP (MD will)
+      (VP (VB pay)
+        (NP
+          (NP
+            (QP (RB about) (CD 16.7) (CD million))
+            (NNS shares))
+          (, ,)
+          (VP
+            (ADVP (RB currently))
+            (VBN valued)
+            (PP (IN at)
+              (NP
+                (QP (RB almost) ($ $) (CD 472) (CD million)))))
+          (, ,))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN rest))
+            (PP (IN of)
+              (NP (NNP Williams)))))))
+    (. .)))
+

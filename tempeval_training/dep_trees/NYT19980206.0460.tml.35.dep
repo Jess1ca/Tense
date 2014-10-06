@@ -1,0 +1,24 @@
+1	For	_	IN	IN	_	9	prep	_	_
+2	the	_	DT	DT	_	4	det	_	_
+3	first	_	JJ	JJ	_	4	amod	_	_
+4	time	_	NN	NN	_	1	pobj	_	_
+5	,	_	,	,	_	9	punct	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	Labor	_	NNP	NNP	_	8	nn	_	_
+8	Department	_	NNP	NNP	_	9	nsubj	_	_
+9	broke	_	VBD	VBD	_	0	root	_	_
+10	out	_	RP	RP	_	9	prt	_	_
+11	unemployment	_	NN	NN	_	9	dobj	_	_
+12	by	_	IN	IN	_	9	prep	_	_
+13	education	_	NN	NN	_	14	nn	_	_
+14	level	_	NN	NN	_	12	pobj	_	_
+15	as	_	RB	RB	_	16	advmod	_	_
+16	well	_	RB	RB	_	14	cc	_	_
+17	as	_	IN	IN	_	16	mwe	_	_
+18	gender	_	NN	NN	_	14	conj	_	_
+19	,	_	,	,	_	18	punct	_	_
+20	age	_	NN	NN	_	18	conj	_	_
+21	and	_	CC	CC	_	18	cc	_	_
+22	race	_	NN	NN	_	18	conj	_	_
+23	.	_	.	.	_	9	punct	_	_
+

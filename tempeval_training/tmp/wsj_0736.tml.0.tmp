@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (NNP Poughkeepsie) (NNPS Savings) (NNP Bank))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT a) (NN plan)
+            (S
+              (VP (TO to)
+                (VP (VB sell)
+                  (NP (PRP$ its) (NNP South) (NNP Carolina) (NN branch) (NNS offices))
+                  (PP (TO to)
+                    (NP
+                      (NP (NNP First) (NNPS Citizens) (NNP Bank))
+                      (, ,)
+                      (PP (IN of)
+                        (NP (NNP Columbia) (, ,) (NNP S.C.)))
+                      (, ,)))))))
+          (VP (VBD fell)
+            (PRT (RP through))))))
+    (. .)))
+

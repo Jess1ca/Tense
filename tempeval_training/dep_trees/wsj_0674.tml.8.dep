@@ -1,0 +1,21 @@
+1	Mr.	_	NNP	NNP	_	2	nn	_	_
+2	Fabi	_	NNP	NNP	_	5	nsubj	_	_
+3	would	_	MD	MD	_	5	aux	_	_
+4	n't	_	RB	RB	_	5	neg	_	_
+5	say	_	VB	VB	_	0	root	_	_
+6	directly	_	RB	RB	_	5	advmod	_	_
+7	whether	_	IN	IN	_	11	mark	_	_
+8	Mr.	_	NNP	NNP	_	9	nn	_	_
+9	Pattison	_	NNP	NNP	_	11	nsubj	_	_
+10	has	_	VBZ	VBZ	_	11	aux	_	_
+11	disclosed	_	VBN	VBN	_	5	ccomp	_	_
+12	potential	_	JJ	JJ	_	13	amod	_	_
+13	terms	_	NNS	NNS	_	11	dobj	_	_
+14	for	_	IN	IN	_	11	prep	_	_
+15	his	_	PRP$	PRP$	_	17	poss	_	_
+16	planned	_	VBN	VBN	_	17	amod	_	_
+17	bid	_	NN	NN	_	14	pobj	_	_
+18	for	_	IN	IN	_	17	prep	_	_
+19	control	_	NN	NN	_	18	pobj	_	_
+20	.	_	.	.	_	5	punct	_	_
+

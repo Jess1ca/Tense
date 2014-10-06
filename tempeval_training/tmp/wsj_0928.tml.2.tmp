@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (CD 1988) (NN period)))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD earned)
+      (NP
+        (NP
+          (QP ($ $) (CD 20.6) (CD million)))
+        (, ,)
+        (CC or)
+        (NP
+          (NP (CD 26) (NNS cents))
+          (NP (DT a) (NN share)))))
+    (. .)))
+

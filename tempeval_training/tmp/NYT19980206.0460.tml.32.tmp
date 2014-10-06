@@ -1,0 +1,25 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT Those) (NNS fumes))
+      (VP (MD will)
+        (VP (VB exhaust)
+          (NP (PRP themselves)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (VBG manufacturing) (NN sector))
+      (VP (VBZ is)
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB start)
+                (S
+                  (VP (VBG getting)
+                    (S
+                      (VP (VB beat)
+                        (PRT (RP up))
+                        (PP (IN in)
+                          (NP (DT the) (NN spring)))))))))))))
+    (. .) ('' '')))
+

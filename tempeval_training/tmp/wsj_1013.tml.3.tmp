@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (DT The) (NN loss))
+    (VP (VBZ stems)
+      (PP (IN from)
+        (NP
+          (NP
+            (NP
+              (QP ($ $) (CD 357.5) (CD million)))
+            (PP (IN of)
+              (NP
+                (NP (NNS write-downs))
+                (PP (IN on)
+                  (NP
+                    (NP
+                      (NP (NNP Columbia) (POS 's))
+                      (ADJP
+                        (QP ($ $) (CD 4.4) (CD billion)))
+                      (JJ high-yield) (NN investment) (NNS securities) (NN portfolio))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBZ includes)
+                          (NP
+                            (NP
+                              (QP (RB about) ($ $) (CD 3.7) (CD billion)))
+                            (PP (IN of)
+                              (NP (NN junk) (NNS bonds))))))))))))
+          (, ,)
+          (NP
+            (NP
+              (QP ($ $) (CD 400) (CD million)))
+            (PP (IN of)
+              (NP (VBN preferred) (NN stock))))
+          (, ,)
+          (CC and)
+          (NP (NNP Treasury) (NNS securities)))))
+    (. .)))
+

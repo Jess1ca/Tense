@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (NP (DT a) (JJ good) (NN thing))
+            (SBAR (IN that)
+              (S
+                (NP (PRP they))
+                (VP (VBP 're)
+                  (ADVP (RB finally))
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (VP (VBN downsizing)
+                            (S
+                              (NP (PRP you))
+                              (VP (VB know)
+                                (NP (DT some) (NN management))
+                                (SBAR (IN because)
+                                  (S
+                                    (NP (EX there))
+                                    (VP (VBZ is)
+                                      (NP
+                                        (NP (DT a) (JJ whole) (NN lot))
+                                        (PP (IN of)
+                                          (NP (NN waste)))))))))))))))))))))
+    (. .)))
+

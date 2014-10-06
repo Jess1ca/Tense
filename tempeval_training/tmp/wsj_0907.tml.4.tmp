@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP LeGere))
+    (VP (VBD attributed)
+      (NP (DT the) (NNS earnings) (NN increase))
+      (PP (TO to)
+        (NP
+          (NP
+            (NP (NN growth))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN company) (POS 's))
+                (NN longhaul) (NN trucking) (NN insurance) (NNS lines))))
+          (CC and)
+          (NP (DT the) (NN ability)
+            (S
+              (VP (TO to)
+                (VP (VB keep)
+                  (NP (NN premium) (NNS rates) (NN firm)))))))))
+    (. .)))
+

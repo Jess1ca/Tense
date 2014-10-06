@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP Administration) (NNS aides))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN idea))
+            (PP (IN of)
+              (NP (DT the) (NN ultimatum))))
+          (VP (VBD was)
+            (NP
+              (NP (NNP Gen.) (NNP Powell))
+              (VP (VBZ 's)))))))
+    (. .)))
+

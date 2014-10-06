@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (ADVP (RB Overall))
+    (, ,)
+    (NP
+      (QP (JJR more) (IN than) (CD 2) (CD million))
+      (NNS foreigners))
+    (VP (VBP are)
+      (PP (IN in)
+        (NP (DT both) (NNS countries))))
+    (. .)))
+

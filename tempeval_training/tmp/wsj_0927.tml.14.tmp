@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (JJ Quarterly) (JJ net) (NN income))
+    (NP (DT this) (NN year))
+    (VP (VBZ has)
+      (VP (VBN risen)
+        (ADVP (RB just))
+        (PP (IN over)
+          (NP
+            (NP (JJ comparable) (NNS periods))
+            (PP (IN in)
+              (NP (CD 1988)))
+            (, ,)
+            (SBAR
+              (WHNP
+                (WHADVP (WRB when))
+                (JJ year-end) (NN net))
+              (S
+                (VP (VBD was)
+                  (PP (IN below)
+                    (NP (DT the) (CD 1987) (NN level))))))))))
+    (. .)))
+

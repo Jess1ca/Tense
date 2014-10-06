@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (S
+      (VP (VBN Led)
+        (PP (IN by)
+          (NP (PRP$ its) (JJ oat-based) (NNPS Cheerios) (NN line)))))
+    (, ,)
+    (NP (NNP General) (NNP Mills))
+    (VP (VBZ has)
+      (VP (VBN gained)
+        (NP (DT an) (JJ estimated)
+          (ADJP (CD 2) (NN %))
+          (NN share))
+        (NP
+          (ADVP (RB so) (RB far))
+          (DT this) (NN year))
+        (, ,)
+        (PP (RB mostly) (IN at)
+          (NP
+            (NP (DT the) (NN expense))
+            (PP (IN of)
+              (NP (NNP Kellogg)))))))
+    (. .)))
+

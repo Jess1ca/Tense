@@ -1,0 +1,18 @@
+1	But	_	CC	CC	_	10	cc	_	_
+2	this	_	DT	DT	_	3	det	_	_
+3	skittishness	_	NN	NN	_	10	nsubj	_	_
+4	,	_	,	,	_	7	punct	_	_
+5	Mr.	_	NNP	NNP	_	6	nn	_	_
+6	Antolini	_	NNP	NNP	_	7	nsubj	_	_
+7	says	_	VBZ	VBZ	_	10	parataxis	_	_
+8	,	_	,	,	_	7	punct	_	_
+9	is	_	VBZ	VBZ	_	10	aux	_	_
+10	creating	_	VBG	VBG	_	0	root	_	_
+11	liquidity	_	NN	NN	_	12	nn	_	_
+12	problems	_	NNS	NNS	_	10	dobj	_	_
+13	in	_	IN	IN	_	10	prep	_	_
+14	certain	_	JJ	JJ	_	16	amod	_	_
+15	OTC	_	NNP	NNP	_	16	nn	_	_
+16	stocks	_	NNS	NNS	_	13	pobj	_	_
+17	.	_	.	.	_	10	punct	_	_
+

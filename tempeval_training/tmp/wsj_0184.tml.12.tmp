@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (NP (RBR earlier) (DT this) (NN year))
+    (VP (VBD adopted)
+      (NP (DT a) (JJ shareholder-rights) (NN plan))
+      (S
+        (VP (TO to)
+          (VP (VB ward)
+            (PRT (RP off))
+            (NP (JJ unwanted) (NNS suitors))))))
+    (. .)))
+

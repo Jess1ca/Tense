@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Polly) (NNP Peck) (NNP International) (NNP Inc.) (POS 's))
+      (NN agreement)
+      (S
+        (VP (TO to)
+          (VP (VB acquire)
+            (NP
+              (NP (CD 51) (NN %))
+              (PP (IN of)
+                (NP (NNP Sansui) (NNP Electric) (NNP Co.))))))))
+    (VP (VBZ proves)
+      (SBAR (IN that)
+        (S
+          (NP (JJ foreign) (NNS companies))
+          (VP (MD can)
+            (VP (VB acquire)
+              (NP (JJ Japanese) (NNS companies))
+              (: --)
+              (SBAR (IN if)
+                (S
+                  (NP
+                    (NP (DT the) (NN alternative))
+                    (PP (IN for)
+                      (NP (DT the) (JJ Japanese) (NN company))))
+                  (VP (VBZ is)
+                    (NP (NN extinction))))))))))
+    (. .)))
+

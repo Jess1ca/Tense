@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading)))
+    (NP (NN yesterday))
+    (, ,)
+    (NP (NNP Intelogic) (NNS shares))
+    (VP (VBD rose)
+      (NP (CD 37.5) (NNS cents))
+      (S
+        (VP (TO to)
+          (VP (VB close)
+            (PP (IN at)
+              (NP ($ $) (CD 2.75)))))))
+    (. .)))
+

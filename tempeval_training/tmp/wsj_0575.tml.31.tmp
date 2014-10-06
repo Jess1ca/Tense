@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNP Control) (NNP Data) (NNS mainframes))
+    (VP (VBP are)
+      (VP (VBN designed)
+        (PP (IN for)
+          (NP
+            (NP
+              (ADJP (RB numerically) (JJ intensive))
+              (VBG computing) (NNS users))
+            (, ,)
+            (PP (JJ such) (IN as)
+              (NP (DT the)
+                (UCP (JJ scientific) (, ,) (NN engineering)
+                  (CC and)
+                  (JJ academic))
+                (NNS communities)))))))
+    (. .)))
+

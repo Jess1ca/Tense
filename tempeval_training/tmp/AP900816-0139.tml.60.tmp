@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (ADVP (RB Meanwhile))
+    (, ,)
+    (NP
+      (NP (NNP Egypt) (POS 's))
+      (JJ official) (NNP Middle) (NNPS East) (NNP News) (NNP Agency))
+    (VP (VBD said)
+      (NP (NNP Thursday))
+      (SBAR (IN that)
+        (S
+          (NP (NNP Saddam))
+          (VP (VBD was)
+            (NP
+              (NP (DT the) (NN target))
+              (PP (IN of)
+                (NP
+                  (NP (DT an) (NN assassination) (NN attempt))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBN led)
+                        (PP (TO to)
+                          (NP (`` ``) (JJ large-scale) ('' '') (NNS arrests)))
+                        (, ,)
+                        (PP (VBG including)
+                          (NP
+                            (NP (DT some) (JJ close) (NNS associates))
+                            (PP (IN of)
+                              (NP (DT the) (JJ Iraqi) (NN strongman)))))))))))))))
+    (. .)))
+

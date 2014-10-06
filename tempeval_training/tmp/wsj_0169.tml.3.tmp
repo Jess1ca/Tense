@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP London)))
+    (PP (IN at)
+      (NP (RB mid-afternoon)))
+    (NP (NN yesterday))
+    (, ,)
+    (NP
+      (NP (NNP Ratners) (POS 's))
+      (NNS shares))
+    (VP (VBD were)
+      (NP
+        (NP
+          (QP (RB up) (CD 2))
+          (NNS pence))
+        (PRN (-LRB- -LRB-)
+          (NP (CD 1.26) (NNS cents))
+          (-RRB- -RRB-)))
+      (, ,)
+      (PP (IN at)
+        (NP
+          (NP (CD 260) (NNS pence))
+          (PRN (-LRB- -LRB-)
+            (NP ($ $) (CD 1.64))
+            (-RRB- -RRB-)))))
+    (. .)))
+

@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT The) (NN unit))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD can)
+            (VP (VB provide)
+              (NP
+                (NP (DT no) (NN assurance))
+                (SBAR
+                  (S
+                    (NP (DT a) (NN transaction))
+                    (VP (MD will)
+                      (VP (VB occur)))))))))))
+    (. .)))
+

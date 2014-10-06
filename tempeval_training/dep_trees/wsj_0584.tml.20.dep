@@ -1,0 +1,14 @@
+1	But	_	CC	CC	_	5	cc	_	_
+2	I	_	PRP	PRP	_	5	nsubj	_	_
+3	do	_	VBP	VBP	_	5	aux	_	_
+4	n't	_	RB	RB	_	5	neg	_	_
+5	think	_	VB	VB	_	0	root	_	_
+6	we	_	PRP	PRP	_	7	nsubj	_	_
+7	're	_	VBP	VBP	_	5	ccomp	_	_
+8	at	_	IN	IN	_	7	prep	_	_
+9	that	_	DT	DT	_	10	det	_	_
+10	point	_	NN	NN	_	8	pobj	_	_
+11	yet	_	RB	RB	_	7	advmod	_	_
+12	.	_	.	.	_	5	punct	_	_
+13	''	_	''	''	_	5	punct	_	_
+

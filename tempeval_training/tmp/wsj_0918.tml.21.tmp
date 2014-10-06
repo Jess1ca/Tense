@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (NNS fibers) (NN segment)))
+    (PRN (, ,)
+      (S
+        (NP (NN profit))
+        (VP (VBD rose)
+          (PP (TO to)
+            (NP
+              (QP ($ $) (CD 180) (CD million))))
+          (PP (IN from)
+            (NP
+              (QP ($ $) (CD 155) (CD million))))))
+      (, ,))
+    (NP (DT a) (NN gain) (NNP Du) (NNP Pont))
+    (VP (VBD attributed)
+      (PP (TO to)
+        (NP
+          (NP (JJR higher) (NN demand))
+          (PP (IN in)
+            (NP (DT the) (NNP U.S.)))))
+      (PP (IN for)
+        (NP (JJS most) (JJ textile) (NNS products))))
+    (. .)))
+

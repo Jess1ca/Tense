@@ -1,0 +1,39 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (VBP have) (RB n't)
+        (VP (VBN benefited)
+          (NP (DT the) (NN shareholder))
+          (ADVP
+            (ADVP (RB as) (RB much))
+            (SBAR (IN as)
+              (S
+                (NP (PRP we))
+                (VP (VBP need)
+                  (PP (TO to)))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Edgar) (NNP Woolard) (NNP Jr.))
+      (, ,)
+      (NP
+        (NP (NNP Du) (NNP Pont) (POS 's))
+        (NX
+          (NX (NN chairman))
+          (CC and)
+          (NX (JJ chief) (JJ executive) (NN officer))))
+      (, ,))
+    (PP (IN in)
+      (NP (DT an) (NN interview)))
+    (SBAR
+      (NP (JJ several) (NNS months))
+      (RB before)
+      (S
+        (NP (PRP he))
+        (VP (VBD entered)
+          (NP (PRP$ his) (JJ current) (NN position))
+          (PP (IN in)
+            (NP (NNP April))))))
+    (. .)))
+

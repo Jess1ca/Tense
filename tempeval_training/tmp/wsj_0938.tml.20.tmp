@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (DT the) (NNP Toronto) (NNP Stock) (NNP Exchange)))
+    (, ,)
+    (NP (NNP Cineplex))
+    (VP (VBD closed)
+      (PP (IN at)
+        (NP
+          (NP ($ C$) (CD 12.875))
+          (, ,)
+          (ADVP (IN off)
+            (NP (CD 37.5) (JJ Canadian) (NNS cents)))))
+      (, ,)
+      (ADVP (RB well)
+        (PP (IN below)
+          (NP (DT the)
+            (ADJP ($ C$) (CD 16.40))
+            (NN level)))))
+    (. .)))
+

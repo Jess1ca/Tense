@@ -1,0 +1,14 @@
+(ROOT
+  (S (`` ``)
+    (NP (DT The) (NN situation))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN bankruptcy) (NN court))
+          (VP (MD will)
+            (VP (VB get)
+              (PRT (RP out))
+              (PP (IN of)
+                (NP (DT the) (NN shipbuilding) (NN business))))))))
+    (. .)))
+

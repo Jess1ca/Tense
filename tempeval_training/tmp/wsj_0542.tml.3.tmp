@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN supplement))
+      (VP (VBZ contains)
+        (NP
+          (NP (JJ various) (NN information))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ has)
+                (VP (VBN been)
+                  (VP (VBN filed)
+                    (PP (IN with)
+                      (NP (DT the) (NNPS Securities)
+                        (CC and)
+                        (NNP Exchange) (NNP Commission)))
+                    (SBAR (IN since)
+                      (S
+                        (NP (NNP Dow) (NNP Jones))
+                        (VP (VBD launched)
+                          (NP (DT the) (NN offer))
+                          (PP (IN on)
+                            (NP (NNP Sept.) (CD 26))))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ does) (RB n't)
+        (VP (VB change)
+          (NP
+            (NP (DT the) (NNS terms)
+              (CC and)
+              (NNS conditions))
+            (PP (IN of)
+              (NP (DT the) (NN offer))))
+          (SBAR (VB except)
+            (S
+              (VP (TO to)
+                (VP (VB extend)
+                  (NP (PRP$ its) (NN expiration) (NN date)))))))))
+    (. .)))
+

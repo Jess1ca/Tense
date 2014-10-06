@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (NNP Cineplex) (NNS shareholders))
+    (VP (VBD responded)
+      (ADVP (RB coolly))
+      (PP (TO to)
+        (NP
+          (NP (NN yesterday) (POS 's))
+          (NN announcement))))
+    (. .)))
+

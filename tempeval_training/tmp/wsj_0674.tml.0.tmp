@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Jim) (NNP Pattison) (NNPS Industries) (NNP Ltd.))
+      (, ,)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (NN group))
+            (PP (IN of)
+              (NP
+                (NP
+                  (ADJP (RB closely) (VBN held))
+                  (NNS companies))
+                (VP (VBN owned)
+                  (PP (IN by)
+                    (NP (NN entrepreneur) (NNP James) (NNP Pattison)))))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (`` ``)
+          (VP (VBZ intends)
+            (S
+              (VP (TO to)
+                (VP (VB seek)
+                  (NP
+                    (NP (NN control))
+                    ('' '')
+                    (PP (IN of)
+                      (NP
+                        (NP (CD 30) (NN %))
+                        (: -)
+                        (VP (VBN owned)
+                          (NP
+                            (NP (NNP Innopac) (NNP Inc.))
+                            (, ,)
+                            (NP (DT a) (NNP Toronto) (NN packaging) (NN concern))))))))))))))
+    (. .)))
+

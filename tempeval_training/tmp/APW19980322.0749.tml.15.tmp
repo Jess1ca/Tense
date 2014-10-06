@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (NP (NNP Sunday))
+    (, ,)
+    (NP
+      (QP (JJR more) (IN than) (CD 2,000))
+      (JJ Catholic) (NNS protesters))
+    (VP (VBD rallied)
+      (PP (IN in)
+        (NP
+          (NP (NNP Portadown))
+          (PP (IN against)
+            (NP (DT the) (JJ annual) (NNS parades)))))
+      (PP (IN by)
+        (NP
+          (NP (DT the) (NNP Orange) (NNP Order))
+          (, ,)
+          (NP
+            (NP (NNP Northern) (NNP Ireland) (POS 's))
+            (JJ dominant) (JJ Protestant) (NN fraternal) (NN group)))))
+    (. .)))
+

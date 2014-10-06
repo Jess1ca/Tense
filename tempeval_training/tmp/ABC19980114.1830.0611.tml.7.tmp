@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (INTJ (UH Ah))
+    (, ,)
+    (NP (PRP we))
+    (ADVP (RB just))
+    (VP (VBD saw)
+      (NP (DT an) (NN explosion))
+      (ADVP
+        (ADVP (RB up) (RB ahead))
+        (PP (IN of)
+          (NP (PRP us))
+          (ADVP (RB here))))
+      (PP (IN about)
+        (NP
+          (NP
+            (NP (NN sixteen))
+            (NP (CD thousand) (NNS feet)))
+          (CC or)
+          (NP
+            (NP (NN something))
+            (PP (IN like)
+              (NP (DT that)))))))
+    (. .)))
+

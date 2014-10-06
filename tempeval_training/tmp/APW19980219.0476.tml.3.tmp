@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD were)
+      (NP
+        (NP (JJ many) (VBG conflicting) (NNS accounts))
+        (PP (IN of)
+          (NP (PRP$ his) (NN fate)))))
+    (. .)))
+

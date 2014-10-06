@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Roy))
+    (VP (MD could) (RB n't)
+      (VP (VB be)
+        (VP (VBN reached))))
+    (. .)))
+

@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NNP Oy) (NNP Waertsilae))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB contribute)
+              (NP
+                (NP
+                  (QP (CD 200) (CD million))
+                  (NN markkaa))
+                (, ,)
+                (NP
+                  (NP (JJS most))
+                  (PP (IN of)
+                    (NP (PRP it)))))
+              (PP (IN as)
+                (NP (VBN subordinated) (NN debt))))
+            (, ,)
+            (CC and)
+            (VP (VB take)
+              (NP (DT a) (NN minority) (NN stake))
+              (PP (IN in)
+                (NP (DT the) (JJ new) (NN company))))))))
+    (. .)))
+

@@ -1,0 +1,10 @@
+1	Sun	_	NNP	NNP	_	3	nsubj	_	_
+2	also	_	RB	RB	_	3	advmod	_	_
+3	reported	_	VBD	VBD	_	0	root	_	_
+4	a	_	DT	DT	_	6	det	_	_
+5	record	_	JJ	JJ	_	6	amod	_	_
+6	backlog	_	NN	NN	_	3	dobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	orders	_	NNS	NNS	_	7	pobj	_	_
+9	.	_	.	.	_	3	punct	_	_
+

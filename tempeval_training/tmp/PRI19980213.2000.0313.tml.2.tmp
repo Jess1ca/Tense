@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNS Experts))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (DT the) (NN ground))
+          (VP (VBZ is)
+            (ADVP (RB so))
+            (VP (VBN saturated)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (MD can) (RB not)
+                    (VP (VB absorb)
+                      (NP (DT any) (JJR more) (NN water)))))))))))
+    (. .)))
+

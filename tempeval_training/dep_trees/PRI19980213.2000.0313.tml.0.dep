@@ -1,0 +1,17 @@
+1	Officials	_	NNS	NNS	_	5	nsubj	_	_
+2	in	_	IN	IN	_	1	prep	_	_
+3	California	_	NNP	NNP	_	2	pobj	_	_
+4	are	_	VBP	VBP	_	5	aux	_	_
+5	warning	_	VBG	VBG	_	0	root	_	_
+6	residents	_	NNS	NNS	_	5	dobj	_	_
+7	that	_	IN	IN	_	11	mark	_	_
+8	oncoming	_	VBG	VBG	_	9	amod	_	_
+9	rains	_	NNS	NNS	_	11	nsubj	_	_
+10	will	_	MD	MD	_	11	aux	_	_
+11	cause	_	VB	VB	_	5	ccomp	_	_
+12	dangerous	_	JJ	JJ	_	15	amod	_	_
+13	and	_	CC	CC	_	12	cc	_	_
+14	unpredictable	_	JJ	JJ	_	12	conj	_	_
+15	landslides	_	NNS	NNS	_	11	dobj	_	_
+16	.	_	.	.	_	5	punct	_	_
+

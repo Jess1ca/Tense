@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Saudi) (NNP Arabia)))
+    (, ,)
+    (NP (NN today))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ eighth) (NN day))
+        (PP (IN of)
+          (NP (`` ``)
+            (NP (NNP Desert) (NNP Shield))
+            (, ,) ('' '')
+            (NP
+              (NP (DT the) (NN operation))
+              (VP (VBN designed)
+                (S
+                  (VP (TO to)
+                    (VP (VB confront)
+                      (NP (DT an) (JJ estimated) (CD 200,000) (JJ Iraqi) (NNS soldiers))
+                      (ADVP (RB now))
+                      (PP (IN in)
+                        (NP (NNP Kuwait))))))))))))
+    (. .)))
+

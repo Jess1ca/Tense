@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (CD two) (NNS presidents))
+      (PP (IN on)
+        (NP (NNP Friday))))
+    (VP (VBD signed)
+      (NP
+        (NP (DT the) (NN plan))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ calls)
+              (PP (IN for)
+                (NP
+                  (NP (NN cooperation))
+                  (PP (IN in)
+                    (NP (DT the) (NN metallurgy) (, ,) (NN fuel) (, ,) (NN energy) (, ,) (NN aircraft) (NN building) (, ,) (NN missile) (, ,) (NN space)
+                      (CC and)
+                      (NN chemical) (NNS industries))))))))))
+    (. .)))
+

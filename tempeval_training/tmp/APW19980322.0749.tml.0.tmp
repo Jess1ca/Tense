@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP BELFAST) (, ,) (NNP Northern) (NNP Ireland))
+      (PRN (-LRB- -LRB-)
+        (NP (NNP AP))
+        (-RRB- -RRB-)))
+    (VP (VBD _)
+      (SBAR
+        (S
+          (NP (NNP Police))
+          (VP (VBD seized)
+            (NP (DT a) (NN car) (NN bomb))
+            (PP (IN under)
+              (NP (NN construction)))
+            (NP (NNP Sunday))
+            (PP (IN in)
+              (NP
+                (NP (DT a) (NN town))
+                (VP (VBG bordering)
+                  (NP
+                    (NP (NNP Northern) (NNP Ireland))
+                    (PP (IN on)
+                      (NP
+                        (NP (DT the) (NN eve))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT the) (NN return))
+                            (PP (TO to)
+                              (NP (NN peace) (NNS talks))))))))
+                  (PP (IN by)
+                    (NP (DT the) (JJ IRA-allied) (NNP Sinn) (NNP Fein) (NN party))))))))))
+    (. .)))
+

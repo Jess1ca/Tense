@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP President) (NNP Bush) (POS 's))
+        (JJ political) (NN argument))
+      (PP (IN for)
+        (S
+          (VP (VBG going)
+            (PP (TO to)
+              (NP (DT a) (NN ground) (NN war)))))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN strengthened)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (VBG growing) (NN stream))
+              (PP (IN of)
+                (NP
+                  (NP (NNS reports))
+                  (PP (IN of)
+                    (NP
+                      (NP (JJ wanton) (JJ Iraqi) (NN destruction))
+                      (PP (IN inside)
+                        (NP (NNP Kuwait))))))))))))
+    (. .)))
+

@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT The) (NN investor) (NN group))
+    (VP (VBZ owns)
+      (NP
+        (NP (CD 1,534,600) (NNPS Dataproducts) (JJ common) (NNS shares))
+        (, ,)
+        (CC or)
+        (NP (DT a)
+          (ADJP (CD 7.6) (NN %))
+          (NN stake))))
+    (. .)))
+

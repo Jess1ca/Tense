@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (ADJP (JJ e-commerce)
+          (S
+            (VP (TO to)
+              (VP (VB flourish)
+                (PP (IN with)
+                  (NP (JJ full-blown) (JJ end-to-end) (NN business)))))))
+        (NNS transactions)))
+    (, ,)
+    (NP
+      (NP (JJ strategic) (NN planning))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ incorporates)
+            (NP
+              (NP (DT both) (NN business)
+                (CC and)
+                (NN technology) (NNS plans))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBP are)
+                    (ADJP (JJ complementary))))))))))
+    (VP (VBZ is)
+      (ADJP (JJ necessary)
+        (PP (IN for)
+          (NP (DT an) (NN organisation))))
+      (S
+        (VP (TO to)
+          (VP (VB see)
+            (NP
+              (ADJP (JJ feasible))
+              (NNS returns))
+            (PP (IN on)
+              (NP (NN investment)))))))
+    (. .)))
+

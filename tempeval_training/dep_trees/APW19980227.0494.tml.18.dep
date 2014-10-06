@@ -1,0 +1,21 @@
+1	In	_	IN	IN	_	8	prep	_	_
+2	the	_	DT	DT	_	3	det	_	_
+3	past	_	NN	NN	_	1	pobj	_	_
+4	,	_	,	,	_	8	punct	_	_
+5	Russia	_	NNP	NNP	_	8	nsubj	_	_
+6	has	_	VBZ	VBZ	_	8	aux	_	_
+7	often	_	RB	RB	_	8	advmod	_	_
+8	claimed	_	VBN	VBN	_	0	root	_	_
+9	that	_	IN	IN	_	12	mark	_	_
+10	Ukraine	_	NNP	NNP	_	12	nsubj	_	_
+11	was	_	VBD	VBD	_	12	aux	_	_
+12	undermining	_	VBG	VBG	_	8	ccomp	_	_
+13	efforts	_	NNS	NNS	_	12	dobj	_	_
+14	at	_	IN	IN	_	12	prep	_	_
+15	closer	_	JJR	JJR	_	16	amod	_	_
+16	cooperation	_	NN	NN	_	14	pobj	_	_
+17	within	_	IN	IN	_	16	prep	_	_
+18	the	_	DT	DT	_	19	det	_	_
+19	CIS	_	NNP	NNP	_	17	pobj	_	_
+20	.	_	.	.	_	8	punct	_	_
+

@@ -1,0 +1,41 @@
+(ROOT
+  (SINV
+    (S
+      (NP (DT The) (JJS most))
+      (VP (VBD controversial)
+        (SBAR
+          (S
+            (NP
+              (NP (NN form))
+              (PP (IN of)
+                (NP
+                  (NP (NN program) (NN trading))
+                  (, ,)
+                  (NP (JJ stock-index) (NN arbitrage))
+                  (, ,))))
+            (VP (VBZ is))))
+        ('' '')
+        (S
+          (VP (VBG making)
+            (S
+              (NP (PRP it))
+              (ADJP (JJ tough)))))
+        (PP (IN for)
+          (NP (NNS traders)
+            (S
+              (VP (TO to)
+                (VP (VB make)
+                  (NP (NN money)))))))))
+    (, ,) ('' '')
+    (VP (VBZ declares))
+    (NP
+      (NP (NNP Robert) (NNP Antolini))
+      (, ,)
+      (NP
+        (NP (NN head))
+        (PP (IN of)
+          (NP (NNP OTC) (NN trading)))
+        (PP (IN at)
+          (NP (NNP Donaldson) (, ,) (NNP Lufkin) (NNP amp) (NNP Jenrette)))))
+    (. .)))
+

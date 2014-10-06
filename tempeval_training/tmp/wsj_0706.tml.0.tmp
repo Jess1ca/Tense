@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (NNP Security) (NNP Pacific) (NNP Corp.))
+    (VP (VBZ has)
+      (VP (VBN set)
+        (NP (PRP$ its) (NNS sights))
+        (PP (IN on)
+          (S
+            (VP (VBG buying)
+              (NP (PRP$ its) (JJ second) (NN bank) (VBG holding) (NN company))
+              (NP (DT this) (NN year)))))))
+    (. .)))
+

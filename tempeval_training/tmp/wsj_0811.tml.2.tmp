@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT The) (NN debt) (NN reduction))
+    (VP (VBZ is)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB save)
+              (NP (DT the)
+                (NAC (NNP Fort) (NNP Lauderdale) (, ,) (NNP Fla.))
+                (NN home) (NN video) (NN concern))
+              (NP
+                (NP
+                  (QP (RB about) ($ $) (CD 2) (CD million)))
+                (NP (DT a) (NN year))
+                (PP (IN in)
+                  (NP (NN interest) (NN expense)))))))))
+    (. .)))
+

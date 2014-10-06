@@ -1,0 +1,22 @@
+1	Air	_	NNP	NNP	_	6	nn	_	_
+2	Force	_	NNP	NNP	_	6	nn	_	_
+3	Lieutenant	_	NNP	NNP	_	6	nn	_	_
+4	Colonel	_	NNP	NNP	_	6	nn	_	_
+5	Eileen	_	NNP	NNP	_	6	nn	_	_
+6	Collins	_	NNP	NNP	_	9	nsubjpass	_	_
+7	will	_	MD	MD	_	9	aux	_	_
+8	be	_	VB	VB	_	9	auxpass	_	_
+9	named	_	VBN	VBN	_	0	root	_	_
+10	commander	_	NN	NN	_	9	dobj	_	_
+11	of	_	IN	IN	_	10	prep	_	_
+12	the	_	DT	DT	_	15	det	_	_
+13	Space	_	NNP	NNP	_	15	nn	_	_
+14	Shuttle	_	NNP	NNP	_	15	nn	_	_
+15	Columbia	_	NNP	NNP	_	11	pobj	_	_
+16	for	_	IN	IN	_	9	prep	_	_
+17	a	_	DT	DT	_	18	det	_	_
+18	mission	_	NN	NN	_	16	pobj	_	_
+19	in	_	IN	IN	_	18	prep	_	_
+20	December	_	NNP	NNP	_	19	pobj	_	_
+21	.	_	.	.	_	9	punct	_	_
+

@@ -1,0 +1,21 @@
+1	Loan	_	NNP	NNP	_	2	nn	_	_
+2	covenants	_	NNS	NNS	_	3	nsubj	_	_
+3	require	_	VBP	VBP	_	0	root	_	_
+4	that	_	IN	IN	_	7	mark	_	_
+5	the	_	DT	DT	_	6	det	_	_
+6	company	_	NN	NN	_	7	nsubj	_	_
+7	achieve	_	VB	VB	_	3	ccomp	_	_
+8	specified	_	VBN	VBN	_	9	amod	_	_
+9	levels	_	NNS	NNS	_	7	dobj	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	operating	_	VBG	VBG	_	12	amod	_	_
+12	earnings	_	NNS	NNS	_	10	pobj	_	_
+13	and	_	CC	CC	_	7	cc	_	_
+14	meet	_	VB	VB	_	7	conj	_	_
+15	a	_	DT	DT	_	19	det	_	_
+16	rolling	_	JJ	JJ	_	19	amod	_	_
+17	four-quarter	_	JJ	JJ	_	19	amod	_	_
+18	profitability	_	NN	NN	_	19	nn	_	_
+19	test	_	NN	NN	_	14	dobj	_	_
+20	.	_	.	.	_	3	punct	_	_
+

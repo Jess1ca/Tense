@@ -1,0 +1,21 @@
+1	Last	_	JJ	JJ	_	2	amod	_	_
+2	month	_	NN	NN	_	8	tmod	_	_
+3	,	_	,	,	_	8	punct	_	_
+4	Canadian	_	NNP	NNP	_	7	nn	_	_
+5	Bond	_	NNP	NNP	_	7	nn	_	_
+6	Rating	_	NNP	NNP	_	7	nn	_	_
+7	Service	_	NNP	NNP	_	8	nsubj	_	_
+8	downgraded	_	VBD	VBD	_	0	root	_	_
+9	Provigo	_	NNP	NNP	_	12	poss	_	_
+10	's	_	POS	POS	_	9	possessive	_	_
+11	commercial	_	JJ	JJ	_	12	amod	_	_
+12	paper	_	NN	NN	_	8	dobj	_	_
+13	and	_	CC	CC	_	12	cc	_	_
+14	debentures	_	NNS	NNS	_	12	conj	_	_
+15	because	_	RB	RB	_	16	advmod	_	_
+16	of	_	IN	IN	_	14	prep	_	_
+17	its	_	PRP$	PRP$	_	19	poss	_	_
+18	lackluster	_	JJ	JJ	_	19	amod	_	_
+19	performance	_	NN	NN	_	16	pobj	_	_
+20	.	_	.	.	_	8	punct	_	_
+

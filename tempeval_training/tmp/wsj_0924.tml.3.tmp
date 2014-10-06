@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (SBAR (IN Once)
+      (S
+        (VP (VBD triggered))))
+    (, ,)
+    (NP (DT the) (NNS rights))
+    (VP (VBP allow)
+      (S
+        (NP (NNS holders))
+        (VP
+          (VP (TO to)
+            (VP (VB buy)
+              (NP (JJ additional) (NNS shares))
+              (PP (IN at)
+                (NP
+                  (NP (CD 50) (NN %))
+                  (PP (IN of)
+                    (NP (DT the) (RB then) (JJ current) (NN market) (NN price)))))))
+          (CC or)
+          (, ,)
+          (VP
+            (PP (IN at)
+              (NP
+                (NP (DT the) (NN board) (POS 's))
+                (NN discretion)))
+            (, ,) (TO to)
+            (VP (VB receive)
+              (NP (NNS securities)
+                (CC or)
+                (NNS assets)))))))
+    (. .)))
+

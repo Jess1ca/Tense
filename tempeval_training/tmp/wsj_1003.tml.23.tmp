@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP National) (NNP Intergroup))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ owns)
+            (NP
+              (NP (CD 50) (NN %))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (NP (DT the) (NN nation) (POS 's))
+                    (JJ sixth) (JJS largest) (NN steelmaker))
+                  (PRN (: --)
+                    (NP (NNP National) (NNP Steel) (NNP Corp.))
+                    (: --)))))))))
+    (VP (VBD posted)
+      (NP (JJ net) (NN income))
+      (PP (IN for)
+        (NP
+          (NP (DT the) (JJ fiscal) (NN second-quarter))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP ($ $) (CD 8.6) (CD million)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP (CD 33) (NNS cents))
+                (NP (DT a) (NN share)))
+              (, ,)))))
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (JJ net) (NN loss))
+            (PP (IN of)
+              (NP
+                (QP ($ $) (CD 50.3) (CD million))))))))
+    (. .)))
+

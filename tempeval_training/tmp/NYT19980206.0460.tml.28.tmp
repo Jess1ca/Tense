@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (NNP Service) (NNS industries))
+    (ADVP (RB also))
+    (VP (VBD showed)
+      (NP (JJ solid) (NN job) (NNS gains))
+      (, ,)
+      (SBAR (IN as)
+        (SINV (VBD did)
+          (NP
+            (NP (NNS manufacturers))
+            (, ,)
+            (NP
+              (NP (CD two) (NNS areas))
+              (VP (VBN expected)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (VP
+                        (ADVP (RBS hardest))
+                        (VBN hit)
+                        (SBAR
+                          (WHADVP (WRB when))
+                          (S
+                            (NP
+                              (NP (DT the) (NNS effects))
+                              (PP (IN of)
+                                (NP (DT the) (JJ Asian) (NN crisis))))
+                            (VP (VBD hit)
+                              (NP (DT the) (JJ American) (NN economy)))))))))))))))
+    (. .)))
+

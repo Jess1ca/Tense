@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT Those) (NNS withdrawals))
+      (, ,)
+      (SBAR
+        (WHNP (JJS most)
+          (WHPP (IN of)
+            (WHNP (WDT which))))
+        (S
+          (VP (VBD were)
+            (VP (VBN transferred)
+              (PP (TO to)
+                (NP (JJ other) (NNP T.) (NNP Rowe) (NNP Price) (NNS funds)))))))
+      (, ,))
+    (VP (VBD followed)
+      (NP (JJ little) (NN change))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN fund) (POS 's))
+          (NNS sales) (NN picture)))
+      (NP (DT this) (NN year))
+      (PP (IN through)
+        (NP (NNP August))))
+    (. .)))
+

@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN maker))
+      (PP (IN of)
+        (NP (NN specialty) (NNS chemicals))))
+    (VP (VBZ has)
+      (NP
+        (NP
+          (QP (RB about) (CD 5.9) (CD million))
+          (NNS shares))
+        (ADJP (JJ outstanding))))
+    (. .)))
+

@@ -1,0 +1,12 @@
+1	TWA	_	IN	IN	_	10	prep	_	_
+2	eight	_	CD	CD	_	3	num	_	_
+3	hundred	_	CD	CD	_	1	pobj	_	_
+4	,	_	,	,	_	10	punct	_	_
+5	if	_	IN	IN	_	7	mark	_	_
+6	you	_	PRP	PRP	_	7	nsubj	_	_
+7	hear	_	VBP	VBP	_	10	advcl	_	_
+8	center	_	NN	NN	_	7	dobj	_	_
+9	,	_	,	,	_	10	punct	_	_
+10	ident	_	VB	VB	_	0	root	_	_
+11	.	_	.	.	_	10	punct	_	_
+

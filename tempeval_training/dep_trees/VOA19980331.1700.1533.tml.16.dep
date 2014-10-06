@@ -1,0 +1,10 @@
+1	And	_	CC	CC	_	6	cc	_	_
+2	,	_	,	,	_	6	punct	_	_
+3	therefore	_	RB	RB	_	6	advmod	_	_
+4	,	_	,	,	_	6	punct	_	_
+5	it	_	PRP	PRP	_	6	nsubj	_	_
+6	works	_	VBZ	VBZ	_	0	root	_	_
+7	very	_	RB	RB	_	8	advmod	_	_
+8	well	_	RB	RB	_	6	advmod	_	_
+9	.	_	.	.	_	6	punct	_	_
+

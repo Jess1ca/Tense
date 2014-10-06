@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ British) (NN paper))
+      (, ,)
+      (NP
+        (UCP (NN packaging)
+          (CC and)
+          (NN publishing))
+        (NN concern))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NN profit))
+            (PP (IN from)
+              (NP (VBG continuing) (NNS lines))))
+          (VP (VBD fell)
+            (NP (CD 10) (NN %))
+            (PP (TO to)
+              (NP
+                (QP (# #) (CD 118) (CD million))))
+            (PP (IN from)
+              (NP
+                (QP (# #) (CD 130.6) (CD million))))))))
+    (. .)))
+

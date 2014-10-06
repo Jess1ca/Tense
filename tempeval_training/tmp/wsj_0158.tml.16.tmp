@@ -1,0 +1,17 @@
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (NNP Patrick) (NNP Mannix))
+      (, ,)
+      (NP
+        (NP (CD 46))
+        (, ,)
+        (NP (JJ international) (JJ technical) (NN manager)))
+      (, ,))
+    (VP (VBZ becomes)
+      (NP
+        (NP (NN director))
+        (PP (IN of)
+          (NP (NN group) (NN quality) (NNS programs)))))
+    (. .)))
+

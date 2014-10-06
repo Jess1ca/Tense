@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT a) (NN statement)))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said) (: :) (`` ``)
+      (S
+        (NP (DT Both) (NNS parts))
+        (VP (MD can)
+          (ADVP (RB only))
+          (VP
+            (VP (VB realize)
+              (NP (PRP$ their) (JJ full) (NN potential)))
+            (CC and)
+            (VP (VB be)
+              (VP
+                (ADVP (RB appropriately))
+                (VBN valued)
+                (PP (IN by)
+                  (NP (DT the) (NN market)))))
+            (SBAR (IN if)
+              (S
+                (NP (PRP they))
+                (VP (VBP are)
+                  (ADVP (RB separately))
+                  (VP (VBN quoted)
+                    (NP (NNS companies))))))))))
+    (. .)))
+

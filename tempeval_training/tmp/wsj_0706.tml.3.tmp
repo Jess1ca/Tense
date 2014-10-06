@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNP La) (NNP Jolla))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN parent) (NN company))
+        (PP (IN of)
+          (NP
+            (NP (NNP La) (NNP Jolla) (NNP Bank) (NNP amp) (NNP Trust) (NNP Co.))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ has)
+                  (NP
+                    (NP (CD 12) (NNS branches))
+                    (PP (IN in)
+                      (NP (NNP San) (NNP Diego) (NNP County)))))))))))
+    (. .)))
+

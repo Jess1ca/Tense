@@ -1,0 +1,10 @@
+1	This	_	DT	DT	_	2	nsubj	_	_
+2	is	_	VBZ	VBZ	_	0	root	_	_
+3	quite	_	RB	RB	_	6	advmod	_	_
+4	an	_	DT	DT	_	6	det	_	_
+5	extraordinary	_	JJ	JJ	_	6	amod	_	_
+6	story	_	NN	NN	_	2	xcomp	_	_
+7	unfolding	_	VBG	VBG	_	6	vmod	_	_
+8	here	_	RB	RB	_	7	advmod	_	_
+9	.	_	.	.	_	2	punct	_	_
+

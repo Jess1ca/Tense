@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN agency))
+      (VP (VBN quoted)
+        (NP (NNS witnesses))
+        (PP (IN as)
+          (S
+            (VP (VBG saying)
+              (NP
+                (NP (NNS tanks))
+                (CC and)
+                (NP (JJ armored) (NNS cars))))))))
+    (VP (VBP are)
+      (VP (VBG patrolling)
+        (NP
+          (NP (DT the) (NNS streets))
+          (PP (IN of)
+            (NP (NNP Baghdad))))))
+    (. .)))
+

@@ -1,0 +1,20 @@
+1	``	_	``	``	_	18	punct	_	_
+2	I	_	PRP	PRP	_	5	nsubj	_	_
+3	do	_	VBP	VBP	_	5	aux	_	_
+4	n't	_	RB	RB	_	5	neg	_	_
+5	think	_	VB	VB	_	18	ccomp	_	_
+6	Kellogg	_	NNP	NNP	_	8	nsubj	_	_
+7	can	_	MD	MD	_	8	aux	_	_
+8	get	_	VB	VB	_	5	ccomp	_	_
+9	back	_	RP	RP	_	8	prt	_	_
+10	to	_	TO	TO	_	8	prep	_	_
+11	40	_	CD	CD	_	12	num	_	_
+12	%	_	NN	NN	_	10	pobj	_	_
+13	this	_	DT	DT	_	14	det	_	_
+14	year	_	NN	NN	_	12	dep	_	_
+15	,	_	,	,	_	18	punct	_	_
+16	''	_	''	''	_	18	punct	_	_
+17	he	_	PRP	PRP	_	18	nsubj	_	_
+18	said	_	VBD	VBD	_	0	root	_	_
+19	.	_	.	.	_	18	punct	_	_
+

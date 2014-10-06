@@ -1,0 +1,28 @@
+(ROOT
+  (S (CC But)
+    (NP (DT the)
+      (NAC (NNP Memphis) (, ,) (NNP Tenn.) (, ,))
+      (NN facility))
+    (VP (VBD was)
+      (VP (RB n't)
+        (S
+          (VP (TO to)
+            (VP (VB begin)
+              (S
+                (VP (VBG turning)
+                  (PRT (RP out))
+                  (NP (NN product))
+                  (PP (IN until)
+                    (NP (CD 1993))))))))
+        (, ,)
+        (SBAR (IN so)
+          (S
+            (NP (DT the) (NN decision))
+            (VP (MD may)
+              (VP (VB reveal)
+                (NP (DT a)
+                  (ADJP (RBR more) (JJ pessimistic))
+                  (JJ long-term) (NN outlook))
+                (ADVP (RB as) (RB well))))))))
+    (. .)))
+

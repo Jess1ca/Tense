@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ other) (NNS developments)))
+    (: :)
+    (NP (NNP _) (NNP The) (NNP Pentagon))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP (NNP Defense) (NNP Secretary) (NNP Dick) (NNP Cheney))
+          (VP (VBZ is)
+            (VP (VBG considering)
+              (S
+                (VP (VBG urging)
+                  (S
+                    (NP (NNP Bush))
+                    (VP (TO to)
+                      (VP (VB order)
+                        (NP
+                          (NP (DT a) (JJ national) (NN callup))
+                          (PP (IN of)
+                            (NP
+                              (NP (JJ armed) (NNS forces) (NNS reserves))
+                              (PP (IN for)
+                                (NP
+                                  (NP (JJ active) (NN duty))
+                                  (PP (RB because) (IN of)
+                                    (NP (DT the) (NN drain))))))))
+                        (PP (IN on)
+                          (NP
+                            (NP (NNS units))
+                            (VP (VBG sending)
+                              (NP (NNS soldiers))
+                              (ADVP (RB abroad)))))))))))))))
+    (. .)))
+

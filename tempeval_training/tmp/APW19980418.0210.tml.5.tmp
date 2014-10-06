@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD spent)
+      (NP (CD six) (NNS days))
+      (PP (IN aboard)
+        (NP (DT the) (NNP Salyut) (CD 6) (NN spacecraft)))
+      (PP (IN with)
+        (NP
+          (NP (CD three) (JJ Soviet) (NNS astronauts))
+          (, ,)
+          (NP (NNP Valery) (NNP Kubasov))
+          (, ,)
+          (NP (NNP Leonid) (NNP Popov))
+          (CC and)
+          (NP (NNP Valery) (NNP Riumin)))))
+    (. .)))
+

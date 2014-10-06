@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ has)
+      (VP (VBN relinquished)
+        (ADVP
+          (ADVP
+            (ADVP
+              (NP (DT a) (JJ golden) (NN share))
+              (RB only))
+            (RB once) (RB before))
+          (: --)
+          (PP (IN during)
+            (NP
+              (NP
+                (NP (NNP British) (NNP Petroleum) (NNP Co.) (POS 's))
+                (ADJP
+                  (ADJP
+                    (QP (# #) (CD 2.5) (CD billion)))
+                  (PRN (-LRB- -LRB-)
+                    (ADJP
+                      (QP ($ $) (CD 4) (CD billion)))
+                    (-RRB- -RRB-)))
+                (NN takeover))
+              (PP (IN of)
+                (NP (NNP Britoil) (NNP PLC))))))
+        (PP (IN in)
+          (NP (CD 1988)))))
+    (. .)))
+

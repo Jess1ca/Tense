@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Keating) (POS 's))
+      (NNS convictions))
+    (VP (VBD were)
+      (VP (VBN thrown)
+        (PRT (RP out))
+        (PP (IN in)
+          (NP (NN nineteen) (NNS ninety-six)))
+        (PP (IN on)
+          (NP (DT a) (NN technicality)))))
+    (. .)))
+

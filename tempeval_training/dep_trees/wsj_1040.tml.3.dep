@@ -1,0 +1,16 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	move	_	NN	NN	_	3	nsubj	_	_
+3	rewards	_	VBZ	VBZ	_	14	ccomp	_	_
+4	shareholders	_	NNS	NNS	_	3	dobj	_	_
+5	and	_	CC	CC	_	3	cc	_	_
+6	should	_	MD	MD	_	7	aux	_	_
+7	improve	_	VB	VB	_	3	conj	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	stock	_	NN	NN	_	11	poss	_	_
+10	's	_	POS	POS	_	9	possessive	_	_
+11	liquidity	_	NN	NN	_	7	dobj	_	_
+12	,	_	,	,	_	14	punct	_	_
+13	Oneida	_	NNP	NNP	_	14	nsubj	_	_
+14	said	_	VBD	VBD	_	0	root	_	_
+15	.	_	.	.	_	14	punct	_	_
+

@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ second) (NN group))
+      (PP (IN of)
+        (NP (CD three) (NN company) (NNS directors)))
+      (, ,)
+      (VP (VBN aligned)
+        (PP (IN with)
+          (NP
+            (NP (NNP Rally) (POS 's))
+            (NN founder) (NNP James) (NNP Patterson))))
+      (, ,))
+    (ADVP (RB also))
+    (VP (VBZ is)
+      (VP (VBG seeking)
+        (NP
+          (NP (NN control))
+          (PP (IN of)
+            (NP (DT the) (NN fast-food) (NN chain))))))
+    (. .)))
+

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (DT The) (NN president))
+    (ADVP (RB also))
+    (VP (VBZ has)
+      (VP (VBN offered)
+        (S
+          (VP (TO to)
+            (VP (VB help)
+              (VP (VB offset)
+                (NP
+                  (NP (NNP Jordan) (POS 's))
+                  (NNS costs))
+                (SBAR (IN because)
+                  (S
+                    (S
+                      (NP
+                        (NP (CD 40) (NN percent))
+                        (PP (IN of)
+                          (NP (PRP$ its) (NNS exports))))
+                      (VP (VBP go)
+                        (PP (TO to)
+                          (NP (NNP Iraq)))))
+                    (CC and)
+                    (S
+                      (NP
+                        (NP (CD 90) (NN percent))
+                        (PP (IN of)
+                          (NP (PRP$ its) (NN oil))))
+                      (VP (VBZ comes)
+                        (PP (IN from)
+                          (NP (RB there)))))))))))))
+    (. .)))
+

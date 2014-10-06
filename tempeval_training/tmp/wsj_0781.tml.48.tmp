@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (DT This) (NN bug))
+    (VP (VBZ is) (RB not)
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB have)
+              (NP
+                (NP (DT any) (NN affect))
+                (PP (IN on)
+                  (NP (DT that))))
+              (ADVP (IN at) (DT all)))))))
+    (. .) ('' '')))
+

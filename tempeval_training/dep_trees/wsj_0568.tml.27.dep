@@ -1,0 +1,14 @@
+1	But	_	CC	CC	_	5	cc	_	_
+2	we	_	PRP	PRP	_	5	nsubj	_	_
+3	do	_	VBP	VBP	_	5	aux	_	_
+4	n't	_	RB	RB	_	5	neg	_	_
+5	minimize	_	VB	VB	_	0	root	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	challenges	_	NNS	NNS	_	5	dobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	the	_	DT	DT	_	11	det	_	_
+10	near	_	JJ	JJ	_	11	amod	_	_
+11	term	_	NN	NN	_	8	pobj	_	_
+12	.	_	.	.	_	5	punct	_	_
+13	''	_	''	''	_	5	punct	_	_
+

@@ -1,0 +1,16 @@
+1	Now	_	RB	RB	_	2	advmod	_	_
+2	with	_	IN	IN	_	13	prep	_	_
+3	new	_	JJ	JJ	_	4	amod	_	_
+4	construction	_	NN	NN	_	2	pobj	_	_
+5	under	_	IN	IN	_	4	prep	_	_
+6	way	_	NN	NN	_	5	pobj	_	_
+7	,	_	,	,	_	13	punct	_	_
+8	three	_	CD	CD	_	13	nsubj	_	_
+9	of	_	IN	IN	_	8	prep	_	_
+10	his	_	PRP$	PRP$	_	11	poss	_	_
+11	buyers	_	NNS	NNS	_	9	pobj	_	_
+12	have	_	VBP	VBP	_	13	aux	_	_
+13	backed	_	VBN	VBN	_	0	root	_	_
+14	out	_	RP	RP	_	13	prt	_	_
+15	.	_	.	.	_	13	punct	_	_
+

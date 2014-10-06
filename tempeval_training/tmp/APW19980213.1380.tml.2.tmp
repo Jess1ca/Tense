@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Hernandez))
+      (VP (VBD was)
+        (VP (VBN kidnapped)
+          (PP (IN from)
+            (NP (PRP$ his) (JJ small) (, ,) (NN neighborhood) (NN store)))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN town))
+              (PP (IN of)
+                (NP
+                  (NP (NNP Trujillo) (NNP Alto))
+                  (PP (IN at)
+                    (NP (CD 10)))
+                  (NP (RB p.m.) (NNP Wednesday)))))))))
+    (, ,)
+    (NP (NNS police))
+    (VP (VBD said))
+    (. .)))
+

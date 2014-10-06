@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NN Serbian) (NNS police))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (VP (VBG trying)
+              (S
+                (VP (TO to)
+                  (VP
+                    (VP (VB eliminate)
+                      (NP (DT the) (JJ pro-independence) (NNP Kosovo) (NNP Liberation) (NNP Army)))
+                    (CC and)
+                    (VP (VB restore)
+                      (NP (NN order)))))))))))
+    (. .)))
+

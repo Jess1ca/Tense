@@ -1,0 +1,25 @@
+1	Interviews	_	NNS	NNS	_	21	nsubj	_	_
+2	with	_	IN	IN	_	1	prep	_	_
+3	three	_	CD	CD	_	6	num	_	_
+4	major	_	JJ	JJ	_	6	amod	_	_
+5	fund	_	NN	NN	_	6	nn	_	_
+6	groups	_	NNS	NNS	_	2	pobj	_	_
+7	--	_	:	:	_	9	punct	_	_
+8	Fidelity	_	NNP	NNP	_	9	nn	_	_
+9	Investments	_	NNP	NNP	_	6	dep	_	_
+10	,	_	,	,	_	9	punct	_	_
+11	Vanguard	_	NNP	NNP	_	13	nn	_	_
+12	Group	_	NNP	NNP	_	13	nn	_	_
+13	Inc.	_	NNP	NNP	_	9	conj	_	_
+14	and	_	CC	CC	_	9	cc	_	_
+15	T.	_	NNP	NNP	_	19	nn	_	_
+16	Rowe	_	NNP	NNP	_	19	nn	_	_
+17	Price	_	NNP	NNP	_	19	nn	_	_
+18	Associates	_	NNPS	NNPS	_	19	nn	_	_
+19	Inc.	_	NNP	NNP	_	9	conj	_	_
+20	--	_	:	:	_	9	punct	_	_
+21	confirm	_	VBP	VBP	_	0	root	_	_
+22	the	_	DT	DT	_	23	det	_	_
+23	trend	_	NN	NN	_	21	dobj	_	_
+24	.	_	.	.	_	21	punct	_	_
+

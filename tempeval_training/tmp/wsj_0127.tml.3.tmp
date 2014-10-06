@@ -1,0 +1,21 @@
+(ROOT
+  (S (CC And)
+    (SBAR (IN while)
+      (S
+        (NP (EX there))
+        (VP (VBD was)
+          (NP (DT no) (NN profit))
+          (NP (DT this) (NN year))
+          (PP (IN from)
+            (NP (VBN discontinued) (NNS operations))))))
+    (, ,)
+    (NP (JJ last) (NN year))
+    (NP (PRP they))
+    (VP (VBD contributed)
+      (NP
+        (QP (# #) (CD 34) (CD million)))
+      (, ,)
+      (PP (IN before)
+        (NP (NN tax))))
+    (. .)))
+

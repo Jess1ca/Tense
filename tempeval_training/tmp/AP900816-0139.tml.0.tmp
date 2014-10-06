@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Persian) (NNP Gulf) (NN showdown))
+      (PP (IN between)
+        (NP
+          (NP (NNP Iraq))
+          (CC and)
+          (NP (DT the) (NNP United) (NNPS States)))))
+    (VP (VBD took)
+      (NP (DT a) (JJR more) (JJ personal) (NN turn))
+      (NP (NNP Thursday))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP
+            (NP (NNP Iraq) (POS 's))
+            (NNP Saddam) (NNP Hussein))
+          (VP
+            (VP (VBD called)
+              (S
+                (NP (NNP President) (NNP Bush))
+                (NP (DT a) (NN liar))))
+            (CC and)
+            (VP (VBD said)
+              (SBAR
+                (S
+                  (NP
+                    (NP (DT the) (NN outbreak))
+                    (PP (IN of)
+                      (NP (JJ holy) (NN war))))
+                  (VP (MD could)
+                    (VP (VB bring)
+                      (NP
+                        (NP (NNS thousands))
+                        (PP (IN of)
+                          (NP (NNPS Americans) (NN home))))
+                      (PP (IN in)
+                        (NP (NNS coffins))))))))))))
+    (. .)))
+

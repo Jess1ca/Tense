@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Heritage) (NNP Media) (NNP Corp.))
+      (, ,)
+      (NP (NNP New) (NNP York))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD offered)
+            (S
+              (VP (TO to)
+                (VP (VB buy)
+                  (NP
+                    (NP (DT the) (NNS shares))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP POP) (NNP Radio) (NNP Corp.))
+                        (SBAR
+                          (S
+                            (NP (PRP it))
+                            (VP (VBZ does) (RB n't)
+                              (ADVP (RB already))
+                              (VP (VB own)
+                                (PP (IN in)
+                                  (NP (DT a) (NN stock) (NN swap)))))))))))))))))
+    (. .)))
+

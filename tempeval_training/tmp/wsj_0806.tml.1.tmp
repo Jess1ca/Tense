@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ in-home) (NN health) (NN care) (NNS services) (NN provider))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB sell)
+              (NP
+                (NP
+                  (QP (CD 1.8) (CD million)))
+                (PP (IN of)
+                  (NP (DT the) (JJ new) (NNS shares))))
+              (, ,)
+              (SBAR (IN while)
+                (S
+                  (NP (NNP Home) (NNP Nutritional) (NNPS Services))
+                  (VP (MD will)
+                    (VP (VB sell)
+                      (NP (DT the) (VBG remaining)
+                        (QP (CD 2.2) (CD million))))))))))))
+    (. .)))
+

@@ -1,0 +1,23 @@
+(ROOT
+  (NP
+    (NP
+      (NP (NNP Dow) (NNP Jones) (NNS industrials))
+      (NP (CD 2596.72))
+      (, ,)
+      (ADVP (IN off)
+        (NP (CD 17.01))))
+    (: ;)
+    (NP
+      (NP (NN transportation) (CD 1190.43))
+      (, ,)
+      (ADVP (IN off)
+        (NP (CD 14.76))))
+    (: ;)
+    (NP
+      (NP (NNS utilities))
+      (NP (CD 215.86))
+      (, ,)
+      (ADVP (RB up)
+        (NP (CD 0.19))))
+    (. .)))
+

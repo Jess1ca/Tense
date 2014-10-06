@@ -1,0 +1,26 @@
+1	Ocean	_	NNP	NNP	_	2	nn	_	_
+2	Drilling	_	NNP	NNP	_	3	nsubj	_	_
+3	said	_	VBD	VBD	_	0	root	_	_
+4	it	_	PRP	PRP	_	6	nsubj	_	_
+5	will	_	MD	MD	_	6	aux	_	_
+6	offer	_	VB	VB	_	3	ccomp	_	_
+7	15	_	CD	CD	_	11	number	_	_
+8	%	_	NN	NN	_	11	dep	_	_
+9	to	_	TO	TO	_	11	dep	_	_
+10	20	_	CD	CD	_	11	number	_	_
+11	%	_	NN	NN	_	6	dobj	_	_
+12	of	_	IN	IN	_	11	prep	_	_
+13	the	_	DT	DT	_	15	det	_	_
+14	contract-drilling	_	NN	NN	_	15	nn	_	_
+15	business	_	NN	NN	_	12	pobj	_	_
+16	through	_	IN	IN	_	6	prep	_	_
+17	an	_	DT	DT	_	20	det	_	_
+18	initial	_	JJ	JJ	_	20	amod	_	_
+19	public	_	JJ	JJ	_	20	amod	_	_
+20	offering	_	NN	NN	_	16	pobj	_	_
+21	in	_	IN	IN	_	20	prep	_	_
+22	the	_	DT	DT	_	24	det	_	_
+23	near	_	JJ	JJ	_	24	amod	_	_
+24	future	_	NN	NN	_	21	pobj	_	_
+25	.	_	.	.	_	3	punct	_	_
+

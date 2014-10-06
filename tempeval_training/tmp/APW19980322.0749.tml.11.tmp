@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP are)
+        (NP (JJ Irish) (NNS citizens))
+        (, ,)
+        (S
+          (VP (VBG living)
+            (PP (IN in)
+              (NP (PRP$ our) (JJ own) (NN country)))))))
+    (, ,) ('' '')
+    (NP (NNP Adams))
+    (VP (VBD said) (, ,)
+      (S
+        (VP (VBG adding) (: :) (`` ``)
+          (S
+            (NP (NNPS Nationalists))
+            (VP
+              (VP (VB want)
+                (S
+                  (VP (TO to)
+                    (VP (VB move)
+                      (PP (IN towards)
+                        (NP (JJ Irish) (NN unity)))))))
+              (CC and)
+              (VP (VB see)
+                (NP (DT this) (NN process))
+                (PP (IN as)
+                  (NP
+                    (NP (DT a) (NN bridge))
+                    (PP (IN in)
+                      (NP (DT that) (NN direction)))))))))))
+    (. .) ('' '')))
+

@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (PP (IN During)
+      (NP (DT the) (JJ third) (NN quarter)))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP
+      (VP (VBD charged)
+        (NP
+          (NP
+            (QP (RB about) ($ $) (CD 46) (CD million)))
+          (PP (IN against)
+            (NP (NNS earnings))))
+        (PP (IN in)
+          (S
+            (VP (VBG reducing)
+              (NP (NN goodwill))))))
+      (, ,)
+      (VP (VBD added)
+        (NP
+          (QP ($ $) (CD 20) (CD million)))
+        (PP (TO to)
+          (NP (PRP$ its) (JJ general) (NN loan) (NN loss) (NNS reserves))))
+      (CC and)
+      (VP (VBD established)
+        (NP (DT a)
+          (ADJP
+            (QP ($ $) (CD 30) (CD million)))
+          (NN reserve))
+        (PP (IN for)
+          (NP (PRP$ its) (JJ high-yield) (NN bond) (NN portfolio)))))
+    (. .)))
+

@@ -1,0 +1,27 @@
+1	But	_	CC	CC	_	4	cc	_	_
+2	they	_	PRP	PRP	_	4	nsubj	_	_
+3	still	_	RB	RB	_	4	advmod	_	_
+4	have	_	VBP	VBP	_	0	root	_	_
+5	catching	_	VBG	VBG	_	4	xcomp	_	_
+6	up	_	RP	RP	_	5	prt	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	do	_	VB	VB	_	5	xcomp	_	_
+9	two	_	CD	CD	_	10	num	_	_
+10	hundred	_	CD	CD	_	8	dobj	_	_
+11	and	_	CC	CC	_	10	cc	_	_
+12	thirty	_	CD	CD	_	14	num	_	_
+13	four	_	CD	CD	_	14	num	_	_
+14	Americans	_	NNS	NNS	_	10	conj	_	_
+15	have	_	VBP	VBP	_	16	aux	_	_
+16	flown	_	VBN	VBN	_	10	rcmod	_	_
+17	in	_	IN	IN	_	16	prep	_	_
+18	space	_	NN	NN	_	17	pobj	_	_
+19	,	_	,	,	_	18	punct	_	_
+20	only	_	RB	RB	_	18	advmod	_	_
+21	twenty	_	CD	CD	_	22	num	_	_
+22	six	_	CD	CD	_	20	pobj	_	_
+23	of	_	IN	IN	_	20	prep	_	_
+24	them	_	PRP	PRP	_	23	pobj	_	_
+25	women	_	NNS	NNS	_	18	dep	_	_
+26	.	_	.	.	_	4	punct	_	_
+

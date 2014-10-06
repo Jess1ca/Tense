@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (DT The) (NN discovery))
+    (VP (VBD appeared)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP
+              (NP (DT the) (JJS latest) (NN attempt))
+              (PP (IN by)
+                (NP
+                  (NP (NNS extremists))
+                  (VP (VBN opposed)
+                    (PP (TO to)
+                      (NP
+                        (NP (DT the) (NNP IRA) (POS 's))
+                        (JJ 8-month-old) (NN truce)))
+                    (S
+                      (VP (TO to)
+                        (VP (VB undermine)
+                          (NP
+                            (NP (DT the) (NN peace) (NN process))
+                            (, ,)
+                            (VP (VBN set)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB resume)
+                                    (NP
+                                      (NP (NNP Monday))
+                                      (PP (IN in)
+                                        (NP (NNP Belfast))))))))))))))))))))
+    (. .)))
+

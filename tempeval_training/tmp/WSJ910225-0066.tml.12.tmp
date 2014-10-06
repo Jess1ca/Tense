@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (JJ American) (NNS officials))
+    (ADVP (RB staunchly))
+    (VP (VBD disavow)
+      (NP (DT any) (NN interest))
+      (PP (IN in)
+        (S
+          (VP (VBG driving)
+            (PP (IN through)
+              (NP (NNP Iraq)))
+            (PP
+              (PP (IN toward)
+                (NP (NNP Baghdad)))
+              (, ,)
+              (CC either)
+              (PP (IN in)
+                (NP
+                  (NP
+                    (NP (NN pursuit))
+                    (PP (IN of)
+                      (NP (NNP Saddam) (NNP Hussein) (PRP himself))))
+                  (CC or)
+                  (S
+                    (VP (TO to)
+                      (VP (VB set)
+                        (PRT (RP up))
+                        (NP
+                          (NP (DT some) (JJ American-controlled) (NN government))
+                          (PP (IN inside)
+                            (NP (NNP Iraq))))))))))))))
+    (. .)))
+

@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD benefited)
+      (PP (IN from)
+        (NP
+          (NP (VBN continued) (JJ strong) (NN demand))
+          (CC and)
+          (NP
+            (NP (JJR higher) (NN selling) (NNS prices))
+            (PP (IN for)
+              (NP
+                (NP (NN titanium) (NN dioxide))
+                (, ,)
+                (NP
+                  (NP (DT a) (JJ white) (NN pigment))
+                  (VP (VBN used)
+                    (PP (IN in)
+                      (NP (NNS paints) (, ,) (NN paper)
+                        (CC and)
+                        (NNS plastics)))))))))))
+    (. .)))
+

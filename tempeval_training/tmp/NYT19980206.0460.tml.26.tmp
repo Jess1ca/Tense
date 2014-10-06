@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT Some))
+      (PP (IN of)
+        (NP (DT the) (JJS biggest) (NN employment) (NNS gains))))
+    (VP (VBD came)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN construction) (NN industry))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD added)
+                (NP (CD 92,000) (NNS jobs))
+                (PP (IN in)
+                  (NP (NNP January)))))))))
+    (. .)))
+

@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN size))
+      (PP (IN of)
+        (NP (DT the) (NN contingent))))
+    (VP (VBD was) (RB not)
+      (VP (VBN disclosed)))
+    (. .)))
+

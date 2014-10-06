@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Protesters))
+      (PP (IN from)
+        (NP (JJ several) (JJ Catholic) (NNS communities))))
+    (VP (VBD crowded)
+      (PP (IN into)
+        (NP
+          (NP (NNP Portadown) (POS 's))
+          (NNP Catholic) (NNP Garvaghy) (NNP Road)))
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB hear)
+              (NP (JJ speakers) (NN demand) (NNS negotiations))
+              (PP (IN with)
+                (NP (NNP Orange) (NNP Order) (NNS leaders))))
+            (, ,)
+            (CC and)
+            (VP
+              (NP (NN pledge))
+              (S
+                (VP (TO to)
+                  (VP (VB participate)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT each) (NNS others) (POS '))
+                        (JJ road-blocking) (NNS protests)))
+                    (NP (DT this) (NN summer))))))))))
+    (. .)))
+

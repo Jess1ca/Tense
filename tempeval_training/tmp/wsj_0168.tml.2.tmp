@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP McAlpine) (NN family))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ operates)
+            (NP
+              (NP (DT a) (NN number))
+              (PP (IN of)
+                (NP (JJ multinational) (NNS companies)))
+              (, ,)
+              (PP (VBG including)
+                (NP
+                  (NP (DT a) (JJ London-based) (NN engineering))
+                  (CC and)
+                  (NP (NN construction) (NN company))))))))
+      (, ,))
+    (ADVP (RB also))
+    (VP (VBD lent)
+      (PP (TO to)
+        (NP
+          (NP (NNP Meridian) (NNP National))
+          (ADJP ($ $) (CD 500,000)))))
+    (. .)))
+

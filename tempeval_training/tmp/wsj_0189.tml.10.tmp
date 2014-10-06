@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (PRP$ Its) (NN cereal) (NN division))
+    (VP
+      (VP (VBD realized)
+        (NP (JJR higher) (NN operating) (NN profit))
+        (PP (IN on)
+          (NP (NN volume) (NNS increases))))
+      (, ,)
+      (CC but)
+      (VP
+        (ADVP (RB also))
+        (VBD spent)
+        (NP (JJR more))
+        (PP (IN on)
+          (NP (NN promotion)))))
+    (. .)))
+

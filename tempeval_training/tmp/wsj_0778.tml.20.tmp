@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP SEC))
+    (VP (VBZ has)
+      (VP (VBN alleged)
+        (SBAR (IN that)
+          (S
+            (NP (NNP Mr.) (NNP Antar))
+            (VP (VBD aimed)
+              (S
+                (VP (TO to)
+                  (VP (VB pump)
+                    (PRT (RP up))
+                    (NP
+                      (NP (DT the) (NN company) (POS 's))
+                      (NN stock) (NN price))
+                    (PP (IN through)
+                      (NP (JJ false) (JJ financial) (NNS statements)))
+                    (SBAR (IN in) (NN order)
+                      (S
+                        (VP (TO to)
+                          (VP
+                            (VP (VB sell)
+                              (NP (PRP$ his) (NN stake)))
+                            (CC and)
+                            (VP (VB reap)
+                              (NP (JJ huge) (NNS profits)))))))))))))))
+    (. .)))
+

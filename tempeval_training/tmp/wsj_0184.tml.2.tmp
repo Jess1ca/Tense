@@ -1,0 +1,24 @@
+(ROOT
+  (S (CC But)
+    (NP (DT the) (JJ pharmaceutical) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (`` ``)
+          (VP (VBZ anticipates)
+            (SBAR
+              (S
+                (NP
+                  (NP (DT the) (JJ long-term) (NNS savings))
+                  (VP (VBG resulting)
+                    (PP (IN from)
+                      (NP
+                        (NP (DT the) (NN plan) (POS 's))
+                        (NN implementation)))))
+                (VP (MD will)
+                  (ADVP (RBR more) (IN than))
+                  (VP (VB offset)
+                    (NP (JJ short-term) (NNS costs))))))))))
+    (. .) ('' '')))
+

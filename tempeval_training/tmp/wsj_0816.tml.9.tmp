@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN number))
+      (PP (IN of)
+        (NP
+          (NP (NNS stocks))
+          (PP (IN on)
+            (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD fell)
+                (PP (IN in)
+                  (NP (NN price)))
+                (NP (NN yesterday))))))))
+    (VP (VBD exceeded)
+      (NP
+        (NP (CD 1,000))
+        (, ,)
+        (NP
+          (NP (DT a) (JJ key) (NN measure))
+          (PP (IN of)
+            (NP
+              (NP (VBG underlying) (NN sentiment))
+              (PP (IN among)
+                (NP (JJ technical) (NNS analysts))))))))
+    (. .)))
+

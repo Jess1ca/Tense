@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT a) (NN news) (NN conference)))
+    (, ,)
+    (NP (NNP Mr.) (NNP Nadeau))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN sale))
+            (PP (IN of)
+              (NP (DT the) (CD three) (JJ non-food) (NNS businesses)))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBP account)
+                  (PP (IN for)
+                    (NP
+                      (NP
+                        (QP (RB nearly) (PDT half))
+                        (NP (DT the) (NN company) (POS 's))
+                        (QP ($ C$) (CD 900) (CD million)))
+                      (PP (IN in)
+                        (NP (NNS assets))))))))
+            (, ,))
+          (VP (MD should)
+            (VP (VB be)
+              (VP (VBN completed)
+                (PP (IN in)
+                  (NP
+                    (NP (DT a) (`` ``) (NN matter))
+                    (PP (IN of)
+                      (NP (NNS months)))))))))))
+    (. .) ('' '')))
+

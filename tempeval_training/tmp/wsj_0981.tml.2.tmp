@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (VBG remaining) (NNS properties))
+      (SBAR
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN acquired)))))))
+    (VP (VBP are)
+      (NP
+        (NP
+          (NP (DT the) (NNP Tropicana) (NNP Country) (NNP Club) (NNP amp) (NNP Golf) (NNP Course))
+          (, ,)
+          (NP
+            (NP (DT a) (NN facility))
+            (VP
+              (ADVP (RB jointly))
+              (VBN owned)
+              (PP (IN by)
+                (NP (NNP Ramada) (NNP Inc.)))))
+          (, ,))
+        (PP (IN of)
+          (NP
+            (NAC
+              (NAC (NNP Phoenix) (, ,) (NNP Ariz.) (, ,))
+              (CC and)
+              (NAC (DT the) (JJ Jaffe)))
+            (NN family)))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (DT a) (JJ small) (NN parcel))
+          (VP (VBN owned)
+            (PP (IN by)
+              (NP (NNP MGM) (NNP Grand) (NN director) (NNP James) (NNP D.) (NNP Aljian)))))))
+    (. .)))
+

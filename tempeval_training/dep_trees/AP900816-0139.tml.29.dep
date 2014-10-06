@@ -1,0 +1,19 @@
+1	They	_	PRP	PRP	_	3	nsubjpass	_	_
+2	are	_	VBP	VBP	_	3	auxpass	_	_
+3	aided	_	VBN	VBN	_	0	root	_	_
+4	by	_	IN	IN	_	3	prep	_	_
+5	Britain	_	NNP	NNP	_	4	pobj	_	_
+6	,	_	,	,	_	5	punct	_	_
+7	West	_	NNP	NNP	_	8	nn	_	_
+8	Germany	_	NNP	NNP	_	5	conj	_	_
+9	,	_	,	,	_	5	punct	_	_
+10	Australia	_	NNP	NNP	_	5	conj	_	_
+11	,	_	,	,	_	5	punct	_	_
+12	Canada	_	NNP	NNP	_	5	conj	_	_
+13	,	_	,	,	_	5	punct	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	Netherlands	_	NNPS	NNPS	_	5	conj	_	_
+16	and	_	CC	CC	_	5	cc	_	_
+17	Belgium	_	NNP	NNP	_	5	conj	_	_
+18	.	_	.	.	_	3	punct	_	_
+

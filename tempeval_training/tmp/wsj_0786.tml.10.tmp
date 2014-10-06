@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (DT The) (VBG following) (NN month))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD put)
+      (NP (PRP itself))
+      (PRT (RP up))
+      (PP (IN for)
+        (NP (NN sale))))
+    (. .)))
+

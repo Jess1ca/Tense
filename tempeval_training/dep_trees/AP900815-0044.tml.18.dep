@@ -1,0 +1,26 @@
+1	_	_	RB	RB	_	4	advmod	_	_
+2	The	_	DT	DT	_	3	det	_	_
+3	outlook	_	NN	NN	_	4	nsubj	_	_
+4	darkened	_	VBD	VBD	_	0	root	_	_
+5	for	_	IN	IN	_	4	prep	_	_
+6	about	_	RB	RB	_	7	quantmod	_	_
+7	3,000	_	CD	CD	_	8	num	_	_
+8	Americans	_	NNS	NNS	_	5	pobj	_	_
+9	caught	_	VBN	VBN	_	8	vmod	_	_
+10	in	_	IN	IN	_	9	prep	_	_
+11	Iraq	_	NNP	NNP	_	10	pobj	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	Kuwait	_	NNP	NNP	_	11	conj	_	_
+14	when	_	WRB	WRB	_	16	advmod	_	_
+15	Saddam	_	NNP	NNP	_	16	nsubj	_	_
+16	sent	_	VBD	VBD	_	9	advcl	_	_
+17	his	_	PRP$	PRP$	_	18	poss	_	_
+18	forces	_	NNS	NNS	_	16	dobj	_	_
+19	into	_	IN	IN	_	16	prep	_	_
+20	the	_	DT	DT	_	24	det	_	_
+21	small	_	JJ	JJ	_	24	amod	_	_
+22	,	_	,	,	_	24	punct	_	_
+23	oil-rich	_	JJ	JJ	_	24	amod	_	_
+24	sultanate	_	NN	NN	_	19	pobj	_	_
+25	.	_	.	.	_	4	punct	_	_
+

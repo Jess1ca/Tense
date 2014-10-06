@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (ADVP
+      (ADVP (RB McCurry))
+      (PP (IN on)
+        (NP (NNP Friday))))
+    (`` ``)
+    (NP (PRP I))
+    (VP (VBP want)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (RB absolutely) (JJ clear))
+            (, ,)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN extent))
+                (SBAR
+                  (S
+                    (NP (EX there))
+                    (VP (VBZ is)
+                      (NP
+                        (NP (DT any) (NN implication))
+                        (CC or)
+                        (NP (DT the) (JJS slightest) (NN suggestion)))
+                      (SBAR (IN that)
+                        (S
+                          (NP (NNP Mrs.) (NNP Currie))
+                          (VP (VBZ believes)
+                            (SBAR (IN that)
+                              (S
+                                (NP
+                                  (NP (DT the) (NNP President))
+                                  (CC or)
+                                  (NP (NN anyone) (RB else)))
+                                (VP (VBD tried)
+                                  (S
+                                    (VP (TO to)
+                                      (VP (VB influence)
+                                        (NP
+                                          (NP
+                                            (NP (PRP$ her) (NN recollection))
+                                            (, ,)
+                                            (SBAR
+                                              (WHNP (WDT that))
+                                              (S
+                                                (VP (VBZ is)
+                                                  (ADJP (RB absolutely) (JJ false))))))
+                                          (CC and)
+                                          (NP
+                                            (NP (DT a) (NN mischaracterization))
+                                            (PP (IN of)
+                                              (NP (DT the) (NNS facts)))))))))))))))))))))))
+    (. .)))
+

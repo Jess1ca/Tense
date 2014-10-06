@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (DT The) (NN acquisition))
+    (VP (MD would)
+      (VP (VB give)
+        (NP
+          (ADJP (NNP Wilmington) (, ,) (JJ Del.-based))
+          (NNP Star) (NNPS States))
+        (NP
+          (NP (NN access))
+          (PP (TO to)
+            (NP (DT the) (NNP Pennsylvania) (NN market))))))
+    (. .)))
+

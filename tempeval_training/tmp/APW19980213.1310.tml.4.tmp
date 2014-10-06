@@ -1,0 +1,15 @@
+(ROOT
+  (S (`` ``)
+    (NP (DT The) (JJ Australian) (NNS people))
+    (VP (VBP are)
+      (VP (VBN owed)
+        (NP
+          (NP (DT the) (NN opportunity))
+          (PP (IN of)
+            (S
+              (VP (VBG expressing)
+                (NP (DT an) (NN opinion))
+                (PP (IN on)
+                  (NP (DT this)))))))))
+    (. .) ('' '')))
+

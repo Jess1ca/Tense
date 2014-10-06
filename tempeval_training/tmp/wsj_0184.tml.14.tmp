@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (S
+      (NP (JJR Earlier) (NN staff-reduction) (NNS moves))
+      (VP (VBP have)
+        (VP (VBN trimmed)
+          (NP
+            (QP (RB about) (CD 300))
+            (NNS jobs)))))
+    (, ,)
+    (NP (DT the) (NN spokesman))
+    (VP (VBD said))
+    (. .)))
+

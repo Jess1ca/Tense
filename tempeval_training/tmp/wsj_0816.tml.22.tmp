@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (DT The) (NN dollar))
+    (VP (VBD rose)
+      (ADVP (RB modestly))
+      (PP (IN against)
+        (NP (JJS most) (JJ major) (NNS currencies))))
+    (. .)))
+

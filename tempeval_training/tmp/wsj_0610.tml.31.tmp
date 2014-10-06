@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD had)
+      (VP (VBN retained)
+        (NP
+          (NP (DT the) (NNP Fluor) (NNP Daniel) (NN unit))
+          (PP (IN of)
+            (NP (NNP Fluor) (NNP Corp.))))
+        (PP (IN as)
+          (NP (JJ general) (NN contractor)))))
+    (. .)))
+

@@ -1,0 +1,22 @@
+1	But	_	CC	CC	_	3	cc	_	_
+2	tremors	_	NNS	NNS	_	3	nsubj	_	_
+3	are	_	VBP	VBP	_	0	root	_	_
+4	likely	_	JJ	JJ	_	3	acomp	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	the	_	DT	DT	_	8	det	_	_
+7	junk-bond	_	JJ	JJ	_	8	amod	_	_
+8	market	_	NN	NN	_	5	pobj	_	_
+9	,	_	,	,	_	8	punct	_	_
+10	which	_	WDT	WDT	_	12	nsubj	_	_
+11	has	_	VBZ	VBZ	_	12	aux	_	_
+12	helped	_	VBN	VBN	_	8	rcmod	_	_
+13	to	_	TO	TO	_	14	aux	_	_
+14	finance	_	VB	VB	_	12	xcomp	_	_
+15	the	_	DT	DT	_	17	det	_	_
+16	takeover	_	NN	NN	_	17	nn	_	_
+17	boom	_	NN	NN	_	14	dobj	_	_
+18	of	_	IN	IN	_	17	prep	_	_
+19	recent	_	JJ	JJ	_	20	amod	_	_
+20	years	_	NNS	NNS	_	18	pobj	_	_
+21	.	_	.	.	_	3	punct	_	_
+

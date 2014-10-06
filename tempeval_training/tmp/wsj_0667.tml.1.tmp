@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (DT The) (NN restaurant) (NN operator))
+    (VP (VBD cited)
+      (NP (NN transaction) (NNS costs))
+      (PP (IN from)
+        (NP (PRP$ its) (CD 1988) (NN recapitalization)))
+      (PP (IN as)
+        (NP
+          (NP (DT a) (NN result))
+          (PP (IN of)
+            (NP
+              (NP (DT a)
+                (ADJP
+                  (QP ($ $) (CD 160) (CD million)))
+                (NN restructuring))
+              (PP (IN of)
+                (NP (PRP$ its) (NN bank) (NN debt))))))))
+    (. .)))
+

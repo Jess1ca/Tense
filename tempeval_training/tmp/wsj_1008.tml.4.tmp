@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (DT A) (NN reinsurance) (NN company))
+    (ADVP (RB effectively))
+    (VP (VBZ insures)
+      (NP
+        (NP (NN insurance) (NNS companies))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP wish)
+              (S
+                (VP (TO to)
+                  (VP (VB spread)
+                    (NP
+                      (NP (DT the) (NN risk))
+                      (PP (IN of)
+                        (NP (DT a) (JJ particular) (NN policy))))))))))))
+    (. .)))
+

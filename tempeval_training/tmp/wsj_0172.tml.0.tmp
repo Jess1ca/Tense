@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP First))
+      (PP (IN of)
+        (NP (NNP America) (NNP Bank) (NNP Corp.))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD completed)
+            (NP
+              (NP (PRP$ its) (NN acquisition))
+              (PP (IN of)
+                (NP (NNP Midwest) (NNP Financial) (NNP Group) (NNP Inc.))))
+            (PP (IN for)
+              (NP
+                (QP (RB about) ($ $) (CD 250) (CD million))))))))
+    (. .)))
+

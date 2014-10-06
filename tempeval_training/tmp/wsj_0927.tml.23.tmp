@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Donald) (NNP M.) (NNP Roberts))
+      (, ,)
+      (NP
+        (NP (CD 54))
+        (, ,)
+        (NP (NN treasurer))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (NNP Frederick) (NNP S.) (NNP Wonham))
+          (, ,)
+          (NP (CD 58))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ takes)
+                (NP
+                  (NP (NN responsibility))
+                  (PP (IN for)
+                    (NP (DT the) (JJ funds-service) (NN group)))))))))
+      (, ,))
+    (VP
+      (VP (VBD were)
+        (VP (VBN named)
+          (NP (NN vice) (NNS chairmen))))
+      (CC and)
+      (VP (MD will)
+        (VP (VB serve)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN office))
+              (PP (IN of)
+                (NP (DT the) (NN chairman))))))))
+    (. .)))
+

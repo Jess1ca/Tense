@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT The) (NN restructuring) (NN program))
+    (VP (VBZ is)
+      (VP (VBN designed)
+        (S
+          (VP (TO to)
+            (VP (VB increase)
+              (NP
+                (NP (DT the) (NN company) (POS 's))
+                (JJ tangible) (NN capital) (NN ratio)))))))
+    (. .)))
+

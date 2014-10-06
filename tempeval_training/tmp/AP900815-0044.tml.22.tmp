@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Spokesman) (NNP Yuri) (NNP Gremitskikh))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (JJ first) (NN group))
+              (PP (IN of)
+                (NP (CD 230) (NNS evacuees))))
+            (VP (VBD was)
+              (VP (VBG assembling)
+                (PP (IN in)
+                  (NP (NNP Baghdad)))
+                (NP (NN today))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN evacuation) (NNS plans))
+      (VP (VBD were)
+        (VP (VBN hampered)
+          (PP (IN by)
+            (NP
+              (NP (NN desert) (NN heat)
+                (CC and)
+                (NN lack))
+              (PP (IN of)
+                (NP (NN transportation))))))))
+    (. .)))
+

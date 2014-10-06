@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (NNP Annan))
+    (VP (VBD wrapped)
+      (PRT (RP up))
+      (NP (DT a) (CD three) (NN hour) (NN meeting))
+      (PP (IN with)
+        (NP (JJ Iraqi) (NN president) (NNP Saddam) (NNP Hussein)))
+      (PP (IN in)
+        (NP (NNP Baghdad)))
+      (NP (NN today)))
+    (. .)))
+

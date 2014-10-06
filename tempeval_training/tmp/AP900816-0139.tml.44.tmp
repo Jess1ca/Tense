@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Bush) (POS 's))
+        (JJ chief) (NN objective))
+      (PP (IN in)
+        (NP
+          (NP (PRP$ his) (NN meeting))
+          (PP (IN with)
+            (NP (NNP Hussein))))))
+    (VP (VBD was)
+      (S
+        (VP (TO to)
+          (VP (VB press)
+            (NP (DT the) (NN king)
+              (S
+                (VP (TO to)
+                  (VP (VB shut)
+                    (PRT (RP down))
+                    (NP
+                      (NP
+                        (NP (NNP Iraq) (POS 's))
+                        (NN food)
+                        (CC and)
+                        (NN oil) (NN supply) (NN route))
+                      (PP (IN from)
+                        (NP (NNP Aqaba))))
+                    (PP (IN on)
+                      (NP (DT the) (NNP Red) (NNP Sea)))))))))))
+    (. .)))
+

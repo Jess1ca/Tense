@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT Some))
+      (PP (IN of)
+        (NP (DT these) (NNS problems))))
+    (VP (VBP are)
+      (ADJP (DT neither) (JJ new)
+        (CC nor)
+        (JJ unique)
+        (PP (TO to)
+          (NP (DT the) (NNP OTC) (NN market)))))
+    (. .)))
+

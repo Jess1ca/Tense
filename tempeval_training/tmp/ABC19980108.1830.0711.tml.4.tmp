@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Singapore)))
+    (, ,)
+    (NP (NNS stocks))
+    (VP (VBD hit)
+      (S
+        (NP (DT a) (CD five) (NN year))
+        (ADJP (JJ low))))
+    (. .)))
+

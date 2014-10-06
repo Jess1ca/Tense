@@ -1,0 +1,24 @@
+1	Nigerian	_	NNP	NNP	_	3	nn	_	_
+2	security	_	NN	NN	_	3	nn	_	_
+3	forces	_	NNS	NNS	_	4	nsubj	_	_
+4	clashed	_	VBD	VBD	_	0	root	_	_
+5	in	_	IN	IN	_	4	prep	_	_
+6	Lagos	_	NNP	NNP	_	5	pobj	_	_
+7	with	_	IN	IN	_	4	prep	_	_
+8	anti-government	_	JJ	JJ	_	9	amod	_	_
+9	demonstrators	_	NNS	NNS	_	7	pobj	_	_
+10	who	_	WP	WP	_	12	nsubj	_	_
+11	were	_	VBD	VBD	_	12	aux	_	_
+12	protesting	_	VBG	VBG	_	9	rcmod	_	_
+13	calls	_	NNS	NNS	_	12	dobj	_	_
+14	for	_	IN	IN	_	13	prep	_	_
+15	military	_	JJ	JJ	_	18	amod	_	_
+16	leader	_	NN	NN	_	18	nn	_	_
+17	Sani	_	NNP	NNP	_	18	nn	_	_
+18	Abacha	_	NNP	NNP	_	14	pobj	_	_
+19	to	_	TO	TO	_	20	aux	_	_
+20	run	_	VB	VB	_	12	xcomp	_	_
+21	for	_	IN	IN	_	20	prep	_	_
+22	president	_	NN	NN	_	21	pobj	_	_
+23	.	_	.	.	_	4	punct	_	_
+

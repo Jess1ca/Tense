@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP Merieux))
+    (ADVP (RB previously))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD would)
+            (VP (VB ensure)
+              (SBAR
+                (S
+                  (NP (PRP$ its) (NN bid))
+                  (VP (VBD remained)
+                    (ADJP (JJ open))
+                    (PP (VBG pending)
+                      (NP
+                        (NP (DT a) (JJ final) (NN decision))
+                        (PP (IN by)
+                          (NP (JJ Canadian) (NNS regulators)))))
+                    (PP (IN on)
+                      (SBAR (IN whether)
+                        (S
+                          (VP (TO to)
+                            (VP (VB approve)
+                              (NP (DT the) (NN takeover)))))))))))))))
+    (. .)))
+

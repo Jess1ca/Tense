@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (DT a) (JJ flat) (JJ second) (NN quarter))
+        (VP (VBN tied)
+          (ADVP (RB largely))
+          (PP (TO to)
+            (NP (JJR lower) (NN newsprint) (NNS earnings))))))
+    (, ,)
+    (NP (NNP Kimberly-Clark))
+    (VP (VBD attributed)
+      (NP (DT the) (NN gain))
+      (PP (TO to)
+        (NP
+          (NP (JJ improved) (NNS results))
+          (PP (IN in)
+            (NP (PRP$ its) (NN consumer) (NNS businesses)))))
+      (PP (IN in)
+        (NP (NNP North) (NNP America) (, ,) (NNP Brazil)
+          (CC and)
+          (NNP Korea))))
+    (. .)))
+

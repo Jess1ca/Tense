@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (PP
+      (ADVP (RB Meanwhile))
+      (IN in)
+      (NP
+        (NP (DT the) (NN capital))
+        (, ,)
+        (NP (NNP Ankara))))
+    (, ,)
+    (NP (DT a) (JJ few) (CD hundred) (JJ ethnic) (NNS Albanians))
+    (VP (VBD laid)
+      (NP (DT a) (JJ black) (NN wreath))
+      (PP (IN at)
+        (NP
+          (NP (DT the) (NN gate))
+          (PP (IN of)
+            (NP (NNP Yugoslavian) (NN embassy))))))
+    (. .)))
+

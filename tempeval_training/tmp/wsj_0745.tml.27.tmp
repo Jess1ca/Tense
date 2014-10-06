@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (NN end)))
+    (, ,)
+    (NP
+      (NP (NNP Sir) (NNP John))
+      (PRN (: --)
+        (CONJP (RB rather) (IN than))
+        (NP
+          (NP (DT the) (NN government))
+          (CC or)
+          (NP (NNP Jaguar) (NNS shareholders)))
+        (: --)))
+    (VP (MD may)
+      (VP (VB hold)
+        (NP
+          (NP (DT the) (NN key))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ unlocks)
+                (NP (DT the) (JJ golden) (NN share))))))))
+    (. .)))
+

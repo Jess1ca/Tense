@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT the) (CD nine) (NNS months)))
+    (, ,)
+    (NP (NNP America) (NNP West))
+    (VP (VBD posted)
+      (NP
+        (NP (NNS earnings))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 18.9) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 97) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,))))
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (NN loss))
+            (PP (IN of)
+              (NP
+                (NP
+                  (QP ($ $) (CD 9.7) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (CD 74) (NNS cents))
+                  (NP (DT a) (NN share)))
+                (, ,))))
+          (NP (DT a) (NN year) (RBR earlier)))))
+    (. .)))
+

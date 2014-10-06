@@ -1,0 +1,13 @@
+1	GM	_	NNP	NNP	_	2	nsubj	_	_
+2	confirmed	_	VBD	VBD	_	0	root	_	_
+3	it	_	PRP	PRP	_	4	nsubj	_	_
+4	received	_	VBD	VBD	_	2	ccomp	_	_
+5	U.S.	_	NNP	NNP	_	7	nn	_	_
+6	antitrust	_	JJ	JJ	_	7	amod	_	_
+7	clearance	_	NN	NN	_	4	dobj	_	_
+8	to	_	TO	TO	_	9	aux	_	_
+9	boost	_	VB	VB	_	7	vmod	_	_
+10	its	_	PRP$	PRP$	_	11	poss	_	_
+11	holding	_	NN	NN	_	9	dobj	_	_
+12	.	_	.	.	_	2	punct	_	_
+

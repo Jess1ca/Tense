@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (NP (NNS women))
+        (PP (IN in)
+          (NP (NNP Afghanistan)))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ able)
+                (S
+                  (VP (TO to)
+                    (VP (VB realize)
+                      (NP (PRP$ their) (NNS rights)))))))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP
+              (NP (NNS conditions))
+              (PP (IN of)
+                (NP (NN peace)
+                  (CC and)
+                  (NN justice))))))))
+    (. .)))
+

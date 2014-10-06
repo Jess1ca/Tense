@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Justice) (NNP Department))
+    (VP (VBZ has)
+      (VP (VBN emphasized)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT the) (NN government) (POS 's))
+              (NN fee-forfeiture) (NN power))
+            (VP (VBZ is)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (VP (VBN used)
+                      (ADVP (RB sparingly)))))))))))
+    (. .)))
+

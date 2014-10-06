@@ -1,0 +1,10 @@
+(ROOT
+  (NP
+    (NP (NNP Jim) (NNP Laurie))
+    (, ,)
+    (NP
+      (NP (NNP ABC) (NNP News))
+      (, ,)
+      (NP (NNP Hong) (NNP Kong)))
+    (. .)))
+

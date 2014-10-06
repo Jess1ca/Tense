@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Amir))
+      (, ,)
+      (NP (CD 27))
+      (, ,))
+    (VP (VBZ is)
+      (VP (VBG serving)
+        (NP
+          (NP (DT a) (NN life) (NN sentence))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NNP November) (CD 1995) (NN assassination))
+              (PP (IN of)
+                (NP (NNP Rabin))))))
+        (PP (IN at)
+          (NP (DT a) (NNP Tel) (NNP Aviv) (NN peace) (NN rally)))))
+    (. .)))
+

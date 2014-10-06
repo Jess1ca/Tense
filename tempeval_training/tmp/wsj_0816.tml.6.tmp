@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (RB Later) (NN yesterday))
+    (NP
+      (NP (DT the) (NN nation) (POS 's))
+      (JJ major) (NN auto) (NNS makers))
+    (VP (VBD added)
+      (PP (TO to)
+        (NP (DT the) (NN gloom)))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP they))
+          (DT each)
+          (VP (VBD reported)
+            (SBAR
+              (S
+                (NP (PRP$ their) (JJ core) (NN auto) (NNS operations))
+                (VP (VBD were)
+                  (NP
+                    (NP (JJ net) (NNS losers))
+                    (PP (IN in)
+                      (NP (DT the) (JJ third) (NN quarter)))))))))))
+    (. .)))
+

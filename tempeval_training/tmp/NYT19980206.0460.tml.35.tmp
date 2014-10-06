@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT the) (JJ first) (NN time)))
+    (, ,)
+    (NP (DT the) (NNP Labor) (NNP Department))
+    (VP (VBD broke)
+      (PRT (RP out))
+      (NP (NN unemployment))
+      (PP (IN by)
+        (NP
+          (NP (NN education) (NN level))
+          (CONJP (RB as) (RB well) (IN as))
+          (NP (NN gender) (, ,) (NN age)
+            (CC and)
+            (NN race)))))
+    (. .)))
+

@@ -1,0 +1,21 @@
+1	So	_	IN	IN	_	14	dep	_	_
+2	when	_	WRB	WRB	_	5	advmod	_	_
+3	Wong	_	NNP	NNP	_	4	nn	_	_
+4	Kwan	_	NNP	NNP	_	5	nsubj	_	_
+5	spent	_	VBD	VBD	_	14	advcl	_	_
+6	seventy	_	RB	RB	_	5	advmod	_	_
+7	million	_	CD	CD	_	8	number	_	_
+8	dollars	_	NNS	NNS	_	5	dobj	_	_
+9	for	_	IN	IN	_	5	prep	_	_
+10	this	_	DT	DT	_	11	det	_	_
+11	house	_	NN	NN	_	9	pobj	_	_
+12	,	_	,	,	_	14	punct	_	_
+13	he	_	PRP	PRP	_	14	nsubj	_	_
+14	thought	_	VBD	VBD	_	0	root	_	_
+15	it	_	PRP	PRP	_	16	nsubj	_	_
+16	was	_	VBD	VBD	_	14	ccomp	_	_
+17	a	_	DT	DT	_	19	det	_	_
+18	great	_	JJ	JJ	_	19	amod	_	_
+19	deal	_	NN	NN	_	16	xcomp	_	_
+20	.	_	.	.	_	14	punct	_	_
+

@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP am)
+      (ADJP (JJ shocked)
+        (CC and)
+        (JJ dismayed))
+      (PP (IN by)
+        (NP
+          (NP (DT the) (JJ numerous) (NNS leaks))
+          (PP (VBG regarding)
+            (NP
+              (NP (NNP Mrs.) (NNP Currie) (POS 's))
+              (JJ grand) (NN jury) (NN testimony))))))
+    (. .) ('' '')))
+

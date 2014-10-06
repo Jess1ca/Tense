@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP MALAYSIA) (POS 'S))
+        (JJ aggressive) (NN move))
+      (PP (IN into)
+        (NP (DT the) (NN information) (NN age))))
+    (VP (MD could) (RB not)
+      (VP (VB come)
+        (PP (IN in)
+          (NP (DT a) (RBR more) (JJ opportune) (NN time)))))
+    (. .)))
+

@@ -1,0 +1,25 @@
+1	Separately	_	RB	RB	_	4	advmod	_	_
+2	,	_	,	,	_	4	punct	_	_
+3	Innopac	_	NNP	NNP	_	4	nsubj	_	_
+4	reported	_	VBD	VBD	_	0	root	_	_
+5	a	_	DT	DT	_	7	det	_	_
+6	fourth-quarter	_	JJ	JJ	_	7	amod	_	_
+7	loss	_	NN	NN	_	4	dobj	_	_
+8	of	_	IN	IN	_	7	prep	_	_
+9	about	_	RB	RB	_	10	quantmod	_	_
+10	C$	_	$	$	_	8	pobj	_	_
+11	2.6	_	CD	CD	_	10	number	_	_
+12	million	_	CD	CD	_	10	number	_	_
+13	,	_	,	,	_	10	punct	_	_
+14	or	_	CC	CC	_	10	cc	_	_
+15	18	_	CD	CD	_	17	num	_	_
+16	Canadian	_	JJ	JJ	_	17	amod	_	_
+17	cents	_	NNS	NNS	_	10	conj	_	_
+18	a	_	DT	DT	_	19	det	_	_
+19	share	_	NN	NN	_	17	dep	_	_
+20	,	_	,	,	_	4	punct	_	_
+21	reflecting	_	VBG	VBG	_	4	vmod	_	_
+22	inventory	_	NN	NN	_	23	nn	_	_
+23	write-downs	_	NNS	NNS	_	21	dobj	_	_
+24	.	_	.	.	_	4	punct	_	_
+

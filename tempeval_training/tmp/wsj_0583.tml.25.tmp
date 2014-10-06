@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (NNP Polly) (NNP Peck))
+            (VP (MD will)
+              (ADVP (RB greatly))
+              (VP (VB expand)
+                (NP
+                  (NP
+                    (NP (NNP Sansui) (POS 's))
+                    (NN product) (NN line))
+                  (, ,)
+                  (VP (VBG using)
+                    (NP
+                      (NP (NNP Sansui) (POS 's))
+                      (NNS engineers)
+                      (S
+                        (VP (TO to)
+                          (VP (VB design)
+                            (NP (DT the) (JJ new) (NNS products)))))))))))))
+      (, ,)
+      (CC and)
+      (VP (MD will)
+        (VP (VB move)
+          (ADVP
+            (NP
+              (NP
+                (NP (NNP Sansui) (POS 's))
+                (NN production))
+              (PP (IN of)
+                (NP (JJS most) (NNS products))))
+            (JJ other)
+            (PP (IN than)
+              (NP (JJ sophisticated) (JJ audio) (NN gear))
+              (ADVP (RB offshore))))
+          (PP (IN into)
+            (NP
+              (NP (NNP Polly) (NNP Peck) (POS 's))
+              (JJ own) (NNS factories))))))
+    (. .)))
+

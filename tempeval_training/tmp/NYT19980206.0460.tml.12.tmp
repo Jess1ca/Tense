@@ -1,0 +1,12 @@
+(ROOT
+  (S (`` ``)
+    (NP (DT The) (JJ bottom) (NN line))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (VP (VBP 've)
+            (VP (VBN got)
+              (NP (DT a) (JJ lovely) (NN economy)))))))
+    (. .) ('' '')))
+

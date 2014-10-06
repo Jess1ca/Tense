@@ -1,0 +1,23 @@
+1	David	_	NNP	NNP	_	3	nn	_	_
+2	L.	_	NNP	NNP	_	3	nn	_	_
+3	Koffman	_	NNP	NNP	_	13	nsubj	_	_
+4	,	_	,	,	_	3	punct	_	_
+5	president	_	NN	NN	_	9	nn	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	chief	_	JJ	JJ	_	5	conj	_	_
+8	executive	_	NN	NN	_	9	nn	_	_
+9	officer	_	NN	NN	_	3	appos	_	_
+10	of	_	IN	IN	_	9	prep	_	_
+11	Jayark	_	NNP	NNP	_	10	pobj	_	_
+12	,	_	,	,	_	3	punct	_	_
+13	holds	_	VBZ	VBZ	_	21	ccomp	_	_
+14	about	_	RB	RB	_	15	quantmod	_	_
+15	40	_	CD	CD	_	16	num	_	_
+16	%	_	NN	NN	_	13	dobj	_	_
+17	of	_	IN	IN	_	16	prep	_	_
+18	Kofcoh	_	NNP	NNP	_	17	pobj	_	_
+19	,	_	,	,	_	21	punct	_	_
+20	Jayark	_	NNP	NNP	_	21	nsubj	_	_
+21	said	_	VBD	VBD	_	0	root	_	_
+22	.	_	.	.	_	21	punct	_	_
+

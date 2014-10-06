@@ -1,0 +1,26 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (EX There))
+      (VP (VBP are)
+        (ADVP
+          (NP (DT a) (RB lot))
+          (RBR more))
+        (NP
+          (NP (JJ downward) (NNS revisions))
+          (PP (IN of)
+            (NP
+              (NP (NNS earnings) (NNS forecasts))
+              (PP (IN than)
+                (NP (JJ upward) (NNS revisions))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Abby) (NNP Joseph) (NNP Cohen))
+      (, ,)
+      (NP
+        (NP (DT a) (NN market) (NN strategist))
+        (PP (IN at)
+          (NP (NNP Drexel) (NNP Burnham) (NNP Lambert)))))
+    (. .)))
+

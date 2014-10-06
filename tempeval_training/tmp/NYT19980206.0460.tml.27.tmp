@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (DT The) (NN increase))
+    (VP (VBD reflected)
+      (NP
+        (NP (DT the) (NN strength))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN housing) (NN industry))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ has)
+                  (VP (VBN been)
+                    (VP (VBN helped)
+                      (PP
+                        (CONJP (RB not) (RB just))
+                        (PP (IN by)
+                          (NP (JJ declining) (NN interest) (NNS rates)))
+                        (CONJP (CC but)
+                          (RB also))
+                        (PP (IN by)
+                          (NP
+                            (ADJP (RB unusually) (JJ warm))
+                            (NN weather)))))))))))))
+    (. .)))
+

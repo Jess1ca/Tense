@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP (NNP Anheuser))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ continues)
+            (S
+              (VP (TO to)
+                (VP (VB hold)
+                  (PP (TO to)
+                    (NP
+                      (NP (PRP$ its) (JJ earlier-announced) (NN goal))
+                      (PP (IN of)
+                        (NP (DT a)
+                          (ADJP (CD 50) (NN %))
+                          (NNP U.S.) (NN market) (NN share)))))
+                  (PP (IN by)
+                    (NP (DT the) (NNS mid-1990s))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN Beneath)
+      (NP (DT the) (JJ tepid) (NN news-release) (NN jargon)))
+    (VP (VBZ lies))
+    (NP
+      (NP (DT a) (JJ powerful) (NN threat))
+      (PP (IN from)
+        (NP (DT the) (NN brewing) (NN giant)))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (JJ last) (NN year))
+          (VP
+            (VP (VBD accounted)
+              (PP (IN for)
+                (NP
+                  (NP
+                    (QP (RB about) (CD 41))
+                    (NN %))
+                  (PP (IN of)
+                    (NP (DT all) (NNP U.S.) (NN beer) (NNS sales))))))
+            (CC and)
+            (VP (VBZ is)
+              (VP (VBN expected)
+                (S
+                  (VP (TO to)
+                    (VP (VB see)
+                      (S
+                        (NP (DT that))
+                        (VP (VB grow)
+                          (PP (TO to)
+                            (NP
+                              (NP (CD 42.5) (NN %))
+                              (PP (IN in)
+                                (NP (DT the) (JJ current) (NN year))))))))))))))))
+    (. .)))
+

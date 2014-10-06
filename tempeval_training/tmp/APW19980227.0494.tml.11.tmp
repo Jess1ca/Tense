@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (PRP$ their) (JJ joint) (NN statement))
+        (VP (VBN issued)
+          (PP (IN after)
+            (NP (DT the) (NNS talks))))))
+    (, ,)
+    (NP (NNP Yeltsin)
+      (CC and)
+      (NNP Kuchma))
+    (VP (VBD called)
+      (PP (IN for)
+        (NP
+          (NP (DT the)
+            (ADJP (JJS fastest) (JJ possible))
+            (NN ratification))
+          (PP (IN of)
+            (NP (DT the) (NN treaty)))))
+      (, ,)
+      (S
+        (VP (VBG saying)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (MD would)
+                (VP
+                  (VP (VB create)
+                    (NP (DT a) (`` ``) (JJ strong) (JJ legal) (NN foundation) ('' ''))
+                    (PP (IN for)
+                      (NP (JJ bilateral) (NNS ties))))
+                  (CC and)
+                  (VP (VB help)
+                    (NP (NN stability))
+                    (PP (IN in)
+                      (NP (NNP Europe)))))))))))
+    (. .)))
+

@@ -1,0 +1,21 @@
+(ROOT
+  (S (CC But)
+    (NP (NNP Coleco))
+    (VP (VBD bounced)
+      (ADVP (RB back))
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN introduction))
+          (PP (IN of)
+            (NP (DT the) (NNP Cabbage) (NNP Patch) (NNS dolls)))
+          (, ,)
+          (SBAR
+            (WHNP (WP$ whose) (NNS sales))
+            (S
+              (VP (VBD hit)
+                (NP
+                  (QP ($ $) (CD 600) (CD million)))
+                (PP (IN in)
+                  (NP (CD 1985)))))))))
+    (. .)))
+

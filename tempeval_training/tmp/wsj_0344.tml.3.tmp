@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (DT The) (NN publishing) (NN concern))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD retained)
+            (NP
+              (NP (DT the) (NN investment) (NN banking) (NN firm))
+              (PP (IN of)
+                (NP
+                  (NP (NNP Donaldson))
+                  (, ,)
+                  (NP (NNP Lufkin) (NNP amp) (NNP Jenrette) (NNPS Securities) (NNP Inc.)))))
+            (S
+              (VP (TO to)
+                (VP (VB act)
+                  (PP (IN as)
+                    (NP (PRP$ its) (JJ financial) (NN adviser))))))
+            (, ,)
+            (S
+              (VP (VBG assisting)
+                (PP (IN in)
+                  (S
+                    (NP
+                      (NP (DT the) (NN evaluation))
+                      (PP (IN of)
+                        (NP (JJ various)
+                          (UCP (JJ financial)
+                            (CC and)
+                            (JJ strategic))
+                          (NNS alternatives))))
+                    (, ,)
+                    (PP (VBG including)
+                      (NP (NN debt) (NN refinancing)))
+                    (, ,)
+                    (VP (VBG raising)
+                      (NP
+                        (NP (NN capital))
+                        (, ,)
+                        (NP (NN recapitalization))
+                        (, ,)
+                        (NP (DT a) (NN merger))
+                        (CC or)
+                        (NP
+                          (NP (NN sale))
+                          (PP (IN of)
+                            (NP (DT the) (NN company))))))))))))))
+    (. .)))
+

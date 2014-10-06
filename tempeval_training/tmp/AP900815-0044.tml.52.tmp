@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (NNP Bush))
+    (VP (VBD told)
+      (NP (DT a) (NN news) (NN conference))
+      (PP (IN on)
+        (NP (NNP Tuesday)))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (JJ naval) (NN barricade))
+            (PP
+              (ADVP (RB now))
+              (IN in)
+              (NP (NN force))))
+          (VP (MD might)
+            (VP (VB be)
+              (VP (VBN extended)
+                (PP (TO to)
+                  (NP
+                    (NP (NNP Jordan) (POS 's))
+                    (NNP Aqaba)))
+                (`` ``)
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ is)
+                      (NP (DT a) (NN hole))
+                      (PP (IN through)
+                        (SBAR
+                          (WHNP (WDT which))
+                          (S
+                            (NP (NN commerce))
+                            (VP (VBZ flows)))))
+                      ('' '')
+                      (PP (IN in)
+                        (CC and)
+                        (IN out)
+                        (PP (IN of)
+                          (NP (NNP Iraq)))))))))))))
+    (. .)))
+

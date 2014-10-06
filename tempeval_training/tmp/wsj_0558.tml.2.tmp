@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (JJ Last) (NN year) (NN catastrophe) (NNS losses))
+    (VP (VBD totaled)
+      (NP
+        (QP ($ $) (CD 5) (CD million)))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (NN net))
+          (VP (VBD was)
+            (NP
+              (NP
+                (QP ($ $) (CD 235.5) (CD million)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP ($ $) (CD 2.07))
+                (NP (DT a) (NN share))))))))
+    (. .)))
+

@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (JJ composite) (NN trading))
+        (PP (IN on)
+          (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))))
+    (, ,)
+    (NP (NNP Philip) (NNP Morris) (NNS shares))
+    (VP (VBD closed)
+      (NP (NN yesterday))
+      (PP (IN at)
+        (NP
+          (NP ($ $) (CD 43.50))
+          (NP (DT each))))
+      (, ,)
+      (ADVP (RB down)
+        (NP ($ $) (CD 1))))
+    (. .)))
+

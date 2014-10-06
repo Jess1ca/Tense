@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NNP Timex))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ major) (NNP U.S.) (NN producer))
+        (CC and)
+        (NP
+          (NP (NN seller))
+          (PP (IN of)
+            (NP (NNS watches))))
+        (, ,)
+        (PP (VBG including)
+          (NP
+            (NP
+              (NP (JJ low-priced) (JJ battery-operated) (NNS watches))
+              (VP (VBN assembled)
+                (PP (IN in)
+                  (NP (DT the) (NNPS Philippines)))))
+            (CC and)
+            (NP
+              (NP (JJ other) (VBG developing) (NNS nations))
+              (VP (VBN covered)
+                (PP (IN by)
+                  (NP (DT the) (NNP U.S.) (NN tariff) (NNS preferences)))))))))
+    (. .)))
+

@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNP Diplomacy))
+    (VP (VBZ appears)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBG making)
+              (NP (NN headway))
+              (PP (IN in)
+                (S
+                  (VP (VBG resolving)
+                    (NP
+                      (NP
+                        (NP (DT the) (VBN united) (NN nation) (POS 's))
+                        (NN standoff))
+                      (PP (IN with)
+                        (NP (NNP Iraq))))))))))))
+    (. .)))
+

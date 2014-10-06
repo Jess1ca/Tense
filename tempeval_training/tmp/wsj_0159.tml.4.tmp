@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS partners))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (ADVP (RB already))
+          (VP (VBP hold)
+            (S
+              (NP
+                (NP (CD 15) (NN %))
+                (PP (IN of) (DT all) (NNS shares)))
+              (ADJP (JJ outstanding)))))))
+    (. .)))
+

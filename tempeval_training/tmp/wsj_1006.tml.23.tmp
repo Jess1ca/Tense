@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD declined)
+      (S
+        (VP (TO to)
+          (VP (VB confirm)
+            (CC or)
+            (VB deny)
+            (NP (NNS reports))
+            (SBAR (IN that)
+              (S
+                (NP (NNP Provigo) (NN executive) (NNP Henri) (NNP Roy))
+                (VP (VBZ is)
+                  (VP (VBG trying)
+                    (S
+                      (VP (TO to)
+                        (VP (VB put)
+                          (PRT (RP together))
+                          (NP
+                            (NP (DT a) (NN management) (NN buy-out))
+                            (PP (IN of)
+                              (NP (DT the) (NN catalogue) (NN showroom) (NN unit)))))))))))))))
+    (. .)))
+

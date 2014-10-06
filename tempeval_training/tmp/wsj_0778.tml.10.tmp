@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (VBG According)
+      (PP (TO to)
+        (NP
+          (NP (NNS individuals))
+          (ADJP (JJ familiar)
+            (PP (IN with)
+              (NP
+                (NP (NNP Mr.) (NNP Antar) (POS 's))
+                (NN case)))))))
+    (, ,)
+    (NP (NNS prosecutors))
+    (VP (VBD issued)
+      (NP (PRP$ their) (NN warning))
+      (NP (DT this) (NN week))
+      (SBAR (IN after)
+        (S
+          (NP
+            (NP (CD one))
+            (PP (IN of)
+              (NP
+                (NP (NNP Mr.) (NNP Antar) (POS 's))
+                (NNS attorneys))))
+          (VP (VBD asked)
+            (SBAR (IN whether)
+              (S
+                (NP (JJ legal) (NNS fees))
+                (VP (MD might)
+                  (VP (VB be)
+                    (ADJP (JJ subject)
+                      (PP (TO to)
+                        (NP (NN seizure))))))))))))
+    (. .)))
+

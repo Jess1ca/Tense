@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (VBN proposed) (JJ BellSouth-LIN) (JJ cellular) (NN company))
+      (, ,)
+      (PP (VBG including)
+        (NP (DT the)
+          (ADJP (RB newly) (VBN acquired))
+          (NNP Metromedia) (NN stake)))
+      (, ,))
+    (VP (MD would)
+      (VP (VB give)
+        (NP (DT the) (JJ new) (NN entity))
+        (NP
+          (NP
+            (QP (CD 55) (CD million))
+            (JJ potential) (NNS customers))
+          (, ,)
+          (PP (VBG including)
+            (NP
+              (NP
+                (QP (RB about) (CD 35) (CD million)))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN nation) (POS 's))
+                  (JJ top) (CD 10) (NNS markets))))))))
+    (. .)))
+

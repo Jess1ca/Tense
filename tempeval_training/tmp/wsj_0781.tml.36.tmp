@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNP Intel))
+    (VP (VBZ clocks)
+      (NP
+        (NP
+          (NP (DT the) (NN chip) (POS 's))
+          (NN speed))
+        (PP (IN at)
+          (NP
+            (NP
+              (QP (CD 15) (CD million))
+              (NNS instructions))
+            (PP (IN per)
+              (NP (NN second)))))
+        (, ,)
+        (CC or)
+        (NP (NNS MIPs))))
+    (. .)))
+

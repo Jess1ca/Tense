@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT The) (NN computer) (NN maker))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NN net))
+          (VP (VBD jumped)
+            (PP (TO to)
+              (NP
+                (NP
+                  (QP ($ $) (CD 87) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP ($ $) (CD 2.02))
+                  (NP (DT a) (NN share)))
+                (, ,)))
+            (PP (IN from)
+              (NP
+                (NP
+                  (QP ($ $) (CD 58) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP ($ $) (CD 1.40))
+                  (NP (DT a) (NN share)))
+                (, ,))
+              (NP (DT a) (NN year) (RBR earlier)))))))
+    (. .)))
+

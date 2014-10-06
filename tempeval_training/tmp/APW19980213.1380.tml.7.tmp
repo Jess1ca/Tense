@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNP Puerto) (NNP Rico) (NNP Police) (NNP Superintendent) (NNP Pedro) (NNP Toledo))
+    (VP (VBD urged)
+      (NP
+        (NP (NNS people))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (MD might)
+              (VP (VB be)
+                (VP (VBN targeted)
+                  (PP (IN by)
+                    (NP (NNS kidnappers)))
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (ADJP (JJ alert))))))))))))
+    (. .)))
+

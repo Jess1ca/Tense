@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG Calling)
+        (PP (IN for)
+          (NP
+            (NP (DT an) (VBN amended) (NN constitution))
+            (PP (IN with)
+              (NP (DT a) (JJ new) (NN preamble)))))
+        (, ,)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN written)
+                (PP (IN by)
+                  (NP (JJ Australian) (NNS poets)))))))))
+    (PRN (, ,)
+      (S
+        (NP (NN republican) (NNP Janet) (NNP Holmes)
+          (NP (DT a) (NNP Court)))
+        (VP (VBD said)))
+      (, ,))
+    (`` ``)
+    (NP (PRP We))
+    (VP (VBP need)
+      (NP
+        (NP
+          (NP (DT the) (NN smell))
+          (PP (IN of)
+            (NP
+              (NP (NN eucalyptus))
+              (PP (IN in)
+                (NP (DT this))))))
+        (, ,)
+        (CC and)
+        (NP
+          (NP (DT the) (NN feel))
+          (PP (IN of)
+            (NP (JJ red) (NN dust))))))
+    (. .) ('' '')))
+

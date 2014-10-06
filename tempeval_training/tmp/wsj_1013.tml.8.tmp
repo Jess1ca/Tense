@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (NNP June) (CD 30)))
+    (, ,)
+    (NP (NN loss) (NNS reserves))
+    (VP (VBD stood)
+      (PP (IN at)
+        (NP
+          (QP ($ $) (CD 108.3) (CD million)))))
+    (. .)))
+

@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (S
+      (ADVP (RB Perhaps))
+      (ADJP (RBR more) (JJ important)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ appears)
+      (SBAR (IN that)
+        (S
+          (NP (JJ allied) (NNS troops))
+          (VP
+            (VP (VBP have) (RB n't)
+              (ADVP (RB yet))
+              (VP
+                (ADVP (RB fully))
+                (VBN engaged)
+                (NP
+                  (NP
+                    (NP (NNP Iraq) (POS 's))
+                    (JJ vaunted) (JJ Republican) (NN Guard))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBZ has)
+                        (VP (VBN been)
+                          (VP (VBG sitting)
+                            (ADVP (RB just) (RB north))
+                            (PP (IN of)
+                              (NP (DT the) (JJ Iraq-Kuwait) (NN border)))))))))))
+            (CC and)
+            (VP (VBZ is)
+              (VP (VBN considered)
+                (NP
+                  (NP (DT the)
+                    (ADJP (RBS most) (JJ potent))
+                    (NN element))
+                  (PP (IN in)
+                    (NP (DT the) (JJ Iraqi) (NN defense))))))))))
+    (. .)))
+

@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN exchange)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN buildup))
+      (PP (IN of)
+        (NP
+          (NP (NNP U.S.) (NNS forces))
+          (PP (IN in)
+            (NP (DT the) (NN region))))))
+    (VP (MD would)
+      (VP (VB halt)))
+    (. .)))
+

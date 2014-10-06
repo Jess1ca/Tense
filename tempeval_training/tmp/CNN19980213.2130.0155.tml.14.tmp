@@ -1,0 +1,10 @@
+(ROOT
+  (NP
+    (NP (NNP Steve) (NNP Hurst))
+    (, ,)
+    (NP
+      (NP (NNP CNN))
+      (, ,)
+      (NP (DT the) (NN state) (NN department)))
+    (. .)))
+

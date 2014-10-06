@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ succeeds)
+      (NP
+        (NP (NNP James) (NNP A.) (NNP Taylor))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD stepped)
+              (PRT (RP down))
+              (PP (IN as)
+                (NP
+                  (NP (NN chairman) (, ,) (NN president)
+                    (CC and)
+                    (NN chief) (NN executive))
+                  (PP (IN in)
+                    (NP (NNP March)))))
+              (PP (IN for)
+                (NP (NN health) (NNS reasons))))))))
+    (. .)))
+

@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT Some))
+    (VP (VBD had)
+      (VP (VBN predicted)
+        (NP
+          (NP (NNS earnings))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP (JJR more) (IN than) ($ $) (CD 4)))
+              (NP (DT a) (NN share)))))
+        (PP (IN for)
+          (NP (DT this) (NN year)))
+        (, ,)
+        (ADVP (RB up)
+          (PP (IN from)
+            (NP
+              (NP
+                (NP (JJ last) (NN year) (POS 's))
+                (ADJP (RB fully) (VBN diluted))
+                ($ $) (CD 3.27))
+              (NP (DT a) (NN share))
+              (PP (IN on)
+                (NP
+                  (NP (NNS earnings))
+                  (PP (IN of)
+                    (NP
+                      (QP ($ $) (CD 680.6) (CD million)))))))))))
+    (. .)))
+

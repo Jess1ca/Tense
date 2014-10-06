@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (DT The)
+      (UCP (NNS consumer-products)
+        (CC and)
+        (NN newsprint))
+      (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NN net))
+          (VP (VBD rose)
+            (PP (TO to)
+              (NP
+                (NP
+                  (QP ($ $) (CD 108.8) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP ($ $) (CD 1.35))
+                  (NP (DT a) (NN share)))
+                (, ,)))
+            (PP (IN from)
+              (NP
+                (NP
+                  (QP ($ $) (CD 90.5) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP ($ $) (CD 1.12))
+                  (NP (DT a) (NN share)))
+                (, ,)
+                (ADVP
+                  (NP (DT a) (NN year))
+                  (RB ago))))))))
+    (. .)))
+

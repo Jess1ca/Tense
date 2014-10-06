@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS lights))
+      (VP (VBP are)
+        (ADJP (RP out))))
+    (CC and)
+    (S
+      (S
+        (NP (DT the) (NN heat))
+        (VP (VBZ is)
+          (ADJP (RP off))))
+      (CC and)
+      (S
+        (NP (DT those) (JJ vital) (NNS signs))
+        (VP (VBP are) (RB not)
+          (ADJP (JJ likely)
+            (S
+              (VP (TO to)
+                (VP (VB change)
+                  (NP (RB much)
+                    (ADVP (RB over))
+                    (NP
+                      (NP (DT the) (JJ next) (JJ several) (NNS days))
+                      (PP (IN for)
+                        (NP (NN p))))
+                    (: -)
+                    (NP
+                      (NP (NNS people))
+                      (PP (IN in)
+                        (NP
+                          (NP (NNS parts))
+                          (PP (IN of)
+                            (NP (DT the) (NNP northeastern) (NNP US)
+                              (CC and)
+                              (NNP eastern) (NNP Canada))))))))))))))
+    (. .)))
+

@@ -1,0 +1,8 @@
+(ROOT
+  (NP
+    (NP (NNP TWA) (CD eight))
+    (NP
+      (NP (CD hundred))
+      (, ,)
+      (NP (NN center)))))
+

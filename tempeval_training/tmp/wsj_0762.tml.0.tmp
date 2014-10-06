@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP CAMBREX) (NNP Corp.))
+      (, ,)
+      (NP (NNP Bayonne) (, ,) (NNP N.J.))
+      (, ,))
+    (VP (VBD declared)
+      (NP
+        (NP (PRP$ its) (JJ initial) (NN quarterly))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP (CD five) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,)
+            (ADJP (JJ payable)
+              (NP (NNP Dec.) (CD 1))))))
+      (PP (TO to)
+        (NP
+          (NP (NN stock))
+          (PP (IN of)
+            (NP (NN record)))))
+      (NP (NNP Nov.) (CD 10)))
+    (. .)))
+

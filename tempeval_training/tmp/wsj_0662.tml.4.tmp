@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Jayark))
+      (, ,)
+      (NP (NNP New) (NNP York))
+      (, ,))
+    (VP
+      (VP (VBZ distributes)
+        (CC and)
+        (VBZ rents)
+        (NP (JJ audio-visual) (NN equipment)))
+      (CC and)
+      (VP (VBZ prints)
+        (NP (JJ promotional) (NNS ads))
+        (PP (IN for)
+          (NP (NNS retailers)))))
+    (. .)))
+

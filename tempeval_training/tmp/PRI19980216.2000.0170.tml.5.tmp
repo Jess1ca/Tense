@@ -1,0 +1,44 @@
+(ROOT
+  (S (CC But)
+    (S
+      (NP (PRP we))
+      (VP (VBP 're)
+        (VP (VBG challenging)
+          (NP (PRP it))
+          (PP (IN on)
+            (NP (DT the) (NN ground)))
+          (SBAR (IN that)
+            (S
+              (S
+                (INTJ (UH uh))
+                (NP (DT the) (NNP RUC) (NNP uh))
+                (VP (VBP have)
+                  (VP (VBN offered)
+                    (NP (DT an) (NN opinion)))))
+              (, ,)
+              (CC and)
+              (S
+                (NP (DT this) (NN opinion))
+                (VP (VBZ is)
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB be)
+                          (VP (VBN used)
+                            (PP (IN as)
+                              (NP (DT a) (NN mechanism)))
+                            (PP (IN for)
+                              (S
+                                (VP (VBG ejecting)
+                                  (NP (PRP us))
+                                  (PP (IN from)
+                                    (NP (DT the) (NNS talks))))))))))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (INTJ (UH uh))
+      (NP (DT that))
+      (VP (VBZ 's)
+        (ADJP (DT a) (RB very) (JJ serious))))
+    (. .)))
+

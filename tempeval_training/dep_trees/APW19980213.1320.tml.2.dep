@@ -1,0 +1,12 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	airline	_	NN	NN	_	5	nsubj	_	_
+3	has	_	VBZ	VBZ	_	5	aux	_	_
+4	also	_	RB	RB	_	5	advmod	_	_
+5	cut	_	VBN	VBN	_	0	root	_	_
+6	all	_	DT	DT	_	7	det	_	_
+7	flights	_	NNS	NNS	_	5	dobj	_	_
+8	to	_	TO	TO	_	5	prep	_	_
+9	South	_	NNP	NNP	_	10	nn	_	_
+10	Korea	_	NNP	NNP	_	8	pobj	_	_
+11	.	_	.	.	_	5	punct	_	_
+

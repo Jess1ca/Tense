@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT The) (NN university))
+    (VP (VBD had)
+      (VP (VBN sought)
+        (NP
+          (NP (DT an) (NN injunction))
+          (VP (VBG blocking)
+            (NP
+              (NP (NNP Connaught) (POS 's))
+              (NN board))
+            (PP (IN from)
+              (S
+                (VP (VBG recommending)
+                  (CC or)
+                  (VBG supporting)
+                  (NP (DT an) (NN offer))
+                  (PP (IN for)
+                    (NP
+                      (NP (DT the) (NN company))
+                      (PP (IN by)
+                        (NP (NNP Merieux))))))))))))
+    (. .)))
+

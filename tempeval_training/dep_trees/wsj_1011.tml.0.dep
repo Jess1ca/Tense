@@ -1,0 +1,25 @@
+1	Delta	_	NNP	NNP	_	4	nn	_	_
+2	Air	_	NNP	NNP	_	4	nn	_	_
+3	Lines	_	NNPS	NNPS	_	4	nn	_	_
+4	earnings	_	NNS	NNS	_	5	nsubj	_	_
+5	soared	_	VBD	VBD	_	0	root	_	_
+6	33	_	CD	CD	_	7	num	_	_
+7	%	_	NN	NN	_	5	dobj	_	_
+8	to	_	TO	TO	_	5	prep	_	_
+9	a	_	DT	DT	_	10	det	_	_
+10	record	_	NN	NN	_	8	pobj	_	_
+11	in	_	IN	IN	_	10	prep	_	_
+12	the	_	DT	DT	_	15	det	_	_
+13	fiscal	_	JJ	JJ	_	15	amod	_	_
+14	first	_	JJ	JJ	_	15	amod	_	_
+15	quarter	_	NN	NN	_	11	pobj	_	_
+16	,	_	,	,	_	5	punct	_	_
+17	bucking	_	VBG	VBG	_	5	vmod	_	_
+18	the	_	DT	DT	_	20	det	_	_
+19	industry	_	NN	NN	_	20	nn	_	_
+20	trend	_	NN	NN	_	17	dobj	_	_
+21	toward	_	IN	IN	_	20	prep	_	_
+22	declining	_	VBG	VBG	_	23	amod	_	_
+23	profits	_	NNS	NNS	_	21	pobj	_	_
+24	.	_	.	.	_	5	punct	_	_
+

@@ -1,0 +1,13 @@
+1	Telerate	_	NNP	NNP	_	5	poss	_	_
+2	's	_	POS	POS	_	1	possessive	_	_
+3	two	_	CD	CD	_	5	num	_	_
+4	independent	_	JJ	JJ	_	5	amod	_	_
+5	directors	_	NNS	NNS	_	7	nsubj	_	_
+6	have	_	VBP	VBP	_	7	aux	_	_
+7	rejected	_	VBN	VBN	_	0	root	_	_
+8	the	_	DT	DT	_	9	det	_	_
+9	offer	_	NN	NN	_	11	nsubj	_	_
+10	as	_	RB	RB	_	11	advmod	_	_
+11	inadequate	_	JJ	JJ	_	7	xcomp	_	_
+12	.	_	.	.	_	7	punct	_	_
+

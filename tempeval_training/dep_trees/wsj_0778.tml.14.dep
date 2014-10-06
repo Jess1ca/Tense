@@ -1,0 +1,20 @@
+1	Justin	_	NNP	NNP	_	2	nn	_	_
+2	Feldman	_	NNP	NNP	_	13	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	Jack	_	NNP	NNP	_	5	nn	_	_
+5	Arseneault	_	NNP	NNP	_	2	conj	_	_
+6	,	_	,	,	_	2	punct	_	_
+7	attorneys	_	NNS	NNS	_	2	appos	_	_
+8	for	_	IN	IN	_	7	prep	_	_
+9	Mr.	_	NNP	NNP	_	10	nn	_	_
+10	Antar	_	NNP	NNP	_	8	pobj	_	_
+11	,	_	,	,	_	2	punct	_	_
+12	both	_	DT	DT	_	13	dep	_	_
+13	declined	_	VBD	VBD	_	0	root	_	_
+14	to	_	TO	TO	_	15	aux	_	_
+15	comment	_	VB	VB	_	13	xcomp	_	_
+16	on	_	IN	IN	_	15	prep	_	_
+17	the	_	DT	DT	_	18	det	_	_
+18	matter	_	NN	NN	_	16	pobj	_	_
+19	.	_	.	.	_	13	punct	_	_
+

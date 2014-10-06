@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP West) (JJ German)
+        (CC and)
+        (JJ French) (NNS authorities))
+      (VP (VBP have)
+        (VP (VBN cleared)
+          (NP
+            (NP
+              (NP (NNP Dresdner) (NNP Bank) (NNP AG) (POS 's))
+              (NN takeover))
+            (PP (IN of)
+              (NP (DT a) (NN majority) (NN stake))))
+          (PP (IN in)
+            (NP
+              (NP (NNP Banque) (NNP Internationale) (FW de) (NNP Placement))
+              (PRN (-LRB- -LRB-)
+                (NP (NNP BIP))
+                (-RRB- -RRB-)))))))
+    (, ,)
+    (NP (NNP Dresdner) (NNP Bank))
+    (VP (VBD said))
+    (. .)))
+

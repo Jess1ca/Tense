@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Federal) (NNP Bureau))
+      (PP (IN of)
+        (NP (NNP Investigation))))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD received)
+            (NP
+              (NP
+                (QP (JJR more) (IN than) (CD eight) (CD thousand))
+                (NNS reports))
+              (PP (IN of)
+                (NP (NN hate) (NN group) (NNS crimes))))
+            (NP (JJ last) (NN year))))))
+    (. .)))
+

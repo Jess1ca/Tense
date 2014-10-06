@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP James) (NNP E.) (NNP Bacon))
+      (, ,)
+      (NP
+        (NP (CD 58))
+        (, ,)
+        (NP (JJ executive) (NN vice) (NN president))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ has)
+              (VP (VBN directed)
+                (NP (DT the) (JJ funds-service) (NN group)))))))
+      (, ,))
+    (VP (MD will)
+      (VP (VB retire)))
+    (. .)))
+

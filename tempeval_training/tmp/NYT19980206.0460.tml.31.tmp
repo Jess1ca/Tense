@@ -1,0 +1,20 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT The) (NN economy))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBG running)
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NNS fumes))
+                (PP (IN of)
+                  (NP (DT the) (NN strength)))))
+            (PP (IN from)
+              (PP (IN before)
+                (NP (DT the) (NNP Asia) (NN shock))))))))
+    (, ,) ('' '')
+    (NP (NNP McCulley))
+    (VP (VBD said))
+    (. .)))
+

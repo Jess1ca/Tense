@@ -1,0 +1,6 @@
+(ROOT
+  (NP
+    (NP (NNP Lisa) (NNP Stark) (NNP ABC))
+    (NP (NN news))
+    (NP (NNP Washington))))
+

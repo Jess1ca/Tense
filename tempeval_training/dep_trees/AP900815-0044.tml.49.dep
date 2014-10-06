@@ -1,0 +1,23 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	embargo	_	NN	NN	_	4	nsubjpass	_	_
+3	is	_	VBZ	VBZ	_	4	auxpass	_	_
+4	meant	_	VBN	VBN	_	0	root	_	_
+5	to	_	TO	TO	_	6	aux	_	_
+6	cripple	_	VB	VB	_	4	xcomp	_	_
+7	Iraq	_	NNP	NNP	_	6	dobj	_	_
+8	by	_	IN	IN	_	6	prep	_	_
+9	cutting	_	VBG	VBG	_	8	pcomp	_	_
+10	off	_	RP	RP	_	9	prt	_	_
+11	its	_	PRP$	PRP$	_	12	poss	_	_
+12	exports	_	NNS	NNS	_	9	dobj	_	_
+13	of	_	IN	IN	_	12	prep	_	_
+14	oil	_	NN	NN	_	13	pobj	_	_
+15	and	_	CC	CC	_	14	cc	_	_
+16	imports	_	NNS	NNS	_	14	conj	_	_
+17	of	_	IN	IN	_	12	prep	_	_
+18	food	_	NN	NN	_	21	nn	_	_
+19	and	_	CC	CC	_	18	cc	_	_
+20	military	_	JJ	JJ	_	18	conj	_	_
+21	supplies	_	NNS	NNS	_	17	pobj	_	_
+22	.	_	.	.	_	4	punct	_	_
+

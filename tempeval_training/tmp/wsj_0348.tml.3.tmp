@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Ogden) (NNPS Projects))
+      (, ,)
+      (SBAR
+        (WHNP (WP$ whose) (NNS shares))
+        (S
+          (VP (VBD began)
+            (NP (NN trading))
+            (PP (IN on)
+              (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange)))
+            (PP (IN in)
+              (NP (NNP August))))))
+      (, ,))
+    (VP (VBD closed)
+      (NP (NN yesterday))
+      (PP (IN at)
+        (NP ($ $) (CD 26.875)))
+      (, ,)
+      (ADVP (RB down)
+        (NP (CD 75) (NNS cents))))
+    (. .)))
+

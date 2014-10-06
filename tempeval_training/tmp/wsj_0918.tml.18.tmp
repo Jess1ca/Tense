@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (NN Profit))
+    (VP (VBD climbed)
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 98) (CD million))))
+      (PP (IN from)
+        (NP
+          (NP
+            (QP ($ $) (CD 71) (CD million)))
+          (PP (IN in)
+            (NP (DT the) (NN petroleum) (NN segment)))))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (NP
+            (NP (NNP Du) (NNP Pont) (POS 's))
+            (NNP Conoco) (NNP Inc.) (NN oil) (NN company))
+          (VP (VBD was)
+            (VP (VBN helped)
+              (PP
+                (PP (IN by)
+                  (NP (JJ crude) (NN oil) (NNS prices))
+                  (ADVP
+                    (ADVP (RBR higher))
+                    (PP (IN than)
+                      (NP (DT a) (NN year) (IN ago)))))
+                (CC and)
+                (PP (IN by)
+                  (NP (JJR higher) (JJ natural) (NN gas) (NNS prices)
+                    (CC and)
+                    (NN volume)))))))))
+    (. .)))
+

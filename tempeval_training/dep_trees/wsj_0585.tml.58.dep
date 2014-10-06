@@ -1,0 +1,16 @@
+1	Kirschner	_	NNP	NNP	_	2	nsubj	_	_
+2	earned	_	VBD	VBD	_	0	root	_	_
+3	$	_	$	$	_	2	dobj	_	_
+4	376,000	_	CD	CD	_	3	num	_	_
+5	on	_	IN	IN	_	2	prep	_	_
+6	revenue	_	NN	NN	_	5	pobj	_	_
+7	of	_	IN	IN	_	6	prep	_	_
+8	$	_	$	$	_	7	pobj	_	_
+9	14.5	_	CD	CD	_	10	number	_	_
+10	million	_	CD	CD	_	8	num	_	_
+11	in	_	IN	IN	_	2	prep	_	_
+12	the	_	DT	DT	_	14	det	_	_
+13	1988	_	CD	CD	_	14	num	_	_
+14	quarter	_	NN	NN	_	11	pobj	_	_
+15	.	_	.	.	_	2	punct	_	_
+

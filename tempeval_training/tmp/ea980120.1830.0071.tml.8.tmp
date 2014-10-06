@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (PP (IN Above)
+      (NP
+        (NP (PRP it))
+        (PP (IN in)
+          (NP (NNP Spanish) (, ,) (NNP Jesus) (, ,)))
+        (PP (IN in)
+          (NP (PRP you)))))
+    (NP (PRP we))
+    (VP (VBP believe))
+    (. .)))
+

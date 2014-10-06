@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (ADVP (RB Still))
+    (, ,)
+    (NP (JJ stock-index) (NNS funds))
+    (VP (VBP are)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB continue)
+              (S
+                (VP (VBG launching)
+                  (NP (JJ big) (NNS programs))
+                  (PP (IN through)
+                    (NP (DT the) (NN market))))))))))
+    (. .)))
+

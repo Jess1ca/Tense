@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (NNP United) (NNPS Nations)))
+    (, ,)
+    (NP (NNP Libya))
+    (VP (VBD called)
+      (PP (IN for)
+        (NP
+          (NP (DT the) (NN replacement))
+          (PP (IN of)
+            (NP (NNP U.S.) (NNS forces)))))
+      (PP (IN in)
+        (NP (DT the) (NNP Persian) (NNP Gulf)))
+      (PP (IN with)
+        (NP
+          (NP (NNP Arab) (NNP League) (NNS forces))
+          (CC and)
+          (NP (NNP U.N.) (NNS soldiers)))))
+    (. .)))
+

@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Allianz))
+      (, ,)
+      (PP (IN for)
+        (NP (NN example)))
+      (, ,))
+    (VP (VBZ has)
+      (VP (VBN said)
+        (PP (IN in)
+          (NP (JJ official) (NNS comments)))
+        (ADVP
+          (ADVP (RB so) (RB far))
+          (SBAR (IN that)
+            (S
+              (NP (PRP it))
+              (VP (MD will)
+                (VP (VB remain)
+                  (ADJP (JJ neutral)))))))))
+    (. .)))
+

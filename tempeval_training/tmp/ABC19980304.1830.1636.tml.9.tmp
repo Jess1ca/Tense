@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG Being)
+        (NP (NN commander))))
+    (VP (VBZ is)
+      (ADJP (JJ different)))
+    (. .)))
+

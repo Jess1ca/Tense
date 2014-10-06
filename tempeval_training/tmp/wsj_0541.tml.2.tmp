@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN conversion) (NN price))
+      (PP (IN for)
+        (NP (DT the) (NNS debentures))))
+    (VP (VBZ is)
+      (NP
+        (NP ($ $) (CD 41.725))
+        (NP (DT a) (NN share))))
+    (. .)))
+

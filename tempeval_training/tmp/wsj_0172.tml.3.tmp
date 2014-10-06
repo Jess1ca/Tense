@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Midwest) (NNP Financial) (NN subsidiary) (NNS banks))
+    (VP (MD will)
+      (VP (VB continue)
+        (S
+          (VP (TO to)
+            (VP (VB operate)
+              (PP (IN under)
+                (NP (PRP$ their) (JJ current) (NNS names)))
+              (PP (IN until)
+                (NP
+                  (NP (RB early) (CD 1990))
+                  (, ,)
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (DT each))
+                      (VP (MD will)
+                        (VP (VB adopt)
+                          (NP
+                            (NP (DT the) (NNP First))
+                            (PP (IN of)
+                              (NP (NNP America) (NN name)))))))))))))))
+    (. .)))
+

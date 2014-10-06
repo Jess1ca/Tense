@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (IN Under)
+      (NP (DT the) (JJ new) (NNS guidelines)))
+    (, ,)
+    (NP (NN donor) (NNS organs))
+    (VP (MD will)
+      (VP (VB be)
+        (VP (VBN made)
+          (NP
+            (ADJP (JJ available)
+              (PP (TO to)
+                (NP (DT the) (NN sickest))))
+            (NNS people))
+          (ADVP (RB first))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB wherever))
+            (S
+              (NP (PRP they))
+              (VP (VBP live)
+                (PP (IN in)
+                  (NP (DT the) (NN country)))))))))
+    (. .)))
+

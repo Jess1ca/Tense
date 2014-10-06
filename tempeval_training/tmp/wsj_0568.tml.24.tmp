@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (S
+      (NP (DT That))
+      (PRN (, ,)
+        (S
+          (NP (PRP he))
+          (VP (VBD said)))
+        (, ,))
+      (VP (VBZ is)
+        (SBAR
+          (WHADVP (WRB why))
+          (S
+            (NP (NNP Unisys))
+            (VP (VBZ is)
+              (VP (VBG overhauling)
+                (NP (PRP$ its) (JJ whole) (NN business))))))))
+    (: :)
+    (S
+      (NP (PRP It))
+      (VP (VBZ needs)
+        (S
+          (VP (TO to)
+            (VP (VB prepare)
+              (PP (IN for)
+                (NP
+                  (NP (DT a) (NN world))
+                  (SBAR
+                    (WHPP (IN in)
+                      (WHNP (WDT which)))
+                    (S
+                      (NP (NN profit) (NNS margins))
+                      (VP (MD will)
+                        (VP (VB be)
+                          (ADJP
+                            (ADJP (JJR lower))
+                            (SBAR (IN than)
+                              (S
+                                (NP (NN computer) (NNS companies))
+                                (VP (VBP have)
+                                  (VP (VBN been)
+                                    (VP (VBN used)
+                                      (S
+                                        (VP (TO to))))))))))))))))))))
+    (. .)))
+

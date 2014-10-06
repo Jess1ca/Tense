@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Mr.) (NNP Leon))
+      (PP (IN of)
+        (NP (NNP Bear) (NNP Stearns))))
+    (VP (VBD speculated)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNP McCaw))
+            (, ,)
+            (PP (IN in)
+              (NP (DT an) (NN attempt)
+                (S
+                  (VP (TO to)
+                    (VP (VB buy)
+                      (NP (NN time)))))))
+            (, ,))
+          (VP (MD might)
+            (VP (VB consider)
+              (S
+                (VP (VBG filing)
+                  (NP
+                    (NP (DT an) (JJ antitrust) (NN suit))
+                    (PP (IN against)
+                      (NP (NNP BellSouth))))
+                  (PP (IN with)
+                    (NP
+                      (NP (DT the) (NNP Justice) (NNP Department)
+                        (CC and)
+                        (NNP U.S.) (NNP District) (NNP Judge) (NNP Harold) (NNP Greene))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WP who))
+                        (S
+                          (VP (VBZ oversees)
+                            (NP
+                              (NP (NN enforcement))
+                              (PP (IN of)
+                                (NP (DT the) (NN consent) (NN decree)))
+                              (SBAR
+                                (WHNP (WDT that))
+                                (S
+                                  (VP (VBD broke)
+                                    (PRT (RP up))
+                                    (NP
+                                      (NP (DT the) (NNP Bell) (NN system))
+                                      (PP (IN in)
+                                        (NP (CD 1984))))))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (NNP President) (NNP Clinton))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ is)
+            (ADJP (VBN committed)
+              (PP (TO to)
+                (NP
+                  (NP (DT a) (JJ possible) (NN strike))
+                  (PP (IN against)
+                    (NP (NNP Iraq))))))
+            (, ,)
+            (PP (IN despite)
+              (NP
+                (NP (NNS objections))
+                (PP (IN from)
+                  (NP (JJ other) (NNS countries)))))))))
+    (. .)))
+

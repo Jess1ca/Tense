@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (NP (DT the) (NN year))
+        (VP (VBN ended)
+          (NP (NNP July) (CD 2)))))
+    (, ,)
+    (NP (NNP Rally))
+    (VP (VBD had)
+      (NP
+        (NP (JJ net) (NN income))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 2.4) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 34) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,))))
+      (PP (IN on)
+        (NP
+          (NP (NN revenue))
+          (PP (IN of)
+            (NP
+              (QP ($ $) (CD 52.9) (CD million)))))))
+    (. .)))
+

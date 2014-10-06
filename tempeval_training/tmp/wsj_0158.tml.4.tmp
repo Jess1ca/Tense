@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT a) (NN telephone) (NN interview)))
+    (, ,)
+    (NP (NNP Mr.) (NNP Reupke))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP$ his) (NN departure))
+          (VP (VBD was)
+            (PP (IN for)
+              (NP (`` ``)
+                (NP (JJ personal) (NNS reasons))
+                (, ,) ('' '')
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (NP (PRP he))
+                    (VP (VBD declined)
+                      (S
+                        (VP (TO to)
+                          (VP (VB specify)))))))))))))
+    (. .)))
+

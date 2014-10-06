@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Peter) (NNP DaPuzzo))
+      (, ,)
+      (NP
+        (NP (NN head))
+        (PP (IN of)
+          (NP
+            (NP (JJ retail) (NN equity) (NN trading))
+            (PP (IN at)
+              (NP (NNP Shearson) (NNP Lehman) (NNP Hutton))))))
+      (, ,))
+    (VP (VBZ acknowledges)
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (VBD was) (RB n't)
+            (VP (JJ troubled)
+              (PP (IN by)
+                (NP (NN program) (NN trading)))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP it))
+                  (VP (VBD began)
+                    (PP (IN in)
+                      (NP (DT the) (JJ pre-crash) (NN bull) (NN market))))))
+              (SBAR (IN because)
+                (S
+                  (NP (PRP it))
+                  (VP (VBD added)
+                    (SBAR
+                      (S
+                        (NP (NN liquidity)
+                          (CC and)
+                          (NNS people))
+                        (VP (VBD were)
+                          (ADJP (JJ pleased)
+                            (S
+                              (VP (TO to)
+                                (VP (VB see)
+                                  (NP
+                                    (NP (NN stock) (NNS prices))
+                                    (VP (VBG rising))))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (NNP Milton) (NNP Roy))
+    (ADVP (RB recently))
+    (VP (VBD fended)
+      (PRT (RP off))
+      (NP (JJ unsolicited) (NNS overtures))
+      (PP (IN from)
+        (NP
+          (NP (NNP Thermo) (NNP Electron) (NNP Corp.))
+          (, ,)
+          (NP
+            (NP (DT a)
+              (NAC (NNP Waltham) (, ,) (NNP Mass.) (, ,))
+              (NN maker))
+            (PP (IN of)
+              (NP (JJ biomedical) (NNS products)))))))
+    (. .)))
+

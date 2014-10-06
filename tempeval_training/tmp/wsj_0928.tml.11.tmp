@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (NNP Sun))
+    (ADVP (RB also))
+    (VP (VBD reported)
+      (NP
+        (NP (DT a) (JJ record) (NN backlog))
+        (PP (IN of)
+          (NP (NNS orders)))))
+    (. .)))
+

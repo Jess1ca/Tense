@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ so-called) (NN poison) (NN pill))
+    (VP (VBD took)
+      (NP (NN effect))
+      (NP (NNP Aug.) (CD 9))
+      (PP (VBG pending)
+        (NP
+          (NP (NN ratification))
+          (PP (IN by)
+            (NP (NNS holders))))))
+    (. .)))
+

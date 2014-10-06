@@ -1,0 +1,15 @@
+1	In	_	IN	IN	_	8	prep	_	_
+2	over-the-counter	_	JJ	JJ	_	3	amod	_	_
+3	trading	_	NN	NN	_	1	pobj	_	_
+4	yesterday	_	NN	NN	_	8	tmod	_	_
+5	,	_	,	,	_	8	punct	_	_
+6	Benjamin	_	NNP	NNP	_	7	nn	_	_
+7	Franklin	_	NNP	NNP	_	8	nsubj	_	_
+8	rose	_	VBD	VBD	_	0	root	_	_
+9	25	_	CD	CD	_	10	num	_	_
+10	cents	_	NNS	NNS	_	8	dobj	_	_
+11	to	_	TO	TO	_	8	prep	_	_
+12	$	_	$	$	_	11	pobj	_	_
+13	4.25	_	CD	CD	_	12	num	_	_
+14	.	_	.	.	_	8	punct	_	_
+

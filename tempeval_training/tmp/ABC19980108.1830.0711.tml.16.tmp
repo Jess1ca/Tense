@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (NNP Pamela) (NNP Pak))
+    (VP (VBZ owns)
+      (NP (CD eight) (NNS condominiums))
+      (ADVP (RB here)))
+    (. .)))
+

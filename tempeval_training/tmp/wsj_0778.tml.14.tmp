@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Justin) (NNP Feldman)
+        (CC and)
+        (NNP Jack) (NNP Arseneault))
+      (, ,)
+      (NP
+        (NP (NNS attorneys))
+        (PP (IN for)
+          (NP (NNP Mr.) (NNP Antar))))
+      (, ,))
+    (DT both)
+    (VP (VBD declined)
+      (S
+        (VP (TO to)
+          (VP (VB comment)
+            (PP (IN on)
+              (NP (DT the) (NN matter)))))))
+    (. .)))
+

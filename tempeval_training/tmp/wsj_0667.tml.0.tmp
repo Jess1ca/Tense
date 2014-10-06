@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Shoney) (POS 's))
+      (NNP Inc.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB report)
+              (NP
+                (NP (DT a) (NN write-off))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (QP ($ $) (CD 2.5) (CD million)))
+                    (, ,)
+                    (CC or)
+                    (NP
+                      (NP (CD seven) (NNS cents))
+                      (NP (DT a) (NN share)))
+                    (, ,))))
+              (PP (IN for)
+                (NP
+                  (NP (PRP$ its) (JJ fourth) (NN quarter))
+                  (VP (VBN ended)
+                    (NP (NN yesterday))))))))))
+    (. .)))
+

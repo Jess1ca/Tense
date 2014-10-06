@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT a) (NN speech))
+        (VP (VBN delivered)
+          (PP (IN at)
+            (NP (DT the) (NNP Pentagon))))))
+    (, ,)
+    (NP (NNP Bush))
+    (VP (VBD seemed)
+      (S
+        (VP (TO to)
+          (VP (VB suggest)
+            (SBAR (IN that)
+              (S
+                (NP (JJ American) (NNS forces))
+                (VP (MD could)
+                  (VP (VB be)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (NN gulf) (NN region))
+                        (PP (IN for)
+                          (NP (DT some) (NN time)))))))))))))
+    (. .)))
+

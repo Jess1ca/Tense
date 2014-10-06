@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Thomson))
+      (, ,)
+      (PP (IN in)
+        (NP
+          (NP (NNP India))
+          (SBAR
+            (S
+              (VP (TO to)
+                (VP (VB talk)
+                  (PP (TO to)
+                    (NP (NN tourism) (NNS leaders)))))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNS flights))
+          (VP (MD would)
+            (VP (VB provide)
+              (NP (JJ extra) (NN support))
+              (PP (TO to)
+                (NP (DT the) (VBG growing) (NN tourism) (NN market))))))))
+    (. .)))
+

@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (S
+      (NP (NNS Organizers))
+      (VP (VBP state)
+        (NP
+          (NP (DT the) (CD two) (NNS days))
+          (PP (IN of)
+            (NP (NN music)))
+          (, ,)
+          (VP (VBG dancing)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNS speeches))
+      (VP (VBZ is)
+        (VP (VBN expected)
+          (S
+            (VP (TO to)
+              (VP (VB draw)
+                (NP
+                  (QP (DT some) (CD two) (CD million))
+                  (NNS people))))))))
+    (. .)))
+

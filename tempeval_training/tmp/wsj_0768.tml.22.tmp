@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN fund))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (NN cash) (NN cushion))
+          (PP (IN of)
+            (NP
+              (QP (JJR more) (IN than) (CD 10))
+              (NN %)))))
+      (, ,)
+      (S
+        (VP (VBZ has)))
+      ('' '')
+      (VP (VBD met)
+        (NP (PDT all) (DT the) (NNS redemptions))
+        (PP (IN without)
+          (S
+            (VP (VBG having)
+              (S
+                (VP (TO to)
+                  (VP (VB sell)
+                    (NP (CD one) (NN thing))))))))))
+    (, ,) ('' '')
+    (NP (NNP Mr.) (NNP Litvack))
+    (VP (VBZ says))
+    (. .)))
+

@@ -1,0 +1,18 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (MD 'd)
+        (VP (VB like)
+          (S
+            (VP (TO to)
+              (VP (VB continue)
+                (S
+                  (VP (TO to)
+                    (VP (VB reduce)
+                      (NP (NN debt)))))))))))
+    (, ,) ('' '')
+    (NP (NNP President) (NNP Lawrence) (NNP Perlman))
+    (VP (VBD said))
+    (. .)))
+

@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Los) (NNP Angeles)))
+    (NP (DT that) (NN lesson))
+    (VP (VBD was)
+      (VP (VBN brought)
+        (NP (NN home) (NN today))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP
+              (NP (NNS tons))
+              (PP (IN of)
+                (NP (NN earth))))
+            (VP (VBD cascaded)
+              (PRT (RP down))
+              (NP (DT a) (NN hillside))
+              (, ,)
+              (S
+                (VP (VBG ripping)
+                  (NP (CD two) (NNS houses))
+                  (PP (IN from)
+                    (NP (PRP$ their) (NNS foundations))))))))))
+    (. .)))
+

@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP David) (NNP L.) (NNP Koffman))
+        (, ,)
+        (NP
+          (NP (NN president)
+            (CC and)
+            (JJ chief) (NN executive) (NN officer))
+          (PP (IN of)
+            (NP (NNP Jayark))))
+        (, ,))
+      (VP (VBZ holds)
+        (NP
+          (NP
+            (QP (RB about) (CD 40))
+            (NN %))
+          (PP (IN of)
+            (NP (NNP Kofcoh))))))
+    (, ,)
+    (NP (NNP Jayark))
+    (VP (VBD said))
+    (. .)))
+

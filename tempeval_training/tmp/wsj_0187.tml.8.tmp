@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNS Customers) (VBG holding) (NNS contracts))
+        (PP (IN for)
+          (NP
+            (NP (NNP Waertsilae) (NNP Marine) (POS 's))
+            (JJ undelivered) (NNS ships))))
+      (VP (VBP are)
+        (VP (VBN expected)
+          (S
+            (VP (TO to)
+              (VP (VB subscribe)
+                (NP
+                  (NP (JJS most))
+                  (PP (IN of)
+                    (NP (DT the) (VBG remaining)
+                      (QP (CD 170) (CD million))
+                      (NN markkaa))))
+                (PP (IN in)
+                  (NP (NN share) (NN capital)))))))))
+    (, ,)
+    (NP (NN government) (NNS officials))
+    (VP (VBD said))
+    (. .)))
+

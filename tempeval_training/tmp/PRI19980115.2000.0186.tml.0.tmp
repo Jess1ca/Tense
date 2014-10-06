@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Former) (NNS savings)
+        (CC and)
+        (NN loan) (NN chief))
+      (, ,)
+      (NP (NNP Charles) (NNP Keating))
+      (, ,))
+    (VP (VBZ is)
+      (VP (VBG facing)
+        (NP (JJR more) (JJ legal) (NNS troubles))
+        (PP (IN in)
+          (NP (NNP California)))))
+    (. .)))
+

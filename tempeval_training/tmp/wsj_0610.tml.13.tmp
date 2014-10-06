@@ -1,0 +1,13 @@
+(ROOT
+  (S (`` ``)
+    (NP (PRP They))
+    (VP (VBP are) (RB not)
+      (NP
+        (NP (DT a) (JJ happy) (NN group))
+        (PP (IN of)
+          (NP (NNS people))))
+      (PP (IN at)
+        (NP (NNP Battle) (NNP Creek)))
+      (ADVP (RB right) (RB now)))
+    (. .) ('' '')))
+

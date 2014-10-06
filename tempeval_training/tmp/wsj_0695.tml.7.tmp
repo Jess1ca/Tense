@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (NNP Rally) (NNS officials))
+    (VP (VBD were) (RB n't)
+      (ADJP (JJ available)
+        (S
+          (VP (TO to)
+            (VP (VB comment)
+              (NP (JJ late) (NN yesterday)))))))
+    (. .)))
+

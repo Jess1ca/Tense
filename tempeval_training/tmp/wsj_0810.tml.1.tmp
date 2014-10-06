@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT a) (NN news) (NN conference)))
+    (, ,)
+    (NP (NNP Mr.) (NNP Fournier))
+    (VP (VBD accused)
+      (NP
+        (NP (NNP Paribas))
+        (PP (IN of)
+          (S
+            (VP (VBG planning)
+              (S
+                (VP (TO to)
+                  (VP (VB pay)
+                    (PP (IN for)
+                      (NP (DT the) (NN takeover)))
+                    (PP (IN by)
+                      (S
+                        (VP (VBG selling)
+                          (NP
+                            (NP (NNS parts))
+                            (PP (IN of)
+                              (NP
+                                (NP (DT the) (NN company))
+                                (, ,)
+                                (SBAR
+                                  (WHNP (WP$ whose) (NNS interests))
+                                  (S
+                                    (VP (VBP include)
+                                      (NP
+                                        (NP (NN insurance))
+                                        (, ,)
+                                        (NP (NN banking))
+                                        (, ,)
+                                        (NP (NN tuna) (NN canning))
+                                        (, ,)
+                                        (NP (NN sugar))
+                                        (CC and)
+                                        (NP (JJ orange) (NN juice))))))))))))))))))))
+    (. .)))
+

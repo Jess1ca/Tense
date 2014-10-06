@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT The)
+      (ADJP
+        (QP ($ $) (CD 1.5) (CD billion)))
+      (NNP Fidelity) (NNP High) (NNP Income) (NNP Fund))
+    (VP (VBZ has)
+      (VP (VBN had)
+        (NP
+          (NP (DT a) (JJ net) (NN outflow))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP (RB about) ($ $) (CD 150) (CD million)))
+              (PP (IN in)
+                (NP (DT the) (JJ past) (CD two) (NNS months))))))))
+    (. .)))
+

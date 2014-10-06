@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (ADVP (IN So)
+      (PP (IN for)
+        (NP (NNP Hong) (NNP Kong))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP (NN time))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (NP (NN investment) (NNS bankers))
+          (VP (VBP like)
+            (S
+              (VP (TO to)
+                (VP (VB say) (, ,)
+                  (S
+                    (VP (TO to)
+                      (VP (VB reposition)))))))))))
+    (. .)))
+

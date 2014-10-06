@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN offer))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD was)
+            (ADJP (JJ due)
+              (S
+                (VP (TO to)
+                  (VP (VB expire)
+                    (NP (NN yesterday)))))))))
+      (, ,))
+    (VP (VBZ is)
+      (ADJP (JJ conditional)
+        (PP
+          (PP (IN on)
+            (S
+              (NP
+                (NP (CD 50.1) (NN %))
+                (PP (IN of)
+                  (NP (NNP Dunkin') (JJ common) (NNS shares))))
+              (, ,)
+              (PP (IN on)
+                (NP (DT a)
+                  (ADJP (RB fully) (VBN diluted))
+                  (NN basis)))
+              (, ,)
+              (VP (VBG being)
+                (VP (VBN tendered)))))
+          (CC and)
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN withdrawal))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN company) (POS 's))
+                  (NN poison) (NN pill) (NNS rights) (NN plan))))))))
+    (. .)))
+

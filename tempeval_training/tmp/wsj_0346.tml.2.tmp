@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN As)
+      (NP
+        (NP (NN part))
+        (PP (IN of)
+          (NP (DT the) (NN agreement)))))
+    (, ,)
+    (NP (NNP Cilcorp))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB pay)
+              (NP (NNP Hunter))
+              (NP
+                (QP ($ $) (CD 4) (CD million)))
+              (PP (IN in)
+                (NP
+                  (NP (NN exchange))
+                  (PP (IN for)
+                    (NP (NNS agreements)
+                      (S (RB not)
+                        (VP (TO to)
+                          (VP (VB compete)))))))))))))
+    (. .)))
+

@@ -1,0 +1,25 @@
+(ROOT
+  (S (CC But)
+    (NP (DT some) (NNS analysts))
+    (VP (VBD questioned)
+      (SBAR
+        (WHNP
+          (WHNP (WRB how) (RB much))
+          (PP (IN of)
+            (NP (DT an) (NN impact))))
+        (S
+          (NP (DT the) (NN retirement) (NN package))
+          (VP (MD will)
+            (VP (VB have)))))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (JJ few) (NNS jobs))
+          (VP (MD will)
+            (VP (VB end)
+              (PRT (RP up))
+              (S
+                (VP (VBG being)
+                  (VP (VBN eliminated)))))))))
+    (. .)))
+

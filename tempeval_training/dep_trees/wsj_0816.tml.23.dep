@@ -1,0 +1,24 @@
+1	In	_	IN	IN	_	8	prep	_	_
+2	late	_	JJ	JJ	_	5	amod	_	_
+3	New	_	NNP	NNP	_	5	nn	_	_
+4	York	_	NNP	NNP	_	5	nn	_	_
+5	trading	_	NN	NN	_	1	pobj	_	_
+6	the	_	DT	DT	_	7	det	_	_
+7	dollar	_	NN	NN	_	8	nsubj	_	_
+8	was	_	VBD	VBD	_	0	root	_	_
+9	at	_	IN	IN	_	8	prep	_	_
+10	1.8400	_	CD	CD	_	11	num	_	_
+11	marks	_	NNS	NNS	_	9	pobj	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	142.10	_	CD	CD	_	14	num	_	_
+14	yen	_	NNS	NNS	_	11	conj	_	_
+15	compared	_	VBN	VBN	_	8	prep	_	_
+16	with	_	IN	IN	_	15	pcomp	_	_
+17	1.8353	_	CD	CD	_	18	num	_	_
+18	marks	_	NNS	NNS	_	16	pobj	_	_
+19	and	_	CC	CC	_	18	cc	_	_
+20	141.52	_	CD	CD	_	21	num	_	_
+21	yen	_	NNS	NNS	_	18	conj	_	_
+22	Wednesday	_	NNP	NNP	_	16	tmod	_	_
+23	.	_	.	.	_	8	punct	_	_
+

@@ -1,0 +1,10 @@
+1	Amdahl	_	NNP	NNP	_	3	poss	_	_
+2	's	_	POS	POS	_	1	possessive	_	_
+3	results	_	NNS	NNS	_	4	nsubj	_	_
+4	were	_	VBD	VBD	_	0	root	_	_
+5	somewhat	_	RB	RB	_	6	advmod	_	_
+6	worse	_	JJR	JJR	_	4	acomp	_	_
+7	than	_	IN	IN	_	8	mark	_	_
+8	expected	_	VBN	VBN	_	6	ccomp	_	_
+9	.	_	.	.	_	4	punct	_	_
+

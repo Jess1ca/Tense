@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS solutions))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (NP
+        (NP (JJ vital) (NNS components))
+        (PP (IN in)
+          (S
+            (VP (VBG developing)
+              (NP
+                (NP (DT the) (JJ borderless) (NN marketing) (NN flagship) (NN application))
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBZ is)
+                      (NP
+                        (NP (DT a) (JJ vital) (NN element))
+                        (PP (IN for)
+                          (S
+                            (VP (VBG spearheading)
+                              (NP
+                                (NP (DT the) (NN development))
+                                (PP (IN of)
+                                  (NP (DT the)
+                                    (NP
+                                      (NP (NNP Multimedia) (NNP Super) (NNP Corridor))
+                                      (PRN (-LRB- -LRB-)
+                                        (NP (NNP MSC))
+                                        (-RRB- -RRB-)))
+                                    (NN project)))))))))))))))))
+    (. .)))
+

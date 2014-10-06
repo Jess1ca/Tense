@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Many) (NNS funds))
+      (PP (IN in)
+        (NP (JJ recent) (NNS weeks)
+          (CC and)
+          (NNS months))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBG selling)
+          (S
+            (NP
+              (NP (PRP$ their) (JJ highest-quality) (NN junk) (NNS issues))
+              (, ,)
+              (PP (JJ such) (IN as)
+                (NP (NNP RJR) (NNP Nabisco)))
+              (, ,))
+            (VP (TO to)
+              (VP (VB raise)
+                (NP (NN cash))
+                (S
+                  (VP (TO to)
+                    (VP (VB meet)
+                      (NP (VBN expected) (NNS redemptions)))))))))))
+    (. .)))
+

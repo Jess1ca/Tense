@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP Jordanian) (NN monarch))
+      (VP (VBD met)
+        (NP (DT this) (NN week))
+        (PP (IN with)
+          (NP (NNP Saddam)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP he))
+      (VP (VBD told)
+        (NP
+          (NP (NNS reporters))
+          (SBAR
+            (S
+              (NP (PRP he))
+              (VP (VBD had)
+                (NP
+                  (NP (DT no) (NN message))
+                  (PP (IN from)
+                    (NP (NNP Baghdad))))))))))
+    (. .)))
+

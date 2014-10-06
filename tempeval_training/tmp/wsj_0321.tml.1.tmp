@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (NNP StatesWest))
+    (VP (VBZ is) (RB n't)
+      (VP (VBG abandoning)
+        (NP
+          (NP (PRP$ its) (NN pursuit))
+          (PP (IN of)
+            (NP (DT the) (JJ much-larger) (NNP Mesa))))))
+    (. .)))
+

@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (PP (IN Since)
+      (NP (CD 1983)))
+    (, ,)
+    (NP (NNP Westinghouse))
+    (VP (VBZ has)
+      (VP (VBN shed)
+        (NP (CD 70) (NNS businesses))
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (VBD did) (RB n't)
+              (VP (VB expect)
+                (S
+                  (VP (TO to)
+                    (VP (VB produce)
+                      (NP
+                        (ADJP (CD 10) (NN %))
+                        (VBG operating) (NNS margins))
+                      (PP (IN while)
+                        (S
+                          (VP (VBG acquiring)
+                            (NP (CD 55) (NNS businesses))))))))))))))
+    (. .)))
+

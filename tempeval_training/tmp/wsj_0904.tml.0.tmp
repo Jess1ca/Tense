@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (NNP Compaq) (NNP Computer) (NNP Corp.))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ its) (JJ net) (NN income))
+          (VP (VBD rose)
+            (NP (CD 51) (NN %))
+            (PP (IN in)
+              (NP (DT the) (JJ third) (NN quarter)))
+            (, ,)
+            (S
+              (S
+                (VP (VBN bolstered)
+                  (PP (IN by)
+                    (NP (JJ unusual) (NNS gains)))
+                  (PP (IN from)
+                    (NP (PRP$ its) (NN investment)))
+                  (PP (IN in)
+                    (NP (DT a) (NN disk-drive) (NN maker)))))
+              (CC and)
+              (S
+                (VP (VBG reflecting)
+                  (NP
+                    (NP (VBN continued) (NN growth))
+                    (PP (IN in)
+                      (NP (PRP$ its) (JJ European) (NNS operations)))))))))))
+    (. .)))
+

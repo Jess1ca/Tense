@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (NNP Norton))
+    (VP (VBD announced)
+      (NP (RBR earlier) (DT this) (NN month))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (VP (VBG exploring)
+              (NP
+                (NP
+                  (NP (DT the) (JJ possible) (NN sale))
+                  (PP (IN of)
+                    (NP (DT all))))
+                (CC or)
+                (NP
+                  (NP (NN part))
+                  (PP (IN of)
+                    (NP (NNP Eastman) (NNP Christensen))))))))))
+    (. .)))
+

@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNP Construction))
+    (VP (VBZ is)
+      (VP (VBN set)
+        (S
+          (VP (TO to)
+            (VP (VB begin)
+              (PP (IN in)
+                (NP (JJ early) (CD 1991))))))))
+    (. .)))
+

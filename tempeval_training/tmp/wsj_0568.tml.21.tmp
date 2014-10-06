@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (NN strength))
+              (PP (IN of)
+                (NP (DT the) (JJ world-wide) (NN economy))))
+            (VP (VBZ is)
+              (ADJP (JJ suspect))))))
+      (, ,)
+      (CC and)
+      (VP (VBZ does) (RB n't)
+        (VP (VB see)
+          (NP
+            (NP (JJ much) (NN revenue) (NN growth))
+            (PP (IN in)
+              (NP (DT the) (NNS cards)))))))
+    (. .)))
+

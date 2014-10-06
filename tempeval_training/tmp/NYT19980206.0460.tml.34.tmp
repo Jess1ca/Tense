@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN rate))
+      (PP (IN for)
+        (NP (JJ adult) (NNS women))))
+    (VP (VBD rose)
+      (NP (CD 0.4) (NN percent))
+      (, ,)
+      (PP (TO to)
+        (NP (CD 4.4) (NN percent))))
+    (. .)))
+

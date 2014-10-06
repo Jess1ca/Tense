@@ -1,0 +1,42 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (S
+        (NP (NNS People))
+        (VP (VBP have)
+          (VP (VBN been)
+            (VP
+              (VP (VBG seeing)
+                (NP (NN headline))
+                (PP (IN after)
+                  (NP (NN headline)))
+                (PP (IN after)
+                  (NP (NN headline))))
+              (CC and)
+              (VP (VBG saying) (: :) (`` `)
+                (S
+                  (NP (PRP I))
+                  (VP (MD ca) (RB n't)
+                    (VP (VB take)
+                      (NP (PRP it))
+                      (ADVP (RB anymore))))))))))
+      (: --)
+      (S
+        (NP (PRP I))
+        (VP (VBP 'm)
+          (VP (VBG getting)
+            (PRT (RP out))))))
+    (, ,) ('' ') ('' '')
+    (VP (VBZ says)
+      (NP
+        (NP (NNP Kurt) (NNP Brouwer))
+        (PP (IN of)
+          (NP (NNP Brouwer)))))
+    (NP
+      (NP (NNP amp) (NNP Janachowski))
+      (, ,)
+      (NP (DT a)
+        (ADJP (NNP San) (NNP Francisco))
+        (NN investment) (NN adviser)))
+    (. .)))
+

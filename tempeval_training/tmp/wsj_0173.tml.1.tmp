@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP (IN Under)
+      (NP (DT the) (NN plan)))
+    (, ,)
+    (NP
+      (NP (JJ unsecured) (NNS creditors))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBP are)
+            (VP (VBN owed)
+              (PP (IN about)
+                (NP
+                  (QP ($ $) (CD 430) (CD million))))))))
+      (, ,))
+    (VP (MD would)
+      (VP (VB receive)
+        (NP
+          (NP
+            (QP (RB about) ($ $) (CD 92) (CD million)))
+          (, ,)
+          (CC or)
+          (NP
+            (NP (CD 21) (NNS cents))
+            (PP (IN for)
+              (NP
+                (NP (DT each) (NN dollar))
+                (SBAR
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP are)
+                      (VP (VBN owed)))))))))))
+    (. .)))
+

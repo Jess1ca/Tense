@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNP Anheuser))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it) (POS 's) (NN discounting) (NN policy))
+          (ADVP (RB basically))
+          (VP (MD would)
+            (VP (VB involve)
+              (S
+                (VP (VBG matching)
+                  (NP (JJ such) (NNS moves))
+                  (PP (IN by)
+                    (NP
+                      (NP (NNS rivals))
+                      (PP (IN on)
+                        (NP (DT a) (JJ market-by-market) (NN basis))))))))))))
+    (. .)))
+

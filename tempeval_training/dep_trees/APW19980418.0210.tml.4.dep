@@ -1,0 +1,23 @@
+1	Farkas	_	NNS	NNS	_	9	nsubjpass	_	_
+2	,	_	,	,	_	1	punct	_	_
+3	an	_	DT	DT	_	6	det	_	_
+4	air	_	NN	NN	_	6	nn	_	_
+5	force	_	NN	NN	_	6	nn	_	_
+6	captain	_	NN	NN	_	1	appos	_	_
+7	,	_	,	,	_	1	punct	_	_
+8	was	_	VBD	VBD	_	9	auxpass	_	_
+9	sent	_	VBN	VBN	_	0	root	_	_
+10	into	_	IN	IN	_	9	prep	_	_
+11	space	_	NN	NN	_	10	pobj	_	_
+12	on	_	IN	IN	_	11	prep	_	_
+13	board	_	NN	NN	_	12	pobj	_	_
+14	the	_	DT	DT	_	15	det	_	_
+15	Soyuz	_	NNP	NNP	_	9	dobj	_	_
+16	36	_	CD	CD	_	15	num	_	_
+17	on	_	IN	IN	_	15	prep	_	_
+18	May	_	NNP	NNP	_	17	pobj	_	_
+19	26	_	CD	CD	_	18	num	_	_
+20	,	_	,	,	_	18	punct	_	_
+21	1980	_	CD	CD	_	18	num	_	_
+22	.	_	.	.	_	9	punct	_	_
+

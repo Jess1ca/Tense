@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Nadeau))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ intends)
+            (S
+              (VP (TO to)
+                (VP (VB remain)
+                  (NP
+                    (NP (NNP Provigo) (POS 's))
+                    (JJ chief) (NN executive))
+                  (SBAR (RB only)
+                    (SBAR (IN until)
+                      (S
+                        (NP (DT the) (JJ non-food) (NNS businesses))
+                        (VP (VBP are)
+                          (VP (VBN sold)))))
+                    (, ,)
+                    (SBAR
+                      (WHPP (IN after)
+                        (WHNP (DT a) (WDT which)))
+                      (S
+                        (NP (DT a) (JJ new) (JJ chief) (NN executive))
+                        (VP (MD will)
+                          (VP (VB be)
+                            (VP (VBN named))))))))))))))
+    (. .)))
+

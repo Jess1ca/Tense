@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The)
+        (ADJP (RB predominantly) (JJ Moslem))
+        (NN nation))
+      (PP (IN of)
+        (NP (NNP Bangladesh))))
+    (VP (VBD said)
+      (NP (NN today))
+      (SBAR
+        (S
+          (NP (PRP$ its) (NNS troops))
+          (VP (MD would)
+            (VP (VB join)
+              (NP (JJ multinational) (NNS forces))
+              (PP (IN in)
+                (NP (NNP Saudi) (NNP Arabia))))))))
+    (. .)))
+

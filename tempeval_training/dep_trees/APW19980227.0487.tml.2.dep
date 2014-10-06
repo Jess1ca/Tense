@@ -1,0 +1,19 @@
+1	She	_	PRP	PRP	_	2	nsubj	_	_
+2	took	_	VBD	VBD	_	0	root	_	_
+3	the	_	DT	DT	_	4	det	_	_
+4	stand	_	NN	NN	_	2	dobj	_	_
+5	for	_	IN	IN	_	2	prep	_	_
+6	more	_	JJR	JJR	_	7	mwe	_	_
+7	than	_	IN	IN	_	8	quantmod	_	_
+8	four	_	CD	CD	_	9	num	_	_
+9	hours	_	NNS	NNS	_	5	pobj	_	_
+10	Friday	_	NNP	NNP	_	2	tmod	_	_
+11	in	_	IN	IN	_	2	prep	_	_
+12	a	_	DT	DT	_	15	det	_	_
+13	Tel	_	NNP	NNP	_	15	nn	_	_
+14	Aviv	_	NNP	NNP	_	15	nn	_	_
+15	magistrate	_	NN	NN	_	17	poss	_	_
+16	's	_	POS	POS	_	15	possessive	_	_
+17	court	_	NN	NN	_	11	pobj	_	_
+18	.	_	.	.	_	2	punct	_	_
+

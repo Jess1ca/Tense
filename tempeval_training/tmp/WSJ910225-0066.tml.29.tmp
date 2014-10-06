@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (JJ American) (NN war) (NNS planners))
+    (VP (VBP have)
+      (ADVP (RB long))
+      (VP (VBN assumed)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT the) (JJ early) (NN stage))
+              (PP (IN of)
+                (NP (DT the) (NN ground) (NN attack)))
+              (, ,)
+              (SBAR
+                (WHPP (IN in)
+                  (WHNP (WDT which)))
+                (S
+                  (NP (JJ American) (NNS forces))
+                  (VP (MD would)
+                    (VP (VB use)
+                      (NP (PRP$ their) (NN speed))
+                      (PP (TO to)
+                        (NP
+                          (NP
+                            (NP (NN sweep))
+                            (PP (IN around)
+                              (NP (JJ Iraqi) (NNS defenses))))
+                          (CC and)
+                          (NP (PRP$ their) (NN strength)
+                            (S
+                              (VP (TO to)
+                                (VP (VB punch)
+                                  (PP (IN through)
+                                    (NP (DT the)
+                                      (ADJP (RB relatively) (JJ weak))
+                                      (JJ Iraqi) (NN front) (NN line)))))))))))))
+              (, ,))
+            (VP (MD would)
+              (VP (VB be)
+                (NP (DT the) (JJS easiest) (NN part))))))))
+    (. .)))
+

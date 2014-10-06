@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP StatesWest) (NNPS Airlines))
+        (, ,)
+        (NP (NNP Phoenix) (, ,) (NNP Ariz.))
+        (, ,))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD withdrew)
+              (NP (PRP$ its) (NN offer)
+                (S
+                  (VP (TO to)
+                    (VP (VB acquire)
+                      (NP (NNP Mesa) (NNPS Airlines))
+                      (SBAR (IN because)
+                        (S
+                          (NP (DT the)
+                            (NAC (NNP Farmington) (, ,) (NNP N.M.) (, ,))
+                            (NN carrier))
+                          (VP (VBD did) (RB n't)
+                            (VP (VB respond)
+                              (PP (TO to)
+                                (NP (PRP$ its) (NN offer)))
+                              (PP (IN by)
+                                (NP
+                                  (NP (DT the) (NN close))
+                                  (PP (IN of)
+                                    (NP (NN business)))))
+                              (NP (NN yesterday)))))))))))))))
+    (, ,)
+    (NP (DT a) (NN deadline) (NNP StatesWest))
+    (VP (VBD had)
+      (VP (VBN set)
+        (PP (IN for)
+          (NP (DT a) (NN response)))))
+    (. .)))
+

@@ -1,0 +1,17 @@
+1	American	_	NNP	NNP	_	2	nn	_	_
+2	Medical	_	NNP	NNP	_	3	nsubj	_	_
+3	accepted	_	VBD	VBD	_	0	root	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	offer	_	NN	NN	_	3	dobj	_	_
+6	,	_	,	,	_	3	punct	_	_
+7	meanwhile	_	RB	RB	_	8	advmod	_	_
+8	indicating	_	VBG	VBG	_	3	vmod	_	_
+9	it	_	PRP	PRP	_	11	nsubj	_	_
+10	had	_	VBD	VBD	_	11	aux	_	_
+11	heard	_	VBN	VBN	_	8	ccomp	_	_
+12	from	_	IN	IN	_	11	prep	_	_
+13	two	_	CD	CD	_	15	num	_	_
+14	other	_	JJ	JJ	_	15	amod	_	_
+15	suitors	_	NNS	NNS	_	12	pobj	_	_
+16	.	_	.	.	_	3	punct	_	_
+

@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (NNP Annan))
+    (VP (VBZ has)
+      (NP
+        (NP (DT no) (NN trip))
+        (VP (VBN planned)
+          (ADVP (RB so) (RB far)))))
+    (. .)))
+

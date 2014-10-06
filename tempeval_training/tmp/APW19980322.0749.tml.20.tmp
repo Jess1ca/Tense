@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Riot) (NNS police))
+      (PP (IN in)
+        (NP (JJ armored) (NNS cars) (, ,) (NNS shields)
+          (CC and)
+          (NNS helmets))))
+    (VP (VBD prevented)
+      (NP
+        (NP (DT a)
+          (QP (JJ few) (CD hundred))
+          (NNPS Protestants))
+        (, ,)
+        (NP (JJ many) (JJ waving) (NNP British)
+          (CC and)
+          (NNP Ulster) (NNS flags))
+        (, ,))
+      (PP (IN from)
+        (S
+          (VP (VBG interfering)
+            (PP (IN with)
+              (NP (DT the) (NNPS Catholics)))
+            (SBAR (IN as)
+              (S
+                (NP (PRP they))
+                (VP (VBD marched)
+                  (PP (IN within)
+                    (NP
+                      (NP (NNP Portadown) (POS 's))
+                      (JJ few) (JJ Catholic) (NNS streets))))))))))
+    (. .)))
+

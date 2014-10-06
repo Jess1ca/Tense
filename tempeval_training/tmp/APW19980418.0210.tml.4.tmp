@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Farkas))
+      (, ,)
+      (NP (DT an) (NN air) (NN force) (NN captain))
+      (, ,))
+    (VP (VBD was)
+      (VP (VBN sent)
+        (PP (IN into)
+          (NP
+            (NP (NN space))
+            (PP (IN on)
+              (NP (NN board)))))
+        (NP
+          (NP (DT the) (NNP Soyuz) (CD 36))
+          (PP (IN on)
+            (NP (NNP May) (CD 26) (, ,) (CD 1980))))))
+    (. .)))
+

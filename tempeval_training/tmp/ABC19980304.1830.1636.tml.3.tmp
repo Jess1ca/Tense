@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (RB Here))
+    (VP (VBZ 's)
+      (NP
+        (NP (NNP ABC) (POS 's))
+        (NNP Ned) (NNP Potter)))
+    (. .)))
+

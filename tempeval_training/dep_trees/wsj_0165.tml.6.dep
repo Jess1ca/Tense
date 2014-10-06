@@ -1,0 +1,16 @@
+1	Heritage	_	NNP	NNP	_	2	nsubj	_	_
+2	owns	_	VBZ	VBZ	_	0	root	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	operates	_	VBZ	VBZ	_	2	conj	_	_
+5	television	_	NN	NN	_	8	nn	_	_
+6	and	_	CC	CC	_	5	cc	_	_
+7	radio	_	NN	NN	_	5	conj	_	_
+8	stations	_	NNS	NNS	_	2	dobj	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	in-store	_	JJ	JJ	_	11	amod	_	_
+11	advertising	_	NN	NN	_	8	conj	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	promotion	_	NN	NN	_	14	nn	_	_
+14	programs	_	NNS	NNS	_	11	conj	_	_
+15	.	_	.	.	_	2	punct	_	_
+

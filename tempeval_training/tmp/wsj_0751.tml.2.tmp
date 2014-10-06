@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP FDIC))
+      (VP (VBD cleared)
+        (NP (DT the) (NN move))
+        (NP (NN yesterday))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NNS banks))
+      (VP (MD must)
+        (VP (VB wait)
+          (NP
+            (ADVP (IN at) (JJS least))
+            (CD 30) (NNS days))
+          (PP (IN before)
+            (S
+              (VP (VBG closing)
+                (NP (DT the) (NN purchase))))))))
+    (. .)))
+

@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (ADVP (RB also))
+    (VP (VBD cited)
+      (NP
+        (NP (NN interest) (NNS costs)
+          (CC and)
+          (NN amortization))
+        (PP (IN of)
+          (NP (NN goodwill))))
+      (PP (IN as)
+        (NP
+          (NP (NNS factors))
+          (PP (IN in)
+            (NP (DT the) (NN loss))))))
+    (. .)))
+

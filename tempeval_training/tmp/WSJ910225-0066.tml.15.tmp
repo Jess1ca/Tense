@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (ADVP (RB Nevertheless))
+    (, ,)
+    (NP
+      (NP (JJ American) (NNS officials))
+      (PP (IN over)
+        (NP (DT the) (NN weekend))))
+    (VP (VBD became)
+      (ADJP (RBR more) (JJ open))
+      (PP (IN in)
+        (S
+          (VP (VBG declaring)
+            (SBAR (IN that)
+              (S
+                (PP (IN by)
+                  (S
+                    (VP (VBG destroying)
+                      (NP
+                        (NP (NNP Saddam) (NNP Hussein) (POS 's))
+                        (JJ military) (NN machine)))))
+                (NP (PRP they))
+                (VP (VBP hope)
+                  (S
+                    (VP (TO to)
+                      (VP (VB destroy)
+                        (NP (PRP$ his) (NN regime)))))))))))
+      (: --)
+      (S
+        (NP (DT a) (NN goal))
+        (ADJP (JJ likely)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBN supported)
+                  (PP (IN by)
+                    (NP (JJS most) (NNS Americans))))))))))
+    (. .)))
+

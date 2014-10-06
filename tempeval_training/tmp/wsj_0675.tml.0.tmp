@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (S
+      (NP (NN PROGRAM) (NN TRADING))
+      (VP (VBZ is)
+        (VP (VBG being)
+          (VP (VBN curbed)
+            (PP (IN by)
+              (NP (JJR more) (NNS securities) (NNS firms)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (JJ big) (JJ institutional) (NNS investors))
+      (VP (VBP are)
+        (VP (VBN expected)
+          (S
+            (VP (TO to)
+              (VP (VB continue)
+                (NP (DT the) (NN practice))
+                (, ,)
+                (S
+                  (ADVP (RB further))
+                  (VP (VBG roiling)
+                    (NP (DT the) (NN stock) (NN market))))))))))
+    (. .)))
+

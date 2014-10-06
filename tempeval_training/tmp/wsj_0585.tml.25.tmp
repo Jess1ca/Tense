@@ -1,0 +1,15 @@
+(ROOT
+  (S (CC But)
+    (NP (DT this) (NN skittishness))
+    (PRN (, ,)
+      (S
+        (NP (NNP Mr.) (NNP Antolini))
+        (VP (VBZ says)))
+      (, ,))
+    (VP (VBZ is)
+      (VP (VBG creating)
+        (NP (NN liquidity) (NNS problems))
+        (PP (IN in)
+          (NP (JJ certain) (NNP OTC) (NNS stocks)))))
+    (. .)))
+

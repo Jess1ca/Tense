@@ -1,0 +1,20 @@
+1	Still	_	RB	RB	_	3	advmod	_	_
+2	unresolved	_	JJ	JJ	_	3	dep	_	_
+3	is	_	VBZ	VBZ	_	0	root	_	_
+4	Sony	_	NNP	NNP	_	6	poss	_	_
+5	's	_	POS	POS	_	4	possessive	_	_
+6	effort	_	NN	NN	_	3	nsubj	_	_
+7	to	_	TO	TO	_	8	aux	_	_
+8	hire	_	VB	VB	_	6	vmod	_	_
+9	producers	_	NNS	NNS	_	11	dep	_	_
+10	Jon	_	NNP	NNP	_	11	nn	_	_
+11	Peters	_	NNP	NNP	_	16	nsubj	_	_
+12	and	_	CC	CC	_	11	cc	_	_
+13	Peter	_	NNP	NNP	_	14	nn	_	_
+14	Guber	_	NNP	NNP	_	11	conj	_	_
+15	to	_	TO	TO	_	16	aux	_	_
+16	run	_	VB	VB	_	8	xcomp	_	_
+17	the	_	DT	DT	_	18	det	_	_
+18	studio	_	NN	NN	_	16	dobj	_	_
+19	.	_	.	.	_	3	punct	_	_
+

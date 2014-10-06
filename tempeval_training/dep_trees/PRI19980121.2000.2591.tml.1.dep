@@ -1,0 +1,13 @@
+1	We	_	PRP	PRP	_	2	nsubj	_	_
+2	're	_	VBP	VBP	_	0	root	_	_
+3	off	_	RP	RP	_	2	prt	_	_
+4	in	_	IN	IN	_	2	prep	_	_
+5	search	_	NN	NN	_	4	pobj	_	_
+6	of	_	IN	IN	_	5	prep	_	_
+7	an	_	DT	DT	_	11	det	_	_
+8	ancient	_	JJ	JJ	_	11	amod	_	_
+9	and	_	CC	CC	_	8	cc	_	_
+10	exotic	_	JJ	JJ	_	8	conj	_	_
+11	city	_	NN	NN	_	6	pobj	_	_
+12	.	_	.	.	_	2	punct	_	_
+

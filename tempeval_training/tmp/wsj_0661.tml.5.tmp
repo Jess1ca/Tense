@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT a) (NN filing))
+        (PP (IN with)
+          (NP (DT the) (NNPS Securities)
+            (CC and)
+            (NNP Exchange) (NNP Commission)))))
+    (, ,)
+    (NP (NNP DPC) (NNP Acquisition))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ expects)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (MD will)
+                  (VP (VB need)
+                    (NP
+                      (QP (RB about) ($ $) (CD 215) (CD million)))
+                    (S
+                      (VP (TO to)
+                        (VP
+                          (VP (VB buy)
+                            (NP (DT the) (NNS shares)))
+                          (CC and)
+                          (VP (VB pay)
+                            (NP (VBN related) (NNS fees)
+                              (CC and)
+                              (NNS expenses))))))))))))))
+    (. .)))
+

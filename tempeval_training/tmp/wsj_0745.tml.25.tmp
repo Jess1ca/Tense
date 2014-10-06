@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS Conservatives))
+      (VP (VBP do) (RB n't)
+        (VP (VB dare) (VB jeopardize)
+          (NP
+            (NP (JJ marginal) (NNP Tory) (NNS seats))
+            (PP (IN in)
+              (NP (NNP Coventry))))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (NNP Jaguar))
+              (VP (VBZ has)
+                (NP (NN headquarters))))))))
+    (, ,)
+    (CC nor)
+    (SINV (MD can)
+      (NP (DT the) (NN government))
+      (VP
+        (ADVP (RB easily))
+        (RB back)
+        (PRT (RP down))
+        (PP (IN on)
+          (NP
+            (NP (VBN promised) (NN protection))
+            (PP (IN for)
+              (NP (DT a) (VBN privatized) (NN company)))))
+        (SBAR (IN while)
+          (S
+            (NP (PRP it))
+            (VP (VBZ proceeds)
+              (PP (IN with)
+                (NP (JJ controversial) (NNS plans)))
+              (S
+                (VP (TO to)
+                  (VP (VB privatize)
+                    (NP
+                      (NP (JJS most))
+                      (PP (IN of)
+                        (NP
+                          (NP (NNP Britain) (POS 's))
+                          (NN water)
+                          (CC and)
+                          (NN electricity) (NNS industries))))))))))))
+    (. .)))
+

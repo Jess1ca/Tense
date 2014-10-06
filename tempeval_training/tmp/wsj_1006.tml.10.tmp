@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP (DT The) (CD three) (NNS units))
+    (VP (VBP are)
+      (NP
+        (NP (DT a) (JJ nationwide)
+          (UCP (NN pharmaceutical)
+            (CC and)
+            (NNS health-products))
+          (NN distributor))
+        (, ,)
+        (NP (DT a) (JJ small) (NNS sporting-goods) (NN chain))
+        (, ,)
+        (CC and)
+        (NP (DT a) (NN combination) (NN catalog) (NN showroom)
+          (CC and)
+          (NN toy-store) (NN chain))))
+    (. .)))
+

@@ -1,0 +1,20 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	president	_	NN	NN	_	8	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	his	_	PRP$	PRP$	_	6	poss	_	_
+5	top	_	JJ	JJ	_	6	amod	_	_
+6	aides	_	NNS	NNS	_	2	conj	_	_
+7	tentatively	_	RB	RB	_	8	advmod	_	_
+8	decided	_	VBD	VBD	_	0	root	_	_
+9	on	_	RP	RP	_	8	prt	_	_
+10	Feb.	_	NNP	NNP	_	8	tmod	_	_
+11	11	_	CD	CD	_	10	num	_	_
+12	that	_	IN	IN	_	17	mark	_	_
+13	a	_	DT	DT	_	15	det	_	_
+14	ground	_	NN	NN	_	15	nn	_	_
+15	war	_	NN	NN	_	17	nsubj	_	_
+16	would	_	MD	MD	_	17	aux	_	_
+17	be	_	VB	VB	_	8	ccomp	_	_
+18	necessary	_	JJ	JJ	_	17	acomp	_	_
+19	.	_	.	.	_	8	punct	_	_
+

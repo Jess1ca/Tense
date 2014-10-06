@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NN Everyone))
+    (VP (VBZ appears)
+      (S
+        (VP (TO to)
+          (VP (VB believe)
+            (SBAR (IN that)
+              (S
+                (NP (NNP somehow) (NNP Cuba))
+                (VP (VBZ is)
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB change))))))))))))
+    (. .)))
+

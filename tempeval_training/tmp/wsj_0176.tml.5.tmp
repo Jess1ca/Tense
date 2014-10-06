@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (S
+      (NP (NN Property/casualty) (NN insurance))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (NP
+            (NP (DT a) (JJ tough) (NN business))
+            (PP (IN in)
+              (NP (JJ recent) (NNS quarters))))
+          (, ,)
+          (SBAR (IN as)
+            (S
+              (NP (NN pricing))
+              (VP (VBZ has)
+                (VP (VBN been)
+                  (ADJP (JJ cutthroat)))))))))
+    (CC and)
+    (S
+      (NP
+        (NP (JJ natural) (NNS disasters))
+        (PP (JJ such) (IN as)
+          (NP
+            (NP (NNP Hurricane) (NNP Hugo))
+            (CC and)
+            (NP (DT the) (NNP California) (NN earthquake)))))
+      (VP (VBP have)
+        (VP (VBN resulted)
+          (PP (IN in)
+            (NP (JJ huge) (NNS payments))))))
+    (. .)))
+

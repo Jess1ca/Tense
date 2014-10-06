@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Drabinsky))
+    (VP (MD could) (RB n't)
+      (VP (VB be)
+        (VP (VBN reached)
+          (PP (IN for)
+            (NP (NN comment))))))
+    (. .)))
+

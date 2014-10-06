@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (IN On)
+      (NP
+        (NP (NNS days))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (NNS prices))
+            (VP (VBP are)
+              (VP (VBG tumbling)))))))
+    (, ,)
+    (NP (PRP they))
+    (VP (MD must)
+      (VP (VB be)
+        (ADJP (JJ willing)
+          (S
+            (VP (TO to)
+              (VP (VB buy)
+                (NP (NNS shares))
+                (PP (IN from)
+                  (NP (NNS sellers)))))))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT no) (NN one) (RB else))
+            (VP (MD will))))))
+    (. .)))
+

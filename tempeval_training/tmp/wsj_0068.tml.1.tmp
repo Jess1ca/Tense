@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (DT The) (VBN reduced) (NN dividend))
+    (VP (VBZ is)
+      (ADJP (JJ payable)
+        (NP (NNP Jan.) (CD 2))
+        (PP (TO to)
+          (NP
+            (NP (NN stock))
+            (PP (IN of)
+              (NP (NN record))))))
+      (NP (NNP Dec.) (CD 15)))
+    (. .)))
+

@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Martin) (NNP Fabi))
+      (, ,)
+      (NP
+        (NP (NNP Innopac) (POS 's))
+        (NX
+          (NX (NN president))
+          (CC and)
+          (NX (JJ chief) (NN executive))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Innopac))
+          (VP (VBD viewed)
+            (NP
+              (NP (NNP Mr.) (NNP Pattison) (POS 's))
+              (NN decision)
+              (S
+                (VP (TO to)
+                  (VP (VB seek)
+                    (NP (NN control))
+                    (PP (IN as)
+                      (NP (DT a) (`` ``)
+                        (ADJP (RB very) (JJ positive))
+                        ('' '') (NN move)))))))))))
+    (. .)))
+

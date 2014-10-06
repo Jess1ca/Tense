@@ -1,0 +1,39 @@
+(ROOT
+  (SINV
+    (S
+      (PP (IN Despite)
+        (NP
+          (NP (DT the) (JJ early) (NNS indications))
+          (PP (IN of)
+            (NP (NN success)))))
+      (, ,)
+      (NP (DT the) (JJ allied) (NNS forces))
+      (VP (MD could)
+        (ADVP (RB still))
+        (VP
+          (VP (VB suffer)
+            (NP (JJR greater) (NNS casualties)))
+          (CC and)
+          (VP (VB become)))))
+    (VP (VBD bogged)
+      (PRT (RP down))
+      (ADVP (RB militarily))
+      (, ,)
+      (ADVP (RB especially))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP they))
+          (VP (VB encounter)))))
+    (NP
+      (NP (DT the) (JJ tough) (JJ Republican) (NN Guard))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (VP (VBN entrenched)
+              (PP (IN along)
+                (NP (DT the) (JJ Iraq-Kuwait) (NN border))))))))
+    (. .)))
+

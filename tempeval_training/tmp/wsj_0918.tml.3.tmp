@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (DT The) (NN profit) (NN gain))
+    (VP (VBD was)
+      (VP (VBN made)
+        (PP (IN despite)
+          (NP
+            (NP
+              (NP (DT a) (NN weakening))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN housing) (NN market))
+                  (, ,)
+                  (SBAR
+                    (WHPP (IN for)
+                      (WHNP (WDT which)))
+                    (S
+                      (NP (DT the) (NN company))
+                      (VP (VBZ is)
+                        (NP (DT a) (NN supplier))))))))
+            (, ,)
+            (CC and)
+            (NP
+              (NP (DT a) (NN strengthening))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN dollar))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBZ lowers)
+                        (NP
+                          (NP (DT the) (NN value))
+                          (PP (IN of)
+                            (NP (JJ overseas) (NNS earnings)))
+                          (SBAR
+                            (WHADVP (WRB when))
+                            (S
+                              (NP (PRP they))
+                              (VP (VBP are)
+                                (VP (VBN translated)
+                                  (PP (IN into)
+                                    (NP (NNS dollars))))))))))))))))))
+    (. .)))
+

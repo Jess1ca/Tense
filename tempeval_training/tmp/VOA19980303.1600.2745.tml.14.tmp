@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (NNP Mark) (NNP Potach))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (JJ such) (NNS members))
+          (VP (VBP are)
+            (ADVP (RB also))
+            (VP
+              (ADVP (RB intensely))
+              (VBN attracted)
+              (PP (TO to)
+                (NP (JJ apocalyptical) (NNS fantasies))))))))
+    (. .)))
+

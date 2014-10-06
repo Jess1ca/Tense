@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (CD 1988) (JJ third) (NN quarter)))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD posted)
+      (NP
+        (NP (DT a) (JJ net) (NN loss))
+        (PP (IN of)
+          (NP
+            (NP ($ $) (CD 876,706))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 22) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,))))
+      (PP (IN on)
+        (NP
+          (NP (NN revenue))
+          (PP (IN of)
+            (NP
+              (QP (RB about) ($ $) (CD 5.1) (CD million)))))))
+    (. .)))
+

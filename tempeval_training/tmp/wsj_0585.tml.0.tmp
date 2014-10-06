@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Market) (NNS makers))
+      (PP (IN in)
+        (NP (NNP Nasdaq) (JJ over-the-counter) (NNS stocks))))
+    (VP (VBP are)
+      (VP (VBG adding)
+        (NP (PRP$ their) (NNS voices))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (VBG swelling) (NN chorus))
+            (PP (IN of)
+              (NP
+                (NP (NNS complaints))
+                (PP (IN about)
+                  (NP (NN program) (NN trading)))))))))
+    (. .)))
+

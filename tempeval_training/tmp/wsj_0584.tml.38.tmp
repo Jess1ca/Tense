@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (ADVP (RB Indeed))
+    (, ,)
+    (NP
+      (NP (NNP BellSouth) (POS 's))
+      (JJ cellular) (NNS operations))
+    (VP (VBD were)
+      (PP (IN among)
+        (NP (DT the) (JJ first)))
+      (PP (IN in)
+        (NP (DT the) (NN country)
+          (S
+            (VP (TO to)
+              (VP (VB become)
+                (ADJP (JJ profitable))))))))
+    (. .)))
+

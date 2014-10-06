@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (DT The) (NN appointment))
+    (VP (VBZ takes)
+      (NP (NN effect))
+      (NP (NNP Nov.) (CD 13)))
+    (. .)))
+

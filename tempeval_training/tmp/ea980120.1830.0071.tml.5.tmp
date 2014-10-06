@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (S
+      (INTJ (UH Well))
+      (, ,)
+      (NP (DT this))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (NN eve))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP (DT the) (NNP Pope) (POS 's))
+                (NN visit))
+              (PP (TO to)
+                (NP (CD one)))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (JJ last) (NNS bastions))
+                  (PP (IN of)
+                    (NP (NNP Communism)))
+                  (ADVP (RB anywhere)
+                    (PP (IN in)
+                      (NP (DT the) (NN world)))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADVP (RB already))
+        (VP (VBG causing)
+          (NP (JJ enormous) (NNS expectations)))))
+    (. .)))
+

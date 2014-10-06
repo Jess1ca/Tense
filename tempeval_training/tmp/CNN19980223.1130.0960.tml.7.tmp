@@ -1,0 +1,15 @@
+(ROOT
+  (FRAG
+    (NP (DT That))
+    (PP (VBG according)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NNP Lundberg) (NN survey))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP (CD ten) (CD thousand))
+                (NN gas) (NNS stations))
+              (ADVP (JJ nationwide)))))))
+    (. .)))
+

@@ -1,0 +1,21 @@
+1	The	_	DT	DT	_	3	det	_	_
+2	truck	_	NN	NN	_	3	nn	_	_
+3	maker	_	NN	NN	_	4	nsubj	_	_
+4	said	_	VBD	VBD	_	0	root	_	_
+5	the	_	DT	DT	_	7	det	_	_
+6	significant	_	JJ	JJ	_	7	amod	_	_
+7	drop	_	NN	NN	_	12	nsubj	_	_
+8	in	_	IN	IN	_	7	prep	_	_
+9	net	_	JJ	JJ	_	10	amod	_	_
+10	income	_	NN	NN	_	8	pobj	_	_
+11	will	_	MD	MD	_	12	aux	_	_
+12	result	_	VB	VB	_	4	ccomp	_	_
+13	in	_	IN	IN	_	12	prep	_	_
+14	lower	_	JJR	JJR	_	15	amod	_	_
+15	earnings	_	NNS	NNS	_	13	pobj	_	_
+16	for	_	IN	IN	_	15	prep	_	_
+17	the	_	DT	DT	_	19	det	_	_
+18	fiscal	_	JJ	JJ	_	19	amod	_	_
+19	year	_	NN	NN	_	16	pobj	_	_
+20	.	_	.	.	_	4	punct	_	_
+

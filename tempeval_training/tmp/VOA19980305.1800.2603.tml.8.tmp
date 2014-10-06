@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Ms.) (NNP Atimadi))
+      (VP (VBZ says)
+        (SBAR
+          (S
+            (NP (JJ Afghan) (NNS women))
+            (VP (VBP have)
+              (VP (VBN been)
+                (NP
+                  (NP (NNS victims))
+                  (PP (IN of)
+                    (NP
+                      (NP (JJ severe) (NNS violations))
+                      (PP (IN of)
+                        (NP (JJ human) (NNS rights))))))
+                (PP (IN for)
+                  (NP (DT the) (JJ past) (CD twenty) (NNS years)))))))))
+    (CC and)
+    (S
+      (NP (PRP she))
+      (VP (VBZ says)
+        (SBAR
+          (S
+            (NP (PRP she))
+            (VP (VBZ sees)
+              (NP (DT no) (NN end))
+              (PP (TO to)
+                (NP (DT the) (NN misery))))))))
+    (. .)))
+

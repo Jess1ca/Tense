@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNS Howes))
+    (VP (VBD had)
+      (VP (VBN been)
+        (VP (VBG working)
+          (PP (IN for)
+            (NP (DT the) (NNP Britain-based) (NNP Mines) (NNP Advisory) (NNP Group)))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (PRP he))
+              (VP (VBD was)
+                (VP (VBN abducted)
+                  (PP (IN with)
+                    (NP (PRP$ his) (JJ Cambodian) (NN interpreter) (NNP Houn) (NNP Hourth)))
+                  (PP (IN in)
+                    (NP (NNP March) (CD 1996))))))))))
+    (. .)))
+

@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT The) (NN bank))
+    (ADVP (RB also))
+    (VP (VBD said)
+      (SBAR
+        (SBAR
+          (S
+            (NP (PRP$ its) (NN effort))
+            (VP (MD would)
+              (VP (VB continue)
+                (PP (IN past)
+                  (NP
+                    (NP (DT the) (NNP Nov.) (CD 1) (NN deadline))
+                    (VP (VBN set)
+                      (PP (IN in)
+                        (NP (DT that) (NN agreement))))))))))
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (DT the) (NN litigation))
+              (PP (IN between)
+                (NP (DT the) (CD two) (NNS sides))))
+            (VP (MD might)
+              (VP (VB resume)
+                (PP (IN as)
+                  (NP (DT a) (NN result)))))))))
+    (. .)))
+

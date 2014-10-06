@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (SBAR (RB Even) (IN if)
+      (S
+        (NP (DT the) (JJ gross) (JJ national) (NN product))
+        (VP (VBZ is)
+          (UCP (RB either)
+            (ADJP (JJ flat))
+            (CC or)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN growth) (NN range))
+                (PP (IN of)
+                  (NP
+                    (QP (CD 2) (NN %) (TO to) (CD 2.5) (NN %))))))))))
+    (, ,) (`` ``)
+    (S
+      (NP (PRP we))
+      (VP (MD can)
+        (VP (VB handle)
+          (NP (DT that)))))
+    (, ,) ('' '')
+    (NP (NNP Mr.) (NNP Marous))
+    (VP (VBD said))
+    (. .)))
+

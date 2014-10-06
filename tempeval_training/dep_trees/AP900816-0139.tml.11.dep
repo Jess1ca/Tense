@@ -1,0 +1,22 @@
+1	``	_	``	``	_	20	punct	_	_
+2	What	_	WP	WP	_	4	dobj	_	_
+3	we	_	PRP	PRP	_	4	nsubj	_	_
+4	fear	_	VBP	VBP	_	5	csubj	_	_
+5	is	_	VBZ	VBZ	_	20	ccomp	_	_
+6	that	_	IN	IN	_	10	mark	_	_
+7	they	_	PRP	PRP	_	10	nsubjpass	_	_
+8	will	_	MD	MD	_	10	aux	_	_
+9	be	_	VB	VB	_	10	auxpass	_	_
+10	interned	_	VBN	VBN	_	5	ccomp	_	_
+11	somewhere	_	RB	RB	_	10	dobj	_	_
+12	,	_	,	,	_	11	punct	_	_
+13	most	_	RBS	RBS	_	14	advmod	_	_
+14	likely	_	JJ	JJ	_	11	amod	_	_
+15	in	_	IN	IN	_	10	prep	_	_
+16	Iraq	_	NNP	NNP	_	15	pobj	_	_
+17	,	_	,	,	_	20	punct	_	_
+18	''	_	''	''	_	20	punct	_	_
+19	Waldegrave	_	NNP	NNP	_	20	nsubj	_	_
+20	said	_	VBD	VBD	_	0	root	_	_
+21	.	_	.	.	_	20	punct	_	_
+

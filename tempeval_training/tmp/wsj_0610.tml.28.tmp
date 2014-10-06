@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT A) (NN company) (NN spokesman))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was) (`` ``)
+            (ADJP
+              (ADJP (JJ possible))
+              (, ,)
+              (CC but)
+              (ADJP (RB highly) (JJ unlikely))
+              (, ,))
+            ('' '')
+            (SBAR (IN that)
+              (S
+                (NP (DT the) (NN plant))
+                (VP (MD might)
+                  (ADVP (RB never))
+                  (VP (VB be)
+                    (VP (VBN built))))))))))
+    (. .)))
+

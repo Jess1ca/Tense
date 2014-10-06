@@ -1,0 +1,35 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP think)
+        (SBAR
+          (S
+            (NP (NNP frankly) (NNP Saddam))
+            (VP (VBZ is)
+              (VP (VBN finished) (, ,)
+                (NP
+                  (NP (DT no) (NN matter))
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (VP (VBZ happens)))))))))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP
+      (NP (NNP Christine) (NNP Helms))
+      (, ,)
+      (NP
+        (NP (DT a)
+          (ADJP (NNP Middle) (NNP East))
+          (NN scholar))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ has)
+              (VP (VBN written)
+                (ADVP (RB extensively))
+                (PP (IN about)
+                  (NP (NNP Iraq)))))))))
+    (. .)))
+

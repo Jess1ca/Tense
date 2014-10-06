@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD noted)
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ its)
+            (NX
+              (NX (NNP Fox-Meyer) (NNP Drug) (NNP Co.))
+              (, ,)
+              (NX (NNP Ben) (NNP Franklin) (NNPS Stores) (NNP Inc.))
+              (CC and)
+              (NX (NNP Permian) (NNP Corp.) (NNS operations))))
+          (VP (VBD showed)
+            (NP (NNS improvements))
+            (PP (IN as)
+              (NP
+                (NP (DT a) (NN result))
+                (PP (IN of)
+                  (NP (VBG restructuring) (NNS moves)))))))))
+    (. .)))
+

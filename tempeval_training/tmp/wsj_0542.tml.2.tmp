@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NNP Dow) (NNP Jones))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD extended)
+            (NP (DT the) (NN offer)
+              (S
+                (VP (TO to)
+                  (VP (VB allow)
+                    (NP (NNS shareholders))
+                    (NP (NN time))
+                    (S
+                      (VP (TO to)
+                        (VP (VB review)
+                          (NP (DT a) (NN supplement))
+                          (PP (TO to)
+                            (NP (DT the) (NNP Dow) (NNP Jones) (NN tender) (NN offer) (NN circular))))))
+                    (SBAR (IN that)
+                      (S
+                        (NP (PRP it))
+                        (VP (VBD mailed)
+                          (NP (JJ last) (NNP Friday)))))))))))))
+    (. .)))
+

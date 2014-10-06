@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (ADVP (RB Thus))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ remains)
+      (ADJP (JJ crucial)
+        (PP (IN for)
+          (NP (NNP RJR))))
+      (S
+        (VP (TO to)
+          (VP (VB obtain)
+            (NP
+              (NP (JJ top) (NN dollar))
+              (PP (IN for)
+                (NP (PRP$ its) (JJR smaller) (NNS assets))))
+            (PP (IN like)
+              (NP (DT the) (NN candy) (NNS brands)))))))
+    (. .)))
+

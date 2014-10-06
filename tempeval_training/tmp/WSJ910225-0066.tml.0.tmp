@@ -1,0 +1,21 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (ADVP (IN So) (RB far))
+      (, ,)
+      (NP (DT the) (NN offensive))
+      (VP (VBZ is)
+        (VP (VBG progressing)
+          (PP (IN with)
+            (NP (JJ dramatic) (NN success))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (DT a) (JJ buoyant) (NNP Gen.) (NNP Norman) (NNP Schwarzkopf))
+      (, ,)
+      (NP
+        (NP (NN commander))
+        (PP (IN of)
+          (NP (NNP U.S.) (NNS forces)))))
+    (. .)))
+

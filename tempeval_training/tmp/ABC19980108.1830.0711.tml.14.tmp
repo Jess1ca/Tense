@@ -1,0 +1,12 @@
+(ROOT
+  (S (CC And)
+    (NP (NNP Wong) (NNP Kwan))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (JJ lucky)
+          (S
+            (VP (TO to)
+              (VP (VB break)
+                (ADVP (RB even))))))))
+    (. .)))
+

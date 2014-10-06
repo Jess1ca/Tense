@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT that))
+    (VP (VBZ 's)
+      (VP (VBN built)
+        (PRT (RP up))
+        (UCP
+          (NP
+            (NP (DT a) (NN heck))
+            (PP (IN of)
+              (NP (DT a) (NN momentum))))
+          (CC and)
+          (SBAR (IN that)
+            (S
+              (NP (NN momentum))
+              (VP (MD will)
+                (VP (VB look)
+                  (S
+                    (VP (TO to)
+                      (VP (VB increase)))))))))))
+    (. .)))
+

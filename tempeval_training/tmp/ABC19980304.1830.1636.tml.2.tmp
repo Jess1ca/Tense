@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Colonel) (NNP Collins))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (NP (DT the) (NN co-pilot))
+          (ADVP (RB before)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT this) (NN time))
+      (NP (PRP she))
+      (VP (VBZ 's)
+        (NP (DT the) (NN boss))))
+    (. .)))
+

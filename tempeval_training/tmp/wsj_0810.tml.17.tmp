@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN petition))
+      (VP (VBZ is)
+        (ADVP (RB still))
+        (ADJP (VBG pending))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNP Mr.) (NNP Fournier))
+      (VP (VBD downplayed)
+        (NP
+          (NP (DT the) (NN likelihood))
+          (PP (IN of)
+            (NP
+              (NP (PRP$ his) (NN organizing))
+              (NP
+                (NP (DT a) (NN takeover) (NN bid))
+                (PP (IN of)
+                  (NP (PRP$ his) (JJ own)))))))
+        (PP (IN for)
+          (NP (DT the) (JJ much-larger) (NNP Paribas)))))
+    (. .)))
+

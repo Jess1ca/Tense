@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (EX there))
+        (VP (VBD were)
+          (NP
+            (NP (DT no) (JJ one-time) (NNS gains)
+              (CC or)
+              (NNS losses))
+            (PP (IN in)
+              (NP (DT the) (JJS latest) (NN period)))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (JJ one-time) (NN gain))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP (# #) (CD 18) (CD million)))
+            (PP (IN in)
+              (NP (DT the) (CD 1988) (NN period)))))))
+    (. .)))
+

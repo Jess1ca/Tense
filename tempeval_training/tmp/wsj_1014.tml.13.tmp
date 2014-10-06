@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (NNP Anheuser))
+    (VP (VBD noted)
+      (SBAR (IN that) (`` ``)
+        (S
+          (NP (NN beer) (NN industry) (NNS sales) (NN volume))
+          (VP (VBZ is)
+            (NP
+              (NP (CD 1989))
+              (SBAR
+                (S
+                  (VP (VBZ is)
+                    (VP (VBG following)
+                      (NP
+                        (NP (DT the) (NN trend))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (VBZ has)
+                              (VP (VBN characterized)
+                                (NP
+                                  (NP (DT the) (JJ last) (NN half))
+                                  (PP (IN of)
+                                    (NP (DT the) (NNS '80s))))
+                                (, ,)
+                                (PP (IN with)
+                                  (S
+                                    (NP (NNS sales) (NN volume))
+                                    (VP (VBG being)
+                                      (ADJP (RB essentially) (JJ flat))
+                                      ('' '')
+                                      (SBAR (IN while)
+                                        (S
+                                          (NP (NN consolidation))
+                                          (VP (VBZ creates)
+                                            (NP (JJR fewer) (, ,) (JJR bigger) (NNS players))))))))))))))))))))))
+    (. .)))
+

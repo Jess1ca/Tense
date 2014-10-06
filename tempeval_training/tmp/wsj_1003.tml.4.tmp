@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN fact)))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBZ thinks)
+      (SBAR
+        (S
+          (NP (JJ several) (NNS steelmakers))
+          (VP (MD will)
+            (VP (VB report)
+              (NP (JJ actual) (NNS losses))
+              (PP (IN through)
+                (NP
+                  (NP (DT the) (JJ third) (NN quarter))
+                  (PP (IN of)
+                    (NP (CD 1990))))))))))
+    (. .)))
+

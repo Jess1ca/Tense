@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Loan) (NNS covenants))
+    (VP (VBP require)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN company))
+          (VP
+            (VP (VB achieve)
+              (NP
+                (NP (VBN specified) (NNS levels))
+                (PP (IN of)
+                  (NP (VBG operating) (NNS earnings)))))
+            (CC and)
+            (VP (VB meet)
+              (NP (DT a) (JJ rolling) (JJ four-quarter) (NN profitability) (NN test)))))))
+    (. .)))
+

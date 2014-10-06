@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Victor) (NNP Miranda))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ lives)
+            (PP (IN in)
+              (NP
+                (NP (NNP Ms.) (NNP Sanders) (POS '))
+                (NN apartment) (NN building)))
+            (PP (IN at)
+              (NP (NNP 405) (NNP Williams) (NNP Ave.))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN laundry) (NNS machines))
+            (PP (IN in)
+              (NP (DT the) (NN building))))
+          (VP (VBD were)
+            (VP (VBN removed)
+              (ADVP
+                (NP (DT a) (JJ few) (NNS years))
+                (RB ago))
+              (S
+                (VP (TO to)
+                  (VP (VB make)
+                    (NP (NN room))
+                    (PP (IN for)
+                      (NP (NN management) (NNS offices)))))))))))
+    (. .)))
+

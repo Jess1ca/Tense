@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (RB Earlier)
+      (NP (NNP AT))
+      (CC and)
+      (NP (NNP T)))
+    (ADVP (RB also))
+    (VP (VBD announced)
+      (NP (DT an) (JJ eighteen) (NN percent) (NN drop))
+      (PP (IN in)
+        (NP (NNS profits)))
+      (PP (IN for)
+        (NP (DT the) (JJ fourth) (NN quarter))))
+    (. .)))
+

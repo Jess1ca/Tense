@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (JJ Riot) (NNS police))
+    (VP (VBD responded)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (NN volley))
+          (PP (IN of)
+            (NP (JJ plastic) (NNS bullets)))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBN scattered)
+                (NP (DT a) (JJ 50-strong) (NN mob))))))))
+    (. .)))
+

@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (DT The) (NN effort))
+    (VP (VBZ is)
+      (VP (VBG being)
+        (VP (VBN led)
+          (PP (IN by)
+            (NP (NNP Contel))))))
+    (. .)))
+

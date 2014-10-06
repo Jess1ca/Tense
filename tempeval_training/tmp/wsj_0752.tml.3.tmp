@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ national) (JJ over-the-counter) (NN trading)))
+    (NP (NN yesterday))
+    (, ,)
+    (NP (NNP AEP) (NNS shares))
+    (VP (VBD closed)
+      (PP (IN at)
+        (NP ($ $) (CD 21.25)))
+      (, ,)
+      (ADVP (RB down)
+        (NP (CD 50) (NNS cents))))
+    (. .)))
+

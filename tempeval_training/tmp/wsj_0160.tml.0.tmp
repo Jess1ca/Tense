@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (NNP Savin) (NNP Corp.))
+    (VP (VBD reported)
+      (NP
+        (NP (DT a) (JJ third-quarter) (JJ net) (NN loss))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 35.2) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD 31) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,))))
+      (PP (VBN compared)
+        (PP (IN with)
+          (NP
+            (NP (JJ year-earlier) (NN profit))
+            (PP (IN of)
+              (NP
+                (NP
+                  (QP ($ $) (CD 3.8) (CD million)))
+                (, ,)
+                (CC or)
+                (NP
+                  (NP (CD one) (NN cent))
+                  (NP (DT a) (NN share)))))))))
+    (. .)))
+

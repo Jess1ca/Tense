@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP (VBD gave)
+            (NP (DT the) (NNP Amir) (NNS brothers))
+            (NP
+              (NP (JJ false) (NN information))
+              (PP (VBG regarding)
+                (NP
+                  (NP (DT the) (NN location))
+                  (PP (IN of)
+                    (NP (DT a) (NNS weapons)
+                      (CC and)
+                      (NN ammunition) (NN cache)))
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP they))
+                      (VP (VBD asked)
+                        (S
+                          (NP (PRP her))
+                          (VP (TO to)
+                            (VP (VB help)
+                              (VP (VB organize)
+                                (NP (PDT such) (DT a) (NN movement))))))))))))))))
+    (. .)))
+

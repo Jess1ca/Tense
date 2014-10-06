@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Foreign) (NNP Office))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD had)
+            (VP (VBN informed)
+              (NP
+                (NP (DT the) (NN family))
+                (PP (IN of)
+                  (NP (NNP Howes))))
+              (, ,)
+              (S
+                (ADJP
+                  (NP (CD 37) (NNS years))
+                  (JJ old))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP he))
+                    (VP (VBD was)
+                      (VP (VBN kidnapped) (, ,)
+                        (SBAR (IN that)
+                          (S
+                            (NP (PRP he))
+                            (ADVP (RB probably))
+                            (VP (VBD died)
+                              (PP (IN within)
+                                (NP
+                                  (NP (NNS weeks)
+                                    (CC or)
+                                    (NNS months))
+                                  (PP (IN of)
+                                    (NP (PRP$ his) (NN capture)))))
+                              (PP (IN on)
+                                (NP (NNP March) (CD 26) (, ,) (CD 1996))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT A) (NN spokesman))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NN herbicide) (NN use))
+            (PP (IN in)
+              (NP
+                (NP (DT some) (NNS areas))
+                (PP (IN of)
+                  (NP (DT the) (NNP U.S.))))))
+          (VP (VBD was)
+            (VP (VBN delayed)
+              (ADVP (RBR earlier)
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN year))
+                    (PP (IN by)
+                      (NP (JJ heavy) (NNS rains))))
+                  (, ,)
+                  (ADVP (RB thus))))
+              (S
+                (VP (VBG increasing)
+                  (NP (NNS sales))
+                  (PP (IN in)
+                    (NP (DT the) (JJ third) (NN quarter))))))))))
+    (. .)))
+

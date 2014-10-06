@@ -1,0 +1,8 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	appointment	_	NN	NN	_	3	nsubj	_	_
+3	takes	_	VBZ	VBZ	_	0	root	_	_
+4	effect	_	NN	NN	_	3	dobj	_	_
+5	Nov.	_	NNP	NNP	_	3	tmod	_	_
+6	13	_	CD	CD	_	5	num	_	_
+7	.	_	.	.	_	3	punct	_	_
+

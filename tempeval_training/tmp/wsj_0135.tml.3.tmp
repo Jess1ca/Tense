@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ fiscal) (CD 1989)))
+    (, ,)
+    (NP (NNP Elco))
+    (VP (VBD earned)
+      (NP
+        (NP
+          (QP ($ $) (CD 7.8) (CD million)))
+        (, ,)
+        (CC or)
+        (NP
+          (NP ($ $) (CD 1.65))
+          (NP (DT a) (NN share)))))
+    (. .)))
+

@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Profit))
+      (PP (IN from)
+        (NP (NN coal))))
+    (VP (VBD fell)
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 41) (CD million))))
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 58) (CD million))))
+      (, ,)
+      (PP (RB partly) (IN because) (IN of)
+        (NP
+          (NP (DT a) (NNS miners) (POS '))
+          (NN strike))))
+    (. .)))
+

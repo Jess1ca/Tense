@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (PRN (, ,)
+      (S
+        (NP (PRP he))
+        (VP (VBZ says)))
+      (, ,))
+    (`` ``)
+    (NP (PRP it))
+    (VP (VBZ looks)
+      (SBAR (IN like)
+        (S
+          (NP (DT the) (NNP West))
+          (ADVP (RB just))
+          (VP (VBZ wants)
+            (S
+              (VP (TO to)
+                (VP (VB destroy)
+                  (NP (NNP Iraq)))))))))
+    (. .) ('' '')))
+

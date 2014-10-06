@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (PP (IN Over)
+      (NP (DT the) (NN weekend)))
+    (, ,)
+    (NP (NNP McCaw))
+    (VP (VBD continued)
+      (S
+        (VP (TO to)
+          (VP (VB call)
+            (PP (IN for)
+              (NP
+                (NP (DT an) (NN auction))
+                (PP (IN of)
+                  (NP (NNP LIN)))))))))
+    (. .)))
+

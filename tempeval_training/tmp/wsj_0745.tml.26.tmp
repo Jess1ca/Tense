@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (NNP Prime) (NNP Minister) (NNP Margaret) (NNP Thatcher))
+    (VP (MD might) (, ,)
+      (ADVP (RB however))
+      (, ,)
+      (VP (VB be)
+        (ADJP (JJ receptive)
+          (PP (TO to)
+            (NP
+              (NP (DT any) (NN request))
+              (PP (IN by)
+                (NP
+                  (NP (NNP Jaguar) (NNP Chairman) (NNP Sir) (NNP John) (NNP Egan))
+                  (PP (IN for)
+                    (NP
+                      (NP (DT the) (NN restriction) (POS 's))
+                      (JJ early) (NN removal))))))))
+        (S
+          (VP (TO to)
+            (VP (VB let)
+              (S
+                (NP (NNP GM))
+                (VP
+                  (VP (VB amass)
+                    (NP
+                      (QP (JJR more) (IN than) (CD 15))
+                      (NN %)))
+                  (CC or)
+                  (VP (VB mount)
+                    (NP (DT a) (JJ friendly) (NN suitor) (NN bid))
+                    (PP (IN against)
+                      (NP (NNP Ford)))))))))))
+    (. .)))
+

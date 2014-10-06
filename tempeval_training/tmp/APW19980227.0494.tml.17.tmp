@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP Yeltsin)
+      (CC and)
+      (NNP Kuchma))
+    (ADVP (RB also))
+    (VP (VBD called)
+      (PP (IN for)
+        (S
+          (VP (VBG developing)
+            (NP
+              (NP (DT the) (JJ stagnant) (NNS relations))
+              (PP (IN between)
+                (NP
+                  (NP (DT the) (NNS members))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN Commonwealth))
+                      (PP (IN of)
+                        (NP
+                          (NP (NNP Independent) (NNPS States))
+                          (, ,)
+                          (NP
+                            (NP (DT a) (JJ loose) (NN coalition))
+                            (PP (IN of)
+                              (NP (JJ former) (JJ Soviet) (NNS republics)))))))))))))))
+    (. .)))
+

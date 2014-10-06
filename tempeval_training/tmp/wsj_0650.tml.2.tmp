@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (DT The) (NNS debentures))
+    (VP (VBP are)
+      (ADJP (JJ available)
+        (PP (IN through)
+          (NP
+            (NP (NNP Goldman))
+            (, ,)
+            (NP (NNP Sachs) (NNP amp) (NNP Co.))))))
+    (. .)))
+

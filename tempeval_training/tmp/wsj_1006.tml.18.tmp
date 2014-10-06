@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (JJ Last) (NN month))
+    (, ,)
+    (NP (NNP Canadian) (NNP Bond) (NNP Rating) (NNP Service))
+    (VP (VBD downgraded)
+      (NP
+        (NP
+          (NP (NNP Provigo) (POS 's))
+          (JJ commercial) (NN paper))
+        (CC and)
+        (NP
+          (NP (NNS debentures))
+          (PP (RB because) (IN of)
+            (NP (PRP$ its) (JJ lackluster) (NN performance))))))
+    (. .)))
+

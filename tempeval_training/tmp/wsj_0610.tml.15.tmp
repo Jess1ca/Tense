@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT Another) (NN analyst))
+      (, ,)
+      (NP
+        (NP (NNP John) (NNP C.) (NNP Maxwell) (NNP Jr.))
+        (PP (IN of)
+          (NP
+            (NP (NNP Wheat) (, ,) (NNP First) (NNPS Securities))
+            (PP (IN in)
+              (NP (NNP Richmond) (, ,) (NNP Va.))))))
+      (, ,))
+    (VP
+      (ADVP (RB recently))
+      (VBD went)
+      (PP (TO to)
+        (NP (DT a) (`` ``) (VB sell) ('' '') (NN recommendation)))
+      (PP (IN on)
+        (NP
+          (NP (NNP Kellogg) (NN stock))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBD closed)
+                (NP (NNP Friday))
+                (PP (IN at)
+                  (NP ($ $) (CD 71.75)))
+                (, ,)
+                (ADVP (RB down)
+                  (NP (CD 75) (NNS cents)))
+                (, ,)
+                (PP (IN in)
+                  (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading)))))))))
+    (. .)))
+

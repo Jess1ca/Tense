@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP Ralston))
+    (VP (VBD attributed)
+      (NP (PRP$ its) (JJ fourth-quarter) (NN slump))
+      (ADVP (RB partly))
+      (PP (TO to)
+        (NP
+          (NP
+            (NP (JJR higher) (NNS costs))
+            (PP (IN of)
+              (NP
+                (NP (NNS ingredients))
+                (PP (IN in)
+                  (NP (DT the) (JJ pet) (NN food) (NN business))))))
+          (CONJP (RB as) (RB well) (IN as))
+          (NP
+            (NP (JJ competitive) (NNS pressures))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD required)
+                  (NP (JJR higher) (NN advertising) (NN spending)))))))))
+    (. .)))
+

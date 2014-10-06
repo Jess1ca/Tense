@@ -1,0 +1,15 @@
+(ROOT
+  (S (`` ``)
+    (NP
+      (NP (NNPS Nationalists))
+      (PP (IN in)
+        (NP (DT the) (NN north))))
+    (VP (VBP are) (RB not)
+      (NP
+        (NP (DT a) (NN minority))
+        (PP (IN in)
+          (NP
+            (NP (NN someone) (RB else) (POS 's))
+            (NN country)))))
+    (. .)))
+

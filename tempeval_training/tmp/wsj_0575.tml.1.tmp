@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (ADVP (RB Moreover))
+    (, ,)
+    (NP
+      (NP (DT the) (NN company))
+      (, ,)
+      (SBAR
+        (WHNP (WP$ whose) (JJ go-it-alone) (NN approach))
+        (S
+          (ADVP (RB nearly))
+          (VP (VBD proved)
+            (ADJP (JJ fatal)))))
+      (, ,))
+    (ADVP (RB now))
+    (VP (VBZ sees)
+      (NP (NNS alliances))
+      (PP (IN with)
+        (NP
+          (NP (NNS others))
+          (PP (IN as)
+            (NP (DT the) (NN way)))
+          (ADVP (RB back)
+            (PP (TO to)
+              (NP (NN prosperity))))
+          (SBAR
+            (WHPP (IN in)
+              (WHNP (WP what)))
+            (S
+              (NP (PRP it))
+              (VP (VBZ calls)
+                (S (`` ``)
+                  (NP (DT the) (NNS data) (NNS solutions) ('' '') (NN business)))))))))
+    (. .)))
+

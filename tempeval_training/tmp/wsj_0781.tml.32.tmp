@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Intel) (POS 's))
+        (NNS microprocessors))
+      (VP (VBP are)
+        (NP
+          (NP (DT the) (NNS chips))
+          (PP (IN of)
+            (NP
+              (NP (NN choice))
+              (PP (IN in)
+                (NP
+                  (NP (JJ many))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN today) (POS 's))
+                      (JJ personal) (NNS computers))))))))))
+    (CC and)
+    (S
+      (NP (DT the) (CD 80486) (NN microprocessor))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (NN spearhead))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN company) (POS 's))
+              (NN bid)
+              (S
+                (VP (TO to)
+                  (VP (VB guard)
+                    (NP (DT that) (NN spot))
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (JJ next) (NN generation))
+                        (PP (IN of)
+                          (NP (NNS machines)))))))))))))
+    (. .)))
+

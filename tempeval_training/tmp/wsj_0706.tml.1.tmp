@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Security))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD signed)
+            (NP
+              (NP (DT a) (NN letter))
+              (PP (IN of)
+                (NP (NN intent))))
+            (S
+              (VP (TO to)
+                (VP (VB purchase)
+                  (NP
+                    (NP (NNP La) (NNP Jolla) (NNP Bancorp))
+                    (, ,)
+                    (VP (VBG agreeing)
+                      (S
+                        (VP (TO to)
+                          (VP (VB pay)
+                            (NP
+                              (NP ($ $) (CD 15))
+                              (PP (IN of)
+                                (NP (PRP$ its) (JJ own) (NN stock))))
+                            (PP (IN for)
+                              (NP
+                                (NP (DT each) (NN share))
+                                (PP (IN of)
+                                  (NP (NNP La) (NNP Jolla)))))))))))))))))
+    (. .)))
+

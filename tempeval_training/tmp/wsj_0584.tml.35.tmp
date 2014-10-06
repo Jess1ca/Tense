@@ -1,0 +1,17 @@
+(ROOT
+  (S (`` ``)
+    (NP (EX There))
+    (VP (VBZ 's)
+      (ADVP (NN nothing))
+      (VP (VBG preventing)
+        (NP (NNP BellSouth))
+        (PP (IN from)
+          (S
+            (VP (VBG buying)
+              (PRT (RP up))
+              (NP
+                (NP (NNS shares))
+                (PP (IN in)
+                  (NP (DT the) (NN meanwhile)))))))))
+    (. .) ('' '')))
+

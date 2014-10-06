@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ private) (NN group))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ runs)
+            (NP
+              (NP (DT the) (JJ current) (NN system))
+              (, ,)
+              (NP
+                (NP (NNP United) (NNP Network))
+                (PP (IN for)
+                  (NP (NNP Organ) (NNP Sharing))))
+              (, ,)
+              (CC or)
+              (NP (NNS UNOS)))))))
+    (, ,)
+    (VP (VBZ objects)
+      (PP (TO to)
+        (NP (DT the) (JJ new) (NNS regulations))))
+    (. .)))
+

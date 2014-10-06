@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (NNP Shoney) (POS 's))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (JJS latest) (NN restructuring))
+          (VP (VBD affected)
+            (NP
+              (NP (NN bank) (NN indebtedness))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD was)
+                    (VP (VBN incurred)
+                      (S
+                        (VP (TO to)
+                          (VP (VB finance)
+                            (NP
+                              (NP
+                                (QP ($ $) (CD 585) (CD million)))
+                              (PP (IN of)
+                                (NP
+                                  (NP
+                                    (NP (DT the) (NN company) (POS 's))
+                                    (ADJP
+                                      (QP ($ $) (CD 728) (CD million)))
+                                    (NN recapitalization))
+                                  (SBAR
+                                    (WHNP (WDT that))
+                                    (S
+                                      (VP (VBD took)
+                                        (NP (NN place))
+                                        (PP (IN in)
+                                          (NP (CD 1988)))))))))))))))))))))
+    (. .)))
+

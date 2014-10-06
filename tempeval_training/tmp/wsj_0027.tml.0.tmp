@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (S
+      (S
+        (NP
+          (NP
+            (NP (JJ Magna) (NNP International) (NNP Inc.) (POS 's))
+            (NX (JJ chief) (JJ financial) (NN officer)))
+          (, ,)
+          (NP (NNP James) (NNP McAlpine))
+          (, ,))
+        (VP (VBD resigned)))
+      (CC and)
+      (S
+        (NP
+          (NP (PRP$ its) (NN chairman))
+          (, ,)
+          (NP (NNP Frank) (NNP Stronach))
+          (, ,))
+        (VP (VBZ is)
+          (VP (VBG stepping)
+            (PRT (RP in))
+            (S
+              (VP (TO to)
+                (VP (VB help)
+                  (VP (VB turn)
+                    (NP (DT the) (JJ automotive-parts) (NN manufacturer))
+                    (ADVP (RB around))))))))))
+    (, ,)
+    (NP (DT the) (NN company))
+    (VP (VBD said))
+    (. .)))
+

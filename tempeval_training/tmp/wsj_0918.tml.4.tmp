@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (DT The)
+      (NAC (NNP Wilmington) (, ,) (NNP Del.) (, ,))
+      (NN company))
+    (VP (VBD reported)
+      (NP
+        (NP (NN net))
+        (PP (IN of)
+          (NP
+            (NP
+              (QP ($ $) (CD 547) (CD million)))
+            (, ,)
+            (CC or)
+            (NP
+              (NP ($ $) (CD 2.36))
+              (NP (DT a) (NN share)))
+            (, ,)))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD was)
+              (PP (IN in)
+                (NP
+                  (NP (NN line))
+                  (PP (IN with)
+                    (NP (NNP Wall) (NNP Street) (NNS estimates))))))))))
+    (. .)))
+

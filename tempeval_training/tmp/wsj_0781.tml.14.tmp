@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNP Intel))
+    (VP
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD had)
+              (VP (VBN corrected)
+                (NP (DT the) (NNS problems)))))))
+      (CC and)
+      (VP (MD would)
+        (VP (VB start)
+          (S
+            (VP (VBG producing)
+              (NP (JJ bugless) (NNS chips))
+              (NP (JJ next) (NN week)))))))
+    (. .)))
+

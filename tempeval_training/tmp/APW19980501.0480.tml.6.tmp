@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (ADVP (RB However))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ important)
+        (S
+          (VP (TO to)
+            (VP (VB note)
+              (SBAR (IN that)
+                (S
+                  (S
+                    (VP (VBG installing)
+                      (CC or)
+                      (VBG implementing)
+                      (NP (NN Internet) (NNS technologies))
+                      (PP (IN for)
+                        (NP
+                          (NP (NN technology) (POS 's))
+                          (NN sake)))))
+                  (VP (MD would) (RB not)
+                    (VP (VB ensure)
+                      (NP (JJ instant) (NN success)))))))))))
+    (. .)))
+

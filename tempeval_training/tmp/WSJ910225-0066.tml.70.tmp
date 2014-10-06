@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (PRP me)))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (NP (DT a) (JJ great) (NN tragedy)))
+    (. .)))
+

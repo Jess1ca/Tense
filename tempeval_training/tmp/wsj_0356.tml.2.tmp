@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (DT Each) (NN right))
+    (VP (VBZ entitles)
+      (S
+        (NP (NNS shareholders))
+        (VP (TO to)
+          (VP (VB buy)
+            (NP
+              (NP (JJ one-half) (NN share))
+              (PP (IN of)
+                (NP
+                  (NP (JJ common))
+                  (PP (IN for)
+                    (NP ($ $) (CD 30))))))))))
+    (. .)))
+

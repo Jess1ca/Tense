@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Intelogic) (NNP Trace) (NNP Inc.))
+      (, ,)
+      (NP
+        (NP (NNP San) (NNP Antonio))
+        (, ,)
+        (NP (NNP Texas)))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD bought)
+            (NP
+              (NP
+                (QP (CD 2.7) (CD million))
+                (NNS shares))
+              (, ,)
+              (CC or)
+              (NP
+                (QP (RB about) (CD 18))
+                (NN %))
+              (, ,)
+              (PP (IN of)
+                (NP (PRP$ its) (JJ common) (NN stock))))
+            (PP (IN from)
+              (NP
+                (NP (DT an) (JJ unaffiliated) (NN shareholder))
+                (PP (IN for)
+                  (NP
+                    (NP
+                      (NP ($ $) (CD 3.625))
+                      (NP (DT a) (NN share)))
+                    (, ,)
+                    (CC or)
+                    (NP
+                      (QP ($ $) (CD 9.9) (CD million)))))))))))
+    (. .)))
+

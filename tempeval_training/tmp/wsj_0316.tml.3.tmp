@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Deseret))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP
+            (QP (RB about) ($ $) (CD 100) (CD million)))
+          (PP (IN in)
+            (NP (NNS assets)))))
+      (, ,))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN parent))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNP Deseret) (NNP Bank))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ has)
+                  (NP (CD six) (NNS offices)
+                    (CC and)
+                    (NNS headquarters))
+                  (PP (IN at)
+                    (NP
+                      (NP (NNP Pleasant) (NNP Grove))
+                      (, ,)
+                      (NP (NNP Utah)))))))))))
+    (. .)))
+

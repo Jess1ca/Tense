@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT The)
+      (NAC (NNP Van) (NNP Nuys) (, ,) (NNP Calif.) (, ,))
+      (NN thrift))
+    (VP (VBD had)
+      (NP
+        (NP (JJ net) (NN income))
+        (PP (IN of)
+          (NP
+            (NP ($ $) (CD 132,000))
+            (, ,)
+            (CC or)
+            (NP
+              (NP (CD three) (NNS cents))
+              (NP (DT a) (NN share)))
+            (, ,)
+            (ADVP
+              (NP (DT a) (NN year))
+              (RB ago))))))
+    (. .)))
+

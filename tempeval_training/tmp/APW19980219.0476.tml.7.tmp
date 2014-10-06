@@ -1,0 +1,24 @@
+(ROOT
+  (S (`` ``)
+    (ADVP (RB Obviously))
+    (, ,)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (RB deeply) (JJ discouraging)
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NN family))
+              (PP (IN after)
+                (NP (CD 22) (NNS months))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (NP
+          (NP (DT no) (NN proof))
+          (PP (IN of)
+            (NP (NN life))))))
+    (. .)))
+

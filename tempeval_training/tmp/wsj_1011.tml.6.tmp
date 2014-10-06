@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NN Passenger) (NN traffic))
+    (VP (VBD jumped)
+      (NP (CD 14) (NN %))
+      (PP (IN in)
+        (NP (DT the) (NN quarter)))
+      (, ,)
+      (SBAR (IN while)
+        (S
+          (NP
+            (NP (NN profit))
+            (PP (IN per)
+              (NP (NN passenger))))
+          (VP (VBD grew)
+            (NP (CD 2) (NN %))))))
+    (. .)))
+

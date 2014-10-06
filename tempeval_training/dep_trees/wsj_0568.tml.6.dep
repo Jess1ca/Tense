@@ -1,0 +1,27 @@
+1	On	_	IN	IN	_	13	prep	_	_
+2	top	_	NN	NN	_	1	pobj	_	_
+3	of	_	IN	IN	_	2	prep	_	_
+4	that	_	DT	DT	_	3	pobj	_	_
+5	,	_	,	,	_	13	punct	_	_
+6	the	_	DT	DT	_	12	det	_	_
+7	Blue	_	NNP	NNP	_	12	dep	_	_
+8	Bell	_	NNP	NNP	_	7	nn	_	_
+9	,	_	,	,	_	7	punct	_	_
+10	Pa.	_	NNP	NNP	_	7	dep	_	_
+11	,	_	,	,	_	7	punct	_	_
+12	concern	_	NN	NN	_	13	nsubj	_	_
+13	took	_	VBD	VBD	_	0	root	_	_
+14	a	_	DT	DT	_	18	det	_	_
+15	$	_	$	$	_	18	amod	_	_
+16	230	_	CD	CD	_	17	number	_	_
+17	million	_	CD	CD	_	15	num	_	_
+18	charge	_	NN	NN	_	13	dobj	_	_
+19	related	_	VBN	VBN	_	18	vmod	_	_
+20	to	_	TO	TO	_	19	prep	_	_
+21	the	_	DT	DT	_	22	det	_	_
+22	layoffs	_	NNS	NNS	_	20	pobj	_	_
+23	of	_	IN	IN	_	22	prep	_	_
+24	8,000	_	CD	CD	_	25	num	_	_
+25	employees	_	NNS	NNS	_	23	pobj	_	_
+26	.	_	.	.	_	13	punct	_	_
+

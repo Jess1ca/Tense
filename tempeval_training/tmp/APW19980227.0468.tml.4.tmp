@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (VP (VB UR)
+      (NP
+        (NP (DT The)
+          (ADJP (JJ ITAR-Tass) (, ,) (JJ 4th))
+          (NN graf) (NN pvs))
+        (PRN (-LRB- -LRB-)
+          (NP (NNP pvs/ji))
+          (-RRB- -RRB-))))))
+

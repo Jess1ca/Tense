@@ -1,0 +1,25 @@
+1	Bertin	_	NNP	NNP	_	2	nn	_	_
+2	Nadeau	_	NNP	NNP	_	16	nsubj	_	_
+3	,	_	,	,	_	2	punct	_	_
+4	newly	_	RB	RB	_	5	advmod	_	_
+5	appointed	_	JJ	JJ	_	6	amod	_	_
+6	chairman	_	NN	NN	_	2	appos	_	_
+7	and	_	CC	CC	_	6	cc	_	_
+8	interim	_	VBN	VBN	_	10	amod	_	_
+9	chief	_	JJ	JJ	_	10	amod	_	_
+10	executive	_	NN	NN	_	6	conj	_	_
+11	of	_	IN	IN	_	6	prep	_	_
+12	Provigo	_	NNP	NNP	_	11	pobj	_	_
+13	,	_	,	,	_	2	punct	_	_
+14	would	_	MD	MD	_	16	aux	_	_
+15	n't	_	RB	RB	_	16	neg	_	_
+16	say	_	VB	VB	_	0	root	_	_
+17	if	_	IN	IN	_	21	mark	_	_
+18	Mr.	_	NNP	NNP	_	19	nn	_	_
+19	Lortie	_	NNP	NNP	_	21	nsubjpass	_	_
+20	was	_	VBD	VBD	_	21	auxpass	_	_
+21	asked	_	VBN	VBN	_	16	advcl	_	_
+22	to	_	TO	TO	_	23	aux	_	_
+23	leave	_	VB	VB	_	21	xcomp	_	_
+24	.	_	.	.	_	16	punct	_	_
+

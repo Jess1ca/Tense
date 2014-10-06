@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (NNP Delta))
+    (VP (VBZ has)
+      (VP (VBN benefited)
+        (ADVP (RBR more))
+        (PP (IN than)
+          (NP (JJ other) (NNS carriers)))
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NN weakness))
+            (PP (IN of)
+              (NP
+                (NP (NNP Eastern) (NNPS Airlines))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBZ shares)
+                      (NP (DT the) (NNP Atlanta) (NN hub)))))))))))
+    (. .)))
+

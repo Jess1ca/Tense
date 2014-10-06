@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (SBAR (IN Once)
+      (S
+        (NP (NNP Colonel) (NNP Collins))
+        (VP (VBD was)
+          (VP (VBN picked)
+            (PP (IN as)
+              (NP (DT a) (NNP NASA) (NN astronaut)))))))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBD followed)
+      (NP (DT a) (JJ normal) (NN progression))
+      (PP (IN within)
+        (NP (NNP NASA))))
+    (. .)))
+

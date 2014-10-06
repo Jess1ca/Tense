@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP _) (NNP Soviet) (NNP Foreign) (NNP Ministry) (NN spokesman) (NNP Yuri) (NNP Gremitskikh))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (JJ special) (NN ambassador) (NNP Mikhail) (NNP Sytenko))
+          (VP (VBD left)
+            (NP (NNP Tuesday))
+            (PP (IN for)
+              (NP (NNS consultations)))
+            (PP (IN with)
+              (NP
+                (NP (DT the) (NNS governments))
+                (PP (IN of)
+                  (NP
+                    (NP (NNP Syria))
+                    (, ,)
+                    (NP (NNP Jordan))
+                    (, ,)
+                    (NP (NNP Egypt))
+                    (CC and)
+                    (NP (JJ other) (JJ Arab) (NNS countries))))))))))
+    (. .)))
+

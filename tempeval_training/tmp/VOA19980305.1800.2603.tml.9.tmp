@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBZ says)
+        (SBAR
+          (S
+            (NP
+              (NP (NN security))
+              (PP (IN under)
+                (NP (DT the) (JJ fundamentalist) (NNP Taleban) (NN government))))
+            (VP (VBZ is)
+              (ADJP (JJR better)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NN everything) (RB else))
+      (VP (VBZ is)
+        (ADJP (JJR worse))))
+    (. .)))
+

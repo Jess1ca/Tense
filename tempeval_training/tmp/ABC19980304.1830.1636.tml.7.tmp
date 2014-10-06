@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP
+      (NP (RB Just) (DT the) (NN fact))
+      (SBAR (IN that)
+        (S
+          (NP (PRP we))
+          (VP (VBP 're)
+            (VP (VBG doing)
+              (NP (DT the) (NN job))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP we))
+                  (VP (VBP 're)
+                    (VP (VBG doing))))))))))
+    (VP (VBZ makes)
+      (S
+        (NP (PRP us))
+        (NP (NN role) (NNS models))))
+    (. .)))
+

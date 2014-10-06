@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (DT the) (JJ heavy) (NNS outflows))
+        (VP (VBP continue))))
+    (, ,)
+    (NP (NN fund) (NNS managers))
+    (VP (MD will)
+      (VP (VB face)
+        (NP (VBG increasing) (NN pressure)
+          (S
+            (VP (TO to)
+              (VP (VB sell)
+                (PRT (RP off))
+                (NP
+                  (NP (DT some))
+                  (PP (IN of)
+                    (NP (PRP$ their) (NN junk)
+                      (S
+                        (VP (TO to)
+                          (VP (VB pay)
+                            (NP (VBG departing) (NNS investors))
+                            (PP (IN in)
+                              (NP (DT the) (NNS weeks)))
+                            (ADVP (RB ahead))))))))))))))
+    (. .)))
+

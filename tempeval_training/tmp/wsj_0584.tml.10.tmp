@@ -1,0 +1,29 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (VBP 're)
+        (VP (VBG taking)
+          (PP (IN on)
+            (NP (JJR more) (NN debt)))
+          (SBAR (IN than)
+            (S
+              (NP (PRP we))
+              (VP (MD would)
+                (VP (VB have)
+                  (VP (VBN liked)
+                    (S
+                      (VP (TO to)))))))))))
+    (, ,) ('' '')
+    (VP (VBD acknowledged))
+    (NP
+      (NP (NNP Michael) (NNP Plouf))
+      (, ,)
+      (NP
+        (NP (NNP LIN) (POS 's))
+        (NX
+          (NX (NN vice) (NN president))
+          (CC and)
+          (NX (NN treasurer)))))
+    (. .)))
+

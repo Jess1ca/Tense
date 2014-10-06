@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP
+      (NP (VBG Declining) (NNS issues))
+      (PP (IN on)
+        (NP (DT the) (NNP Big) (NNP Board))))
+    (VP (VBD outstripped)
+      (NP (NNS gainers))
+      (NP
+        (NP (CD 1,141))
+        (PP (TO to)
+          (NP (CD 406)))))
+    (. .)))
+

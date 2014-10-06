@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN bulk))
+      (PP (IN of)
+        (NP (DT the) (JJ pretax) (NN charge))))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a)
+          (ADJP
+            (QP ($ $) (CD 62) (CD million)))
+          (NN write-off))
+        (PP (IN of)
+          (NP
+            (NP (VBN capitalized) (NN servicing))
+            (PP (IN at)
+              (NP
+                (NP (DT the) (JJ mobile) (NN home) (NN financing) (NN subsidiary))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (NP (DT the) (NN company))
+                    (VP (VBD said)
+                      (SBAR
+                        (S
+                          (VP (VBD had)
+                            (VP (VBN been)
+                              (NP
+                                (NP (DT a) (JJ big) (NN drain))
+                                (PP (IN on)
+                                  (NP (NNS earnings)))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Amdahl) (POS 's))
+      (NNS results))
+    (VP (VBD were)
+      (ADJP
+        (ADJP (RB somewhat) (JJR worse))
+        (SBAR (IN than)
+          (S
+            (VP (VBN expected))))))
+    (. .)))
+

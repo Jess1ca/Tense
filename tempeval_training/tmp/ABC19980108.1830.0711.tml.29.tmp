@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBP think)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NN mood))
+            (VP (VBZ is)
+              (ADJP (RB fairly) (JJ gloomy)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP think)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's) (RB not)
+              (VP (VBG going)
+                (S
+                  (VP (TO to)
+                    (VP (VB change)
+                      (PP (IN for)
+                        (NP
+                          (NP (DT a) (NN couple))
+                          (PP (IN of)
+                            (NP (NNS years))))))))))))))
+    (. .)))
+

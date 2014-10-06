@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ major) (NN goal))
+      (PP (IN of)
+        (NP
+          (NP (NNP Kuchma) (POS 's))
+          (JJ four-day) (NN state) (NN visit))))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (NN signing))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (JJ 10-year) (JJ economic) (NN program))
+            (VP (VBN aimed)
+              (PP (IN at)
+                (S
+                  (VP (VBG doubling)
+                    (SBAR
+                      (S
+                        (NP
+                          (NP
+                            (NP (DT the) (CD two) (NNS nations) (POS '))
+                            (NN trade) (NN turnover))
+                          (, ,)
+                          (SBAR
+                            (WHNP (WDT which))
+                            (S
+                              (VP (VBD fell)
+                                (S
+                                  (VP (TO to)
+                                    (VP (VB dlrs)
+                                      (NP
+                                        (QP (CD 14) (CD billion)))
+                                      (NP (JJ last) (NN year))))))))
+                          (, ,))
+                        (ADVP (RB down))
+                        (VP (VBZ dlrs)
+                          (NP
+                            (NP
+                              (QP (CD 2.5) (CD billion)))
+                            (PP (IN from)
+                              (NP (CD 1996)))))))))))))))
+    (. .)))
+

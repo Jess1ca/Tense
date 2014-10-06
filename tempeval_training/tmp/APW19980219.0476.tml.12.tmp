@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD received)
+            (NP (NN information))
+            (PP (IN from)
+              (NP (NNP Khmer) (NNP Rouge) (NNS guerrillas)))
+            (PP (IN on)
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (DT the) (NN body))
+                  (VP (VBD had)
+                    (VP (VBN been)
+                      (VP
+                        (VP (VBN buried))
+                        (, ,)
+                        (CC and)
+                        (ADVP (RB recently))
+                        (VP (VBN ordered)
+                          (NP
+                            (NP (CD 10))
+                            (PP (IN of)
+                              (NP (PRP$ his) (NNS men))))
+                          (PP (IN from)
+                            (NP
+                              (NP (DT a) (NN force))
+                              (PP (IN of)
+                                (NP (CD 500) (JJ near) (NNP Khmer) (NNP Rouge) (NN headquarters)))))
+                          (PP (IN in)
+                            (NP (NNP Anlong) (NNP Veng)))
+                          (S
+                            (VP (TO to)
+                              (VP (VB conduct)
+                                (NP (DT the) (NN search))))))))))))))))
+    (. .)))
+

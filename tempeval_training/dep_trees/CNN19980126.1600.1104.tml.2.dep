@@ -1,0 +1,18 @@
+1	Earlier	_	RB	RB	_	2	advmod	_	_
+2	AT	_	NNP	NNP	_	6	nsubj	_	_
+3	and	_	CC	CC	_	2	cc	_	_
+4	T	_	NNP	NNP	_	2	conj	_	_
+5	also	_	RB	RB	_	6	advmod	_	_
+6	announced	_	VBD	VBD	_	0	root	_	_
+7	an	_	DT	DT	_	10	det	_	_
+8	eighteen	_	JJ	JJ	_	10	amod	_	_
+9	percent	_	NN	NN	_	10	nn	_	_
+10	drop	_	NN	NN	_	6	dobj	_	_
+11	in	_	IN	IN	_	6	prep	_	_
+12	profits	_	NNS	NNS	_	11	pobj	_	_
+13	for	_	IN	IN	_	6	prep	_	_
+14	the	_	DT	DT	_	16	det	_	_
+15	fourth	_	JJ	JJ	_	16	amod	_	_
+16	quarter	_	NN	NN	_	13	pobj	_	_
+17	.	_	.	.	_	6	punct	_	_
+

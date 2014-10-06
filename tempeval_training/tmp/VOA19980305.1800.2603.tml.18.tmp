@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (NNP Ms.) (NNP Atimadi))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NNS women))
+            (PP (IN of)
+              (NP (NNP Kabul))))
+          (VP (VBP symbolize)
+            (NP
+              (NP (DT the) (NN suffering))
+              (PP (IN of)
+                (NP
+                  (NP (PDT all) (DT the) (NNS women))
+                  (PP (IN in)
+                    (NP (NNP Afghanistan))))))))))
+    (. .)))
+

@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Du) (NNP Pont))
+          (VP (VBZ holds)
+            (NP
+              (NP
+                (QP (RB about) (CD 23))
+                (NN %))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (JJ world-wide) (NN market))
+                  (, ,)
+                  (NP (DT the) (JJS largest) (JJ single) (NN share))
+                  (, ,))))
+            (PP (IN at)
+              (NP
+                (NP (DT a) (NN time))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP
+                      (NP (VBG growing) (NNS uses))
+                      (PP (IN for)
+                        (NP (DT the) (NN pigment))))
+                    (VP (VBP have)
+                      (VP (VBN kept)
+                        (NP (PRP it))
+                        (PP (IN in)
+                          (NP (JJ tight) (NN supply)))))))))
+            (, ,)
+            (SBAR (IN although)
+              (S
+                (NP (NNS others))
+                (VP (VBP are)
+                  (ADVP (RB now))
+                  (VP (VBG adding)
+                    (NP (JJ low-cost) (NN production) (NN capacity))))))))))
+    (. .)))
+

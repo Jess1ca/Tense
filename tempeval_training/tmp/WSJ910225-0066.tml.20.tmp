@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP Iraq))
+    (ADVP (RB still))
+    (VP (VBZ has)
+      (NP (DT the) (NN potential)
+        (S
+          (VP (TO to)
+            (VP (VB cause)
+              (NP (JJ significant) (NNS problems))
+              (PP (IN by)
+                (S
+                  (VP (VBG using)
+                    (NP
+                      (NP (NNS forces)
+                        (CC and)
+                        (NNS weapons))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP (VBP do) (RB n't)
+                            (ADVP (RB yet))
+                            (VP (VB seem)
+                              (ADJP (RB fully) (VBN engaged)))))))))))))))
+    (. .)))
+

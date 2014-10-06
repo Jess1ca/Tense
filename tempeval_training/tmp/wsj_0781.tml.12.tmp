@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NN Yesterday))
+    (, ,)
+    (NP (NNP Compaq))
+    (VP (VBD plunged)
+      (ADVP (RBR further))
+      (, ,)
+      (S
+        (VP (VBG closing)
+          (PP (IN at)
+            (NP
+              (NP ($ $) (CD 100))
+              (NP (DT a) (NN share))))))
+      (, ,)
+      (ADVP (RB off)
+        (NP
+          (NP ($ $) (CD 8.625))
+          (NP (DT a) (NN share))))
+      (, ,)
+      (PP (IN on)
+        (NP
+          (NP (NN volume))
+          (PP (IN of)
+            (NP (CD 2,633,700) (NNS shares))))))
+    (. .)))
+

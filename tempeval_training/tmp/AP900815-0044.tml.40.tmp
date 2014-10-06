@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT The) (NN monarch))
+    (VP (MD will)
+      (VP (VB meet)
+        (NP
+          (NP (NNP Bush))
+          (PP (IN on)
+            (NP (NNP Thursday))))
+        (PP (IN in)
+          (NP (NNP Kennebunkport) (, ,) (NNP Maine)))))
+    (. .)))
+

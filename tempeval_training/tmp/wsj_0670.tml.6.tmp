@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT The) (NN extrusion) (NN unit))
+    (VP (VBZ produces)
+      (NP
+        (NP
+          (ADJP (JJ bare)
+            (CC and)
+            (JJ painted))
+          (NN custom) (NNS extrusions))
+        (PP (IN for)
+          (NP (VBG building)
+            (UCP (NNS products)
+              (CC and)
+              (NN construction))
+            (NNS industries)))))
+    (. .)))
+

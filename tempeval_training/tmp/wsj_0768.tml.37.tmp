@@ -1,0 +1,35 @@
+(ROOT
+  (SINV
+    (VP (VBZ Says))
+    (NP
+      (NP (NNP Michael) (NNP Hirsch))
+      (, ,)
+      (NP
+        (NP (JJ chief)
+          (NX
+            (NX
+              (NX (NN investment) (NN officer))
+              (PP (IN of)
+                (NP (NNP Republic) (NNP National) (NNP Bank))))
+            (CC and)
+            (NX (NN manager))))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNP FundTrust) (NNP Group))
+            (PP (IN in)
+              (NP (NNP New) (NNP York)))))))
+    (: :) (`` ``)
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (NN time) (NN bomb))
+          (VP
+            (ADVP (RB just))
+            (VBG waiting)
+            (S
+              (VP (TO to)
+                (VP (VB go)
+                  (PRT (RP off)))))))))
+    (. .) ('' '')))
+

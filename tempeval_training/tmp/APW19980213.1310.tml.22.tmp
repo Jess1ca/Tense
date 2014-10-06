@@ -1,0 +1,33 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (NP
+          (NP
+            (NP (DT an) (JJ important) (NN step))
+            (PP (IN along)
+              (NP
+                (NP (DT the) (NN path))
+                (PP (IN towards)
+                  (NP
+                    (NP (NNP Australia))
+                    (VP (VBG claiming)
+                      (NP (PRP$ its) (JJ full) (NN sovereignty))))))))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (JJ due) (NN recognition))
+            (SBAR (IN that)
+              (S
+                (NP (DT the) (NN monarchy))
+                (VP (MD can)
+                  (ADVP (RB no) (RB longer))
+                  (VP (VB serve)
+                    (NP (PRP us))
+                    (ADVP (RB appropriately))))))))))
+    (, ,) ('' '')
+    (NP (NNP Keating))
+    (VP (VBD said))
+    (. .)))
+

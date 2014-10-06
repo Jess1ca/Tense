@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP GM) (NN move))
+    (VP (VBZ follows)
+      (NP
+        (NP (NNP Tuesday) (POS 's))
+        (NN declaration))
+      (PP (IN by)
+        (NP
+          (NP (NNP Ford))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ holds)
+                (NP
+                  (NP (DT an) (JJ unwelcome)
+                    (ADJP (CD 12.45) (NN %))
+                    (NN stake))
+                  (PP (IN in)
+                    (NP (NNP Jaguar))))
+                (, ,)
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ is)
+                      (ADJP (JJ prepared)
+                        (S
+                          (VP (TO to)
+                            (VP (VB bid)
+                              (PP (IN for)
+                                (NP (DT the) (JJ entire) (NN company))))))))))))))))
+    (. .)))
+

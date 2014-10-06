@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ Their) (NN junk) (NNS funds))
+      (VP (VBN combined)))
+    (VP (VBP have)
+      (VP (VBN had)
+        (NP (JJ net) (NNS outflows))
+        (S
+          (VP (VBG totaling)
+            (NP
+              (NP
+                (QP (RB nearly) ($ $) (CD 500) (CD million)))
+              (, ,)
+              (CC or)
+              (NP
+                (NP
+                  (QP (RB about) (CD 13))
+                  (NN %))
+                (PP (IN of)
+                  (NP (PRP$ their) (NN junk) (NN fund) (NNS assets))))
+              (, ,))
+            (PP (IN in)
+              (NP (DT the) (JJ past) (CD two) (NNS months)))))))
+    (. .)))
+

@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Frederick) (NNP B.) (NNP Taylor))
+      (, ,)
+      (NP (CD 48))
+      (, ,))
+    (ADVP (RB also))
+    (VP (VBD was)
+      (VP (VBN named)
+        (NP
+          (NP (DT a)
+            (NX
+              (NX (NN vice) (NN chairman))
+              (CC and)
+              (NX (JJ chief) (NN investment) (NN officer))))
+          (, ,)
+          (NP (DT a) (JJ new) (NN post)))))
+    (. .)))
+

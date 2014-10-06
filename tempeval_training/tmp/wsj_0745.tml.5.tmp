@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Speculative) (NNS investors))
+      (, ,)
+      (VP (VBG betting)
+        (PP (IN on)
+          (NP
+            (NP (DT an) (JJ imminent) (NN clash))
+            (PP (IN between)
+              (NP (NNP Ford)
+                (CC and)
+                (NNP GM))))))
+      (, ,))
+    (VP (VBD pushed)
+      (PRT (RP up))
+      (NP
+        (NP
+          (NP (NNP Jaguar) (POS 's))
+          (NN share) (NN price) (CD five) (NN pence))
+        (PRN (-LRB- -LRB-)
+          (NP (CD eight) (NNP U.S.) (NNS cents))
+          (-RRB- -RRB-)))
+      (PP (TO to)
+        (NP
+          (NP (DT a) (JJ near-record) (CD 720) (NNS pence))
+          (PRN (-LRB- -LRB-)
+            (NP ($ $) (CD 11.60))
+            (-RRB- -RRB-))))
+      (PP (IN in)
+        (NP
+          (NP (JJ late) (NN trading))
+          (PP (IN on)
+            (NP
+              (NP (NNP London) (POS 's))
+              (NN stock) (NN exchange)))))
+      (NP (NN yesterday)))
+    (. .)))
+

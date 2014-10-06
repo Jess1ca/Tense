@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (NNP Hadson) (NNP Corp.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP
+            (VP (VBZ expects)
+              (S
+                (VP (TO to)
+                  (VP (VB report)
+                    (NP
+                      (NP (DT a) (JJ third-quarter) (JJ net) (NN loss))
+                      (PP (IN of)
+                        (NP
+                          (NP
+                            (QP ($ $) (CD 17) (CD million) (TO to) ($ $) (CD 19) (CD million)))
+                          (PP (RB because) (IN of)
+                            (NP (JJ special) (NNS reserves))))))))))
+            (CC and)
+            (VP (VBD continued)
+              (NP (JJ low) (NN natural-gas) (NNS prices)))))))
+    (. .)))
+

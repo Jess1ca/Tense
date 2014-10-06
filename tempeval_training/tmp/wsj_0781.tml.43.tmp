@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ 's)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (VP (MD will)
+            (VP (VB keep)
+              (NP
+                (NP (NN computer) (NNS makers))
+                (VP (VBG coming)
+                  (PP (IN in)
+                    (NP
+                      (NP (NN spite))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT the) (NN irritation))
+                          (PP (IN of)
+                            (NP (NNS bugs))))))))))))))
+    (. .)))
+

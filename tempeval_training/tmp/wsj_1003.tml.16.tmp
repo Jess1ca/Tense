@@ -1,0 +1,32 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (S
+        (NP (PRP We))
+        (VP (VBP anticipate)
+          (SBAR (IN that)
+            (S
+              (NP (NN steel) (NN market) (NNS conditions))
+              (VP (MD will)
+                (VP (VB exhibit)
+                  (NP (DT a) (JJ further) (JJ moderate) (NN decline))
+                  (PP (IN in)
+                    (NP (DT the) (JJ fourth) (NN quarter)))
+                  (SBAR (IN as)
+                    (S
+                      (NP (DT the) (JJ automotive) (NN sector))
+                      (VP (VBZ remains)
+                        (ADJP (JJ weak)))))))))))
+      (CC and)
+      (S
+        (NP (NNS customers))
+        (VP (VBP continue)
+          (S
+            (VP (TO to)
+              (VP (VB adjust)
+                (NP (NNS inventories))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP (NNP Bethlehem) (NNP Chairman) (NNP Walter) (NNP F.) (NNP Williams))
+    (. .)))
+

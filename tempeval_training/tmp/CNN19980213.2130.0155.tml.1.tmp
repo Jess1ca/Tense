@@ -1,0 +1,7 @@
+(ROOT
+  (S
+    (NP (NNP Steve) (NNP Hurst))
+    (VP (VBZ has)
+      (WHNP (WDT that)))
+    (. .)))
+

@@ -1,0 +1,11 @@
+(ROOT
+  (S (CC But)
+    (NP (PRP we))
+    (VP (VBP do) (RB n't)
+      (VP (VB minimize)
+        (NP
+          (NP (DT the) (NNS challenges))
+          (PP (IN of)
+            (NP (DT the) (JJ near) (NN term))))))
+    (. .) ('' '')))
+

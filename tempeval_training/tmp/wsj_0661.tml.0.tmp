@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN unit))
+      (PP (IN of)
+        (NP (NNP DPC) (NNP Acquisition) (NNPS Partners))))
+    (VP
+      (VP (VBD launched)
+        (S
+          (NP
+            (NP (DT a)
+              (ADJP ($ $) (JJ 10-a-share))
+              (NN tender) (NN offer))
+            (PP (IN for)
+              (NP (DT the) (NNS shares))))
+          (ADJP (JJ outstanding)
+            (PP (IN of)
+              (NP (NNP Dataproducts) (NNP Corp.))))))
+      (, ,)
+      (CC and)
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (MD would)
+              (VP (VB seek)
+                (S
+                  (VP (TO to)
+                    (VP (VB liquidate)
+                      (S
+                        (NP (DT the) (NN computer-printer) (NN maker))
+                        (`` ``)
+                        (ADJP
+                          (ADVP (RB as) (RB soon) (RB as))
+                          (JJ possible)))))))))))
+      (, ,) ('' '')
+      (SBAR (RB even) (IN if)
+        (S
+          (NP (DT a) (NN merger))
+          (VP (VBZ is) (RB n't)
+            (VP (VBN consummated))))))
+    (. .)))
+

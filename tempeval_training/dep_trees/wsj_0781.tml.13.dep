@@ -1,0 +1,26 @@
+1	Most	_	JJS	JJS	_	8	nsubjpass	_	_
+2	of	_	IN	IN	_	1	prep	_	_
+3	Compaq	_	NNP	NNP	_	5	poss	_	_
+4	's	_	POS	POS	_	3	possessive	_	_
+5	decline	_	NN	NN	_	2	pobj	_	_
+6	is	_	VBZ	VBZ	_	8	aux	_	_
+7	being	_	VBG	VBG	_	8	auxpass	_	_
+8	attributed	_	VBN	VBN	_	0	root	_	_
+9	to	_	TO	TO	_	8	prep	_	_
+10	a	_	DT	DT	_	13	det	_	_
+11	third-quarter	_	JJ	JJ	_	13	amod	_	_
+12	earnings	_	NNS	NNS	_	13	nn	_	_
+13	report	_	NN	NN	_	9	pobj	_	_
+14	that	_	WDT	WDT	_	15	nsubj	_	_
+15	came	_	VBD	VBD	_	13	rcmod	_	_
+16	in	_	IN	IN	_	17	dep	_	_
+17	at	_	IN	IN	_	15	prep	_	_
+18	the	_	DT	DT	_	20	det	_	_
+19	low	_	JJ	JJ	_	20	amod	_	_
+20	end	_	NN	NN	_	17	pobj	_	_
+21	of	_	IN	IN	_	20	prep	_	_
+22	analysts	_	NNS	NNS	_	24	poss	_	_
+23	'	_	POS	POS	_	22	possessive	_	_
+24	expectations	_	NNS	NNS	_	21	pobj	_	_
+25	.	_	.	.	_	8	punct	_	_
+

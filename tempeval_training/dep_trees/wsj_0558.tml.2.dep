@@ -1,0 +1,23 @@
+1	Last	_	JJ	JJ	_	4	amod	_	_
+2	year	_	NN	NN	_	4	nn	_	_
+3	catastrophe	_	NN	NN	_	4	nn	_	_
+4	losses	_	NNS	NNS	_	5	nsubj	_	_
+5	totaled	_	VBD	VBD	_	0	root	_	_
+6	$	_	$	$	_	5	dobj	_	_
+7	5	_	CD	CD	_	8	number	_	_
+8	million	_	CD	CD	_	6	num	_	_
+9	,	_	,	,	_	5	punct	_	_
+10	when	_	WRB	WRB	_	12	advmod	_	_
+11	net	_	NN	NN	_	12	nsubj	_	_
+12	was	_	VBD	VBD	_	5	advcl	_	_
+13	$	_	$	$	_	12	xcomp	_	_
+14	235.5	_	CD	CD	_	15	number	_	_
+15	million	_	CD	CD	_	13	num	_	_
+16	,	_	,	,	_	13	punct	_	_
+17	or	_	CC	CC	_	13	cc	_	_
+18	$	_	$	$	_	13	conj	_	_
+19	2.07	_	CD	CD	_	18	num	_	_
+20	a	_	DT	DT	_	21	det	_	_
+21	share	_	NN	NN	_	18	dep	_	_
+22	.	_	.	.	_	5	punct	_	_
+

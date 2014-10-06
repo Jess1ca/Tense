@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (DT The) (NN dividend) (NN increase))
+    (VP
+      (VP (VBD was)
+        (NP
+          (NP (NNP Du) (NNP Pont) (POS 's))
+          (NN second))
+        (NP (DT this) (NN year)))
+      (, ,)
+      (NP
+        (NP (DT an) (NN affirmation))
+        (PP (IN of)
+          (NP
+            (NP (NNS statements))
+            (PP (IN by)
+              (NP (JJ top) (NNS executives)))
+            (SBAR (IN that)
+              (S
+                (NP (PRP they))
+                (VP (VBP intend)
+                  (S
+                    (VP (TO to)
+                      (VP (VB increase)
+                        (NP (NNS rewards))
+                        (PP (TO to)
+                          (NP (NNS shareholders)))))))))))))
+    (. .)))
+

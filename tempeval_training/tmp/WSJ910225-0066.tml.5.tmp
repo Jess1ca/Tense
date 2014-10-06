@@ -1,0 +1,29 @@
+(ROOT
+  (SBARQ (`` ``)
+    (WHADVP (WRB Why))
+    (SQ (VBP have)
+      (NP (DT a) (NN war)))
+    (. ?) ('' '')))
+
+(ROOT
+  (S
+    (SINV
+      (VP (VBD asked))
+      (NP
+        (NP (NNP Abdul) (NNP Latif) (NNP Shekar))
+        (, ,)
+        (NP
+          (NP (DT a) (NNS customs) (NN officer))
+          (PP (IN in)
+            (NP (NNP Egypt))))))
+    (, ,)
+    (S
+      (NP (DT a) (NN country))
+      (VP (VBG participating)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN attack))
+            (PP (IN on)
+              (NP (JJ Iraqi) (NNS troops)))))))
+    (. .)))
+

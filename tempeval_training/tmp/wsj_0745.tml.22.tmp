@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (DT the) (NN visit))
+        (VP (VBD was)
+          (ADJP (JJ unrelated)
+            (PP (TO to)
+              (NP (NNP Jaguar)))))))
+    (, ,)
+    (NP (NNP GM) (NNP Chairman) (NNP Roger) (NNP Smith))
+    (VP (VBD answered)
+      (NP
+        (NP (DT the) (NNS legislators) (POS '))
+        (NNS questions))
+      (PP (IN about)
+        (NP (PRP it)))
+      (PP (IN over)
+        (NP (NN lunch)))
+      (NP (NNP Tuesday)))
+    (. .)))
+

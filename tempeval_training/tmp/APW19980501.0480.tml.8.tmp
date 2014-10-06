@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Intranets))
+      (, ,)
+      (PP (IN through)
+        (NP
+          (NP (DT the) (NN use))
+          (PP (IN of)
+            (NP (NN Internet) (NN technology)))))
+      (, ,))
+    (VP (VBP are)
+      (VP (VBN positioned)
+        (PP (IN as)
+          (NP
+            (NP (DT a) (NN platform))
+            (PP (IN for)
+              (NP (NNS companies)))))
+        (S
+          (VP (TO to)
+            (VP (VB optimise) (, ,) (VB expand)
+              (CC and)
+              (VB transform)
+              (NP
+                (NP (JJ new) (NNS channels))
+                (PP (IN of)
+                  (NP (NN business)))))))))
+    (. .)))
+

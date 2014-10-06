@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD would)
+      (VP (VB be)
+        (ADJP (RB very) (JJ surprised))
+        (SBAR (IN if)
+          (S
+            (NP (PRP$ his) (NN departure))
+            (VP (VBZ signals)
+              (NP
+                (NP (DT any) (NN change))
+                (PP (IN in)
+                  (NP (NN strategy)
+                    (CC or)
+                    (NN change))))
+              (PP (IN in)
+                (NP (NN profit) (NNS expectations))))))))
+    (. .) ('' '')))
+

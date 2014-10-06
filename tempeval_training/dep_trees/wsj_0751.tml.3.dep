@@ -1,0 +1,9 @@
+1	A	_	DT	DT	_	3	det	_	_
+2	closing	_	NN	NN	_	3	nn	_	_
+3	date	_	NN	NN	_	7	nsubjpass	_	_
+4	has	_	VBZ	VBZ	_	7	aux	_	_
+5	n't	_	RB	RB	_	7	neg	_	_
+6	been	_	VBN	VBN	_	7	auxpass	_	_
+7	set	_	VBN	VBN	_	0	root	_	_
+8	.	_	.	.	_	7	punct	_	_
+

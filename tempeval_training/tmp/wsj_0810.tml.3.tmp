@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Fournier))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (PP (IN as)
+            (NP (NNP Navigation) (NNP Mixte) (NN chairman)))
+          (, ,)
+          (NP (PRP he))
+          (VP (VBZ is)
+            (VP (VBN prohibited)
+              (PP (IN by)
+                (NP (NN takeover) (NNS regulations)))
+              (PP (IN from)
+                (S
+                  (VP
+                    (VP (VBG organizing)
+                      (NP (PRP$ his) (JJ own) (NN defense)))
+                    (CC or)
+                    (VP (VBG doing)
+                      (NP
+                        (NP (NN anything))
+                        (PP (IN besides)
+                          (NP (VBG managing) (JJ current) (NN company) (NN business)))))))))))))
+    (. .)))
+

@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBN arrested)
+      (NP
+        (NP (CD two) (NNS men))
+        (PP (IN in)
+          (NP (NN connection))))
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN bomb) (NN factory))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (ADVP (RB also))
+              (VP (VBD contained)
+                (NP
+                  (NP (NN circuitry))
+                  (, ,)
+                  (NP (VBG detonating) (NN cord))
+                  (CC and)
+                  (NP
+                    (NP (DT the) (NNP Mitsubishi) (NN truck))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (MD would)
+                          (VP (VB have)
+                            (VP (VBN carried)
+                              (NP (DT the) (NN bomb)))))))))))))))
+    (. .)))
+

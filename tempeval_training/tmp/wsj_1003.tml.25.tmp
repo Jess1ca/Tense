@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (DT The) (JJS latest) (NN period))
+    (VP (VBZ includes)
+      (NP
+        (NP (NNS gains))
+        (PP (IN of)
+          (NP
+            (QP ($ $) (CD 9.1) (CD million)))))
+      (PP (IN from)
+        (NP
+          (NP (JJ early) (NN retirement))
+          (PP (IN of)
+            (NP (NN debt)
+              (CC and)
+              (NN tax) (NN loss) (NN carry-forward))))))
+    (. .)))
+

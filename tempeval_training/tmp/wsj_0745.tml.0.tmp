@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (NNP General) (NNPS Motors) (NNP Corp.))
+    (VP (VBZ wants)
+      (S
+        (VP (TO to)
+          (VP (VB buy)
+            (NP
+              (NP
+                (QP (RB as) (JJ much) (IN as) (CD 15))
+                (NN %))
+              (PP (IN of)
+                (NP (NNP Jaguar) (NNP PLC))))
+            (, ,)
+            (S
+              (VP (VBG marking)
+                (NP (PRP$ its) (JJ first) (NN salvo))
+                (PP (IN in)
+                  (NP
+                    (NP (DT a) (JJ possible) (JJ full-scale) (NN battle))
+                    (PP (IN against)
+                      (NP
+                        (NP (NNP Ford) (NNP Motor) (NNP Co.))
+                        (PP (IN for)
+                          (NP
+                            (NP (NN control))
+                            (PP (IN of)
+                              (NP (DT the) (JJ British) (NN car) (NN maker)))))))))))))))
+    (. .)))
+

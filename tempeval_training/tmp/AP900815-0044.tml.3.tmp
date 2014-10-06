@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT another) (NN mediation) (NN effort)))
+    (, ,)
+    (NP (DT the) (NNP Soviet) (NNP Union))
+    (VP (VBD said)
+      (NP (NN today))
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD had)
+            (VP (VBN sent)
+              (NP (DT an) (NN envoy))
+              (PP (TO to)
+                (NP (DT the) (NNP Middle) (NNP East)))
+              (PP (IN on)
+                (NP
+                  (NP (DT a) (NN series))
+                  (PP (IN of)
+                    (NP (NNS stops)))))
+              (S
+                (VP (TO to)
+                  (VP (VB include)
+                    (NP (NNP Baghdad))))))))))
+    (. .)))
+

@@ -1,0 +1,15 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP You))
+      (VP (MD can)
+        (VP (VB do)
+          (NP (DT that)))))
+    (CC but)
+    (S
+      (NP (PRP you))
+      (VP (VBP 're)
+        (VP (VBG taking)
+          (NP (DT a) (NN risk)))))
+    (. .)))
+

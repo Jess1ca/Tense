@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN stock) (NN split))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (ADJP (JJ subject)
+              (PP (TO to)
+                (NP (NN holder) (NN approval)))))))
+      (, ,))
+    (VP (MD would)
+      (VP (VB be)
+        (VP (VBN paid)
+          (PP (IN on)
+            (NP
+              (NP (DT a)
+                (ADJP (RB still) (JJ unspecified))
+                (NN date))
+              (PP (IN in)
+                (NP (NNP January)))))
+          (PP (TO to)
+            (NP
+              (NP (NNS holders))
+              (PP (IN of)
+                (NP (NN record)))))
+          (NP (NNP Dec.) (CD 21)))))
+    (. .)))
+

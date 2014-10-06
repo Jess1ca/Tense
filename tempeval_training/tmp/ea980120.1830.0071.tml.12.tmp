@@ -1,0 +1,11 @@
+(ROOT
+  (S (CC And)
+    (ADVP (RB so))
+    (, ,)
+    (NP (NNS people))
+    (VP (VBP are)
+      (ADJP (RB increasingly) (JJ enthusiastic)
+        (PP (IN by)
+          (NP (DT the) (NN day)))))
+    (: -)))
+

@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (NNP Kirschner) (NNP Medical))
+    (VP (VBD fell)
+      (NP
+        (QP (CD 4) (TO to) (CD 15))))
+    (. .)))
+

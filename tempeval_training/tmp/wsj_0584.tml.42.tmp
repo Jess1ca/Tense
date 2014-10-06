@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ national) (JJ over-the-counter) (NN trading)))
+    (, ,)
+    (NP (NNP LIN) (NNS shares))
+    (VP (VBD soared)
+      (NP ($ $) (CD 4.625))
+      (PP (TO to)
+        (ADJP (JJ closed)))
+      (PP (IN at)
+        (NP ($ $) (CD 112.625)))
+      (, ,)
+      (SBAR (IN while)
+        (S
+          (NP (NNP McCaw))
+          (VP (VBD fell)
+            (NP
+              (NP ($ $) (CD 2.50))
+              (NP (DT a) (NN share)))
+            (PP (TO to)
+              (NP ($ $) (CD 37.75)))))))
+    (. .)))
+

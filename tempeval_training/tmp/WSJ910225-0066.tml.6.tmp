@@ -1,0 +1,11 @@
+(ROOT
+  (S (`` ``)
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (DT the) (NNP Gorbachev) (NN plan))
+          (VP (VBD was)
+            (NP (DT a) (JJ good) (NN one))))))
+    (. .)))
+

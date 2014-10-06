@@ -1,0 +1,19 @@
+(ROOT
+  (SINV
+    (S
+      (NP (PRP He))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (NNP Jaguar))
+            (`` ``)
+            (VP (MD should) (RB n't)
+              (VP (VB be)
+                (VP (VBN smothered)
+                  (PP (IN by)
+                    (NP (NN anyone) (RB else))))))))))
+    (, ,) ('' '')
+    (VP (VBD recalled))
+    (NP (CD one) (NN participant))
+    (. .)))
+

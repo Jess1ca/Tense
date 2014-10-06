@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VP (VBP know))
+      (, ,)
+      (SBAR (IN since)
+        (S
+          (NP (PRP he))
+          (VP (VBZ 's)
+            (VP (VBN been)
+              (VP
+                (ADVP (RB here)
+                  (NP (DT the) (NN stock)))
+                (VBN skyrocketed)
+                (SBAR (IN so) (, ,)
+                  (S
+                    (INTJ (UH Yeah))
+                    (NP (PRP I))
+                    (VP (VBP think)
+                      (SBAR
+                        (S
+                          (NP (PRP he))
+                          (VP (VBZ 's)
+                            (VP (VBG doing)
+                              (NP (DT the) (JJ right) (NN thing)))))))))))))))
+    (. .)))
+

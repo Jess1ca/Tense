@@ -1,0 +1,21 @@
+1	Sales	_	NNS	NNS	_	2	nsubj	_	_
+2	increased	_	VBD	VBD	_	0	root	_	_
+3	in	_	IN	IN	_	2	prep	_	_
+4	the	_	DT	DT	_	5	det	_	_
+5	quarter	_	NN	NN	_	3	pobj	_	_
+6	ended	_	VBN	VBN	_	5	vmod	_	_
+7	Sept.	_	NNP	NNP	_	6	tmod	_	_
+8	30	_	CD	CD	_	7	num	_	_
+9	to	_	TO	TO	_	6	prep	_	_
+10	$	_	$	$	_	9	pobj	_	_
+11	747.8	_	CD	CD	_	12	number	_	_
+12	million	_	CD	CD	_	10	num	_	_
+13	from	_	IN	IN	_	6	prep	_	_
+14	$	_	$	$	_	13	pobj	_	_
+15	623.5	_	CD	CD	_	16	number	_	_
+16	million	_	CD	CD	_	14	num	_	_
+17	a	_	DT	DT	_	18	det	_	_
+18	year	_	NN	NN	_	13	tmod	_	_
+19	ago	_	IN	IN	_	18	amod	_	_
+20	.	_	.	.	_	2	punct	_	_
+

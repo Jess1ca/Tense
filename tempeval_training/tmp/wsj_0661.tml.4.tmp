@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP DPC) (NNP Acquisition))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD had)
+            (VP (VBN received)
+              (NP
+                (NP (DT the) (JJ reasonable) (NN assurance))
+                (PP (IN of)
+                  (NP (NNP Chase) (NNP Manhattan) (NNP Bank) (NNP N.A.))))
+              (SBAR (IN that)
+                (S
+                  (NP (DT the) (NN financing))
+                  (VP (MD can)
+                    (VP (VB be)
+                      (VP (VBN obtained)))))))))))
+    (. .)))
+

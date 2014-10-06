@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Ranariddh) (POS 's))
+        (NNS loyalists))
+      (, ,)
+      (PP (VBG including)
+        (NP
+          (NP (NNP Nhek) (NNP Bunchhay))
+          (, ,)
+          (NP (PRP$ his) (JJ top) (JJ military) (NN commander))))
+      (, ,))
+    (VP
+      (VP (VBD went)
+        (PP (IN into)
+          (NP (NN hiding))))
+      (CC or)
+      (VP (VBD fled)
+        (NP (DT the) (NN capital))))
+    (. .)))
+

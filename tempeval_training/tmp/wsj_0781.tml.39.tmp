@@ -1,0 +1,19 @@
+(ROOT
+  (S (CC But)
+    (SBAR (IN while)
+      (S
+        (NP
+          (NP
+            (NP (DT the) (NN chip) (POS 's))
+            (NN speed))
+          (PP (IN in)
+            (NP (NN processing) (NN power))))
+        (VP (VBZ is)
+          (ADJP (JJ dazzling)))))
+    (, ,)
+    (NP (PRP it) (POS 's) (JJ real) (NN strength))
+    (VP (VBZ lies)
+      (PP (IN in)
+        (NP (PRP$ its) (NN software) (NN inheritance))))
+    (. .)))
+

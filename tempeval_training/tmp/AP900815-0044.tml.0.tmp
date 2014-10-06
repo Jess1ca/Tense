@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Iraq) (POS 's))
+      (NNP Saddam) (NNP Hussein))
+    (, ,)
+    (S
+      (VP (VBG facing)
+        (NP (NNP U.S.)
+          (CC and)
+          (NNP Arab) (NNS troops))
+        (PP (IN at)
+          (NP (DT the) (JJ Saudi) (NN border)))))
+    (, ,)
+    (NP (NN today))
+    (VP (VBD sought)
+      (NP (NN peace))
+      (PP (IN on)
+        (NP (DT another) (NN front)))
+      (PP (IN by)
+        (S
+          (VP (VBG promising)
+            (S
+              (VP (TO to)
+                (VP (VB withdraw)
+                  (PP (IN from)
+                    (NP
+                      (NP (JJ Iranian) (NN territory)
+                        (CC and)
+                        (NN release) (NNS soldiers))
+                      (VP (VBN captured)
+                        (PP (IN during)
+                          (NP (DT the) (NNP Iran-Iraq) (NN war)))))))))))))
+    (. .)))
+

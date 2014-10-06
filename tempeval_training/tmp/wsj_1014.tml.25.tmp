@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (NP (DT Both) (NNP Coors)
+      (CC and)
+      (NNP Stroh))
+    (VP (VBP have)
+      (ADVP (RB recently))
+      (VP (VBN been)
+        (VP (VBG ceding)
+          (NP (NN market) (NN share))
+          (PP (TO to)
+            (NP (NNP Miller)
+              (CC and)
+              (NNP Anheuser))))))
+    (. .)))
+

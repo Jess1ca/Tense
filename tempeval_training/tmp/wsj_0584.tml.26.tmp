@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (S
+      (VP (TO To)
+        (VP (VB mollify)
+          (NP
+            (NP (NNS shareholders))
+            (VP (VBN concerned)
+              (PP (IN about)
+                (NP
+                  (NP (DT the) (JJ long-term) (NN value))
+                  (PP (IN of)
+                    (NP (DT the) (NN company)))))
+              (PP (IN under)
+                (NP (DT the) (JJ BellSouth-LIN) (NN agreement))))))))
+    (, ,)
+    (NP (NNP BellSouth))
+    (ADVP (RB also))
+    (VP (VBD agreed)
+      (S
+        (VP (TO to)
+          (VP (VB pay)
+            (NP
+              (NP
+                (NP
+                  (QP (RB as) (JJ much) (IN as) ($ $) (CD 10)))
+                (NP (DT a) (NN share)))
+              (, ,)
+              (CC or)
+              (NP
+                (QP ($ $) (CD 540) (CD million)))
+              (, ,))
+            (SBAR (IN if)
+              (S (, ,)
+                (PP (IN after)
+                  (NP (CD five) (NNS years)))
+                (, ,)
+                (NP
+                  (NP (DT the) (VBG trading) (NN value))
+                  (PP (IN of)
+                    (NP (DT the) (JJ new) (JJ cellular) (NN company))))
+                (VP (VBZ is) (RB n't)
+                  (ADJP (RB as) (JJ high)
+                    (PP (IN as)
+                      (NP (DT the) (NN value))))
+                  (SBAR (IN that)
+                    (S
+                      (NP (NNS shareholders))
+                      (VP (MD would)
+                        (VP (VB have)
+                          (VP (VBN realized)
+                            (PP (IN from)
+                              (NP (DT the) (NNP McCaw) (NN offer)))))))))))))))
+    (. .)))
+

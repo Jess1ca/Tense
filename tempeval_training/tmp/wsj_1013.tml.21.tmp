@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (NNP Columbia) (NNS officials))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP do) (RB n't)
+            (VP (VB know)
+              (SBAR
+                (WHADVP (WRB how) (RB quickly))
+                (S
+                  (NP (PRP they))
+                  (VP (MD will)
+                    (VP (VB dispose)
+                      (PP (IN of)
+                        (NP
+                          (NP (DT the) (NN thrift) (POS 's))
+                          (NN junk) (NNS bonds)))
+                      (, ,)
+                      (SBAR (IN because)
+                        (S
+                          (NP
+                            (NP (JJ federal) (NNS regulations))
+                            (, ,)
+                            (PP (JJ such) (IN as)
+                              (NP
+                                (NP (DT those))
+                                (SBAR
+                                  (WHNP (WDT that))
+                                  (S
+                                    (VP (MD would)
+                                      (VP (VB allow)
+                                        (S
+                                          (NP (NNS thrifts))
+                                          (VP (TO to)
+                                            (VP (VB continue)
+                                              (S
+                                                (VP (VBG holding)
+                                                  (NP (DT the) (NNS bonds))
+                                                  (PP (IN in)
+                                                    (NP
+                                                      (ADJP (RB separately) (JJ capitalized))
+                                                      (NNS subsidiaries))))))))))))))
+                            (, ,))
+                          (VP (VBP have) (RB n't)
+                            (ADVP (RB yet))
+                            (VP (VBN been)
+                              (VP (VBN completed)))))))))))))))
+    (. .)))
+

@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (NNP Paribas))
+    (VP (VBD said)
+      (NP (NNP Monday))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ intends)
+            (S
+              (VP (TO to)
+                (VP (VB bid)
+                  (S
+                    (VP (TO to)
+                      (VP (VB boost)
+                        (NP (PRP$ its) (NN stake))
+                        (PP (IN in)
+                          (NP
+                            (NP (NNP Navigation) (NNP Mixte))
+                            (PP (TO to)
+                              (NP (CD 66.7) (NN %)))))
+                        (, ,)
+                        (PP (IN from)
+                          (NP
+                            (NP (DT the) (CD 18.7) (NN %))
+                            (SBAR
+                              (S
+                                (NP (PRP it))
+                                (ADVP (RB already))
+                                (VP (VBZ owns))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,12 @@
+(ROOT
+  (S (CC But)
+    (NP (DT some) (NNS analysts))
+    (VP (VBP wonder)
+      (SBAR
+        (WHADJP (WRB how) (JJ strong))
+        (S
+          (NP (DT the) (NN recovery))
+          (VP (MD will)
+            (VP (VB be))))))
+    (. .)))
+

@@ -1,0 +1,16 @@
+1	There	_	EX	EX	_	2	expl	_	_
+2	were	_	VBD	VBD	_	0	root	_	_
+3	four	_	CD	CD	_	6	num	_	_
+4	or	_	CC	CC	_	3	cc	_	_
+5	five	_	CD	CD	_	3	conj	_	_
+6	people	_	NNS	NNS	_	2	nsubj	_	_
+7	inside	_	RB	RB	_	2	advmod	_	_
+8	,	_	,	,	_	2	punct	_	_
+9	and	_	CC	CC	_	2	cc	_	_
+10	they	_	PRP	PRP	_	12	nsubj	_	_
+11	just	_	RB	RB	_	12	advmod	_	_
+12	started	_	VBD	VBD	_	2	conj	_	_
+13	firing	_	NN	NN	_	12	dobj	_	_
+14	.	_	.	.	_	2	punct	_	_
+15	''	_	''	''	_	2	punct	_	_
+

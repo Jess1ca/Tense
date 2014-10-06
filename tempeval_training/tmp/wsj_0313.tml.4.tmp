@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (NN Revenue))
+    (VP (VBD gained)
+      (NP (CD 13) (NN %))
+      (PP (TO to)
+        (NP
+          (QP ($ $) (CD 77.3) (CD million))))
+      (PP (IN from)
+        (NP
+          (QP ($ $) (CD 68.5) (CD million)))))
+    (. .)))
+

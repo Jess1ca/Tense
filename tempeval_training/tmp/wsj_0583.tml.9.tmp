@@ -1,0 +1,16 @@
+(ROOT
+  (SINV (CC Nor)
+    (VBP do)
+    (NP (NNS analysts))
+    (VP (VB expect)
+      (S
+        (NP (DT the) (NNP Sansui) (NN deal))
+        (VP (TO to)
+          (VP (VB touch)
+            (PRT (RP off))
+            (NP
+              (NP (DT a) (JJ fresh) (NN wave))
+              (PP (IN of)
+                (NP (JJ foreign) (NNS purchases))))))))
+    (. .)))
+

@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (JJ Last) (NN year))
+    (, ,)
+    (NP (JJ Russian) (NNS officials))
+    (VP (VBD assailed)
+      (NP
+        (NP (NNP Ukraine))
+        (PP (IN for)
+          (S
+            (VP (VBG holding)
+              (NP
+                (NP (JJ joint) (JJ naval) (NNS exercises))
+                (PP (IN with)
+                  (NP
+                    (NP (NNP NATO))
+                    (PP (IN in)
+                      (NP (DT the) (NNP Black) (NNP Sea) (NNP _))))))
+              (NP
+                (NP (DT an) (NN area))
+                (SBAR
+                  (S
+                    (NP (NNP Moscow))
+                    (VP (VBZ considers)
+                      (NP (PRP$ its) (JJ own) (NN turf)))))))))))
+    (. .)))
+

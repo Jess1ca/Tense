@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (ADVP (RB Likewise))
+    (, ,)
+    (NP
+      (NP (NNP AST) (NNP Research) (NNP Inc.))
+      (CC and)
+      (NP (NNP Sun) (NNPS Microsystems) (NNP Inc.)))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNS bugs))
+          (VP (MD wo) (RB n't)
+            (VP (VB delay)
+              (NP
+                (NP (PRP$ their) (NN development))
+                (PP (IN of)
+                  (NP (JJ 486-based) (NNS machines)))))))))
+    (. .)))
+

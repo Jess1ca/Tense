@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP
+          (NP (DT some) (JJ Latin) (JJ American) (NNS countries))
+          (PP (JJ such) (IN as)
+            (NP (NNP Mexico)
+              (CC and)
+              (NNP Colombia))))
+        (VP (VBP have)
+          (VP (VBN suffered)
+            (PP (IN from)
+              (NP
+                (NP (DT a) (NN rash))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS kidnappings))
+                    (PP (IN in)
+                      (NP (JJ recent) (NNS years)))))))))))
+    (, ,)
+    (NP (DT the) (NN crime))
+    (VP (VBZ has) (RB not)
+      (VP (VBN been)
+        (ADJP (JJ common))
+        (PP (IN in)
+          (NP (DT this) (NNP U.S.) (NN commonwealth)))))
+    (. .)))
+

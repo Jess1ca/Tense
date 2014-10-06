@@ -1,0 +1,22 @@
+1	``	_	``	``	_	19	punct	_	_
+2	RJR	_	NNP	NNP	_	3	nn	_	_
+3	Nabisco	_	NNP	NNP	_	8	nsubj	_	_
+4	and	_	CC	CC	_	3	cc	_	_
+5	Planters	_	NNP	NNP	_	6	nn	_	_
+6	LifeSavers	_	NNPS	NNPS	_	3	conj	_	_
+7	will	_	MD	MD	_	8	aux	_	_
+8	concentrate	_	VB	VB	_	19	ccomp	_	_
+9	more	_	JJR	JJR	_	8	dobj	_	_
+10	on	_	IN	IN	_	8	prep	_	_
+11	our	_	PRP$	PRP$	_	14	poss	_	_
+12	own	_	JJ	JJ	_	14	amod	_	_
+13	core	_	NN	NN	_	14	nn	_	_
+14	businesses	_	NNS	NNS	_	10	pobj	_	_
+15	,	_	,	,	_	19	punct	_	_
+16	''	_	''	''	_	19	punct	_	_
+17	Mr.	_	NNP	NNP	_	18	nn	_	_
+18	Gerstner	_	NNP	NNP	_	19	nsubj	_	_
+19	said	_	VBD	VBD	_	0	root	_	_
+20	Friday	_	NNP	NNP	_	19	tmod	_	_
+21	.	_	.	.	_	19	punct	_	_
+

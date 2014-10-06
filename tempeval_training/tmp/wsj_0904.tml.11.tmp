@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading)))
+    (NP (NN yesterday))
+    (, ,)
+    (NP (NNP Compaq) (NNS shares))
+    (VP (VBD fell)
+      (NP ($ $) (CD 1.625))
+      (PP (TO to)
+        (NP ($ $) (CD 108.625))))
+    (. .)))
+

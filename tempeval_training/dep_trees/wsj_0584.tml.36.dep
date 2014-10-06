@@ -1,0 +1,25 @@
+1	BellSouth	_	NNP	NNP	_	4	poss	_	_
+2	's	_	POS	POS	_	1	possessive	_	_
+3	revised	_	VBN	VBN	_	4	amod	_	_
+4	proposal	_	NN	NN	_	5	nsubj	_	_
+5	surprised	_	VBD	VBD	_	0	root	_	_
+6	many	_	JJ	JJ	_	8	amod	_	_
+7	industry	_	NN	NN	_	8	nn	_	_
+8	analysts	_	NNS	NNS	_	5	dobj	_	_
+9	,	_	,	,	_	5	punct	_	_
+10	especially	_	RB	RB	_	12	advmod	_	_
+11	because	_	IN	IN	_	12	mwe	_	_
+12	of	_	IN	IN	_	5	prep	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	company	_	NN	NN	_	16	poss	_	_
+15	's	_	POS	POS	_	14	possessive	_	_
+16	willingness	_	NN	NN	_	12	pobj	_	_
+17	to	_	TO	TO	_	18	aux	_	_
+18	accept	_	VB	VB	_	16	vmod	_	_
+19	some	_	DT	DT	_	20	det	_	_
+20	dilution	_	NN	NN	_	18	dobj	_	_
+21	of	_	IN	IN	_	20	prep	_	_
+22	future	_	JJ	JJ	_	23	amod	_	_
+23	earnings	_	NNS	NNS	_	21	pobj	_	_
+24	.	_	.	.	_	5	punct	_	_
+

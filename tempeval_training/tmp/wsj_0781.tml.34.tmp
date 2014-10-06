@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Intel) (POS 's))
+      (CD 80486) (NN chip))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NNP Corvette))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP (NNP Intel) (POS 's))
+              (NNS microprocessors))
+            (, ,)
+            (NP (DT a)
+              (ADJP (JJ super-fast) (, ,) (JJ super-expensive))
+              (NN chip)))))
+      (SBAR (IN that)
+        (S
+          (NP (RB only) (DT the)
+            (ADJP (RBS most) (JJ power-hungry))
+            (NN computer) (NNS users))
+          (VP (VBP are)
+            (ADJP (JJ likely)
+              (S
+                (VP (TO to)
+                  (VP (VB buy)
+                    (PP (IN for)
+                      (NP
+                        (QP (IN at) (JJS least) (JJ several))
+                        (NNS years)))))))))))
+    (. .)))
+

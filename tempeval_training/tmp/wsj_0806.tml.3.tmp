@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ expects)
+            (S
+              (VP (TO to)
+                (VP (VB use)
+                  (S
+                    (NP (DT the) (NNS proceeds))
+                    (VP (TO to)
+                      (VP (VB repay)
+                        (NP (JJ certain)
+                          (NX
+                            (NX (NN bank) (NN debt))
+                            (CC and)))
+                        (PP (IN for)
+                          (NP (JJ general) (JJ corporate) (NNS purposes)))
+                        (, ,)
+                        (PP (VBG including)
+                          (S
+                            (VP (VBG establishing)
+                              (NP (JJ new)
+                                (NX
+                                  (NX (NN operating) (NNS centers))
+                                  (CC and)
+                                  (NX (JJ possible) (NNS acquisitions)))))))))))))))))
+    (. .)))
+

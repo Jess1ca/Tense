@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (NNP Telerate) (NNS shares))
+    (VP (VBD fell)
+      (NP (CD 50) (NNS cents))
+      (PP (IN on)
+        (NP (NNP Friday)))
+      (S
+        (VP (TO to)
+          (VP (VB close)
+            (PP (IN at)
+              (NP
+                (NP ($ $) (CD 20))
+                (NP (DT each))))
+            (PP (IN in)
+              (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) (JJ composite) (NN trading)))))))
+    (. .)))
+

@@ -1,0 +1,13 @@
+(ROOT
+  (S (`` ``)
+    (NP (DT These) (NNS guys))
+    (ADVP (RB simply))
+    (VP (VBP do) (RB n't)
+      (VP (VB retire)
+        (PP (TO to)
+          (NP
+            (NP (NNS condos))
+            (PP (IN over)
+              (NP (DT the) (NNP Euphrates)))))))
+    (. .) ('' '')))
+

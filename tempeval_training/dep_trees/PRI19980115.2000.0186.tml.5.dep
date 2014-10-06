@@ -1,0 +1,14 @@
+1	Keating	_	NNP	NNP	_	3	poss	_	_
+2	's	_	POS	POS	_	1	possessive	_	_
+3	convictions	_	NNS	NNS	_	5	nsubjpass	_	_
+4	were	_	VBD	VBD	_	5	auxpass	_	_
+5	thrown	_	VBN	VBN	_	0	root	_	_
+6	out	_	RP	RP	_	5	prt	_	_
+7	in	_	IN	IN	_	5	prep	_	_
+8	nineteen	_	NN	NN	_	9	nn	_	_
+9	ninety-six	_	NNS	NNS	_	7	pobj	_	_
+10	on	_	IN	IN	_	5	prep	_	_
+11	a	_	DT	DT	_	12	det	_	_
+12	technicality	_	NN	NN	_	10	pobj	_	_
+13	.	_	.	.	_	5	punct	_	_
+

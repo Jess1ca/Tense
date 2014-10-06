@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP Sony))
+    (VP
+      (VP (VBZ is)
+        (VP (VBG paying)
+          (NP
+            (NP
+              (NP ($ $) (CD 27))
+              (NP (DT a) (NN share)))
+            (, ,)
+            (CC or)
+            (NP
+              (QP ($ $) (CD 3.55) (CD billion)))
+            (, ,))
+          (NP (NN cash))))
+      (CC and)
+      (VP (VBZ is)
+        (VP (VBG assuming)
+          (NP
+            (NP
+              (QP ($ $) (CD 1.4) (CD billion)))
+            (PP (IN of)
+              (NP (JJ long-term) (NN debt)))))))
+    (. .)))
+

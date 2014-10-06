@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Joseph) (NNP Hardiman))
+      (, ,)
+      (NP
+        (NP (NN president))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNP National) (NNP Association))
+            (PP (IN of)
+              (NP
+                (NP (NNPS Securities) (NNPS Dealers))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBZ oversees)
+                      (NP
+                        (NP (NN trading))
+                        (PP (IN on)
+                          (NP (NNP Nasdaq))))))))))))
+      (, ,))
+    (VP (VBZ agrees)
+      (SBAR (IN that)
+        (S
+          (NP (NN program) (NN trading))
+          (VP (VBZ is)
+            (VP (VBG hurting)
+              (NP
+                (NP (DT the) (NN market) (POS 's))
+                (NNS efforts)
+                (S
+                  (VP (TO to)
+                    (VP (VB bring)
+                      (PRT (RP back))
+                      (NP (JJ small) (NNS investors)))))))))))
+    (. .)))
+

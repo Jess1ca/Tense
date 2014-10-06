@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT The) (NN action))
+    (VP (VBD followed)
+      (PP (IN by)
+        (NP (CD one) (NN day)))
+      (NP
+        (NP (DT an) (NNP Intelogic) (NN announcement))
+        (SBAR (IN that)
+          (S
+            (NP (PRP it))
+            (VP (MD will)
+              (VP (VB retain)
+                (NP (DT an) (NN investment) (NN banker))
+                (S
+                  (VP (TO to)
+                    (VP (VB explore)
+                      (NP (NNS alternatives))
+                      (S (`` ``)
+                        (VP (TO to)
+                          (VP (VB maximize)
+                            (NP (NN shareholder) (NN value))))
+                        (, ,) ('' ''))))))))))
+      (PP (VBG including)
+        (NP
+          (NP (DT the) (JJ possible) (NN sale))
+          (PP (IN of)
+            (NP (DT the) (NN company))))))
+    (. .)))
+

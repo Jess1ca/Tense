@@ -1,0 +1,10 @@
+(ROOT
+  (NP
+    (NP (NNP Caroline) (NNP Wyatt))
+    (, ,)
+    (NP
+      (NP (JJ BBC) (NN news))
+      (, ,)
+      (NP (NNP Bonn)))
+    (. .)))
+

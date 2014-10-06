@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (JJ Such) (NN selling))
+    (VP (MD could)
+      (VP (VB erode)
+        (NP
+          (NP (NNS prices))
+          (PP (IN of)
+            (NP
+              (NP (JJ high-yield) (NN junk) (NNS bonds))
+              (, ,)
+              (VP
+                (ADVP (RB already))
+                (VBN weakened)
+                (PP (IN by)
+                  (NP
+                    (NP (DT a) (NN rash))
+                    (PP (IN of)
+                      (NP (JJ corporate) (NN credit) (NNS problems)))))))))))
+    (. .)))
+

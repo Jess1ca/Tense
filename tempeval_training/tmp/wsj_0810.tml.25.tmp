@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (ADVP (RB Alternatively))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB offer)
+            (NP (CD three) (NNP Paribas) (NNS shares))
+            (PP (IN for)
+              (NP (CD one) (NNP Navigation) (NNP Mixte) (NN share)))))))
+    (. .)))
+

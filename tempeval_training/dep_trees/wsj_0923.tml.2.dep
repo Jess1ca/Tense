@@ -1,0 +1,21 @@
+1	The	_	DT	DT	_	2	det	_	_
+2	transaction	_	NN	NN	_	5	nsubjpass	_	_
+3	has	_	VBZ	VBZ	_	5	aux	_	_
+4	been	_	VBN	VBN	_	5	auxpass	_	_
+5	approved	_	VBN	VBN	_	0	root	_	_
+6	by	_	IN	IN	_	5	prep	_	_
+7	Kyle	_	NNP	NNP	_	9	poss	_	_
+8	's	_	POS	POS	_	7	possessive	_	_
+9	board	_	NN	NN	_	6	pobj	_	_
+10	,	_	,	,	_	5	punct	_	_
+11	but	_	CC	CC	_	5	cc	_	_
+12	requires	_	VBZ	VBZ	_	5	conj	_	_
+13	the	_	DT	DT	_	14	det	_	_
+14	approval	_	NN	NN	_	12	dobj	_	_
+15	of	_	IN	IN	_	14	prep	_	_
+16	the	_	DT	DT	_	17	det	_	_
+17	company	_	NN	NN	_	19	poss	_	_
+18	's	_	POS	POS	_	17	possessive	_	_
+19	shareholders	_	NNS	NNS	_	15	pobj	_	_
+20	.	_	.	.	_	5	punct	_	_
+

@@ -1,0 +1,20 @@
+1	A	_	DT	DT	_	2	det	_	_
+2	year	_	NN	NN	_	3	npadvmod	_	_
+3	earlier	_	RBR	RBR	_	5	advmod	_	_
+4	UniFirst	_	NNP	NNP	_	5	nsubj	_	_
+5	earned	_	VBD	VBD	_	0	root	_	_
+6	$	_	$	$	_	5	dobj	_	_
+7	2.4	_	CD	CD	_	8	number	_	_
+8	million	_	CD	CD	_	6	num	_	_
+9	,	_	,	,	_	6	punct	_	_
+10	or	_	CC	CC	_	6	cc	_	_
+11	24	_	CD	CD	_	12	num	_	_
+12	cents	_	NNS	NNS	_	6	conj	_	_
+13	a	_	DT	DT	_	14	det	_	_
+14	share	_	NN	NN	_	12	dep	_	_
+15	adjusted	_	VBN	VBN	_	6	vmod	_	_
+16	for	_	IN	IN	_	15	prep	_	_
+17	the	_	DT	DT	_	18	det	_	_
+18	split	_	NN	NN	_	16	pobj	_	_
+19	.	_	.	.	_	5	punct	_	_
+

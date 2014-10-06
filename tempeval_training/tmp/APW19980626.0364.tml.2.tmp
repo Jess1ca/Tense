@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (JJ German) (NN law))
+    (VP (VBZ requires)
+      (S
+        (NP (NNS parties))
+        (VP (TO to)
+          (VP (VB publish)
+            (NP
+              (NP (DT the) (NN name)
+                (CC and)
+                (NN address))
+              (PP (IN of)
+                (NP (NN anyone)))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBZ donates)
+                    (NP
+                      (NP
+                        (QP (JJR more) (IN than) (CD 20,000))
+                        (NNS marks))
+                      (PRN (-LRB- -LRB-)
+                        (NP (NN dlrs) (CD 11,000))
+                        (-RRB- -RRB-)))))))))))
+    (. .)))
+

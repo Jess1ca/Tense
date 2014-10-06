@@ -1,0 +1,12 @@
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT These) (NNS errata))
+      (VP (VBP do) (RB not)
+        (VP (VB affect)
+          (NP (NN business) (NNS programs)))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+

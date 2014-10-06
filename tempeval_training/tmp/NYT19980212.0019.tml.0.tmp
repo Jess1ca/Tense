@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (NNP NEW) (NNP YORK))
+    (VP (VBZ _)
+      (NP
+        (NP (DT A) (NNP Brooklyn) (NN woman))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD was)
+              (VP (VBG watching)
+                (NP
+                  (NP (PRP$ her) (NNS clothes))
+                  (ADJP (JJ dry)
+                    (PP (IN in)
+                      (NP (DT a) (NN laundromat))))
+                  (SBAR
+                    (S
+                      (VP (VBD was)
+                        (VP (VBN killed)
+                          (NP (NNP Thursday)))))))
+                (NP (NN evening))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP
+                      (NP (CD two) (JJ would-be) (NNS robbers))
+                      (VP (VBN emptied)
+                        (NP (PRP$ their) (NNS pistols))
+                        (PP (IN into)
+                          (NP
+                            (NP (DT the) (NN store))
+                            (, ,)
+                            (NP (DT the) (NN police))))))
+                    (VP (VBD said))))))))))
+    (. .)))
+

@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (NNP BLOCKBUSTER) (NNP ENTERTAINMENT) (NNP CORP.))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD raised)
+            (NP
+              (QP ($ $) (CD 92) (CD million)))
+            (PP (IN from)
+              (NP
+                (NP (DT an) (NN offering))
+                (PP (IN of)
+                  (NP (JJ liquid) (NN yield) (NN option) (NNS notes)))))))))
+    (. .)))
+

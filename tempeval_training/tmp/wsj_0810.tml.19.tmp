@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Mr.) (NNP Fournier))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP
+              (NP (DT the) (JJ large) (NNS institutions))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBP hold)
+                    (NP
+                      (NP
+                        (QP (RB nearly) (CD 50))
+                        (NN %))
+                      (PP (IN of)
+                        (NP
+                          (NP (NNP Navigation) (NNP Mixte) (POS 's))
+                          (NN capital))))))))
+            (RB all)
+            (ADVP (RB strongly))
+            (VP (VB support)
+              (NP (PRP him)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (DT some) (NNS analysts))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VBP are) (RB n't)
+              (ADJP (RB so) (JJ sure)))))))
+    (. .)))
+

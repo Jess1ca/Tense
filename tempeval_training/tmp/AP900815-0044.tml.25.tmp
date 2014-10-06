@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (ADVP (RB _))
+    (NP (DT The) (NNP British) (NNP Foreign) (NNP Office))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NN today) (NNS conditions))
+            (PP (IN in)
+              (NP (NNP Kuwait))))
+          (VP (VBP appear)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (ADJP (VBG deteriorating)))))))))
+    (. .)))
+

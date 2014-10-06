@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT That) (NN decline))
+    (VP (VBD was)
+      (VP (VBN reflected)
+        (PP (IN in)
+          (NP (NN revenue)))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NNP GM) (NNP Hughes) (NN unit))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD edged)
+                  (PRT (RP down))
+                  (PP (TO to)
+                    (NP
+                      (QP ($ $) (CD 2.58) (CD billion))))
+                  (PP (IN from)
+                    (NP
+                      (QP ($ $) (CD 2.63) (CD billion)))))))))))
+    (. .)))
+

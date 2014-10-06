@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Mr.) (NNP Roberts))
+      (VP (VBZ continues)
+        (PP (IN as)
+          (NP (NN treasurer)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNP Mr.) (NNP Wonham))
+      (VP (VBZ remains)
+        (ADJP (JJ responsible)
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NNS offices))
+              (PP (IN of)
+                (NP (NN comptroller) (, ,) (NN planning) (, ,) (NN marketing)
+                  (CC and)
+                  (NN general) (NNS services))))))))
+    (. .)))
+

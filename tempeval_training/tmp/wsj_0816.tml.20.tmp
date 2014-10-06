@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Treasury) (POS 's))
+      (NN benchmark) (JJ 30-year))
+    (VP (VBD rose)
+      (ADVP (RB fractionally)))
+    (. .)))
+

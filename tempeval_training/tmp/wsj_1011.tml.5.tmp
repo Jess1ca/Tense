@@ -1,0 +1,22 @@
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP
+        (NP (DT The) (NN key))
+        (PP (TO to)
+          (NP
+            (NP (NNP Delta) (POS 's))
+            (NN record) (NNS earnings))))
+      (VP (VBD continued)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP (JJ excellent) (NN passenger) (NN revenue) (NN growth)))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Thomas) (NNP Roeck))
+      (, ,)
+      (NP (JJ chief) (JJ financial) (NN officer)))
+    (. .)))
+

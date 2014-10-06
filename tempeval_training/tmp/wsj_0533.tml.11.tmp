@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (ADVP (RB Separately))
+    (, ,)
+    (NP (DT the) (NNP Ontario) (NNP Supreme) (NNP Court))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB postpone)
+              (ADVP (RB indefinitely))
+              (NP
+                (NP (DT a) (NN ruling))
+                (PP (IN on)
+                  (NP
+                    (NP (DT the) (NN lawsuit))
+                    (VP (VBN launched)
+                      (PP (IN by)
+                        (NP
+                          (NP (DT the) (NNP University))
+                          (PP (IN of)
+                            (NP (NNP Toronto)))))
+                      (PP (IN against)
+                        (NP
+                          (NP (NNP Connaught))
+                          (PP (IN in)
+                            (NP (NN connection)))))
+                      (PP (IN with)
+                        (NP (DT the) (NNP Merieux) (NN bid))))))))))))
+    (. .)))
+
